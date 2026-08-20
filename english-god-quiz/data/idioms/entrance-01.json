@@ -1,0 +1,292 @@
+[
+  {
+    "id": "i-entrance-001",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "distinguish A from B",
+    "meaning": "AとBを区別する",
+    "question": "distinguish A from B",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "AとBを区別する",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "AとBを区別する",
+    "explanation": "distinguish A from B = AとBを区別する。熟語は文中でまとまりとして処理しましょう。"
+  },
+  {
+    "id": "i-entrance-002",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "make up for",
+    "meaning": "～を埋め合わせる",
+    "question": "make up for",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を埋め合わせる",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～を埋め合わせる",
+    "explanation": "make up for = ～を埋め合わせる。熟語は文中でまとまりとして処理しましょう。"
+  },
+  {
+    "id": "i-entrance-003",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "put up with",
+    "meaning": "～を我慢する",
+    "question": "put up with",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を我慢する",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～を我慢する",
+    "explanation": "put up with = ～を我慢する。熟語は文中でまとまりとして処理しましょう。"
+  },
+  {
+    "id": "i-entrance-004",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "be subject to",
+    "meaning": "～を受けやすい・～に従う",
+    "question": "be subject to",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を受けやすい・～に従う",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～を受けやすい・～に従う",
+    "explanation": "be subject to = ～を受けやすい・～に従う。熟語は文中でまとまりとして処理しましょう。"
+  },
+  {
+    "id": "i-entrance-005",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "in terms of",
+    "meaning": "～の観点では・～に関して",
+    "question": "in terms of",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～の観点では・～に関して",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～の観点では・～に関して",
+    "explanation": "in terms of = ～の観点では・～に関して。熟語は文中でまとまりとして処理しましょう。"
+  },
+  {
+    "id": "i-entrance-006",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "with regard to",
+    "meaning": "～に関して",
+    "question": "with regard to",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～に関して",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～に関して",
+    "explanation": "with regard to = ～に関して。熟語は文中でまとまりとして処理しましょう。"
+  },
+  {
+    "id": "i-entrance-007",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "in contrast to",
+    "meaning": "～と対照的に",
+    "question": "in contrast to",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～と対照的に",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～と対照的に",
+    "explanation": "in contrast to = ～と対照的に。熟語は文中でまとまりとして処理しましょう。"
+  },
+  {
+    "id": "i-entrance-008",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "as a result of",
+    "meaning": "～の結果として",
+    "question": "as a result of",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～の結果として",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～の結果として",
+    "explanation": "as a result of = ～の結果として。熟語は文中でまとまりとして処理しましょう。"
+  },
+  {
+    "id": "i-entrance-009",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "in accordance with",
+    "meaning": "～に従って",
+    "question": "in accordance with",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～に従って",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～に従って",
+    "explanation": "in accordance with = ～に従って。熟語は文中でまとまりとして処理しましょう。"
+  },
+  {
+    "id": "i-entrance-010",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "on behalf of",
+    "meaning": "～を代表して",
+    "question": "on behalf of",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を代表して",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～を代表して",
+    "explanation": "on behalf of = ～を代表して。熟語は文中でまとまりとして処理しましょう。"
+  }
+]
