@@ -1,23 +1,17 @@
 # 総合英語 神問題
 
-Cloudflare Pages / 静的ホスティング向けの HTML + CSS + JavaScript + JSON 構成です。
+Cloudflare Workers Static Assets で配信する静的英語学習アプリです。
 
 ## 構成
+- `public/`：Cloudflare に配信するファイルだけを格納
+- `public/index.html`：画面
+- `public/styles.css`：スタイル
+- `public/app.js`：アプリ本体
+- `public/data/`：問題データ(JSON)
+- `wrangler.jsonc`：Cloudflare Workers の静的アセット設定
 
-- `index.html` : 画面本体
-- `styles.css` : UI
-- `app.js` : 出題・検索・進捗管理（localStorage）
-- `data/vocab/` : 単語データ（レベル別・分割JSON）
-- `data/idioms/` : 熟語データ
-- `data/grammar/` : 文法データ
+## Cloudflare
+Git 連携でデプロイする場合のデプロイコマンドは `npx wrangler deploy` のままでOKです。
+`wrangler.jsonc` が `public/` を静的アセットの配信元として指定します。
 
-読み取り専用の静的サイトなので、Cloudflare Pages では追加のビルド設定なしで配信できます。
-
-## データ追加ルール
-
-1. 同じJSON形式でファイルを分割する
-2. `app.js` の `files` にパスを追加する
-3. 各問題に `type` と `id` を付ける
-4. `question / choices / answer / explanation` を必須とする
-
-データは一括で1ファイルにまとめず、レベル・分野・連番で分割して管理してください。
+重要：リポジトリ直下にある `.git/` は GitHub/GitLab 側の管理情報なので、Cloudflare の静的アセット用ディレクトリには含めません。
