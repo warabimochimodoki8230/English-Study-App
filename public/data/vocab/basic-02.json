@@ -1,0 +1,1742 @@
+[
+  {
+    "id": "v-basic-101",
+    "type": "vocab",
+    "level": "basic",
+    "word": "accept",
+    "meaning": "受け入れる",
+    "question": "accept",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "可能な",
+        "correct": false
+      },
+      {
+        "text": "受け入れる",
+        "correct": true
+      },
+      {
+        "text": "集める",
+        "correct": false
+      },
+      {
+        "text": "考慮する",
+        "correct": false
+      }
+    ],
+    "answer": "受け入れる",
+    "explanation": "accept = 受け入れる。例：accept the offer"
+  },
+  {
+    "id": "v-basic-102",
+    "type": "vocab",
+    "level": "basic",
+    "word": "add",
+    "meaning": "加える",
+    "question": "add",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "比較する",
+        "correct": false
+      },
+      {
+        "text": "加える",
+        "correct": true
+      },
+      {
+        "text": "到着する・届く",
+        "correct": false
+      },
+      {
+        "text": "作り出す",
+        "correct": false
+      }
+    ],
+    "answer": "加える",
+    "explanation": "add = 加える。例：add some water"
+  },
+  {
+    "id": "v-basic-103",
+    "type": "vocab",
+    "level": "basic",
+    "word": "agree",
+    "meaning": "賛成する・同意する",
+    "question": "agree",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "滞在する・ままでいる",
+        "correct": false
+      },
+      {
+        "text": "公共の・公の",
+        "correct": false
+      },
+      {
+        "text": "従う・ついていく",
+        "correct": false
+      },
+      {
+        "text": "賛成する・同意する",
+        "correct": true
+      }
+    ],
+    "answer": "賛成する・同意する",
+    "explanation": "agree = 賛成する・同意する。例：agree with the idea"
+  },
+  {
+    "id": "v-basic-104",
+    "type": "vocab",
+    "level": "basic",
+    "word": "answer",
+    "meaning": "答える・答え",
+    "question": "answer",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "必要とする",
+        "correct": false
+      },
+      {
+        "text": "考慮する",
+        "correct": false
+      },
+      {
+        "text": "答える・答え",
+        "correct": true
+      },
+      {
+        "text": "参加する・加わる",
+        "correct": false
+      }
+    ],
+    "answer": "答える・答え",
+    "explanation": "answer = 答える・答え。例：answer the question"
+  },
+  {
+    "id": "v-basic-105",
+    "type": "vocab",
+    "level": "basic",
+    "word": "arrive",
+    "meaning": "到着する",
+    "question": "arrive",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "起こる",
+        "correct": false
+      },
+      {
+        "text": "答える・答え",
+        "correct": false
+      },
+      {
+        "text": "到着する",
+        "correct": true
+      },
+      {
+        "text": "建てる・築く",
+        "correct": false
+      }
+    ],
+    "answer": "到着する",
+    "explanation": "arrive = 到着する。例：arrive at the station"
+  },
+  {
+    "id": "v-basic-106",
+    "type": "vocab",
+    "level": "basic",
+    "word": "build",
+    "meaning": "建てる・築く",
+    "question": "build",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "建てる・築く",
+        "correct": true
+      },
+      {
+        "text": "選ぶ",
+        "correct": false
+      },
+      {
+        "text": "公共の・公の",
+        "correct": false
+      },
+      {
+        "text": "申し出る・提供する",
+        "correct": false
+      }
+    ],
+    "answer": "建てる・築く",
+    "explanation": "build = 建てる・築く。例：build a house"
+  },
+  {
+    "id": "v-basic-107",
+    "type": "vocab",
+    "level": "basic",
+    "word": "carry",
+    "meaning": "運ぶ",
+    "question": "carry",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "運ぶ",
+        "correct": true
+      },
+      {
+        "text": "建てる・築く",
+        "correct": false
+      },
+      {
+        "text": "起こる",
+        "correct": false
+      },
+      {
+        "text": "学ぶ・知る",
+        "correct": false
+      }
+    ],
+    "answer": "運ぶ",
+    "explanation": "carry = 運ぶ。例：carry a bag"
+  },
+  {
+    "id": "v-basic-108",
+    "type": "vocab",
+    "level": "basic",
+    "word": "change",
+    "meaning": "変える・変化する",
+    "question": "change",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "公共の・公の",
+        "correct": false
+      },
+      {
+        "text": "変える・変化する",
+        "correct": true
+      },
+      {
+        "text": "理解する",
+        "correct": false
+      },
+      {
+        "text": "賛成する・同意する",
+        "correct": false
+      }
+    ],
+    "answer": "変える・変化する",
+    "explanation": "change = 変える・変化する。例：change the plan"
+  },
+  {
+    "id": "v-basic-109",
+    "type": "vocab",
+    "level": "basic",
+    "word": "choose",
+    "meaning": "選ぶ",
+    "question": "choose",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "滞在する・ままでいる",
+        "correct": false
+      },
+      {
+        "text": "必要な",
+        "correct": false
+      },
+      {
+        "text": "選ぶ",
+        "correct": true
+      },
+      {
+        "text": "答える・答え",
+        "correct": false
+      }
+    ],
+    "answer": "選ぶ",
+    "explanation": "choose = 選ぶ。例：choose one"
+  },
+  {
+    "id": "v-basic-110",
+    "type": "vocab",
+    "level": "basic",
+    "word": "collect",
+    "meaning": "集める",
+    "question": "collect",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "個人的な・私的な",
+        "correct": false
+      },
+      {
+        "text": "集める",
+        "correct": true
+      },
+      {
+        "text": "理解する",
+        "correct": false
+      },
+      {
+        "text": "旅行する",
+        "correct": false
+      }
+    ],
+    "answer": "集める",
+    "explanation": "collect = 集める。例：collect information"
+  },
+  {
+    "id": "v-basic-111",
+    "type": "vocab",
+    "level": "basic",
+    "word": "compare",
+    "meaning": "比較する",
+    "question": "compare",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "意味する・意図する",
+        "correct": false
+      },
+      {
+        "text": "入る・入力する",
+        "correct": false
+      },
+      {
+        "text": "最近の",
+        "correct": false
+      },
+      {
+        "text": "比較する",
+        "correct": true
+      }
+    ],
+    "answer": "比較する",
+    "explanation": "compare = 比較する。例：compare two results"
+  },
+  {
+    "id": "v-basic-112",
+    "type": "vocab",
+    "level": "basic",
+    "word": "consider",
+    "meaning": "考慮する",
+    "question": "consider",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "賛成する・同意する",
+        "correct": false
+      },
+      {
+        "text": "考慮する",
+        "correct": true
+      },
+      {
+        "text": "起こる",
+        "correct": false
+      },
+      {
+        "text": "従う・ついていく",
+        "correct": false
+      }
+    ],
+    "answer": "考慮する",
+    "explanation": "consider = 考慮する。例：consider the cost"
+  },
+  {
+    "id": "v-basic-113",
+    "type": "vocab",
+    "level": "basic",
+    "word": "create",
+    "meaning": "作り出す",
+    "question": "create",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "作り出す",
+        "correct": true
+      },
+      {
+        "text": "重要な",
+        "correct": false
+      },
+      {
+        "text": "戻る・返す",
+        "correct": false
+      },
+      {
+        "text": "異なる",
+        "correct": false
+      }
+    ],
+    "answer": "作り出す",
+    "explanation": "create = 作り出す。例：create a new system"
+  },
+  {
+    "id": "v-basic-114",
+    "type": "vocab",
+    "level": "basic",
+    "word": "enter",
+    "meaning": "入る・入力する",
+    "question": "enter",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "入る・入力する",
+        "correct": true
+      },
+      {
+        "text": "変える・変化する",
+        "correct": false
+      },
+      {
+        "text": "参加する・加わる",
+        "correct": false
+      },
+      {
+        "text": "考慮する",
+        "correct": false
+      }
+    ],
+    "answer": "入る・入力する",
+    "explanation": "enter = 入る・入力する。例：enter the room"
+  },
+  {
+    "id": "v-basic-115",
+    "type": "vocab",
+    "level": "basic",
+    "word": "explain",
+    "meaning": "説明する",
+    "question": "explain",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "去る・残す",
+        "correct": false
+      },
+      {
+        "text": "運ぶ",
+        "correct": false
+      },
+      {
+        "text": "注文する・順序",
+        "correct": false
+      },
+      {
+        "text": "説明する",
+        "correct": true
+      }
+    ],
+    "answer": "説明する",
+    "explanation": "explain = 説明する。例：explain the reason"
+  },
+  {
+    "id": "v-basic-116",
+    "type": "vocab",
+    "level": "basic",
+    "word": "follow",
+    "meaning": "従う・ついていく",
+    "question": "follow",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "準備する",
+        "correct": false
+      },
+      {
+        "text": "重要な",
+        "correct": false
+      },
+      {
+        "text": "地元の",
+        "correct": false
+      },
+      {
+        "text": "従う・ついていく",
+        "correct": true
+      }
+    ],
+    "answer": "従う・ついていく",
+    "explanation": "follow = 従う・ついていく。例：follow the rules"
+  },
+  {
+    "id": "v-basic-117",
+    "type": "vocab",
+    "level": "basic",
+    "word": "happen",
+    "meaning": "起こる",
+    "question": "happen",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "公共の・公の",
+        "correct": false
+      },
+      {
+        "text": "従う・ついていく",
+        "correct": false
+      },
+      {
+        "text": "起こる",
+        "correct": true
+      },
+      {
+        "text": "望む",
+        "correct": false
+      }
+    ],
+    "answer": "起こる",
+    "explanation": "happen = 起こる。例：What happened?"
+  },
+  {
+    "id": "v-basic-118",
+    "type": "vocab",
+    "level": "basic",
+    "word": "hope",
+    "meaning": "望む",
+    "question": "hope",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "考慮する",
+        "correct": false
+      },
+      {
+        "text": "望む",
+        "correct": true
+      },
+      {
+        "text": "失う・負ける",
+        "correct": false
+      },
+      {
+        "text": "準備する",
+        "correct": false
+      }
+    ],
+    "answer": "望む",
+    "explanation": "hope = 望む。例：hope for peace"
+  },
+  {
+    "id": "v-basic-119",
+    "type": "vocab",
+    "level": "basic",
+    "word": "invite",
+    "meaning": "招待する",
+    "question": "invite",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "選ぶ",
+        "correct": false
+      },
+      {
+        "text": "招待する",
+        "correct": true
+      },
+      {
+        "text": "勝つ",
+        "correct": false
+      },
+      {
+        "text": "必要な",
+        "correct": false
+      }
+    ],
+    "answer": "招待する",
+    "explanation": "invite = 招待する。例：invite a friend"
+  },
+  {
+    "id": "v-basic-120",
+    "type": "vocab",
+    "level": "basic",
+    "word": "join",
+    "meaning": "参加する・加わる",
+    "question": "join",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "滞在する・ままでいる",
+        "correct": false
+      },
+      {
+        "text": "参加する・加わる",
+        "correct": true
+      },
+      {
+        "text": "申し出る・提供する",
+        "correct": false
+      },
+      {
+        "text": "役に立つ",
+        "correct": false
+      }
+    ],
+    "answer": "参加する・加わる",
+    "explanation": "join = 参加する・加わる。例：join the club"
+  },
+  {
+    "id": "v-basic-121",
+    "type": "vocab",
+    "level": "basic",
+    "word": "keep",
+    "meaning": "保つ・持ち続ける",
+    "question": "keep",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "保つ・持ち続ける",
+        "correct": true
+      },
+      {
+        "text": "異なる",
+        "correct": false
+      },
+      {
+        "text": "普通の・いつもの",
+        "correct": false
+      },
+      {
+        "text": "建てる・築く",
+        "correct": false
+      }
+    ],
+    "answer": "保つ・持ち続ける",
+    "explanation": "keep = 保つ・持ち続ける。例：keep the promise"
+  },
+  {
+    "id": "v-basic-122",
+    "type": "vocab",
+    "level": "basic",
+    "word": "leave",
+    "meaning": "去る・残す",
+    "question": "leave",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "到着する・届く",
+        "correct": false
+      },
+      {
+        "text": "去る・残す",
+        "correct": true
+      },
+      {
+        "text": "簡単な・単純な",
+        "correct": false
+      },
+      {
+        "text": "共有する・分ける",
+        "correct": false
+      }
+    ],
+    "answer": "去る・残す",
+    "explanation": "leave = 去る・残す。例：leave the room"
+  },
+  {
+    "id": "v-basic-123",
+    "type": "vocab",
+    "level": "basic",
+    "word": "learn",
+    "meaning": "学ぶ・知る",
+    "question": "learn",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "教える",
+        "correct": false
+      },
+      {
+        "text": "守る",
+        "correct": false
+      },
+      {
+        "text": "待つ",
+        "correct": false
+      },
+      {
+        "text": "学ぶ・知る",
+        "correct": true
+      }
+    ],
+    "answer": "学ぶ・知る",
+    "explanation": "learn = 学ぶ・知る。例：learn English"
+  },
+  {
+    "id": "v-basic-124",
+    "type": "vocab",
+    "level": "basic",
+    "word": "lend",
+    "meaning": "貸す",
+    "question": "lend",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "答える・答え",
+        "correct": false
+      },
+      {
+        "text": "役に立つ",
+        "correct": false
+      },
+      {
+        "text": "貸す",
+        "correct": true
+      },
+      {
+        "text": "集める",
+        "correct": false
+      }
+    ],
+    "answer": "貸す",
+    "explanation": "lend = 貸す。例：lend me a pen"
+  },
+  {
+    "id": "v-basic-125",
+    "type": "vocab",
+    "level": "basic",
+    "word": "lose",
+    "meaning": "失う・負ける",
+    "question": "lose",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "救う・節約する",
+        "correct": false
+      },
+      {
+        "text": "失う・負ける",
+        "correct": true
+      },
+      {
+        "text": "望む",
+        "correct": false
+      },
+      {
+        "text": "異なる",
+        "correct": false
+      }
+    ],
+    "answer": "失う・負ける",
+    "explanation": "lose = 失う・負ける。例：lose money"
+  },
+  {
+    "id": "v-basic-126",
+    "type": "vocab",
+    "level": "basic",
+    "word": "mean",
+    "meaning": "意味する・意図する",
+    "question": "mean",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "意味する・意図する",
+        "correct": true
+      },
+      {
+        "text": "建てる・築く",
+        "correct": false
+      },
+      {
+        "text": "賛成する・同意する",
+        "correct": false
+      },
+      {
+        "text": "到着する・届く",
+        "correct": false
+      }
+    ],
+    "answer": "意味する・意図する",
+    "explanation": "mean = 意味する・意図する。例：What does this mean?"
+  },
+  {
+    "id": "v-basic-127",
+    "type": "vocab",
+    "level": "basic",
+    "word": "need",
+    "meaning": "必要とする",
+    "question": "need",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "必要とする",
+        "correct": true
+      },
+      {
+        "text": "滞在する・ままでいる",
+        "correct": false
+      },
+      {
+        "text": "教える",
+        "correct": false
+      },
+      {
+        "text": "受け入れる",
+        "correct": false
+      }
+    ],
+    "answer": "必要とする",
+    "explanation": "need = 必要とする。例：need more time"
+  },
+  {
+    "id": "v-basic-128",
+    "type": "vocab",
+    "level": "basic",
+    "word": "offer",
+    "meaning": "申し出る・提供する",
+    "question": "offer",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "共通の・よくある",
+        "correct": false
+      },
+      {
+        "text": "申し出る・提供する",
+        "correct": true
+      },
+      {
+        "text": "旅行する",
+        "correct": false
+      },
+      {
+        "text": "招待する",
+        "correct": false
+      }
+    ],
+    "answer": "申し出る・提供する",
+    "explanation": "offer = 申し出る・提供する。例：offer help"
+  },
+  {
+    "id": "v-basic-129",
+    "type": "vocab",
+    "level": "basic",
+    "word": "order",
+    "meaning": "注文する・順序",
+    "question": "order",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "訪れる",
+        "correct": false
+      },
+      {
+        "text": "注文する・順序",
+        "correct": true
+      },
+      {
+        "text": "受け入れる",
+        "correct": false
+      },
+      {
+        "text": "教える",
+        "correct": false
+      }
+    ],
+    "answer": "注文する・順序",
+    "explanation": "order = 注文する・順序。例：order a meal"
+  },
+  {
+    "id": "v-basic-130",
+    "type": "vocab",
+    "level": "basic",
+    "word": "prepare",
+    "meaning": "準備する",
+    "question": "prepare",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "賛成する・同意する",
+        "correct": false
+      },
+      {
+        "text": "準備する",
+        "correct": true
+      },
+      {
+        "text": "共有する・分ける",
+        "correct": false
+      },
+      {
+        "text": "人気のある",
+        "correct": false
+      }
+    ],
+    "answer": "準備する",
+    "explanation": "prepare = 準備する。例：prepare for the test"
+  },
+  {
+    "id": "v-basic-131",
+    "type": "vocab",
+    "level": "basic",
+    "word": "protect",
+    "meaning": "守る",
+    "question": "protect",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "共有する・分ける",
+        "correct": false
+      },
+      {
+        "text": "必要とする",
+        "correct": false
+      },
+      {
+        "text": "役に立つ",
+        "correct": false
+      },
+      {
+        "text": "守る",
+        "correct": true
+      }
+    ],
+    "answer": "守る",
+    "explanation": "protect = 守る。例：protect the environment"
+  },
+  {
+    "id": "v-basic-132",
+    "type": "vocab",
+    "level": "basic",
+    "word": "reach",
+    "meaning": "到着する・届く",
+    "question": "reach",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "選ぶ",
+        "correct": false
+      },
+      {
+        "text": "建てる・築く",
+        "correct": false
+      },
+      {
+        "text": "普通の・いつもの",
+        "correct": false
+      },
+      {
+        "text": "到着する・届く",
+        "correct": true
+      }
+    ],
+    "answer": "到着する・届く",
+    "explanation": "reach = 到着する・届く。例：reach the station"
+  },
+  {
+    "id": "v-basic-133",
+    "type": "vocab",
+    "level": "basic",
+    "word": "receive",
+    "meaning": "受け取る",
+    "question": "receive",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "受け取る",
+        "correct": true
+      },
+      {
+        "text": "理解する",
+        "correct": false
+      },
+      {
+        "text": "最近の",
+        "correct": false
+      },
+      {
+        "text": "招待する",
+        "correct": false
+      }
+    ],
+    "answer": "受け取る",
+    "explanation": "receive = 受け取る。例：receive a message"
+  },
+  {
+    "id": "v-basic-134",
+    "type": "vocab",
+    "level": "basic",
+    "word": "remember",
+    "meaning": "覚えている・思い出す",
+    "question": "remember",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "必要とする",
+        "correct": false
+      },
+      {
+        "text": "覚えている・思い出す",
+        "correct": true
+      },
+      {
+        "text": "答える・答え",
+        "correct": false
+      },
+      {
+        "text": "必要な",
+        "correct": false
+      }
+    ],
+    "answer": "覚えている・思い出す",
+    "explanation": "remember = 覚えている・思い出す。例：remember his name"
+  },
+  {
+    "id": "v-basic-135",
+    "type": "vocab",
+    "level": "basic",
+    "word": "return",
+    "meaning": "戻る・返す",
+    "question": "return",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "費やす",
+        "correct": false
+      },
+      {
+        "text": "戻る・返す",
+        "correct": true
+      },
+      {
+        "text": "選ぶ",
+        "correct": false
+      },
+      {
+        "text": "滞在する・ままでいる",
+        "correct": false
+      }
+    ],
+    "answer": "戻る・返す",
+    "explanation": "return = 戻る・返す。例：return the book"
+  },
+  {
+    "id": "v-basic-136",
+    "type": "vocab",
+    "level": "basic",
+    "word": "save",
+    "meaning": "救う・節約する",
+    "question": "save",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "救う・節約する",
+        "correct": true
+      },
+      {
+        "text": "守る",
+        "correct": false
+      },
+      {
+        "text": "比較する",
+        "correct": false
+      },
+      {
+        "text": "若い",
+        "correct": false
+      }
+    ],
+    "answer": "救う・節約する",
+    "explanation": "save = 救う・節約する。例：save money"
+  },
+  {
+    "id": "v-basic-137",
+    "type": "vocab",
+    "level": "basic",
+    "word": "share",
+    "meaning": "共有する・分ける",
+    "question": "share",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "到着する",
+        "correct": false
+      },
+      {
+        "text": "望む",
+        "correct": false
+      },
+      {
+        "text": "申し出る・提供する",
+        "correct": false
+      },
+      {
+        "text": "共有する・分ける",
+        "correct": true
+      }
+    ],
+    "answer": "共有する・分ける",
+    "explanation": "share = 共有する・分ける。例：share the room"
+  },
+  {
+    "id": "v-basic-138",
+    "type": "vocab",
+    "level": "basic",
+    "word": "spend",
+    "meaning": "費やす",
+    "question": "spend",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "建てる・築く",
+        "correct": false
+      },
+      {
+        "text": "費やす",
+        "correct": true
+      },
+      {
+        "text": "勝つ",
+        "correct": false
+      },
+      {
+        "text": "若い",
+        "correct": false
+      }
+    ],
+    "answer": "費やす",
+    "explanation": "spend = 費やす。例：spend time with family"
+  },
+  {
+    "id": "v-basic-139",
+    "type": "vocab",
+    "level": "basic",
+    "word": "stay",
+    "meaning": "滞在する・ままでいる",
+    "question": "stay",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "失う・負ける",
+        "correct": false
+      },
+      {
+        "text": "費やす",
+        "correct": false
+      },
+      {
+        "text": "到着する",
+        "correct": false
+      },
+      {
+        "text": "滞在する・ままでいる",
+        "correct": true
+      }
+    ],
+    "answer": "滞在する・ままでいる",
+    "explanation": "stay = 滞在する・ままでいる。例：stay at home"
+  },
+  {
+    "id": "v-basic-140",
+    "type": "vocab",
+    "level": "basic",
+    "word": "teach",
+    "meaning": "教える",
+    "question": "teach",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "失う・負ける",
+        "correct": false
+      },
+      {
+        "text": "教える",
+        "correct": true
+      },
+      {
+        "text": "救う・節約する",
+        "correct": false
+      },
+      {
+        "text": "費やす",
+        "correct": false
+      }
+    ],
+    "answer": "教える",
+    "explanation": "teach = 教える。例：teach English"
+  },
+  {
+    "id": "v-basic-141",
+    "type": "vocab",
+    "level": "basic",
+    "word": "travel",
+    "meaning": "旅行する",
+    "question": "travel",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "去る・残す",
+        "correct": false
+      },
+      {
+        "text": "失う・負ける",
+        "correct": false
+      },
+      {
+        "text": "旅行する",
+        "correct": true
+      },
+      {
+        "text": "貸す",
+        "correct": false
+      }
+    ],
+    "answer": "旅行する",
+    "explanation": "travel = 旅行する。例：travel abroad"
+  },
+  {
+    "id": "v-basic-142",
+    "type": "vocab",
+    "level": "basic",
+    "word": "understand",
+    "meaning": "理解する",
+    "question": "understand",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "集める",
+        "correct": false
+      },
+      {
+        "text": "戻る・返す",
+        "correct": false
+      },
+      {
+        "text": "役に立つ",
+        "correct": false
+      },
+      {
+        "text": "理解する",
+        "correct": true
+      }
+    ],
+    "answer": "理解する",
+    "explanation": "understand = 理解する。例：understand the rule"
+  },
+  {
+    "id": "v-basic-143",
+    "type": "vocab",
+    "level": "basic",
+    "word": "visit",
+    "meaning": "訪れる",
+    "question": "visit",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "比較する",
+        "correct": false
+      },
+      {
+        "text": "答える・答え",
+        "correct": false
+      },
+      {
+        "text": "訪れる",
+        "correct": true
+      },
+      {
+        "text": "共有する・分ける",
+        "correct": false
+      }
+    ],
+    "answer": "訪れる",
+    "explanation": "visit = 訪れる。例：visit Kyoto"
+  },
+  {
+    "id": "v-basic-144",
+    "type": "vocab",
+    "level": "basic",
+    "word": "wait",
+    "meaning": "待つ",
+    "question": "wait",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "待つ",
+        "correct": true
+      },
+      {
+        "text": "訪れる",
+        "correct": false
+      },
+      {
+        "text": "役に立つ",
+        "correct": false
+      },
+      {
+        "text": "選ぶ",
+        "correct": false
+      }
+    ],
+    "answer": "待つ",
+    "explanation": "wait = 待つ。例：wait for the bus"
+  },
+  {
+    "id": "v-basic-145",
+    "type": "vocab",
+    "level": "basic",
+    "word": "win",
+    "meaning": "勝つ",
+    "question": "win",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "起こる",
+        "correct": false
+      },
+      {
+        "text": "費やす",
+        "correct": false
+      },
+      {
+        "text": "勝つ",
+        "correct": true
+      },
+      {
+        "text": "守る",
+        "correct": false
+      }
+    ],
+    "answer": "勝つ",
+    "explanation": "win = 勝つ。例：win the game"
+  },
+  {
+    "id": "v-basic-146",
+    "type": "vocab",
+    "level": "basic",
+    "word": "worry",
+    "meaning": "心配する",
+    "question": "worry",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "貸す",
+        "correct": false
+      },
+      {
+        "text": "地元の",
+        "correct": false
+      },
+      {
+        "text": "選ぶ",
+        "correct": false
+      },
+      {
+        "text": "心配する",
+        "correct": true
+      }
+    ],
+    "answer": "心配する",
+    "explanation": "worry = 心配する。例：worry about the future"
+  },
+  {
+    "id": "v-basic-147",
+    "type": "vocab",
+    "level": "basic",
+    "word": "young",
+    "meaning": "若い",
+    "question": "young",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "説明する",
+        "correct": false
+      },
+      {
+        "text": "若い",
+        "correct": true
+      },
+      {
+        "text": "入る・入力する",
+        "correct": false
+      },
+      {
+        "text": "旅行する",
+        "correct": false
+      }
+    ],
+    "answer": "若い",
+    "explanation": "young = 若い。例：young people"
+  },
+  {
+    "id": "v-basic-148",
+    "type": "vocab",
+    "level": "basic",
+    "word": "popular",
+    "meaning": "人気のある",
+    "question": "popular",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "重要な",
+        "correct": false
+      },
+      {
+        "text": "人気のある",
+        "correct": true
+      },
+      {
+        "text": "受け入れる",
+        "correct": false
+      },
+      {
+        "text": "参加する・加わる",
+        "correct": false
+      }
+    ],
+    "answer": "人気のある",
+    "explanation": "popular = 人気のある。例：a popular song"
+  },
+  {
+    "id": "v-basic-149",
+    "type": "vocab",
+    "level": "basic",
+    "word": "possible",
+    "meaning": "可能な",
+    "question": "possible",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "説明する",
+        "correct": false
+      },
+      {
+        "text": "可能な",
+        "correct": true
+      },
+      {
+        "text": "選ぶ",
+        "correct": false
+      },
+      {
+        "text": "若い",
+        "correct": false
+      }
+    ],
+    "answer": "可能な",
+    "explanation": "possible = 可能な。例：as soon as possible"
+  },
+  {
+    "id": "v-basic-150",
+    "type": "vocab",
+    "level": "basic",
+    "word": "simple",
+    "meaning": "簡単な・単純な",
+    "question": "simple",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "旅行する",
+        "correct": false
+      },
+      {
+        "text": "地元の",
+        "correct": false
+      },
+      {
+        "text": "説明する",
+        "correct": false
+      },
+      {
+        "text": "簡単な・単純な",
+        "correct": true
+      }
+    ],
+    "answer": "簡単な・単純な",
+    "explanation": "simple = 簡単な・単純な。例：a simple question"
+  },
+  {
+    "id": "v-basic-151",
+    "type": "vocab",
+    "level": "basic",
+    "word": "useful",
+    "meaning": "役に立つ",
+    "question": "useful",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "必要な",
+        "correct": false
+      },
+      {
+        "text": "建てる・築く",
+        "correct": false
+      },
+      {
+        "text": "簡単な・単純な",
+        "correct": false
+      },
+      {
+        "text": "役に立つ",
+        "correct": true
+      }
+    ],
+    "answer": "役に立つ",
+    "explanation": "useful = 役に立つ。例：a useful tool"
+  },
+  {
+    "id": "v-basic-152",
+    "type": "vocab",
+    "level": "basic",
+    "word": "usual",
+    "meaning": "普通の・いつもの",
+    "question": "usual",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "去る・残す",
+        "correct": false
+      },
+      {
+        "text": "必要とする",
+        "correct": false
+      },
+      {
+        "text": "普通の・いつもの",
+        "correct": true
+      },
+      {
+        "text": "救う・節約する",
+        "correct": false
+      }
+    ],
+    "answer": "普通の・いつもの",
+    "explanation": "usual = 普通の・いつもの。例：the usual way"
+  },
+  {
+    "id": "v-basic-153",
+    "type": "vocab",
+    "level": "basic",
+    "word": "different",
+    "meaning": "異なる",
+    "question": "different",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "異なる",
+        "correct": true
+      },
+      {
+        "text": "守る",
+        "correct": false
+      },
+      {
+        "text": "答える・答え",
+        "correct": false
+      },
+      {
+        "text": "重要な",
+        "correct": false
+      }
+    ],
+    "answer": "異なる",
+    "explanation": "different = 異なる。例：different from mine"
+  },
+  {
+    "id": "v-basic-154",
+    "type": "vocab",
+    "level": "basic",
+    "word": "important",
+    "meaning": "重要な",
+    "question": "important",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "申し出る・提供する",
+        "correct": false
+      },
+      {
+        "text": "受け取る",
+        "correct": false
+      },
+      {
+        "text": "重要な",
+        "correct": true
+      },
+      {
+        "text": "考慮する",
+        "correct": false
+      }
+    ],
+    "answer": "重要な",
+    "explanation": "important = 重要な。例：an important point"
+  },
+  {
+    "id": "v-basic-155",
+    "type": "vocab",
+    "level": "basic",
+    "word": "necessary",
+    "meaning": "必要な",
+    "question": "necessary",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "勝つ",
+        "correct": false
+      },
+      {
+        "text": "招待する",
+        "correct": false
+      },
+      {
+        "text": "貸す",
+        "correct": false
+      },
+      {
+        "text": "必要な",
+        "correct": true
+      }
+    ],
+    "answer": "必要な",
+    "explanation": "necessary = 必要な。例：necessary information"
+  },
+  {
+    "id": "v-basic-156",
+    "type": "vocab",
+    "level": "basic",
+    "word": "private",
+    "meaning": "個人的な・私的な",
+    "question": "private",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "意味する・意図する",
+        "correct": false
+      },
+      {
+        "text": "異なる",
+        "correct": false
+      },
+      {
+        "text": "個人的な・私的な",
+        "correct": true
+      },
+      {
+        "text": "招待する",
+        "correct": false
+      }
+    ],
+    "answer": "個人的な・私的な",
+    "explanation": "private = 個人的な・私的な。例：private information"
+  },
+  {
+    "id": "v-basic-157",
+    "type": "vocab",
+    "level": "basic",
+    "word": "public",
+    "meaning": "公共の・公の",
+    "question": "public",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "公共の・公の",
+        "correct": true
+      },
+      {
+        "text": "申し出る・提供する",
+        "correct": false
+      },
+      {
+        "text": "建てる・築く",
+        "correct": false
+      },
+      {
+        "text": "説明する",
+        "correct": false
+      }
+    ],
+    "answer": "公共の・公の",
+    "explanation": "public = 公共の・公の。例：public transportation"
+  },
+  {
+    "id": "v-basic-158",
+    "type": "vocab",
+    "level": "basic",
+    "word": "local",
+    "meaning": "地元の",
+    "question": "local",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "答える・答え",
+        "correct": false
+      },
+      {
+        "text": "地元の",
+        "correct": true
+      },
+      {
+        "text": "受け取る",
+        "correct": false
+      },
+      {
+        "text": "覚えている・思い出す",
+        "correct": false
+      }
+    ],
+    "answer": "地元の",
+    "explanation": "local = 地元の。例：local people"
+  },
+  {
+    "id": "v-basic-159",
+    "type": "vocab",
+    "level": "basic",
+    "word": "recent",
+    "meaning": "最近の",
+    "question": "recent",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "失う・負ける",
+        "correct": false
+      },
+      {
+        "text": "救う・節約する",
+        "correct": false
+      },
+      {
+        "text": "最近の",
+        "correct": true
+      },
+      {
+        "text": "共有する・分ける",
+        "correct": false
+      }
+    ],
+    "answer": "最近の",
+    "explanation": "recent = 最近の。例：recent news"
+  },
+  {
+    "id": "v-basic-160",
+    "type": "vocab",
+    "level": "basic",
+    "word": "common",
+    "meaning": "共通の・よくある",
+    "question": "common",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "招待する",
+        "correct": false
+      },
+      {
+        "text": "簡単な・単純な",
+        "correct": false
+      },
+      {
+        "text": "共通の・よくある",
+        "correct": true
+      },
+      {
+        "text": "異なる",
+        "correct": false
+      }
+    ],
+    "answer": "共通の・よくある",
+    "explanation": "common = 共通の・よくある。例：a common mistake"
+  }
+]
