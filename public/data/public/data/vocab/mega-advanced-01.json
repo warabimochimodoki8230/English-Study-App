@@ -1,0 +1,191 @@
+[
+  {
+    "id": "v-mega-advanced-0001",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "basically",
+    "meaning": "基本的に",
+    "pos": "adv",
+    "exampleSentence": "The situation changed basically.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "basically：基本的に",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-advanced-0002",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "carefully",
+    "meaning": "注意深く",
+    "pos": "adv",
+    "exampleSentence": "The situation changed carefully.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "carefully：注意深く",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-advanced-0003",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "gradually",
+    "meaning": "徐々に",
+    "pos": "adv",
+    "exampleSentence": "The situation changed gradually.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "gradually：徐々に",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-advanced-0004",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "partially",
+    "meaning": "部分的に",
+    "pos": "adv",
+    "exampleSentence": "The situation changed partially.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "partially：部分的に",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-advanced-0005",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "primarily",
+    "meaning": "主として",
+    "pos": "adv",
+    "exampleSentence": "The situation changed primarily.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "primarily：主として",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-advanced-0006",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "similarly",
+    "meaning": "同様に",
+    "pos": "adv",
+    "exampleSentence": "The situation changed similarly.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "similarly：同様に",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-advanced-0007",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "otherwise",
+    "meaning": "さもなければ・別の方法で",
+    "pos": "adv",
+    "exampleSentence": "The situation changed otherwise.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "otherwise：さもなければ・別の方法で",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-advanced-0008",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "therefore",
+    "meaning": "したがって",
+    "pos": "adv",
+    "exampleSentence": "The situation changed therefore.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "therefore：したがって",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-advanced-0009",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "virtually",
+    "meaning": "事実上",
+    "pos": "adv",
+    "exampleSentence": "The situation changed virtually.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "virtually：事実上",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam"
+    ],
+    "source": "curated-core-2026"
+  }
+]

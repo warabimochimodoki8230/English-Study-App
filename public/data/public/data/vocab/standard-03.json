@@ -1,0 +1,1852 @@
+[
+  {
+    "id": "v-standard-03-accomplish",
+    "type": "vocab",
+    "level": "standard",
+    "word": "accomplish",
+    "meaning": "成し遂げる",
+    "pos": "v",
+    "question": "accomplish",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "成し遂げる",
+    "explanation": "accomplish = 成し遂げる。品詞: v。語群: accomplishment。",
+    "exampleSentence": "Researchers accomplish the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を成し遂げる。",
+    "family": "accomplishment",
+    "synonyms": [
+      "achieve",
+      "complete"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。accomplish の派生語: accomplishment."
+  },
+  {
+    "id": "v-standard-03-adjust",
+    "type": "vocab",
+    "level": "standard",
+    "word": "adjust",
+    "meaning": "調整する",
+    "pos": "v",
+    "question": "adjust",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "調整する",
+    "explanation": "adjust = 調整する。品詞: v。語群: adjustment。",
+    "exampleSentence": "Researchers adjust the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を調整する。",
+    "family": "adjustment",
+    "synonyms": [
+      "alter",
+      "modify"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。adjust の派生語: adjustment."
+  },
+  {
+    "id": "v-standard-03-admit",
+    "type": "vocab",
+    "level": "standard",
+    "word": "admit",
+    "meaning": "認める",
+    "pos": "v",
+    "question": "admit",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "認める",
+    "explanation": "admit = 認める。品詞: v。語群: admission。",
+    "exampleSentence": "Researchers admit the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を認める。",
+    "family": "admission",
+    "synonyms": [
+      "acknowledge",
+      "confess"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。admit の派生語: admission."
+  },
+  {
+    "id": "v-standard-03-adopt",
+    "type": "vocab",
+    "level": "standard",
+    "word": "adopt",
+    "meaning": "採用する・養子にする",
+    "pos": "v",
+    "question": "adopt",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "採用する・養子にする",
+    "explanation": "adopt = 採用する・養子にする。品詞: v。語群: adoption。",
+    "exampleSentence": "Researchers adopt the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を採用する。",
+    "family": "adoption",
+    "synonyms": [
+      "embrace",
+      "take up"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。adopt の派生語: adoption."
+  },
+  {
+    "id": "v-standard-03-affect",
+    "type": "vocab",
+    "level": "standard",
+    "word": "affect",
+    "meaning": "影響を与える",
+    "pos": "v",
+    "question": "affect",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "影響を与える",
+    "explanation": "affect = 影響を与える。品詞: v。語群: affected;affective。",
+    "exampleSentence": "Researchers affect the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を影響を与える。",
+    "family": "affected;affective",
+    "synonyms": [
+      "influence",
+      "alter"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。affect の派生語: affected;affective."
+  },
+  {
+    "id": "v-standard-03-afford",
+    "type": "vocab",
+    "level": "standard",
+    "word": "afford",
+    "meaning": "余裕がある",
+    "pos": "v",
+    "question": "afford",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "余裕がある",
+    "explanation": "afford = 余裕がある。品詞: v。語群: affordable。",
+    "exampleSentence": "Researchers afford the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を余裕がある。",
+    "family": "affordable",
+    "synonyms": [
+      "manage",
+      "bear"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。afford の派生語: affordable."
+  },
+  {
+    "id": "v-standard-03-allege",
+    "type": "vocab",
+    "level": "standard",
+    "word": "allege",
+    "meaning": "主張する",
+    "pos": "v",
+    "question": "allege",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "主張する",
+    "explanation": "allege = 主張する。品詞: v。語群: allegation。",
+    "exampleSentence": "Researchers allege the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を主張する。",
+    "family": "allegation",
+    "synonyms": [
+      "claim",
+      "assert"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。allege の派生語: allegation."
+  },
+  {
+    "id": "v-standard-03-analyze",
+    "type": "vocab",
+    "level": "standard",
+    "word": "analyze",
+    "meaning": "分析する",
+    "pos": "v",
+    "question": "analyze",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "分析する",
+    "explanation": "analyze = 分析する。品詞: v。語群: analysis;analytical。",
+    "exampleSentence": "Researchers analyze the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を分析する。",
+    "family": "analysis;analytical",
+    "synonyms": [
+      "examine",
+      "study"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。analyze の派生語: analysis;analytical."
+  },
+  {
+    "id": "v-standard-03-announce",
+    "type": "vocab",
+    "level": "standard",
+    "word": "announce",
+    "meaning": "発表する",
+    "pos": "v",
+    "question": "announce",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "発表する",
+    "explanation": "announce = 発表する。品詞: v。語群: announcement。",
+    "exampleSentence": "Researchers announce the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を発表する。",
+    "family": "announcement",
+    "synonyms": [
+      "declare",
+      "state"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。announce の派生語: announcement."
+  },
+  {
+    "id": "v-standard-03-appreciate",
+    "type": "vocab",
+    "level": "standard",
+    "word": "appreciate",
+    "meaning": "感謝する・正しく評価する",
+    "pos": "v",
+    "question": "appreciate",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "感謝する・正しく評価する",
+    "explanation": "appreciate = 感謝する・正しく評価する。品詞: v。語群: appreciation。",
+    "exampleSentence": "Researchers appreciate the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を感謝する。",
+    "family": "appreciation",
+    "synonyms": [
+      "value",
+      "recognize"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。appreciate の派生語: appreciation."
+  },
+  {
+    "id": "v-standard-03-attempt",
+    "type": "vocab",
+    "level": "standard",
+    "word": "attempt",
+    "meaning": "試みる",
+    "pos": "v",
+    "question": "attempt",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "試みる",
+    "explanation": "attempt = 試みる。品詞: v。語群: attempt。",
+    "exampleSentence": "Researchers attempt the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を試みる。",
+    "family": "attempt",
+    "synonyms": [
+      "try",
+      "effort"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。attempt の派生語: attempt."
+  },
+  {
+    "id": "v-standard-03-capture",
+    "type": "vocab",
+    "level": "standard",
+    "word": "capture",
+    "meaning": "捕らえる・捉える",
+    "pos": "v",
+    "question": "capture",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "捕らえる・捉える",
+    "explanation": "capture = 捕らえる・捉える。品詞: v。語群: captured。",
+    "exampleSentence": "Researchers capture the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を捕らえる。",
+    "family": "captured",
+    "synonyms": [
+      "catch",
+      "record"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。capture の派生語: captured."
+  },
+  {
+    "id": "v-standard-03-claim",
+    "type": "vocab",
+    "level": "standard",
+    "word": "claim",
+    "meaning": "主張する・要求する",
+    "pos": "v",
+    "question": "claim",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "主張する・要求する",
+    "explanation": "claim = 主張する・要求する。品詞: v。語群: claimant。",
+    "exampleSentence": "Researchers claim the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を主張する。",
+    "family": "claimant",
+    "synonyms": [
+      "assert",
+      "demand"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。claim の派生語: claimant."
+  },
+  {
+    "id": "v-standard-03-combine",
+    "type": "vocab",
+    "level": "standard",
+    "word": "combine",
+    "meaning": "組み合わせる",
+    "pos": "v",
+    "question": "combine",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "組み合わせる",
+    "explanation": "combine = 組み合わせる。品詞: v。語群: combination。",
+    "exampleSentence": "Researchers combine the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を組み合わせる。",
+    "family": "combination",
+    "synonyms": [
+      "merge",
+      "mix"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。combine の派生語: combination."
+  },
+  {
+    "id": "v-standard-03-comment",
+    "type": "vocab",
+    "level": "standard",
+    "word": "comment",
+    "meaning": "論評する",
+    "pos": "v",
+    "question": "comment",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "論評する",
+    "explanation": "comment = 論評する。品詞: v。語群: commentary。",
+    "exampleSentence": "Researchers comment the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を論評する。",
+    "family": "commentary",
+    "synonyms": [
+      "remark",
+      "observe"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。comment の派生語: commentary."
+  },
+  {
+    "id": "v-standard-03-communicate",
+    "type": "vocab",
+    "level": "standard",
+    "word": "communicate",
+    "meaning": "伝える・意思疎通する",
+    "pos": "v",
+    "question": "communicate",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "伝える・意思疎通する",
+    "explanation": "communicate = 伝える・意思疎通する。品詞: v。語群: communication;communicative。",
+    "exampleSentence": "Researchers communicate the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を伝える。",
+    "family": "communication;communicative",
+    "synonyms": [
+      "convey",
+      "interact"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。communicate の派生語: communication;communicative."
+  },
+  {
+    "id": "v-standard-03-conduct",
+    "type": "vocab",
+    "level": "standard",
+    "word": "conduct",
+    "meaning": "行う・指揮する",
+    "pos": "v",
+    "question": "conduct",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "行う・指揮する",
+    "explanation": "conduct = 行う・指揮する。品詞: v。語群: conductor。",
+    "exampleSentence": "Researchers conduct the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を行う。",
+    "family": "conductor",
+    "synonyms": [
+      "carry out",
+      "lead"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。conduct の派生語: conductor."
+  },
+  {
+    "id": "v-standard-03-confirm",
+    "type": "vocab",
+    "level": "standard",
+    "word": "confirm",
+    "meaning": "確認する",
+    "pos": "v",
+    "question": "confirm",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "確認する",
+    "explanation": "confirm = 確認する。品詞: v。語群: confirmation。",
+    "exampleSentence": "Researchers confirm the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を確認する。",
+    "family": "confirmation",
+    "synonyms": [
+      "verify",
+      "validate"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。confirm の派生語: confirmation."
+  },
+  {
+    "id": "v-standard-03-consist",
+    "type": "vocab",
+    "level": "standard",
+    "word": "consist",
+    "meaning": "構成される",
+    "pos": "v",
+    "question": "consist",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "構成される",
+    "explanation": "consist = 構成される。品詞: v。語群: consisting。",
+    "exampleSentence": "Researchers consist the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を構成される。",
+    "family": "consisting",
+    "synonyms": [
+      "comprise",
+      "be made up of"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。consist の派生語: consisting."
+  },
+  {
+    "id": "v-standard-03-construct",
+    "type": "vocab",
+    "level": "standard",
+    "word": "construct",
+    "meaning": "建設する・構築する",
+    "pos": "v",
+    "question": "construct",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "建設する・構築する",
+    "explanation": "construct = 建設する・構築する。品詞: v。語群: construction。",
+    "exampleSentence": "Researchers construct the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を建設する。",
+    "family": "construction",
+    "synonyms": [
+      "build",
+      "create"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。construct の派生語: construction."
+  },
+  {
+    "id": "v-standard-03-convert",
+    "type": "vocab",
+    "level": "standard",
+    "word": "convert",
+    "meaning": "変換する・改宗させる",
+    "pos": "v",
+    "question": "convert",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "変換する・改宗させる",
+    "explanation": "convert = 変換する・改宗させる。品詞: v。語群: conversion。",
+    "exampleSentence": "Researchers convert the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を変換する。",
+    "family": "conversion",
+    "synonyms": [
+      "transform",
+      "change"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。convert の派生語: conversion."
+  },
+  {
+    "id": "v-standard-03-convince",
+    "type": "vocab",
+    "level": "standard",
+    "word": "convince",
+    "meaning": "納得させる",
+    "pos": "v",
+    "question": "convince",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "納得させる",
+    "explanation": "convince = 納得させる。品詞: v。語群: convincing。",
+    "exampleSentence": "Researchers convince the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を納得させる。",
+    "family": "convincing",
+    "synonyms": [
+      "persuade",
+      "satisfy"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。convince の派生語: convincing."
+  },
+  {
+    "id": "v-standard-03-cope",
+    "type": "vocab",
+    "level": "standard",
+    "word": "cope",
+    "meaning": "対処する",
+    "pos": "v",
+    "question": "cope",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "対処する",
+    "explanation": "cope = 対処する。品詞: v。語群: coping。",
+    "exampleSentence": "Researchers cope the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を対処する。",
+    "family": "coping",
+    "synonyms": [
+      "manage",
+      "handle"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。cope の派生語: coping."
+  },
+  {
+    "id": "v-standard-03-define",
+    "type": "vocab",
+    "level": "standard",
+    "word": "define",
+    "meaning": "定義する",
+    "pos": "v",
+    "question": "define",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "定義する",
+    "explanation": "define = 定義する。品詞: v。語群: definition。",
+    "exampleSentence": "Researchers define the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を定義する。",
+    "family": "definition",
+    "synonyms": [
+      "specify",
+      "explain"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。define の派生語: definition."
+  },
+  {
+    "id": "v-standard-03-denote",
+    "type": "vocab",
+    "level": "standard",
+    "word": "denote",
+    "meaning": "意味する・示す",
+    "pos": "v",
+    "question": "denote",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "意味する・示す",
+    "explanation": "denote = 意味する・示す。品詞: v。語群: denotation。",
+    "exampleSentence": "Researchers denote the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を意味する。",
+    "family": "denotation",
+    "synonyms": [
+      "mean",
+      "signify"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。denote の派生語: denotation."
+  },
+  {
+    "id": "v-standard-03-deny",
+    "type": "vocab",
+    "level": "standard",
+    "word": "deny",
+    "meaning": "否定する",
+    "pos": "v",
+    "question": "deny",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "否定する",
+    "explanation": "deny = 否定する。品詞: v。語群: denial。",
+    "exampleSentence": "Researchers deny the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を否定する。",
+    "family": "denial",
+    "synonyms": [
+      "reject",
+      "refuse"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。deny の派生語: denial."
+  },
+  {
+    "id": "v-standard-03-display",
+    "type": "vocab",
+    "level": "standard",
+    "word": "display",
+    "meaning": "表示する・展示する",
+    "pos": "v",
+    "question": "display",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "表示する・展示する",
+    "explanation": "display = 表示する・展示する。品詞: v。語群: display。",
+    "exampleSentence": "Researchers display the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を表示する。",
+    "family": "display",
+    "synonyms": [
+      "show",
+      "exhibit"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。display の派生語: display."
+  },
+  {
+    "id": "v-standard-03-distribute",
+    "type": "vocab",
+    "level": "standard",
+    "word": "distribute",
+    "meaning": "配る・分配する",
+    "pos": "v",
+    "question": "distribute",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "配る・分配する",
+    "explanation": "distribute = 配る・分配する。品詞: v。語群: distribution;distributor。",
+    "exampleSentence": "Researchers distribute the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を配る。",
+    "family": "distribution;distributor",
+    "synonyms": [
+      "allocate",
+      "spread"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。distribute の派生語: distribution;distributor."
+  },
+  {
+    "id": "v-standard-03-dominate",
+    "type": "vocab",
+    "level": "standard",
+    "word": "dominate",
+    "meaning": "支配する",
+    "pos": "v",
+    "question": "dominate",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "支配する",
+    "explanation": "dominate = 支配する。品詞: v。語群: dominant;domination。",
+    "exampleSentence": "Researchers dominate the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を支配する。",
+    "family": "dominant;domination",
+    "synonyms": [
+      "control",
+      "prevail"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。dominate の派生語: dominant;domination."
+  },
+  {
+    "id": "v-standard-03-emphasize",
+    "type": "vocab",
+    "level": "standard",
+    "word": "emphasize",
+    "meaning": "強調する",
+    "pos": "v",
+    "question": "emphasize",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "強調する",
+    "explanation": "emphasize = 強調する。品詞: v。語群: emphasis。",
+    "exampleSentence": "Researchers emphasize the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を強調する。",
+    "family": "emphasis",
+    "synonyms": [
+      "stress",
+      "highlight"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。emphasize の派生語: emphasis."
+  },
+  {
+    "id": "v-standard-03-ensure",
+    "type": "vocab",
+    "level": "standard",
+    "word": "ensure",
+    "meaning": "確実にする",
+    "pos": "v",
+    "question": "ensure",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "確実にする",
+    "explanation": "ensure = 確実にする。品詞: v。語群: assurance。",
+    "exampleSentence": "Researchers ensure the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を確実にする。",
+    "family": "assurance",
+    "synonyms": [
+      "make sure",
+      "guarantee"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。ensure の派生語: assurance."
+  },
+  {
+    "id": "v-standard-03-explore",
+    "type": "vocab",
+    "level": "standard",
+    "word": "explore",
+    "meaning": "探検する・探究する",
+    "pos": "v",
+    "question": "explore",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "探検する・探究する",
+    "explanation": "explore = 探検する・探究する。品詞: v。語群: exploration;explorer。",
+    "exampleSentence": "Researchers explore the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を探検する。",
+    "family": "exploration;explorer",
+    "synonyms": [
+      "investigate",
+      "examine"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。explore の派生語: exploration;explorer."
+  },
+  {
+    "id": "v-standard-03-extend",
+    "type": "vocab",
+    "level": "standard",
+    "word": "extend",
+    "meaning": "延長する・広げる",
+    "pos": "v",
+    "question": "extend",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "延長する・広げる",
+    "explanation": "extend = 延長する・広げる。品詞: v。語群: extension。",
+    "exampleSentence": "Researchers extend the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を延長する。",
+    "family": "extension",
+    "synonyms": [
+      "expand",
+      "lengthen"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。extend の派生語: extension."
+  },
+  {
+    "id": "v-standard-03-generate",
+    "type": "vocab",
+    "level": "standard",
+    "word": "generate",
+    "meaning": "生み出す",
+    "pos": "v",
+    "question": "generate",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "生み出す",
+    "explanation": "generate = 生み出す。品詞: v。語群: generation。",
+    "exampleSentence": "Researchers generate the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を生み出す。",
+    "family": "generation",
+    "synonyms": [
+      "produce",
+      "create"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。generate の派生語: generation."
+  },
+  {
+    "id": "v-standard-03-guarantee",
+    "type": "vocab",
+    "level": "standard",
+    "word": "guarantee",
+    "meaning": "保証する",
+    "pos": "v",
+    "question": "guarantee",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "保証する",
+    "explanation": "guarantee = 保証する。品詞: v。語群: guaranteed。",
+    "exampleSentence": "Researchers guarantee the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を保証する。",
+    "family": "guaranteed",
+    "synonyms": [
+      "assure",
+      "ensure"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。guarantee の派生語: guaranteed."
+  },
+  {
+    "id": "v-standard-03-illustrate",
+    "type": "vocab",
+    "level": "standard",
+    "word": "illustrate",
+    "meaning": "説明する・例示する",
+    "pos": "v",
+    "question": "illustrate",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "説明する・例示する",
+    "explanation": "illustrate = 説明する・例示する。品詞: v。語群: illustration。",
+    "exampleSentence": "Researchers illustrate the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を説明する。",
+    "family": "illustration",
+    "synonyms": [
+      "show",
+      "demonstrate"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。illustrate の派生語: illustration."
+  },
+  {
+    "id": "v-standard-03-investigate",
+    "type": "vocab",
+    "level": "standard",
+    "word": "investigate",
+    "meaning": "調査する",
+    "pos": "v",
+    "question": "investigate",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "調査する",
+    "explanation": "investigate = 調査する。品詞: v。語群: investigation。",
+    "exampleSentence": "Researchers investigate the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を調査する。",
+    "family": "investigation",
+    "synonyms": [
+      "examine",
+      "research"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。investigate の派生語: investigation."
+  },
+  {
+    "id": "v-standard-03-perceive",
+    "type": "vocab",
+    "level": "standard",
+    "word": "perceive",
+    "meaning": "知覚する・認識する",
+    "pos": "v",
+    "question": "perceive",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "知覚する・認識する",
+    "explanation": "perceive = 知覚する・認識する。品詞: v。語群: perception。",
+    "exampleSentence": "Researchers perceive the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を知覚する。",
+    "family": "perception",
+    "synonyms": [
+      "notice",
+      "recognize"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。perceive の派生語: perception."
+  },
+  {
+    "id": "v-standard-03-purchase",
+    "type": "vocab",
+    "level": "standard",
+    "word": "purchase",
+    "meaning": "購入する",
+    "pos": "v",
+    "question": "purchase",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "購入する",
+    "explanation": "purchase = 購入する。品詞: v。語群: purchaser;purchase。",
+    "exampleSentence": "Researchers purchase the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を購入する。",
+    "family": "purchaser;purchase",
+    "synonyms": [
+      "buy",
+      "acquire"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。purchase の派生語: purchaser;purchase."
+  },
+  {
+    "id": "v-standard-03-react",
+    "type": "vocab",
+    "level": "standard",
+    "word": "react",
+    "meaning": "反応する",
+    "pos": "v",
+    "question": "react",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "反応する",
+    "explanation": "react = 反応する。品詞: v。語群: reaction;reactive。",
+    "exampleSentence": "Researchers react the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を反応する。",
+    "family": "reaction;reactive",
+    "synonyms": [
+      "respond",
+      "reply"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。react の派生語: reaction;reactive."
+  },
+  {
+    "id": "v-standard-03-recognize",
+    "type": "vocab",
+    "level": "standard",
+    "word": "recognize",
+    "meaning": "認識する・認める",
+    "pos": "v",
+    "question": "recognize",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "認識する・認める",
+    "explanation": "recognize = 認識する・認める。品詞: v。語群: recognition。",
+    "exampleSentence": "Researchers recognize the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を認識する。",
+    "family": "recognition",
+    "synonyms": [
+      "identify",
+      "acknowledge"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。recognize の派生語: recognition."
+  },
+  {
+    "id": "v-standard-03-recover",
+    "type": "vocab",
+    "level": "standard",
+    "word": "recover",
+    "meaning": "回復する",
+    "pos": "v",
+    "question": "recover",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "回復する",
+    "explanation": "recover = 回復する。品詞: v。語群: recovery。",
+    "exampleSentence": "Researchers recover the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を回復する。",
+    "family": "recovery",
+    "synonyms": [
+      "heal",
+      "regain"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。recover の派生語: recovery."
+  },
+  {
+    "id": "v-standard-03-reject",
+    "type": "vocab",
+    "level": "standard",
+    "word": "reject",
+    "meaning": "拒絶する",
+    "pos": "v",
+    "question": "reject",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "拒絶する",
+    "explanation": "reject = 拒絶する。品詞: v。語群: rejection。",
+    "exampleSentence": "Researchers reject the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を拒絶する。",
+    "family": "rejection",
+    "synonyms": [
+      "refuse",
+      "deny"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。reject の派生語: rejection."
+  },
+  {
+    "id": "v-standard-03-rely",
+    "type": "vocab",
+    "level": "standard",
+    "word": "rely",
+    "meaning": "頼る",
+    "pos": "v",
+    "question": "rely",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "頼る",
+    "explanation": "rely = 頼る。品詞: v。語群: reliance;reliable。",
+    "exampleSentence": "Researchers rely the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を頼る。",
+    "family": "reliance;reliable",
+    "synonyms": [
+      "depend",
+      "trust"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。rely の派生語: reliance;reliable."
+  },
+  {
+    "id": "v-standard-03-specify",
+    "type": "vocab",
+    "level": "standard",
+    "word": "specify",
+    "meaning": "明記する",
+    "pos": "v",
+    "question": "specify",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "明記する",
+    "explanation": "specify = 明記する。品詞: v。語群: specification。",
+    "exampleSentence": "Researchers specify the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を明記する。",
+    "family": "specification",
+    "synonyms": [
+      "state",
+      "define"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。specify の派生語: specification."
+  },
+  {
+    "id": "v-standard-03-submit",
+    "type": "vocab",
+    "level": "standard",
+    "word": "submit",
+    "meaning": "提出する",
+    "pos": "v",
+    "question": "submit",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "提出する",
+    "explanation": "submit = 提出する。品詞: v。語群: submission。",
+    "exampleSentence": "Researchers submit the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を提出する。",
+    "family": "submission",
+    "synonyms": [
+      "hand in",
+      "present"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。submit の派生語: submission."
+  },
+  {
+    "id": "v-standard-03-substitute",
+    "type": "vocab",
+    "level": "standard",
+    "word": "substitute",
+    "meaning": "代える",
+    "pos": "v",
+    "question": "substitute",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "代える",
+    "explanation": "substitute = 代える。品詞: v。語群: substitution。",
+    "exampleSentence": "Researchers substitute the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を代える。",
+    "family": "substitution",
+    "synonyms": [
+      "replace",
+      "exchange"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。substitute の派生語: substitution."
+  },
+  {
+    "id": "v-standard-03-transform",
+    "type": "vocab",
+    "level": "standard",
+    "word": "transform",
+    "meaning": "変える・変形させる",
+    "pos": "v",
+    "question": "transform",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "変える・変形させる",
+    "explanation": "transform = 変える・変形させる。品詞: v。語群: transformation。",
+    "exampleSentence": "Researchers transform the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を変える。",
+    "family": "transformation",
+    "synonyms": [
+      "change",
+      "convert"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。transform の派生語: transformation."
+  },
+  {
+    "id": "v-standard-03-vary",
+    "type": "vocab",
+    "level": "standard",
+    "word": "vary",
+    "meaning": "異なる・変化する",
+    "pos": "v",
+    "question": "vary",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "異なる・変化する",
+    "explanation": "vary = 異なる・変化する。品詞: v。語群: variation;variety。",
+    "exampleSentence": "Researchers vary the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を異なる。",
+    "family": "variation;variety",
+    "synonyms": [
+      "differ",
+      "change"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。vary の派生語: variation;variety."
+  },
+  {
+    "id": "v-standard-03-consistent",
+    "type": "vocab",
+    "level": "standard",
+    "word": "consistent",
+    "meaning": "一貫した",
+    "pos": "adj",
+    "question": "consistent",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "一貫した",
+    "explanation": "consistent = 一貫した。品詞: adj。語群: consistency。",
+    "exampleSentence": "The report provides a consistent explanation of the issue.",
+    "exampleJa": "その報告書はその問題について一貫した説明をしている。",
+    "family": "consistency",
+    "synonyms": [
+      "steady",
+      "uniform"
+    ],
+    "tags": [
+      "standard",
+      "adj"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。consistent の派生語: consistency."
+  },
+  {
+    "id": "v-standard-03-critical",
+    "type": "vocab",
+    "level": "standard",
+    "word": "critical",
+    "meaning": "批判的な・重大な",
+    "pos": "adj",
+    "question": "critical",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "批判的な・重大な",
+    "explanation": "critical = 批判的な・重大な。品詞: adj。語群: critically;criticism。",
+    "exampleSentence": "The report provides a critical explanation of the issue.",
+    "exampleJa": "その報告書はその問題について批判的な説明をしている。",
+    "family": "critically;criticism",
+    "synonyms": [
+      "crucial",
+      "judgmental"
+    ],
+    "tags": [
+      "standard",
+      "adj"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。critical の派生語: critically;criticism."
+  },
+  {
+    "id": "v-standard-03-current",
+    "type": "vocab",
+    "level": "standard",
+    "word": "current",
+    "meaning": "現在の",
+    "pos": "adj",
+    "question": "current",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "現在の",
+    "explanation": "current = 現在の。品詞: adj。語群: currently。",
+    "exampleSentence": "The report provides a current explanation of the issue.",
+    "exampleJa": "その報告書はその問題について現在の説明をしている。",
+    "family": "currently",
+    "synonyms": [
+      "present",
+      "existing"
+    ],
+    "tags": [
+      "standard",
+      "adj"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。current の派生語: currently."
+  },
+  {
+    "id": "v-standard-03-despite",
+    "type": "vocab",
+    "level": "standard",
+    "word": "despite",
+    "meaning": "〜にもかかわらず",
+    "pos": "prep",
+    "question": "despite",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "〜にもかかわらず",
+    "explanation": "despite = 〜にもかかわらず。品詞: prep。語群: 。",
+    "exampleSentence": "The report provides a despite explanation of the issue.",
+    "exampleJa": "その報告書はその問題について〜にもかかわらず説明をしている。",
+    "family": "",
+    "synonyms": [
+      "although",
+      "in spite of"
+    ],
+    "tags": [
+      "standard",
+      "prep"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。despite の派生語: ."
+  },
+  {
+    "id": "v-standard-03-entire",
+    "type": "vocab",
+    "level": "standard",
+    "word": "entire",
+    "meaning": "全体の",
+    "pos": "adj",
+    "question": "entire",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "全体の",
+    "explanation": "entire = 全体の。品詞: adj。語群: entirely。",
+    "exampleSentence": "The report provides a entire explanation of the issue.",
+    "exampleJa": "その報告書はその問題について全体の説明をしている。",
+    "family": "entirely",
+    "synonyms": [
+      "whole",
+      "complete"
+    ],
+    "tags": [
+      "standard",
+      "adj"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。entire の派生語: entirely."
+  },
+  {
+    "id": "v-standard-03-essential",
+    "type": "vocab",
+    "level": "standard",
+    "word": "essential",
+    "meaning": "不可欠な",
+    "pos": "adj",
+    "question": "essential",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "不可欠な",
+    "explanation": "essential = 不可欠な。品詞: adj。語群: essentially。",
+    "exampleSentence": "The report provides a essential explanation of the issue.",
+    "exampleJa": "その報告書はその問題について不可欠な説明をしている。",
+    "family": "essentially",
+    "synonyms": [
+      "necessary",
+      "vital"
+    ],
+    "tags": [
+      "standard",
+      "adj"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。essential の派生語: essentially."
+  },
+  {
+    "id": "v-standard-03-flexible",
+    "type": "vocab",
+    "level": "standard",
+    "word": "flexible",
+    "meaning": "柔軟な",
+    "pos": "adj",
+    "question": "flexible",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "柔軟な",
+    "explanation": "flexible = 柔軟な。品詞: adj。語群: flexibility。",
+    "exampleSentence": "The report provides a flexible explanation of the issue.",
+    "exampleJa": "その報告書はその問題について柔軟な説明をしている。",
+    "family": "flexibility",
+    "synonyms": [
+      "adaptable",
+      "versatile"
+    ],
+    "tags": [
+      "standard",
+      "adj"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。flexible の派生語: flexibility."
+  },
+  {
+    "id": "v-standard-03-negative",
+    "type": "vocab",
+    "level": "standard",
+    "word": "negative",
+    "meaning": "否定的な・負の",
+    "pos": "adj",
+    "question": "negative",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "否定的な・負の",
+    "explanation": "negative = 否定的な・負の。品詞: adj。語群: negatively。",
+    "exampleSentence": "The report provides a negative explanation of the issue.",
+    "exampleJa": "その報告書はその問題について否定的な説明をしている。",
+    "family": "negatively",
+    "synonyms": [
+      "adverse",
+      "unfavorable"
+    ],
+    "tags": [
+      "standard",
+      "adj"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。negative の派生語: negatively."
+  },
+  {
+    "id": "v-standard-03-obvious",
+    "type": "vocab",
+    "level": "standard",
+    "word": "obvious",
+    "meaning": "明らかな",
+    "pos": "adj",
+    "question": "obvious",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "明らかな",
+    "explanation": "obvious = 明らかな。品詞: adj。語群: obviously。",
+    "exampleSentence": "The report provides a obvious explanation of the issue.",
+    "exampleJa": "その報告書はその問題について明らかな説明をしている。",
+    "family": "obviously",
+    "synonyms": [
+      "clear",
+      "evident"
+    ],
+    "tags": [
+      "standard",
+      "adj"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。obvious の派生語: obviously."
+  },
+  {
+    "id": "v-standard-03-potential",
+    "type": "vocab",
+    "level": "standard",
+    "word": "potential",
+    "meaning": "潜在的な",
+    "pos": "adj",
+    "question": "potential",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "潜在的な",
+    "explanation": "potential = 潜在的な。品詞: adj。語群: potentially。",
+    "exampleSentence": "The report provides a potential explanation of the issue.",
+    "exampleJa": "その報告書はその問題について潜在的な説明をしている。",
+    "family": "potentially",
+    "synonyms": [
+      "possible",
+      "latent"
+    ],
+    "tags": [
+      "standard",
+      "adj"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。potential の派生語: potentially."
+  },
+  {
+    "id": "v-standard-03-previous",
+    "type": "vocab",
+    "level": "standard",
+    "word": "previous",
+    "meaning": "以前の",
+    "pos": "adj",
+    "question": "previous",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "以前の",
+    "explanation": "previous = 以前の。品詞: adj。語群: previously。",
+    "exampleSentence": "The report provides a previous explanation of the issue.",
+    "exampleJa": "その報告書はその問題について以前の説明をしている。",
+    "family": "previously",
+    "synonyms": [
+      "former",
+      "earlier"
+    ],
+    "tags": [
+      "standard",
+      "adj"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。previous の派生語: previously."
+  },
+  {
+    "id": "v-standard-03-primary",
+    "type": "vocab",
+    "level": "standard",
+    "word": "primary",
+    "meaning": "主要な・第一の",
+    "pos": "adj",
+    "question": "primary",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "主要な・第一の",
+    "explanation": "primary = 主要な・第一の。品詞: adj。語群: primarily。",
+    "exampleSentence": "The report provides a primary explanation of the issue.",
+    "exampleJa": "その報告書はその問題について主要な説明をしている。",
+    "family": "primarily",
+    "synonyms": [
+      "main",
+      "chief"
+    ],
+    "tags": [
+      "standard",
+      "adj"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。primary の派生語: primarily."
+  },
+  {
+    "id": "v-standard-03-aspect",
+    "type": "vocab",
+    "level": "standard",
+    "word": "aspect",
+    "meaning": "側面",
+    "pos": "n",
+    "question": "aspect",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "側面",
+    "explanation": "aspect = 側面。品詞: n。語群: aspects。",
+    "exampleSentence": "The study examines aspect in modern society.",
+    "exampleJa": "その研究は現代社会における側面を検討している。",
+    "family": "aspects",
+    "synonyms": [
+      "feature",
+      "side"
+    ],
+    "tags": [
+      "standard",
+      "n"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。aspect の派生語: aspects."
+  },
+  {
+    "id": "v-standard-03-attitude",
+    "type": "vocab",
+    "level": "standard",
+    "word": "attitude",
+    "meaning": "態度・姿勢",
+    "pos": "n",
+    "question": "attitude",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "態度・姿勢",
+    "explanation": "attitude = 態度・姿勢。品詞: n。語群: attitudinal。",
+    "exampleSentence": "The study examines attitude in modern society.",
+    "exampleJa": "その研究は現代社会における態度を検討している。",
+    "family": "attitudinal",
+    "synonyms": [
+      "view",
+      "stance"
+    ],
+    "tags": [
+      "standard",
+      "n"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。attitude の派生語: attitudinal."
+  },
+  {
+    "id": "v-standard-03-category",
+    "type": "vocab",
+    "level": "standard",
+    "word": "category",
+    "meaning": "分類・範疇",
+    "pos": "n",
+    "question": "category",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "分類・範疇",
+    "explanation": "category = 分類・範疇。品詞: n。語群: categorize。",
+    "exampleSentence": "The study examines category in modern society.",
+    "exampleJa": "その研究は現代社会における分類を検討している。",
+    "family": "categorize",
+    "synonyms": [
+      "class",
+      "group"
+    ],
+    "tags": [
+      "standard",
+      "n"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。category の派生語: categorize."
+  },
+  {
+    "id": "v-standard-03-circumstance",
+    "type": "vocab",
+    "level": "standard",
+    "word": "circumstance",
+    "meaning": "状況・事情",
+    "pos": "n",
+    "question": "circumstance",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "状況・事情",
+    "explanation": "circumstance = 状況・事情。品詞: n。語群: circumstantial。",
+    "exampleSentence": "The study examines circumstance in modern society.",
+    "exampleJa": "その研究は現代社会における状況を検討している。",
+    "family": "circumstantial",
+    "synonyms": [
+      "condition",
+      "situation"
+    ],
+    "tags": [
+      "standard",
+      "n"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。circumstance の派生語: circumstantial."
+  },
+  {
+    "id": "v-standard-03-concept",
+    "type": "vocab",
+    "level": "standard",
+    "word": "concept",
+    "meaning": "概念",
+    "pos": "n",
+    "question": "concept",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "概念",
+    "explanation": "concept = 概念。品詞: n。語群: conceptual。",
+    "exampleSentence": "The study examines concept in modern society.",
+    "exampleJa": "その研究は現代社会における概念を検討している。",
+    "family": "conceptual",
+    "synonyms": [
+      "idea",
+      "notion"
+    ],
+    "tags": [
+      "standard",
+      "n"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。concept の派生語: conceptual."
+  },
+  {
+    "id": "v-standard-03-context",
+    "type": "vocab",
+    "level": "standard",
+    "word": "context",
+    "meaning": "文脈・状況",
+    "pos": "n",
+    "question": "context",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "文脈・状況",
+    "explanation": "context = 文脈・状況。品詞: n。語群: contextual。",
+    "exampleSentence": "The study examines context in modern society.",
+    "exampleJa": "その研究は現代社会における文脈を検討している。",
+    "family": "contextual",
+    "synonyms": [
+      "setting",
+      "background"
+    ],
+    "tags": [
+      "standard",
+      "n"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。context の派生語: contextual."
+  },
+  {
+    "id": "v-standard-03-contrast",
+    "type": "vocab",
+    "level": "standard",
+    "word": "contrast",
+    "meaning": "対比",
+    "pos": "n",
+    "question": "contrast",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "対比",
+    "explanation": "contrast = 対比。品詞: n。語群: contrasting。",
+    "exampleSentence": "The study examines contrast in modern society.",
+    "exampleJa": "その研究は現代社会における対比を検討している。",
+    "family": "contrasting",
+    "synonyms": [
+      "difference",
+      "comparison"
+    ],
+    "tags": [
+      "standard",
+      "n"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。contrast の派生語: contrasting."
+  },
+  {
+    "id": "v-standard-03-factor",
+    "type": "vocab",
+    "level": "standard",
+    "word": "factor",
+    "meaning": "要因",
+    "pos": "n",
+    "question": "factor",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "要因",
+    "explanation": "factor = 要因。品詞: n。語群: factor。",
+    "exampleSentence": "The study examines factor in modern society.",
+    "exampleJa": "その研究は現代社会における要因を検討している。",
+    "family": "factor",
+    "synonyms": [
+      "cause",
+      "element"
+    ],
+    "tags": [
+      "standard",
+      "n"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。factor の派生語: factor."
+  },
+  {
+    "id": "v-standard-03-impact",
+    "type": "vocab",
+    "level": "standard",
+    "word": "impact",
+    "meaning": "影響",
+    "pos": "n",
+    "question": "impact",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "影響",
+    "explanation": "impact = 影響。品詞: n。語群: impactful。",
+    "exampleSentence": "The study examines impact in modern society.",
+    "exampleJa": "その研究は現代社会における影響を検討している。",
+    "family": "impactful",
+    "synonyms": [
+      "effect",
+      "influence"
+    ],
+    "tags": [
+      "standard",
+      "n"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。impact の派生語: impactful."
+  },
+  {
+    "id": "v-standard-03-measure",
+    "type": "vocab",
+    "level": "standard",
+    "word": "measure",
+    "meaning": "措置・測定",
+    "pos": "n",
+    "question": "measure",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "措置・測定",
+    "explanation": "measure = 措置・測定。品詞: n。語群: measurement。",
+    "exampleSentence": "The study examines measure in modern society.",
+    "exampleJa": "その研究は現代社会における措置を検討している。",
+    "family": "measurement",
+    "synonyms": [
+      "step",
+      "action"
+    ],
+    "tags": [
+      "standard",
+      "n"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。measure の派生語: measurement."
+  },
+  {
+    "id": "v-standard-03-policy",
+    "type": "vocab",
+    "level": "standard",
+    "word": "policy",
+    "meaning": "政策・方針",
+    "pos": "n",
+    "question": "policy",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "政策・方針",
+    "explanation": "policy = 政策・方針。品詞: n。語群: political。",
+    "exampleSentence": "The study examines policy in modern society.",
+    "exampleJa": "その研究は現代社会における政策を検討している。",
+    "family": "political",
+    "synonyms": [
+      "plan",
+      "rule"
+    ],
+    "tags": [
+      "standard",
+      "n"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。policy の派生語: political."
+  },
+  {
+    "id": "v-standard-03-strategy",
+    "type": "vocab",
+    "level": "standard",
+    "word": "strategy",
+    "meaning": "戦略",
+    "pos": "n",
+    "question": "strategy",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "戦略",
+    "explanation": "strategy = 戦略。品詞: n。語群: strategic。",
+    "exampleSentence": "The study examines strategy in modern society.",
+    "exampleJa": "その研究は現代社会における戦略を検討している。",
+    "family": "strategic",
+    "synonyms": [
+      "plan",
+      "tactic"
+    ],
+    "tags": [
+      "standard",
+      "n"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。strategy の派生語: strategic."
+  },
+  {
+    "id": "v-standard-03-trend",
+    "type": "vocab",
+    "level": "standard",
+    "word": "trend",
+    "meaning": "傾向",
+    "pos": "n",
+    "question": "trend",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "傾向",
+    "explanation": "trend = 傾向。品詞: n。語群: trending。",
+    "exampleSentence": "The study examines trend in modern society.",
+    "exampleJa": "その研究は現代社会における傾向を検討している。",
+    "family": "trending",
+    "synonyms": [
+      "tendency",
+      "direction"
+    ],
+    "tags": [
+      "standard",
+      "n"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。trend の派生語: trending."
+  }
+]

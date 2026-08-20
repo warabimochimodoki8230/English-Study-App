@@ -1,0 +1,1684 @@
+[
+  {
+    "id": "v-hard-101",
+    "type": "vocab",
+    "level": "hard",
+    "word": "adverse",
+    "meaning": "不利な・有害な",
+    "question": "adverse",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "認める・譲歩する",
+        "correct": false
+      },
+      {
+        "text": "懐疑的な",
+        "correct": false
+      },
+      {
+        "text": "不利な・有害な",
+        "correct": true
+      },
+      {
+        "text": "引き起こす・挑発する",
+        "correct": false
+      }
+    ],
+    "answer": "不利な・有害な",
+    "explanation": "adverse = 不利な・有害な。例：adverse effects"
+  },
+  {
+    "id": "v-hard-102",
+    "type": "vocab",
+    "level": "hard",
+    "word": "advocate",
+    "meaning": "主張する・支持者",
+    "question": "advocate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "主張する・支持者",
+        "correct": true
+      },
+      {
+        "text": "自発的な・自然発生的な",
+        "correct": false
+      },
+      {
+        "text": "もっともらしい",
+        "correct": false
+      },
+      {
+        "text": "懐疑的な",
+        "correct": false
+      }
+    ],
+    "answer": "主張する・支持者",
+    "explanation": "advocate = 主張する・支持者。例：advocate reform"
+  },
+  {
+    "id": "v-hard-103",
+    "type": "vocab",
+    "level": "hard",
+    "word": "alleviate",
+    "meaning": "軽減する",
+    "question": "alleviate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "妨げる",
+        "correct": false
+      },
+      {
+        "text": "微妙な差異を含む",
+        "correct": false
+      },
+      {
+        "text": "展開する・配置する",
+        "correct": false
+      },
+      {
+        "text": "軽減する",
+        "correct": true
+      }
+    ],
+    "answer": "軽減する",
+    "explanation": "alleviate = 軽減する。例：alleviate poverty"
+  },
+  {
+    "id": "v-hard-104",
+    "type": "vocab",
+    "level": "hard",
+    "word": "analogous",
+    "meaning": "類似した",
+    "question": "analogous",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "類似した",
+        "correct": true
+      },
+      {
+        "text": "多用途の・多才な",
+        "correct": false
+      },
+      {
+        "text": "明白な・示す",
+        "correct": false
+      },
+      {
+        "text": "絶え間ない・永続的な",
+        "correct": false
+      }
+    ],
+    "answer": "類似した",
+    "explanation": "analogous = 類似した。例：analogous cases"
+  },
+  {
+    "id": "v-hard-105",
+    "type": "vocab",
+    "level": "hard",
+    "word": "ascertain",
+    "meaning": "突き止める",
+    "question": "ascertain",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "強化する・支える",
+        "correct": false
+      },
+      {
+        "text": "突き止める",
+        "correct": true
+      },
+      {
+        "text": "細心の",
+        "correct": false
+      },
+      {
+        "text": "本質的な・固有の",
+        "correct": false
+      }
+    ],
+    "answer": "突き止める",
+    "explanation": "ascertain = 突き止める。例：ascertain the facts"
+  },
+  {
+    "id": "v-hard-106",
+    "type": "vocab",
+    "level": "hard",
+    "word": "bolster",
+    "meaning": "強化する・支える",
+    "question": "bolster",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "制約する",
+        "correct": false
+      },
+      {
+        "text": "強化する・支える",
+        "correct": true
+      },
+      {
+        "text": "突き止める",
+        "correct": false
+      },
+      {
+        "text": "累積的な",
+        "correct": false
+      }
+    ],
+    "answer": "強化する・支える",
+    "explanation": "bolster = 強化する・支える。例：bolster confidence"
+  },
+  {
+    "id": "v-hard-107",
+    "type": "vocab",
+    "level": "hard",
+    "word": "concede",
+    "meaning": "認める・譲歩する",
+    "question": "concede",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "超える",
+        "correct": false
+      },
+      {
+        "text": "行使する・及ぼす",
+        "correct": false
+      },
+      {
+        "text": "認める・譲歩する",
+        "correct": true
+      },
+      {
+        "text": "軽減する",
+        "correct": false
+      }
+    ],
+    "answer": "認める・譲歩する",
+    "explanation": "concede = 認める・譲歩する。例：concede a point"
+  },
+  {
+    "id": "v-hard-108",
+    "type": "vocab",
+    "level": "hard",
+    "word": "constrain",
+    "meaning": "制約する",
+    "question": "constrain",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "制約する",
+        "correct": true
+      },
+      {
+        "text": "実用的な・現実的な",
+        "correct": false
+      },
+      {
+        "text": "軽減する",
+        "correct": false
+      },
+      {
+        "text": "回復力のある",
+        "correct": false
+      }
+    ],
+    "answer": "制約する",
+    "explanation": "constrain = 制約する。例：constrain freedom"
+  },
+  {
+    "id": "v-hard-109",
+    "type": "vocab",
+    "level": "hard",
+    "word": "cumulative",
+    "meaning": "累積的な",
+    "question": "cumulative",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "差別する・区別する",
+        "correct": false
+      },
+      {
+        "text": "不可欠な",
+        "correct": false
+      },
+      {
+        "text": "認める・譲歩する",
+        "correct": false
+      },
+      {
+        "text": "累積的な",
+        "correct": true
+      }
+    ],
+    "answer": "累積的な",
+    "explanation": "cumulative = 累積的な。例：cumulative effects"
+  },
+  {
+    "id": "v-hard-110",
+    "type": "vocab",
+    "level": "hard",
+    "word": "defer",
+    "meaning": "延期する・従う",
+    "question": "defer",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "制約する",
+        "correct": false
+      },
+      {
+        "text": "本質的な・固有の",
+        "correct": false
+      },
+      {
+        "text": "延期する・従う",
+        "correct": true
+      },
+      {
+        "text": "もっともらしい",
+        "correct": false
+      }
+    ],
+    "answer": "延期する・従う",
+    "explanation": "defer = 延期する・従う。例：defer the decision"
+  },
+  {
+    "id": "v-hard-111",
+    "type": "vocab",
+    "level": "hard",
+    "word": "deploy",
+    "meaning": "展開する・配置する",
+    "question": "deploy",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "余波・悪影響",
+        "correct": false
+      },
+      {
+        "text": "展開する・配置する",
+        "correct": true
+      },
+      {
+        "text": "育てる・促進する",
+        "correct": false
+      },
+      {
+        "text": "超える",
+        "correct": false
+      }
+    ],
+    "answer": "展開する・配置する",
+    "explanation": "deploy = 展開する・配置する。例：deploy resources"
+  },
+  {
+    "id": "v-hard-112",
+    "type": "vocab",
+    "level": "hard",
+    "word": "deter",
+    "meaning": "思いとどまらせる",
+    "question": "deter",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "実行可能な",
+        "correct": false
+      },
+      {
+        "text": "支配的な・主な",
+        "correct": false
+      },
+      {
+        "text": "熱心な・熱烈な",
+        "correct": false
+      },
+      {
+        "text": "思いとどまらせる",
+        "correct": true
+      }
+    ],
+    "answer": "思いとどまらせる",
+    "explanation": "deter = 思いとどまらせる。例：deter crime"
+  },
+  {
+    "id": "v-hard-113",
+    "type": "vocab",
+    "level": "hard",
+    "word": "discrepancy",
+    "meaning": "食い違い",
+    "question": "discrepancy",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "実行可能な・生存できる",
+        "correct": false
+      },
+      {
+        "text": "回復力のある",
+        "correct": false
+      },
+      {
+        "text": "食い違い",
+        "correct": true
+      },
+      {
+        "text": "目立つ",
+        "correct": false
+      }
+    ],
+    "answer": "食い違い",
+    "explanation": "discrepancy = 食い違い。例：a discrepancy in the data"
+  },
+  {
+    "id": "v-hard-114",
+    "type": "vocab",
+    "level": "hard",
+    "word": "discriminate",
+    "meaning": "差別する・区別する",
+    "question": "discriminate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "多用途の・多才な",
+        "correct": false
+      },
+      {
+        "text": "引き起こす・挑発する",
+        "correct": false
+      },
+      {
+        "text": "差別する・区別する",
+        "correct": true
+      },
+      {
+        "text": "思いとどまらせる",
+        "correct": false
+      }
+    ],
+    "answer": "差別する・区別する",
+    "explanation": "discriminate = 差別する・区別する。例：discriminate against people"
+  },
+  {
+    "id": "v-hard-115",
+    "type": "vocab",
+    "level": "hard",
+    "word": "exert",
+    "meaning": "行使する・及ぼす",
+    "question": "exert",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "微妙な差異を含む",
+        "correct": false
+      },
+      {
+        "text": "広める",
+        "correct": false
+      },
+      {
+        "text": "行使する・及ぼす",
+        "correct": true
+      },
+      {
+        "text": "厳しい・厳格な",
+        "correct": false
+      }
+    ],
+    "answer": "行使する・及ぼす",
+    "explanation": "exert = 行使する・及ぼす。例：exert influence"
+  },
+  {
+    "id": "v-hard-116",
+    "type": "vocab",
+    "level": "hard",
+    "word": "foster",
+    "meaning": "育てる・促進する",
+    "question": "foster",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "細心の",
+        "correct": false
+      },
+      {
+        "text": "育てる・促進する",
+        "correct": true
+      },
+      {
+        "text": "差別する・区別する",
+        "correct": false
+      },
+      {
+        "text": "弱体化させる",
+        "correct": false
+      }
+    ],
+    "answer": "育てる・促進する",
+    "explanation": "foster = 育てる・促進する。例：foster creativity"
+  },
+  {
+    "id": "v-hard-117",
+    "type": "vocab",
+    "level": "hard",
+    "word": "intrinsic",
+    "meaning": "本質的な・固有の",
+    "question": "intrinsic",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "多用途の・多才な",
+        "correct": false
+      },
+      {
+        "text": "差別する・区別する",
+        "correct": false
+      },
+      {
+        "text": "不利な・有害な",
+        "correct": false
+      },
+      {
+        "text": "本質的な・固有の",
+        "correct": true
+      }
+    ],
+    "answer": "本質的な・固有の",
+    "explanation": "intrinsic = 本質的な・固有の。例：intrinsic value"
+  },
+  {
+    "id": "v-hard-118",
+    "type": "vocab",
+    "level": "hard",
+    "word": "meticulous",
+    "meaning": "細心の",
+    "question": "meticulous",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "細心の",
+        "correct": true
+      },
+      {
+        "text": "広く行き渡った",
+        "correct": false
+      },
+      {
+        "text": "認める・譲歩する",
+        "correct": false
+      },
+      {
+        "text": "暫定的な・自信なさげな",
+        "correct": false
+      }
+    ],
+    "answer": "細心の",
+    "explanation": "meticulous = 細心の。例：meticulous preparation"
+  },
+  {
+    "id": "v-hard-119",
+    "type": "vocab",
+    "level": "hard",
+    "word": "obsolete",
+    "meaning": "時代遅れの",
+    "question": "obsolete",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "微妙な差異を含む",
+        "correct": false
+      },
+      {
+        "text": "時代遅れの",
+        "correct": true
+      },
+      {
+        "text": "食い違い",
+        "correct": false
+      },
+      {
+        "text": "実行可能な",
+        "correct": false
+      }
+    ],
+    "answer": "時代遅れの",
+    "explanation": "obsolete = 時代遅れの。例：obsolete technology"
+  },
+  {
+    "id": "v-hard-120",
+    "type": "vocab",
+    "level": "hard",
+    "word": "pervasive",
+    "meaning": "広く行き渡った",
+    "question": "pervasive",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "認める・譲歩する",
+        "correct": false
+      },
+      {
+        "text": "思いとどまらせる",
+        "correct": false
+      },
+      {
+        "text": "広く行き渡った",
+        "correct": true
+      },
+      {
+        "text": "実行可能な",
+        "correct": false
+      }
+    ],
+    "answer": "広く行き渡った",
+    "explanation": "pervasive = 広く行き渡った。例：pervasive influence"
+  },
+  {
+    "id": "v-hard-121",
+    "type": "vocab",
+    "level": "hard",
+    "word": "plausible",
+    "meaning": "もっともらしい",
+    "question": "plausible",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "時代遅れの",
+        "correct": false
+      },
+      {
+        "text": "もっともらしい",
+        "correct": true
+      },
+      {
+        "text": "不利な・有害な",
+        "correct": false
+      },
+      {
+        "text": "延期する・従う",
+        "correct": false
+      }
+    ],
+    "answer": "もっともらしい",
+    "explanation": "plausible = もっともらしい。例：a plausible explanation"
+  },
+  {
+    "id": "v-hard-122",
+    "type": "vocab",
+    "level": "hard",
+    "word": "pragmatic",
+    "meaning": "実用的な・現実的な",
+    "question": "pragmatic",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "実用的な・現実的な",
+        "correct": true
+      },
+      {
+        "text": "弱体化させる",
+        "correct": false
+      },
+      {
+        "text": "明白な・示す",
+        "correct": false
+      },
+      {
+        "text": "暫定的な・自信なさげな",
+        "correct": false
+      }
+    ],
+    "answer": "実用的な・現実的な",
+    "explanation": "pragmatic = 実用的な・現実的な。例：a pragmatic approach"
+  },
+  {
+    "id": "v-hard-123",
+    "type": "vocab",
+    "level": "hard",
+    "word": "predominant",
+    "meaning": "支配的な・主な",
+    "question": "predominant",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "厳しい・厳格な",
+        "correct": false
+      },
+      {
+        "text": "典型例となる",
+        "correct": false
+      },
+      {
+        "text": "時代遅れの",
+        "correct": false
+      },
+      {
+        "text": "支配的な・主な",
+        "correct": true
+      }
+    ],
+    "answer": "支配的な・主な",
+    "explanation": "predominant = 支配的な・主な。例：the predominant view"
+  },
+  {
+    "id": "v-hard-124",
+    "type": "vocab",
+    "level": "hard",
+    "word": "proponent",
+    "meaning": "提唱者",
+    "question": "proponent",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "懐疑的な",
+        "correct": false
+      },
+      {
+        "text": "提唱者",
+        "correct": true
+      },
+      {
+        "text": "暫定的な・自信なさげな",
+        "correct": false
+      },
+      {
+        "text": "展開する・配置する",
+        "correct": false
+      }
+    ],
+    "answer": "提唱者",
+    "explanation": "proponent = 提唱者。例：a proponent of reform"
+  },
+  {
+    "id": "v-hard-125",
+    "type": "vocab",
+    "level": "hard",
+    "word": "provoke",
+    "meaning": "引き起こす・挑発する",
+    "question": "provoke",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "引き起こす・挑発する",
+        "correct": true
+      },
+      {
+        "text": "制約する",
+        "correct": false
+      },
+      {
+        "text": "差別する・区別する",
+        "correct": false
+      },
+      {
+        "text": "自発的な・自然発生的な",
+        "correct": false
+      }
+    ],
+    "answer": "引き起こす・挑発する",
+    "explanation": "provoke = 引き起こす・挑発する。例：provoke debate"
+  },
+  {
+    "id": "v-hard-126",
+    "type": "vocab",
+    "level": "hard",
+    "word": "repercussion",
+    "meaning": "余波・悪影響",
+    "question": "repercussion",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "暫定的な・自信なさげな",
+        "correct": false
+      },
+      {
+        "text": "目立つ",
+        "correct": false
+      },
+      {
+        "text": "余波・悪影響",
+        "correct": true
+      },
+      {
+        "text": "精査する",
+        "correct": false
+      }
+    ],
+    "answer": "余波・悪影響",
+    "explanation": "repercussion = 余波・悪影響。例：serious repercussions"
+  },
+  {
+    "id": "v-hard-127",
+    "type": "vocab",
+    "level": "hard",
+    "word": "resilient",
+    "meaning": "回復力のある",
+    "question": "resilient",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "前例のない",
+        "correct": false
+      },
+      {
+        "text": "目立つ",
+        "correct": false
+      },
+      {
+        "text": "回復力のある",
+        "correct": true
+      },
+      {
+        "text": "暫定的な・自信なさげな",
+        "correct": false
+      }
+    ],
+    "answer": "回復力のある",
+    "explanation": "resilient = 回復力のある。例：a resilient community"
+  },
+  {
+    "id": "v-hard-128",
+    "type": "vocab",
+    "level": "hard",
+    "word": "scrutinize",
+    "meaning": "精査する",
+    "question": "scrutinize",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "目立つ",
+        "correct": false
+      },
+      {
+        "text": "広める",
+        "correct": false
+      },
+      {
+        "text": "精査する",
+        "correct": true
+      },
+      {
+        "text": "累積的な",
+        "correct": false
+      }
+    ],
+    "answer": "精査する",
+    "explanation": "scrutinize = 精査する。例：scrutinize the evidence"
+  },
+  {
+    "id": "v-hard-129",
+    "type": "vocab",
+    "level": "hard",
+    "word": "skeptical",
+    "meaning": "懐疑的な",
+    "question": "skeptical",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "引き下げる・撤退する",
+        "correct": false
+      },
+      {
+        "text": "実行可能な",
+        "correct": false
+      },
+      {
+        "text": "懐疑的な",
+        "correct": true
+      },
+      {
+        "text": "深遠な・重大な",
+        "correct": false
+      }
+    ],
+    "answer": "懐疑的な",
+    "explanation": "skeptical = 懐疑的な。例：be skeptical of claims"
+  },
+  {
+    "id": "v-hard-130",
+    "type": "vocab",
+    "level": "hard",
+    "word": "spontaneous",
+    "meaning": "自発的な・自然発生的な",
+    "question": "spontaneous",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "精査する",
+        "correct": false
+      },
+      {
+        "text": "利益の大きい",
+        "correct": false
+      },
+      {
+        "text": "育てる・促進する",
+        "correct": false
+      },
+      {
+        "text": "自発的な・自然発生的な",
+        "correct": true
+      }
+    ],
+    "answer": "自発的な・自然発生的な",
+    "explanation": "spontaneous = 自発的な・自然発生的な。例：a spontaneous reaction"
+  },
+  {
+    "id": "v-hard-131",
+    "type": "vocab",
+    "level": "hard",
+    "word": "stringent",
+    "meaning": "厳しい・厳格な",
+    "question": "stringent",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "差別する・区別する",
+        "correct": false
+      },
+      {
+        "text": "公平な",
+        "correct": false
+      },
+      {
+        "text": "不利な・有害な",
+        "correct": false
+      },
+      {
+        "text": "厳しい・厳格な",
+        "correct": true
+      }
+    ],
+    "answer": "厳しい・厳格な",
+    "explanation": "stringent = 厳しい・厳格な。例：stringent regulations"
+  },
+  {
+    "id": "v-hard-132",
+    "type": "vocab",
+    "level": "hard",
+    "word": "tentative",
+    "meaning": "暫定的な・自信なさげな",
+    "question": "tentative",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "公平な",
+        "correct": false
+      },
+      {
+        "text": "軽減する",
+        "correct": false
+      },
+      {
+        "text": "暫定的な・自信なさげな",
+        "correct": true
+      },
+      {
+        "text": "利益の大きい",
+        "correct": false
+      }
+    ],
+    "answer": "暫定的な・自信なさげな",
+    "explanation": "tentative = 暫定的な・自信なさげな。例：a tentative conclusion"
+  },
+  {
+    "id": "v-hard-133",
+    "type": "vocab",
+    "level": "hard",
+    "word": "transcend",
+    "meaning": "超える",
+    "question": "transcend",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "食い違い",
+        "correct": false
+      },
+      {
+        "text": "育てる・促進する",
+        "correct": false
+      },
+      {
+        "text": "超える",
+        "correct": true
+      },
+      {
+        "text": "支配的な・主な",
+        "correct": false
+      }
+    ],
+    "answer": "超える",
+    "explanation": "transcend = 超える。例：transcend cultural boundaries"
+  },
+  {
+    "id": "v-hard-134",
+    "type": "vocab",
+    "level": "hard",
+    "word": "undermine",
+    "meaning": "弱体化させる",
+    "question": "undermine",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "弱体化させる",
+        "correct": true
+      },
+      {
+        "text": "広く行き渡った",
+        "correct": false
+      },
+      {
+        "text": "相互の",
+        "correct": false
+      },
+      {
+        "text": "典型例となる",
+        "correct": false
+      }
+    ],
+    "answer": "弱体化させる",
+    "explanation": "undermine = 弱体化させる。例：undermine trust"
+  },
+  {
+    "id": "v-hard-135",
+    "type": "vocab",
+    "level": "hard",
+    "word": "viable",
+    "meaning": "実行可能な・生存できる",
+    "question": "viable",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "軽減する",
+        "correct": false
+      },
+      {
+        "text": "認める・譲歩する",
+        "correct": false
+      },
+      {
+        "text": "実行可能な・生存できる",
+        "correct": true
+      },
+      {
+        "text": "妨げる",
+        "correct": false
+      }
+    ],
+    "answer": "実行可能な・生存できる",
+    "explanation": "viable = 実行可能な・生存できる。例：a viable solution"
+  },
+  {
+    "id": "v-hard-136",
+    "type": "vocab",
+    "level": "hard",
+    "word": "withdraw",
+    "meaning": "引き下げる・撤退する",
+    "question": "withdraw",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "思いとどまらせる",
+        "correct": false
+      },
+      {
+        "text": "自発的な・任意の",
+        "correct": false
+      },
+      {
+        "text": "妨げる",
+        "correct": false
+      },
+      {
+        "text": "引き下げる・撤退する",
+        "correct": true
+      }
+    ],
+    "answer": "引き下げる・撤退する",
+    "explanation": "withdraw = 引き下げる・撤退する。例：withdraw support"
+  },
+  {
+    "id": "v-hard-137",
+    "type": "vocab",
+    "level": "hard",
+    "word": "abrupt",
+    "meaning": "突然の・不意の",
+    "question": "abrupt",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "有害な",
+        "correct": false
+      },
+      {
+        "text": "不可欠な",
+        "correct": false
+      },
+      {
+        "text": "突然の・不意の",
+        "correct": true
+      },
+      {
+        "text": "暫定的な・自信なさげな",
+        "correct": false
+      }
+    ],
+    "answer": "突然の・不意の",
+    "explanation": "abrupt = 突然の・不意の。例：an abrupt change"
+  },
+  {
+    "id": "v-hard-138",
+    "type": "vocab",
+    "level": "hard",
+    "word": "conspicuous",
+    "meaning": "目立つ",
+    "question": "conspicuous",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "目立つ",
+        "correct": true
+      },
+      {
+        "text": "思いとどまらせる",
+        "correct": false
+      },
+      {
+        "text": "類似した",
+        "correct": false
+      },
+      {
+        "text": "主張する・支持者",
+        "correct": false
+      }
+    ],
+    "answer": "目立つ",
+    "explanation": "conspicuous = 目立つ。例：a conspicuous difference"
+  },
+  {
+    "id": "v-hard-139",
+    "type": "vocab",
+    "level": "hard",
+    "word": "detrimental",
+    "meaning": "有害な",
+    "question": "detrimental",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "明白な・示す",
+        "correct": false
+      },
+      {
+        "text": "有害な",
+        "correct": true
+      },
+      {
+        "text": "絶え間ない・永続的な",
+        "correct": false
+      },
+      {
+        "text": "自発的な・自然発生的な",
+        "correct": false
+      }
+    ],
+    "answer": "有害な",
+    "explanation": "detrimental = 有害な。例：detrimental to health"
+  },
+  {
+    "id": "v-hard-140",
+    "type": "vocab",
+    "level": "hard",
+    "word": "disseminate",
+    "meaning": "広める",
+    "question": "disseminate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "広める",
+        "correct": true
+      },
+      {
+        "text": "強化する・支える",
+        "correct": false
+      },
+      {
+        "text": "利益の大きい",
+        "correct": false
+      },
+      {
+        "text": "回復力のある",
+        "correct": false
+      }
+    ],
+    "answer": "広める",
+    "explanation": "disseminate = 広める。例：disseminate information"
+  },
+  {
+    "id": "v-hard-141",
+    "type": "vocab",
+    "level": "hard",
+    "word": "equitable",
+    "meaning": "公平な",
+    "question": "equitable",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "広く行き渡った",
+        "correct": false
+      },
+      {
+        "text": "公平な",
+        "correct": true
+      },
+      {
+        "text": "前例のない",
+        "correct": false
+      },
+      {
+        "text": "累積的な",
+        "correct": false
+      }
+    ],
+    "answer": "公平な",
+    "explanation": "equitable = 公平な。例：an equitable distribution"
+  },
+  {
+    "id": "v-hard-142",
+    "type": "vocab",
+    "level": "hard",
+    "word": "exemplify",
+    "meaning": "典型例となる",
+    "question": "exemplify",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "強化する・支える",
+        "correct": false
+      },
+      {
+        "text": "実行可能な・生存できる",
+        "correct": false
+      },
+      {
+        "text": "典型例となる",
+        "correct": true
+      },
+      {
+        "text": "前例のない",
+        "correct": false
+      }
+    ],
+    "answer": "典型例となる",
+    "explanation": "exemplify = 典型例となる。例：exemplify the trend"
+  },
+  {
+    "id": "v-hard-143",
+    "type": "vocab",
+    "level": "hard",
+    "word": "feasible",
+    "meaning": "実行可能な",
+    "question": "feasible",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "絶え間ない・永続的な",
+        "correct": false
+      },
+      {
+        "text": "実行可能な",
+        "correct": true
+      },
+      {
+        "text": "時代遅れの",
+        "correct": false
+      },
+      {
+        "text": "広く行き渡った",
+        "correct": false
+      }
+    ],
+    "answer": "実行可能な",
+    "explanation": "feasible = 実行可能な。例：a feasible plan"
+  },
+  {
+    "id": "v-hard-144",
+    "type": "vocab",
+    "level": "hard",
+    "word": "impede",
+    "meaning": "妨げる",
+    "question": "impede",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "累積的な",
+        "correct": false
+      },
+      {
+        "text": "突き止める",
+        "correct": false
+      },
+      {
+        "text": "類似した",
+        "correct": false
+      },
+      {
+        "text": "妨げる",
+        "correct": true
+      }
+    ],
+    "answer": "妨げる",
+    "explanation": "impede = 妨げる。例：impede progress"
+  },
+  {
+    "id": "v-hard-145",
+    "type": "vocab",
+    "level": "hard",
+    "word": "inadvertent",
+    "meaning": "意図しない",
+    "question": "inadvertent",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "熱心な・熱烈な",
+        "correct": false
+      },
+      {
+        "text": "意図しない",
+        "correct": true
+      },
+      {
+        "text": "妨げる",
+        "correct": false
+      },
+      {
+        "text": "有害な",
+        "correct": false
+      }
+    ],
+    "answer": "意図しない",
+    "explanation": "inadvertent = 意図しない。例：an inadvertent error"
+  },
+  {
+    "id": "v-hard-146",
+    "type": "vocab",
+    "level": "hard",
+    "word": "indispensable",
+    "meaning": "不可欠な",
+    "question": "indispensable",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "不可欠な",
+        "correct": true
+      },
+      {
+        "text": "自発的な・任意の",
+        "correct": false
+      },
+      {
+        "text": "突然の・不意の",
+        "correct": false
+      },
+      {
+        "text": "意図しない",
+        "correct": false
+      }
+    ],
+    "answer": "不可欠な",
+    "explanation": "indispensable = 不可欠な。例：an indispensable tool"
+  },
+  {
+    "id": "v-hard-147",
+    "type": "vocab",
+    "level": "hard",
+    "word": "intricate",
+    "meaning": "複雑な",
+    "question": "intricate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "深遠な・重大な",
+        "correct": false
+      },
+      {
+        "text": "複雑な",
+        "correct": true
+      },
+      {
+        "text": "類似した",
+        "correct": false
+      },
+      {
+        "text": "有害な",
+        "correct": false
+      }
+    ],
+    "answer": "複雑な",
+    "explanation": "intricate = 複雑な。例：an intricate system"
+  },
+  {
+    "id": "v-hard-148",
+    "type": "vocab",
+    "level": "hard",
+    "word": "lucrative",
+    "meaning": "利益の大きい",
+    "question": "lucrative",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "食い違い",
+        "correct": false
+      },
+      {
+        "text": "行使する・及ぼす",
+        "correct": false
+      },
+      {
+        "text": "懐疑的な",
+        "correct": false
+      },
+      {
+        "text": "利益の大きい",
+        "correct": true
+      }
+    ],
+    "answer": "利益の大きい",
+    "explanation": "lucrative = 利益の大きい。例：a lucrative business"
+  },
+  {
+    "id": "v-hard-149",
+    "type": "vocab",
+    "level": "hard",
+    "word": "manifest",
+    "meaning": "明白な・示す",
+    "question": "manifest",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "提唱者",
+        "correct": false
+      },
+      {
+        "text": "明白な・示す",
+        "correct": true
+      },
+      {
+        "text": "公平な",
+        "correct": false
+      },
+      {
+        "text": "余波・悪影響",
+        "correct": false
+      }
+    ],
+    "answer": "明白な・示す",
+    "explanation": "manifest = 明白な・示す。例：manifest a change"
+  },
+  {
+    "id": "v-hard-150",
+    "type": "vocab",
+    "level": "hard",
+    "word": "nuanced",
+    "meaning": "微妙な差異を含む",
+    "question": "nuanced",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "多用途の・多才な",
+        "correct": false
+      },
+      {
+        "text": "微妙な差異を含む",
+        "correct": true
+      },
+      {
+        "text": "突然の・不意の",
+        "correct": false
+      },
+      {
+        "text": "有害な",
+        "correct": false
+      }
+    ],
+    "answer": "微妙な差異を含む",
+    "explanation": "nuanced = 微妙な差異を含む。例：a nuanced view"
+  },
+  {
+    "id": "v-hard-151",
+    "type": "vocab",
+    "level": "hard",
+    "word": "perpetual",
+    "meaning": "絶え間ない・永続的な",
+    "question": "perpetual",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "絶え間ない・永続的な",
+        "correct": true
+      },
+      {
+        "text": "微妙な差異を含む",
+        "correct": false
+      },
+      {
+        "text": "実用的な・現実的な",
+        "correct": false
+      },
+      {
+        "text": "明白な・示す",
+        "correct": false
+      }
+    ],
+    "answer": "絶え間ない・永続的な",
+    "explanation": "perpetual = 絶え間ない・永続的な。例：perpetual conflict"
+  },
+  {
+    "id": "v-hard-152",
+    "type": "vocab",
+    "level": "hard",
+    "word": "profound",
+    "meaning": "深遠な・重大な",
+    "question": "profound",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "実行可能な",
+        "correct": false
+      },
+      {
+        "text": "深遠な・重大な",
+        "correct": true
+      },
+      {
+        "text": "自発的な・任意の",
+        "correct": false
+      },
+      {
+        "text": "広く行き渡った",
+        "correct": false
+      }
+    ],
+    "answer": "深遠な・重大な",
+    "explanation": "profound = 深遠な・重大な。例：a profound question"
+  },
+  {
+    "id": "v-hard-153",
+    "type": "vocab",
+    "level": "hard",
+    "word": "reciprocal",
+    "meaning": "相互の",
+    "question": "reciprocal",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "回復力のある",
+        "correct": false
+      },
+      {
+        "text": "超える",
+        "correct": false
+      },
+      {
+        "text": "食い違い",
+        "correct": false
+      },
+      {
+        "text": "相互の",
+        "correct": true
+      }
+    ],
+    "answer": "相互の",
+    "explanation": "reciprocal = 相互の。例：reciprocal benefits"
+  },
+  {
+    "id": "v-hard-154",
+    "type": "vocab",
+    "level": "hard",
+    "word": "rigorous",
+    "meaning": "厳密な・徹底した",
+    "question": "rigorous",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "厳密な・徹底した",
+        "correct": true
+      },
+      {
+        "text": "絶え間ない・永続的な",
+        "correct": false
+      },
+      {
+        "text": "相互の",
+        "correct": false
+      },
+      {
+        "text": "育てる・促進する",
+        "correct": false
+      }
+    ],
+    "answer": "厳密な・徹底した",
+    "explanation": "rigorous = 厳密な・徹底した。例：rigorous research"
+  },
+  {
+    "id": "v-hard-155",
+    "type": "vocab",
+    "level": "hard",
+    "word": "unprecedented",
+    "meaning": "前例のない",
+    "question": "unprecedented",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "前例のない",
+        "correct": true
+      },
+      {
+        "text": "実行可能な",
+        "correct": false
+      },
+      {
+        "text": "目立つ",
+        "correct": false
+      },
+      {
+        "text": "超える",
+        "correct": false
+      }
+    ],
+    "answer": "前例のない",
+    "explanation": "unprecedented = 前例のない。例：an unprecedented event"
+  },
+  {
+    "id": "v-hard-156",
+    "type": "vocab",
+    "level": "hard",
+    "word": "versatile",
+    "meaning": "多用途の・多才な",
+    "question": "versatile",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "軽減する",
+        "correct": false
+      },
+      {
+        "text": "公平な",
+        "correct": false
+      },
+      {
+        "text": "意図しない",
+        "correct": false
+      },
+      {
+        "text": "多用途の・多才な",
+        "correct": true
+      }
+    ],
+    "answer": "多用途の・多才な",
+    "explanation": "versatile = 多用途の・多才な。例：a versatile tool"
+  },
+  {
+    "id": "v-hard-157",
+    "type": "vocab",
+    "level": "hard",
+    "word": "voluntary",
+    "meaning": "自発的な・任意の",
+    "question": "voluntary",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "本質的な・固有の",
+        "correct": false
+      },
+      {
+        "text": "有害な",
+        "correct": false
+      },
+      {
+        "text": "自発的な・任意の",
+        "correct": true
+      },
+      {
+        "text": "回復力のある",
+        "correct": false
+      }
+    ],
+    "answer": "自発的な・任意の",
+    "explanation": "voluntary = 自発的な・任意の。例：voluntary participation"
+  },
+  {
+    "id": "v-hard-158",
+    "type": "vocab",
+    "level": "hard",
+    "word": "zealous",
+    "meaning": "熱心な・熱烈な",
+    "question": "zealous",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "厳密な・徹底した",
+        "correct": false
+      },
+      {
+        "text": "熱心な・熱烈な",
+        "correct": true
+      },
+      {
+        "text": "軽減する",
+        "correct": false
+      },
+      {
+        "text": "思いとどまらせる",
+        "correct": false
+      }
+    ],
+    "answer": "熱心な・熱烈な",
+    "explanation": "zealous = 熱心な・熱烈な。例：a zealous supporter"
+  }
+]

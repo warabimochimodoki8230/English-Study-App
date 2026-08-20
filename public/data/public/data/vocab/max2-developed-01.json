@@ -1,0 +1,62 @@
+[
+  {
+    "id": "v-max2-anticipation",
+    "type": "vocab",
+    "level": "developed",
+    "word": "anticipation",
+    "meaning": "予想；期待",
+    "pos": "n",
+    "exampleSentence": "The anticipation is important in this context.",
+    "exampleJa": "この文脈では予想が重要だ。",
+    "explanation": "anticipation：予想；期待。常用・入試重要語として定着させる。",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-max2",
+      "入試発展"
+    ],
+    "source": "curated-vocab-max2-2026"
+  },
+  {
+    "id": "v-max2-commodity",
+    "type": "vocab",
+    "level": "developed",
+    "word": "commodity",
+    "meaning": "商品",
+    "pos": "n",
+    "exampleSentence": "The commodity is important in this context.",
+    "exampleJa": "この文脈では商品が重要だ。",
+    "explanation": "commodity：商品。常用・入試重要語として定着させる。",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-max2",
+      "入試発展"
+    ],
+    "source": "curated-vocab-max2-2026"
+  },
+  {
+    "id": "v-max2-condense",
+    "type": "vocab",
+    "level": "developed",
+    "word": "condense",
+    "meaning": "要約する；凝縮する",
+    "pos": "v",
+    "exampleSentence": "We need to condense the problem carefully.",
+    "exampleJa": "私たちはその問題を注意深く要約する必要がある。",
+    "explanation": "condense：要約する；凝縮する。常用・入試重要語として定着させる。",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-max2",
+      "入試発展"
+    ],
+    "source": "curated-vocab-max2-2026"
+  }
+]

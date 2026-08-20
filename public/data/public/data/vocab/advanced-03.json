@@ -1,0 +1,476 @@
+[
+  {
+    "id": "v-advanced-03-abolish",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "abolish",
+    "meaning": "廃止する",
+    "pos": "v",
+    "question": "abolish",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "廃止する",
+    "explanation": "abolish = 廃止する。品詞: v。語群: abolition。",
+    "exampleSentence": "Researchers abolish the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を廃止する。",
+    "family": "abolition",
+    "synonyms": [
+      "eliminate",
+      "end"
+    ],
+    "tags": [
+      "advanced",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。abolish の派生語: abolition."
+  },
+  {
+    "id": "v-advanced-03-arise",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "arise",
+    "meaning": "生じる",
+    "pos": "v",
+    "question": "arise",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "生じる",
+    "explanation": "arise = 生じる。品詞: v。語群: arose;arising。",
+    "exampleSentence": "Researchers arise the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を生じる。",
+    "family": "arose;arising",
+    "synonyms": [
+      "emerge",
+      "occur"
+    ],
+    "tags": [
+      "advanced",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。arise の派生語: arose;arising."
+  },
+  {
+    "id": "v-advanced-03-authority",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "authority",
+    "meaning": "権威・権限",
+    "pos": "n",
+    "question": "authority",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "権威・権限",
+    "explanation": "authority = 権威・権限。品詞: n。語群: authorize;authoritative。",
+    "exampleSentence": "The study examines authority in modern society.",
+    "exampleJa": "その研究は現代社会における権威を検討している。",
+    "family": "authorize;authoritative",
+    "synonyms": [
+      "power",
+      "control"
+    ],
+    "tags": [
+      "advanced",
+      "n"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。authority の派生語: authorize;authoritative."
+  },
+  {
+    "id": "v-advanced-03-concession",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "concession",
+    "meaning": "譲歩",
+    "pos": "n",
+    "question": "concession",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "譲歩",
+    "explanation": "concession = 譲歩。品詞: n。語群: concede。",
+    "exampleSentence": "The study examines concession in modern society.",
+    "exampleJa": "その研究は現代社会における譲歩を検討している。",
+    "family": "concede",
+    "synonyms": [
+      "compromise",
+      "allowance"
+    ],
+    "tags": [
+      "advanced",
+      "n"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。concession の派生語: concede."
+  },
+  {
+    "id": "v-advanced-03-concurrent",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "concurrent",
+    "meaning": "同時に起こる",
+    "pos": "adj",
+    "question": "concurrent",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "同時に起こる",
+    "explanation": "concurrent = 同時に起こる。品詞: adj。語群: concurrently。",
+    "exampleSentence": "The report provides a concurrent explanation of the issue.",
+    "exampleJa": "その報告書はその問題について同時に起こる説明をしている。",
+    "family": "concurrently",
+    "synonyms": [
+      "simultaneous",
+      "parallel"
+    ],
+    "tags": [
+      "advanced",
+      "adj"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。concurrent の派生語: concurrently."
+  },
+  {
+    "id": "v-advanced-03-controversy",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "controversy",
+    "meaning": "論争",
+    "pos": "n",
+    "question": "controversy",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "論争",
+    "explanation": "controversy = 論争。品詞: n。語群: controversial。",
+    "exampleSentence": "The study examines controversy in modern society.",
+    "exampleJa": "その研究は現代社会における論争を検討している。",
+    "family": "controversial",
+    "synonyms": [
+      "dispute",
+      "debate"
+    ],
+    "tags": [
+      "advanced",
+      "n"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。controversy の派生語: controversial."
+  },
+  {
+    "id": "v-advanced-03-credible",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "credible",
+    "meaning": "信頼できる",
+    "pos": "adj",
+    "question": "credible",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "信頼できる",
+    "explanation": "credible = 信頼できる。品詞: adj。語群: credibility。",
+    "exampleSentence": "The report provides a credible explanation of the issue.",
+    "exampleJa": "その報告書はその問題について信頼できる説明をしている。",
+    "family": "credibility",
+    "synonyms": [
+      "believable",
+      "reliable"
+    ],
+    "tags": [
+      "advanced",
+      "adj"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。credible の派生語: credibility."
+  },
+  {
+    "id": "v-advanced-03-disrupt",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "disrupt",
+    "meaning": "混乱させる・中断する",
+    "pos": "v",
+    "question": "disrupt",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "混乱させる・中断する",
+    "explanation": "disrupt = 混乱させる・中断する。品詞: v。語群: disruption;disruptive。",
+    "exampleSentence": "Researchers disrupt the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を混乱させる。",
+    "family": "disruption;disruptive",
+    "synonyms": [
+      "disturb",
+      "interrupt"
+    ],
+    "tags": [
+      "advanced",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。disrupt の派生語: disruption;disruptive."
+  },
+  {
+    "id": "v-advanced-03-enforce",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "enforce",
+    "meaning": "施行する",
+    "pos": "v",
+    "question": "enforce",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "施行する",
+    "explanation": "enforce = 施行する。品詞: v。語群: enforcement。",
+    "exampleSentence": "Researchers enforce the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を施行する。",
+    "family": "enforcement",
+    "synonyms": [
+      "implement",
+      "compel"
+    ],
+    "tags": [
+      "advanced",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。enforce の派生語: enforcement."
+  },
+  {
+    "id": "v-advanced-03-exaggerate",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "exaggerate",
+    "meaning": "誇張する",
+    "pos": "v",
+    "question": "exaggerate",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "誇張する",
+    "explanation": "exaggerate = 誇張する。品詞: v。語群: exaggeration。",
+    "exampleSentence": "Researchers exaggerate the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を誇張する。",
+    "family": "exaggeration",
+    "synonyms": [
+      "overstate",
+      "inflate"
+    ],
+    "tags": [
+      "advanced",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。exaggerate の派生語: exaggeration."
+  },
+  {
+    "id": "v-advanced-03-exploit",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "exploit",
+    "meaning": "利用する・搾取する",
+    "pos": "v",
+    "question": "exploit",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "利用する・搾取する",
+    "explanation": "exploit = 利用する・搾取する。品詞: v。語群: exploitation。",
+    "exampleSentence": "Researchers exploit the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を利用する。",
+    "family": "exploitation",
+    "synonyms": [
+      "use",
+      "take advantage of"
+    ],
+    "tags": [
+      "advanced",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。exploit の派生語: exploitation."
+  },
+  {
+    "id": "v-advanced-03-innovate",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "innovate",
+    "meaning": "革新する",
+    "pos": "v",
+    "question": "innovate",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "革新する",
+    "explanation": "innovate = 革新する。品詞: v。語群: innovation;innovative。",
+    "exampleSentence": "Researchers innovate the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を革新する。",
+    "family": "innovation;innovative",
+    "synonyms": [
+      "modernize",
+      "create"
+    ],
+    "tags": [
+      "advanced",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。innovate の派生語: innovation;innovative."
+  },
+  {
+    "id": "v-advanced-03-legitimate",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "legitimate",
+    "meaning": "正当な・合法の",
+    "pos": "adj",
+    "question": "legitimate",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "正当な・合法の",
+    "explanation": "legitimate = 正当な・合法の。品詞: adj。語群: legitimacy。",
+    "exampleSentence": "The report provides a legitimate explanation of the issue.",
+    "exampleJa": "その報告書はその問題について正当な説明をしている。",
+    "family": "legitimacy",
+    "synonyms": [
+      "lawful",
+      "valid"
+    ],
+    "tags": [
+      "advanced",
+      "adj"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。legitimate の派生語: legitimacy."
+  },
+  {
+    "id": "v-advanced-03-likewise",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "likewise",
+    "meaning": "同様に",
+    "pos": "adv",
+    "question": "likewise",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "同様に",
+    "explanation": "likewise = 同様に。品詞: adv。語群: likeness。",
+    "exampleSentence": "The report provides a likewise explanation of the issue.",
+    "exampleJa": "その報告書はその問題について同様に説明をしている。",
+    "family": "likeness",
+    "synonyms": [
+      "similarly",
+      "also"
+    ],
+    "tags": [
+      "advanced",
+      "adv"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。likewise の派生語: likeness."
+  },
+  {
+    "id": "v-advanced-03-magnitude",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "magnitude",
+    "meaning": "規模・大きさ",
+    "pos": "n",
+    "question": "magnitude",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "規模・大きさ",
+    "explanation": "magnitude = 規模・大きさ。品詞: n。語群: magnitude。",
+    "exampleSentence": "The study examines magnitude in modern society.",
+    "exampleJa": "その研究は現代社会における規模を検討している。",
+    "family": "magnitude",
+    "synonyms": [
+      "size",
+      "extent"
+    ],
+    "tags": [
+      "advanced",
+      "n"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。magnitude の派生語: magnitude."
+  },
+  {
+    "id": "v-advanced-03-notwithstanding",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "notwithstanding",
+    "meaning": "〜にもかかわらず",
+    "pos": "prep",
+    "question": "notwithstanding",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "〜にもかかわらず",
+    "explanation": "notwithstanding = 〜にもかかわらず。品詞: prep。語群: 。",
+    "exampleSentence": "The report provides a notwithstanding explanation of the issue.",
+    "exampleJa": "その報告書はその問題について〜にもかかわらず説明をしている。",
+    "family": "",
+    "synonyms": [
+      "despite"
+    ],
+    "tags": [
+      "advanced",
+      "prep"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。notwithstanding の派生語: ."
+  },
+  {
+    "id": "v-advanced-03-prevalent",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "prevalent",
+    "meaning": "普及している",
+    "pos": "adj",
+    "question": "prevalent",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "普及している",
+    "explanation": "prevalent = 普及している。品詞: adj。語群: prevalence。",
+    "exampleSentence": "The report provides a prevalent explanation of the issue.",
+    "exampleJa": "その報告書はその問題について普及している説明をしている。",
+    "family": "prevalence",
+    "synonyms": [
+      "common",
+      "widespread"
+    ],
+    "tags": [
+      "advanced",
+      "adj"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。prevalent の派生語: prevalence."
+  },
+  {
+    "id": "v-advanced-03-scarce",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "scarce",
+    "meaning": "不足している",
+    "pos": "adj",
+    "question": "scarce",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "不足している",
+    "explanation": "scarce = 不足している。品詞: adj。語群: scarcity。",
+    "exampleSentence": "The report provides a scarce explanation of the issue.",
+    "exampleJa": "その報告書はその問題について不足している説明をしている。",
+    "family": "scarcity",
+    "synonyms": [
+      "rare",
+      "limited"
+    ],
+    "tags": [
+      "advanced",
+      "adj"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。scarce の派生語: scarcity."
+  },
+  {
+    "id": "v-advanced-03-simultaneous",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "simultaneous",
+    "meaning": "同時の",
+    "pos": "adj",
+    "question": "simultaneous",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "同時の",
+    "explanation": "simultaneous = 同時の。品詞: adj。語群: simultaneously。",
+    "exampleSentence": "The report provides a simultaneous explanation of the issue.",
+    "exampleJa": "その報告書はその問題について同時の説明をしている。",
+    "family": "simultaneously",
+    "synonyms": [
+      "concurrent",
+      "parallel"
+    ],
+    "tags": [
+      "advanced",
+      "adj"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。simultaneous の派生語: simultaneously."
+  }
+]
