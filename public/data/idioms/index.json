@@ -1,0 +1,21 @@
+{
+  "version": "2026.08.20-final",
+  "files": {
+    "basic": [
+      "basic-01.json",
+      "basic-02.json"
+    ],
+    "entrance": [
+      "entrance-01.json",
+      "entrance-02.json"
+    ],
+    "hard": [
+      "hard-01.json",
+      "hard-02.json"
+    ],
+    "standard": [
+      "standard-01.json",
+      "standard-02.json"
+    ]
+  }
+}

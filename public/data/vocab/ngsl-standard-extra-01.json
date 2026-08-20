@@ -1,0 +1,2252 @@
+[
+  {
+    "id": "ngsl-2201",
+    "type": "vocab",
+    "word": "reverse",
+    "meaning": "逆にする",
+    "pos": "verb",
+    "level": "standard",
+    "rank": 2201,
+    "definition": "to change to an opposite state ,way or condition",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2202",
+    "type": "vocab",
+    "word": "mode",
+    "meaning": "方法",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2202,
+    "definition": "a particular form, way or type of something",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2203",
+    "type": "vocab",
+    "word": "mirror",
+    "meaning": "鏡",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2203,
+    "definition": "a piece of glass with a shiny metallic material on one side which produces an image of anything that is in front of it",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2204",
+    "type": "vocab",
+    "word": "awful",
+    "meaning": "ひどい",
+    "pos": "adjective",
+    "level": "standard",
+    "rank": 2204,
+    "definition": "very bad, of low quality, or unpleasant",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2208",
+    "type": "vocab",
+    "word": "nowadays",
+    "meaning": "最近は",
+    "pos": "adverb",
+    "level": "standard",
+    "rank": 2208,
+    "definition": "at the present time",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2209",
+    "type": "vocab",
+    "word": "poem",
+    "meaning": "詩",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2209,
+    "definition": "a piece of writing that usually has figurative language and that is written in separate lines that often have a repeated rhythm and sometimes rhyme",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2210",
+    "type": "vocab",
+    "word": "agricultural",
+    "meaning": "農業の",
+    "pos": "adjective",
+    "level": "standard",
+    "rank": 2210,
+    "definition": "the work and methods of growing crops and looking after animals which are then used for food",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2211",
+    "type": "vocab",
+    "word": "competitor",
+    "meaning": "競争相手",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2211,
+    "definition": "someone who is trying to win or do better than all others especially in business or sports : someone who is competing",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2212",
+    "type": "vocab",
+    "word": "alcohol",
+    "meaning": "アルコール",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2212,
+    "definition": "drinks such as wine and beer that can make you drunk",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2213",
+    "type": "vocab",
+    "word": "festival",
+    "meaning": "祭り",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2213,
+    "definition": "a series of special events, performances, etc. that often takes place over several days",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2214",
+    "type": "vocab",
+    "word": "vegetable",
+    "meaning": "野菜",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2214,
+    "definition": "a plant that you eat, for example potatoes, onions, beans, etc.",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2215",
+    "type": "vocab",
+    "word": "van",
+    "meaning": "バン",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2215,
+    "definition": "a vehicle that is used for carrying things but which is smaller than a truck",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2217",
+    "type": "vocab",
+    "word": "planet",
+    "meaning": "惑星",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2217,
+    "definition": "a large, round object in space that moves around the sun or another star",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2218",
+    "type": "vocab",
+    "word": "curve",
+    "meaning": "曲線",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2218,
+    "definition": "a smooth, rounded line, shape, path, etc.",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2219",
+    "type": "vocab",
+    "word": "knee",
+    "meaning": "膝",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2219,
+    "definition": "the joint that bends at the middle of your leg",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2220",
+    "type": "vocab",
+    "word": "overcome",
+    "meaning": "打ち勝つ",
+    "pos": "verb",
+    "level": "standard",
+    "rank": 2220,
+    "definition": "to defeat (someone or something)",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2221",
+    "type": "vocab",
+    "word": "web",
+    "meaning": "ウェブ",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2221,
+    "definition": "part of the Internet that consists of all the connected websites (= pages of text and pictures); a spider's net used to catch insects",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2222",
+    "type": "vocab",
+    "word": "depth",
+    "meaning": "深さ",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2222,
+    "definition": "a distance below a surface",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2223",
+    "type": "vocab",
+    "word": "entrance",
+    "meaning": "入口",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2223,
+    "definition": "the act of entering something",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2224",
+    "type": "vocab",
+    "word": "log",
+    "meaning": "丸太",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2224,
+    "definition": "a long, heavy section of a tree that has fallen or been cut down",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2225",
+    "type": "vocab",
+    "word": "giant",
+    "meaning": "巨大な",
+    "pos": "adjective",
+    "level": "standard",
+    "rank": 2225,
+    "definition": "extremely big, or much bigger than other similar things",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2226",
+    "type": "vocab",
+    "word": "god",
+    "meaning": "神様",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2226,
+    "definition": "the creator and ruler of the universe",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2227",
+    "type": "vocab",
+    "word": "portion",
+    "meaning": "部分",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2227,
+    "definition": "a part of a whole",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2229",
+    "type": "vocab",
+    "word": "extensive",
+    "meaning": "広範な",
+    "pos": "adjective",
+    "level": "standard",
+    "rank": 2229,
+    "definition": "large in size or amount : very full or complete",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2232",
+    "type": "vocab",
+    "word": "sugar",
+    "meaning": "砂糖",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2232,
+    "definition": "a sweet substance usually in the form of white or brown crystals or white powder that comes from plants and is used to make foods sweeter",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2233",
+    "type": "vocab",
+    "word": "inner",
+    "meaning": "内部の",
+    "pos": "adjective",
+    "level": "standard",
+    "rank": 2233,
+    "definition": "on the inside, or near the middle of something",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2236",
+    "type": "vocab",
+    "word": "pink",
+    "meaning": "ピンク",
+    "pos": "adjective",
+    "level": "standard",
+    "rank": 2236,
+    "definition": "a pale red color : a color that is a mixture of red and white",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2237",
+    "type": "vocab",
+    "word": "shadow",
+    "meaning": "影",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2237,
+    "definition": "a dark shape that appears on a surface when someone or something moves between the surface and a source of light",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2238",
+    "type": "vocab",
+    "word": "strip",
+    "meaning": "脱ぐ",
+    "pos": "verb",
+    "level": "standard",
+    "rank": 2238,
+    "definition": "to remove your clothing",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2239",
+    "type": "vocab",
+    "word": "smooth",
+    "meaning": "滑らかな",
+    "pos": "adjective",
+    "level": "standard",
+    "rank": 2239,
+    "definition": "having a flat, even surface : not rough : not having any bumps, ridges, or uneven parts",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2241",
+    "type": "vocab",
+    "word": "impress",
+    "meaning": "好印象を与える",
+    "pos": "verb",
+    "level": "standard",
+    "rank": 2241,
+    "definition": "to make someone admire or respect you",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2242",
+    "type": "vocab",
+    "word": "exam",
+    "meaning": "試験",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2242,
+    "definition": "a test of how much you know about something, or how well you can do something;  a series of medical tests",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2243",
+    "type": "vocab",
+    "word": "vice",
+    "meaning": "悪徳",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2243,
+    "definition": "something bad that someone often does; crime that involves sex or drugs",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2246",
+    "type": "vocab",
+    "word": "behave",
+    "meaning": "行儀よくする",
+    "pos": "verb",
+    "level": "standard",
+    "rank": 2246,
+    "definition": "to act in an acceptable way : to act properly",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2247",
+    "type": "vocab",
+    "word": "loud",
+    "meaning": "うるさい",
+    "pos": "adjective",
+    "level": "standard",
+    "rank": 2247,
+    "definition": "making or causing a lot of noise : strong and noticeable in sound",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2250",
+    "type": "vocab",
+    "word": "infection",
+    "meaning": "感染症",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2250,
+    "definition": "a disease in a part of your body that is caused by bacteria or a virus",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2251",
+    "type": "vocab",
+    "word": "jacket",
+    "meaning": "ジャケット",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2251,
+    "definition": "a short coat",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2252",
+    "type": "vocab",
+    "word": "efficiency",
+    "meaning": "効率",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2252,
+    "definition": "the ability to do something or produce something without wasting materials, time, or energy",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2254",
+    "type": "vocab",
+    "word": "statistic",
+    "meaning": "統計",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2254,
+    "definition": "a number that represents a piece of information",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2255",
+    "type": "vocab",
+    "word": "regularly",
+    "meaning": "定期的に",
+    "pos": "adverb",
+    "level": "standard",
+    "rank": 2255,
+    "definition": "often; at the same time each day, week, month, etc.",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2256",
+    "type": "vocab",
+    "word": "resort",
+    "meaning": "リゾート",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2256,
+    "definition": "a place where many people go for a holiday",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2257",
+    "type": "vocab",
+    "word": "iron",
+    "meaning": "鉄分、鉄",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2257,
+    "definition": "a heavy type of metal that is very common, occurs naturally in blood, and is used to make steel and in many products",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2258",
+    "type": "vocab",
+    "word": "broadcast",
+    "meaning": "放送する",
+    "pos": "verb",
+    "level": "standard",
+    "rank": 2258,
+    "definition": "to send out (signals, programs, etc.) by radio or television",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2260",
+    "type": "vocab",
+    "word": "bread",
+    "meaning": "パン",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2260,
+    "definition": "a baked food made from a mixture of flour and water",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2261",
+    "type": "vocab",
+    "word": "blind",
+    "meaning": "盲目",
+    "pos": "adjective",
+    "level": "standard",
+    "rank": 2261,
+    "definition": "unable to see",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2262",
+    "type": "vocab",
+    "word": "pure",
+    "meaning": "純粋な",
+    "pos": "adjective",
+    "level": "standard",
+    "rank": 2262,
+    "definition": "not mixed with anything else",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2263",
+    "type": "vocab",
+    "word": "bloody",
+    "meaning": "血まみれの",
+    "pos": "adjective",
+    "level": "standard",
+    "rank": 2263,
+    "definition": "covered in blood; violent and involving a lot of blood and injuries",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2264",
+    "type": "vocab",
+    "word": "ally",
+    "meaning": "同盟",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2264,
+    "definition": "someone who supports you, especially when other people are against you; a country that has agreed to help another country, especially in a war",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2266",
+    "type": "vocab",
+    "word": "bend",
+    "meaning": "曲げる",
+    "pos": "verb",
+    "level": "standard",
+    "rank": 2266,
+    "definition": "to use force to cause (something, such as a wire or pipe) to become curved",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2270",
+    "type": "vocab",
+    "word": "disturb",
+    "meaning": "邪魔をする",
+    "pos": "verb",
+    "level": "standard",
+    "rank": 2270,
+    "definition": "to stop (someone) from working, sleeping, etc.",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2272",
+    "type": "vocab",
+    "word": "flood",
+    "meaning": "洪水",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2272,
+    "definition": "a large amount of water covering an area of land that is usually dry",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2275",
+    "type": "vocab",
+    "word": "cite",
+    "meaning": "引用する",
+    "pos": "verb",
+    "level": "standard",
+    "rank": 2275,
+    "definition": "to write or say the words from a book or other source",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2276",
+    "type": "vocab",
+    "word": "newly",
+    "meaning": "新たに",
+    "pos": "adverb",
+    "level": "standard",
+    "rank": 2276,
+    "definition": "recently",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2277",
+    "type": "vocab",
+    "word": "parallel",
+    "meaning": "類似した、同時に起きる",
+    "pos": "adjective",
+    "level": "standard",
+    "rank": 2277,
+    "definition": "very similar and often occurring at the same time",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2278",
+    "type": "vocab",
+    "word": "gender",
+    "meaning": "性別",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2278,
+    "definition": "the state of being male or female",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2279",
+    "type": "vocab",
+    "word": "sponsor",
+    "meaning": "スポンサーを務める",
+    "pos": "verb",
+    "level": "standard",
+    "rank": 2279,
+    "definition": "to give money to someone to support an activity, event, or organization, sometimes as a way to advertise your company or product",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2280",
+    "type": "vocab",
+    "word": "boot",
+    "meaning": "ブーツ",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2280,
+    "definition": "a strong shoe that covers your foot and part of your leg",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2282",
+    "type": "vocab",
+    "word": "dealer",
+    "meaning": "販売業者",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2282,
+    "definition": "a person or company that buys and sells things for profit",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2283",
+    "type": "vocab",
+    "word": "button",
+    "meaning": "ボタン",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2283,
+    "definition": "a small, usually round piece of plastic, glass, metal, etc., that is sewn to a piece of clothing and is pushed through a loop or hole to fasten one part of the clothing to another part",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2285",
+    "type": "vocab",
+    "word": "desert",
+    "meaning": "砂漠",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2285,
+    "definition": "an area of very dry land that is usually covered with sand and is very hot",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2286",
+    "type": "vocab",
+    "word": "mate",
+    "meaning": "仲間",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2286,
+    "definition": "a friend; an animal's sexual partner",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2287",
+    "type": "vocab",
+    "word": "occasionally",
+    "meaning": "たまに",
+    "pos": "adverb",
+    "level": "standard",
+    "rank": 2287,
+    "definition": "not happening often",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2288",
+    "type": "vocab",
+    "word": "shareholder",
+    "meaning": "株主",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2288,
+    "definition": "someone who owns shares (stock) in a company",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2289",
+    "type": "vocab",
+    "word": "bowl",
+    "meaning": "丼",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2289,
+    "definition": "a round container that has tall, curving sides and that is used for preparing or serving foods and liquids",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2290",
+    "type": "vocab",
+    "word": "discovery",
+    "meaning": "発見",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2290,
+    "definition": "the act of finding or learning something for the first time",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2291",
+    "type": "vocab",
+    "word": "resistance",
+    "meaning": "抵抗",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2291,
+    "definition": "refusal to accept something new or different",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2292",
+    "type": "vocab",
+    "word": "bath",
+    "meaning": "入浴",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2292,
+    "definition": "the act of washing the body usually by sitting or lying in a container filled with water",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2295",
+    "type": "vocab",
+    "word": "tap",
+    "meaning": "軽くたたく",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2295,
+    "definition": "to hit (someone or something) lightly especially with a small sound",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2297",
+    "type": "vocab",
+    "word": "lip",
+    "meaning": "唇",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2297,
+    "definition": "either one of the two soft parts that surround the mouth",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2300",
+    "type": "vocab",
+    "word": "approval",
+    "meaning": "承認",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2300,
+    "definition": "when you think that something or someone is good or right; official permission",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2301",
+    "type": "vocab",
+    "word": "grab",
+    "meaning": "つかむ",
+    "pos": "verb",
+    "level": "standard",
+    "rank": 2301,
+    "definition": "to take hold of something or someone suddenly",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2304",
+    "type": "vocab",
+    "word": "involvement",
+    "meaning": "関与",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2304,
+    "definition": "when someone or something is involved in an activity or event",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2308",
+    "type": "vocab",
+    "word": "translate",
+    "meaning": "翻訳する",
+    "pos": "verb",
+    "level": "standard",
+    "rank": 2308,
+    "definition": "to change words from one language into another language",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2309",
+    "type": "vocab",
+    "word": "edit",
+    "meaning": "編集する",
+    "pos": "verb",
+    "level": "standard",
+    "rank": 2309,
+    "definition": "to make changes so that something can be used",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2310",
+    "type": "vocab",
+    "word": "formation",
+    "meaning": "形成",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2310,
+    "definition": "the development of something into a particular thing or shape",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2311",
+    "type": "vocab",
+    "word": "deposit",
+    "meaning": "預金",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2311,
+    "definition": "a payment that you make immediately when you decide to buy something, as proof that you will really buy it",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2313",
+    "type": "vocab",
+    "word": "overseas",
+    "meaning": "海外",
+    "pos": "adjective",
+    "level": "standard",
+    "rank": 2313,
+    "definition": "in or to a foreign country that is across a sea",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2316",
+    "type": "vocab",
+    "word": "summary",
+    "meaning": "要約",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2316,
+    "definition": "a brief statement that gives the most important info",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2317",
+    "type": "vocab",
+    "word": "rough",
+    "meaning": "ざらざらした",
+    "pos": "adjective",
+    "level": "standard",
+    "rank": 2317,
+    "definition": "having a surface that is not even",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2318",
+    "type": "vocab",
+    "word": "pen",
+    "meaning": "ペン",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2318,
+    "definition": "a writing instrument that uses ink",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2320",
+    "type": "vocab",
+    "word": "seal",
+    "meaning": "アシカ、アザラシ",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2320,
+    "definition": "an animal with smooth fur that eats fish and lives near the sea",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2321",
+    "type": "vocab",
+    "word": "tube",
+    "meaning": "筒",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2321,
+    "definition": "a long, hollow object that is used especially to control the flow of a liquid or gas",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2322",
+    "type": "vocab",
+    "word": "tower",
+    "meaning": "タワー",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2322,
+    "definition": "a tall, narrow building or structure that may stand apart from or be attached to another building or structure",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2323",
+    "type": "vocab",
+    "word": "characterize",
+    "meaning": "特徴づける、描写する",
+    "pos": "verb",
+    "level": "standard",
+    "rank": 2323,
+    "definition": "to be typical of someone or something; to describe or show someone or something in a particular way",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2326",
+    "type": "vocab",
+    "word": "spin",
+    "meaning": "回転する",
+    "pos": "verb",
+    "level": "standard",
+    "rank": 2326,
+    "definition": "to turn or cause someone or something to turn around repeatedly",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2327",
+    "type": "vocab",
+    "word": "operator",
+    "meaning": "オペレーター",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2327,
+    "definition": "a person who uses and controls something (such as a machine, device, or business): someone who operates something",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2328",
+    "type": "vocab",
+    "word": "infant",
+    "meaning": "幼児",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2328,
+    "definition": "a baby or very young child",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2329",
+    "type": "vocab",
+    "word": "dig",
+    "meaning": "掘る",
+    "pos": "verb",
+    "level": "standard",
+    "rank": 2329,
+    "definition": "to move soil, sand, snow, etc., in order to create a hole",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2330",
+    "type": "vocab",
+    "word": "drag",
+    "meaning": "引きずる",
+    "pos": "verb",
+    "level": "standard",
+    "rank": 2330,
+    "definition": "to pull (someone or something that is heavy or difficult to move)",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2331",
+    "type": "vocab",
+    "word": "mount",
+    "meaning": "上がる",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2331,
+    "definition": "to increase in amount or level",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2332",
+    "type": "vocab",
+    "word": "wrap",
+    "meaning": "包む",
+    "pos": "verb",
+    "level": "standard",
+    "rank": 2332,
+    "definition": "to cover (something) by winding or folding a piece of material around it",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2334",
+    "type": "vocab",
+    "word": "dependent",
+    "meaning": "依存している",
+    "pos": "adjective",
+    "level": "standard",
+    "rank": 2334,
+    "definition": "decided or controlled by something else",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2335",
+    "type": "vocab",
+    "word": "specialize",
+    "meaning": "専門とする",
+    "pos": "verb",
+    "level": "standard",
+    "rank": 2335,
+    "definition": "to spend most of your time studying one particular subject or doing one type of business",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2336",
+    "type": "vocab",
+    "word": "angle",
+    "meaning": "角",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2336,
+    "definition": "the difference between the direction of two lines or surfaces that come together: the space or shape formed when two lines or surfaces meet each other",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2337",
+    "type": "vocab",
+    "word": "chicken",
+    "meaning": "鶏肉",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2337,
+    "definition": "a bird that is raised by people for its eggs and meat",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2339",
+    "type": "vocab",
+    "word": "virus",
+    "meaning": "ウイルス",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2339,
+    "definition": "an infectious organism too small to be seen that causes disease, or an illness that it causes; a harmful computer program",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2341",
+    "type": "vocab",
+    "word": "rival",
+    "meaning": "好敵手",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2341,
+    "definition": "a person or thing that tries to defeat or be more successful than another",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2342",
+    "type": "vocab",
+    "word": "offense",
+    "meaning": "犯行",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2342,
+    "definition": "a criminal act; something that causes a person to be hurt, angry, or upset",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2344",
+    "type": "vocab",
+    "word": "teenager",
+    "meaning": "１０代の",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2344,
+    "definition": "someone who is between 13 and 19 years old",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2346",
+    "type": "vocab",
+    "word": "moderate",
+    "meaning": "適度の",
+    "pos": "adjective",
+    "level": "standard",
+    "rank": 2346,
+    "definition": "average in size or amount;  neither too much nor too little",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2347",
+    "type": "vocab",
+    "word": "surgery",
+    "meaning": "手術",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2347,
+    "definition": "when a doctor cuts your body open and repairs or removes something",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2348",
+    "type": "vocab",
+    "word": "musician",
+    "meaning": "ミュージシャン",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2348,
+    "definition": "a person who writes, sings, or plays music",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2349",
+    "type": "vocab",
+    "word": "significance",
+    "meaning": "意義、重要性",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2349,
+    "definition": "the importance or meaning of something",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2350",
+    "type": "vocab",
+    "word": "shower",
+    "meaning": "シャワー",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2350,
+    "definition": "a device that produces a spray of water for you to stand under and wash your body",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2351",
+    "type": "vocab",
+    "word": "illegal",
+    "meaning": "非合法の",
+    "pos": "adjective",
+    "level": "standard",
+    "rank": 2351,
+    "definition": "not allowed by law",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2352",
+    "type": "vocab",
+    "word": "charity",
+    "meaning": "慈善",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2352,
+    "definition": "an official organization that gives money, food, or help to people who need it; money, food, or other help",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2354",
+    "type": "vocab",
+    "word": "cigarette",
+    "meaning": "たばこ",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2354,
+    "definition": "a thin tube of paper filled with tobacco, that people smoke",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2357",
+    "type": "vocab",
+    "word": "consultant",
+    "meaning": "コンサルタント",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2357,
+    "definition": "someone who advises people about a particular subject",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2358",
+    "type": "vocab",
+    "word": "historian",
+    "meaning": "歴史家",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2358,
+    "definition": "someone who studies or writes about history",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2359",
+    "type": "vocab",
+    "word": "cousin",
+    "meaning": "いとこ",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2359,
+    "definition": "a child of your uncle or aunt",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2360",
+    "type": "vocab",
+    "word": "visual",
+    "meaning": "視覚",
+    "pos": "adjective",
+    "level": "standard",
+    "rank": 2360,
+    "definition": "relating to seeing or to the eyes, sight",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2361",
+    "type": "vocab",
+    "word": "stupid",
+    "meaning": "頭が悪い",
+    "pos": "adjective",
+    "level": "standard",
+    "rank": 2361,
+    "definition": "not intelligent : having or showing a lack of ability to learn and understand things",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2362",
+    "type": "vocab",
+    "word": "keen",
+    "meaning": "熱心な",
+    "pos": "adjective",
+    "level": "standard",
+    "rank": 2362,
+    "definition": "very interested or enthusiastic; very good or well developed",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2363",
+    "type": "vocab",
+    "word": "ethnic",
+    "meaning": "民族",
+    "pos": "adjective",
+    "level": "standard",
+    "rank": 2363,
+    "definition": "connected with people who shares a cultural tradition",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2364",
+    "type": "vocab",
+    "word": "twin",
+    "meaning": "双子",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2364,
+    "definition": "one of two children who are born to the same mother at the same time",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2365",
+    "type": "vocab",
+    "word": "clinical",
+    "meaning": "臨床の",
+    "pos": "adjective",
+    "level": "standard",
+    "rank": 2365,
+    "definition": "relating to medical treatment and tests",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2366",
+    "type": "vocab",
+    "word": "eastern",
+    "meaning": "東部の",
+    "pos": "adjective",
+    "level": "standard",
+    "rank": 2366,
+    "definition": "located toward the east",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2368",
+    "type": "vocab",
+    "word": "segment",
+    "meaning": "部分",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2368,
+    "definition": "one of the parts that something can be divided into",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2371",
+    "type": "vocab",
+    "word": "sand",
+    "meaning": "砂",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2371,
+    "definition": "the very tiny, loose pieces of rock that cover beaches, deserts, etc.",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2372",
+    "type": "vocab",
+    "word": "cap",
+    "meaning": "帽子",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2372,
+    "definition": "a small, soft hat that often has a hard curved part (called a visor) that extends out over your eyes",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2373",
+    "type": "vocab",
+    "word": "prompt",
+    "meaning": "促す",
+    "pos": "adjective",
+    "level": "standard",
+    "rank": 2373,
+    "definition": "to cause (someone) to do something",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2374",
+    "type": "vocab",
+    "word": "charm",
+    "meaning": "魅力",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2374,
+    "definition": "a quality that causes someone or something to be very likable : an attractive quality",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2377",
+    "type": "vocab",
+    "word": "venture",
+    "meaning": "冒険",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2377,
+    "definition": "a new activity that may not be successful",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2378",
+    "type": "vocab",
+    "word": "compound",
+    "meaning": "調合する",
+    "pos": "verb",
+    "level": "standard",
+    "rank": 2378,
+    "definition": "combining two or more parts to form something new",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2379",
+    "type": "vocab",
+    "word": "rescue",
+    "meaning": "救う",
+    "pos": "verb",
+    "level": "standard",
+    "rank": 2379,
+    "definition": "to save (someone or something) from danger or harm",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2380",
+    "type": "vocab",
+    "word": "mess",
+    "meaning": "乱雑、混乱",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2380,
+    "definition": "Someone or something that is a mess, or is in a mess, is dirty or untidy; a confused or difficult situation",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2384",
+    "type": "vocab",
+    "word": "league",
+    "meaning": "リーグ",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2384,
+    "definition": "a group of teams which compete against each other in a sport",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2385",
+    "type": "vocab",
+    "word": "dialog",
+    "meaning": "対話",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2385,
+    "definition": "a short conversation, especially written",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2386",
+    "type": "vocab",
+    "word": "cream",
+    "meaning": "クリーム",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2386,
+    "definition": "a very thick liquid or soft substance that is rubbed into the skin to make it softer or is used as a medicine for the skin",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2387",
+    "type": "vocab",
+    "word": "rapid",
+    "meaning": "急速に",
+    "pos": "adjective",
+    "level": "standard",
+    "rank": 2387,
+    "definition": "happening in a short amount of time",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2390",
+    "type": "vocab",
+    "word": "dismiss",
+    "meaning": "解雇する",
+    "pos": "verb",
+    "level": "standard",
+    "rank": 2390,
+    "definition": "to send (someone) away : to cause or allow (someone) to leave",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2391",
+    "type": "vocab",
+    "word": "margin",
+    "meaning": "余白",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2391,
+    "definition": "the edge or border of a page on above, below",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2392",
+    "type": "vocab",
+    "word": "beneath",
+    "meaning": "～の下で",
+    "pos": "preposition",
+    "level": "standard",
+    "rank": 2392,
+    "definition": "in or to a lower position : below",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2393",
+    "type": "vocab",
+    "word": "opponent",
+    "meaning": "対戦相手、反対者",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2393,
+    "definition": "someone who you compete against in a game or competition; someone who disagrees with an idea or action",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2394",
+    "type": "vocab",
+    "word": "resist",
+    "meaning": "抵抗する",
+    "pos": "verb",
+    "level": "standard",
+    "rank": 2394,
+    "definition": "to fight against (something) : to try to stop or prevent (something)",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2395",
+    "type": "vocab",
+    "word": "capability",
+    "meaning": "能力",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2395,
+    "definition": "the ability or power to do something",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2398",
+    "type": "vocab",
+    "word": "stroke",
+    "meaning": "脳卒中",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2398,
+    "definition": "a serious illness caused when a blood vessel in your brain suddenly breaks or is blocked",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2399",
+    "type": "vocab",
+    "word": "dare",
+    "meaning": "勇気がある",
+    "pos": "verb",
+    "level": "standard",
+    "rank": 2399,
+    "definition": "to have enough courage or confidence to do something",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2401",
+    "type": "vocab",
+    "word": "rid",
+    "meaning": "取り除く",
+    "pos": "verb",
+    "level": "standard",
+    "rank": 2401,
+    "definition": "to no longer have or be affected or bothered by (someone or something that is unwanted or annoying)",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2402",
+    "type": "vocab",
+    "word": "divorce",
+    "meaning": "離婚する",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2402,
+    "definition": "when two people officially stop being married",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2403",
+    "type": "vocab",
+    "word": "ruin",
+    "meaning": "台無しにする",
+    "pos": "verb",
+    "level": "standard",
+    "rank": 2403,
+    "definition": "to damage (something) so badly that it is no longer useful, valuable, enjoyable, etc.: to spoil or destroy (something)",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2404",
+    "type": "vocab",
+    "word": "bury",
+    "meaning": "埋葬する",
+    "pos": "verb",
+    "level": "standard",
+    "rank": 2404,
+    "definition": "to put (a dead person or animal) in a grave",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2405",
+    "type": "vocab",
+    "word": "counsel",
+    "meaning": "弁護士、助言",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2405,
+    "definition": "a lawyer; advice",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2406",
+    "type": "vocab",
+    "word": "tendency",
+    "meaning": "傾向",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2406,
+    "definition": "something that someone often does, or something that often happens",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2408",
+    "type": "vocab",
+    "word": "motor",
+    "meaning": "モーター",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2408,
+    "definition": "a machine that produces motion or power for doing work",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2409",
+    "type": "vocab",
+    "word": "survival",
+    "meaning": "生き残ること",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2409,
+    "definition": "when someone or something continues to live or exist, especially after a difficult or dangerous situation",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2410",
+    "type": "vocab",
+    "word": "counter",
+    "meaning": "対抗する",
+    "pos": "verb",
+    "level": "standard",
+    "rank": 2410,
+    "definition": "to prevent something or reduce the bad effect that it has",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2411",
+    "type": "vocab",
+    "word": "possess",
+    "meaning": "所有する",
+    "pos": "verb",
+    "level": "standard",
+    "rank": 2411,
+    "definition": "to have or own (something)",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2413",
+    "type": "vocab",
+    "word": "valley",
+    "meaning": "谷",
+    "pos": "noun",
+    "level": "standard",
+    "rank": 2413,
+    "definition": "an area of low land between hills or mountains",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2414",
+    "type": "vocab",
+    "word": "float",
+    "meaning": "浮く",
+    "pos": "verb",
+    "level": "standard",
+    "rank": 2414,
+    "definition": "to rest on top of a liquid",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  }
+]
