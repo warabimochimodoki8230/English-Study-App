@@ -1,0 +1,717 @@
+[
+  {
+    "id": "v-mega-basic-0001",
+    "type": "vocab",
+    "level": "basic",
+    "word": "adapt",
+    "meaning": "適応する・改作する",
+    "pos": "v",
+    "exampleSentence": "We need to adapt the problem carefully.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "adapt：適応する・改作する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-basic-0002",
+    "type": "vocab",
+    "level": "basic",
+    "word": "alter",
+    "meaning": "変える",
+    "pos": "v",
+    "exampleSentence": "We need to alter the problem carefully.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "alter：変える",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-basic-0003",
+    "type": "vocab",
+    "level": "basic",
+    "word": "aware",
+    "meaning": "気づいている",
+    "pos": "adj",
+    "exampleSentence": "This is a aware issue.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "aware：気づいている",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-basic-0004",
+    "type": "vocab",
+    "level": "basic",
+    "word": "bias",
+    "meaning": "偏見・偏り",
+    "pos": "n/v",
+    "exampleSentence": "The bias is important in this discussion.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "bias：偏見・偏り",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-basic-0005",
+    "type": "vocab",
+    "level": "basic",
+    "word": "brief",
+    "meaning": "短い・簡潔な",
+    "pos": "adj",
+    "exampleSentence": "This is a brief issue.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "brief：短い・簡潔な",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-basic-0006",
+    "type": "vocab",
+    "level": "basic",
+    "word": "cease",
+    "meaning": "やめる・終わる",
+    "pos": "v",
+    "exampleSentence": "We need to cease the problem carefully.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "cease：やめる・終わる",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-basic-0007",
+    "type": "vocab",
+    "level": "basic",
+    "word": "cope",
+    "meaning": "対処する",
+    "pos": "v",
+    "exampleSentence": "We need to cope the problem carefully.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "cope：対処する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-basic-0008",
+    "type": "vocab",
+    "level": "basic",
+    "word": "deny",
+    "meaning": "否定する",
+    "pos": "v",
+    "exampleSentence": "We need to deny the problem carefully.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "deny：否定する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-basic-0009",
+    "type": "vocab",
+    "level": "basic",
+    "word": "grant",
+    "meaning": "与える・助成金",
+    "pos": "v/n",
+    "exampleSentence": "We need to grant the problem carefully.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "grant：与える・助成金",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-basic-0010",
+    "type": "vocab",
+    "level": "basic",
+    "word": "imply",
+    "meaning": "暗示する",
+    "pos": "v",
+    "exampleSentence": "We need to imply the problem carefully.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "imply：暗示する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-basic-0011",
+    "type": "vocab",
+    "level": "basic",
+    "word": "infer",
+    "meaning": "推論する",
+    "pos": "v",
+    "exampleSentence": "We need to infer the problem carefully.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "infer：推論する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-basic-0012",
+    "type": "vocab",
+    "level": "basic",
+    "word": "rigid",
+    "meaning": "硬直した・厳格な",
+    "pos": "adj",
+    "exampleSentence": "This is a rigid issue.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "rigid：硬直した・厳格な",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-basic-0013",
+    "type": "vocab",
+    "level": "basic",
+    "word": "shift",
+    "meaning": "移す・変化",
+    "pos": "v/n",
+    "exampleSentence": "We need to shift the problem carefully.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "shift：移す・変化",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-basic-0014",
+    "type": "vocab",
+    "level": "basic",
+    "word": "unify",
+    "meaning": "統一する",
+    "pos": "v",
+    "exampleSentence": "We need to unify the problem carefully.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "unify：統一する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-basic-0015",
+    "type": "vocab",
+    "level": "basic",
+    "word": "valid",
+    "meaning": "妥当な・有効な",
+    "pos": "adj",
+    "exampleSentence": "This is a valid issue.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "valid：妥当な・有効な",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-basic-0016",
+    "type": "vocab",
+    "level": "basic",
+    "word": "via",
+    "meaning": "～を経て",
+    "pos": "prep",
+    "exampleSentence": "The result depends on the context via.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "via：～を経て",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-basic-0017",
+    "type": "vocab",
+    "level": "basic",
+    "word": "yield",
+    "meaning": "生み出す・譲る",
+    "pos": "v",
+    "exampleSentence": "We need to yield the problem carefully.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "yield：生み出す・譲る",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-basic-0018",
+    "type": "vocab",
+    "level": "basic",
+    "word": "trend",
+    "meaning": "傾向",
+    "pos": "n",
+    "exampleSentence": "The trend is important in this discussion.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "trend：傾向",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-basic-0019",
+    "type": "vocab",
+    "level": "basic",
+    "word": "alert",
+    "meaning": "警戒して・警告",
+    "pos": "adj",
+    "exampleSentence": "This is a alert issue.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "alert：警戒して・警告",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-basic-0020",
+    "type": "vocab",
+    "level": "basic",
+    "word": "moral",
+    "meaning": "道徳的な",
+    "pos": "adj",
+    "exampleSentence": "This is a moral issue.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "moral：道徳的な",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-basic-0021",
+    "type": "vocab",
+    "level": "basic",
+    "word": "link",
+    "meaning": "結びつける・つながり",
+    "pos": "v/n",
+    "exampleSentence": "We need to link the problem carefully.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "link：結びつける・つながり",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-basic-0022",
+    "type": "vocab",
+    "level": "basic",
+    "word": "hence",
+    "meaning": "それゆえに",
+    "pos": "adv",
+    "exampleSentence": "The situation changed hence.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "hence：それゆえに",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-basic-0023",
+    "type": "vocab",
+    "level": "basic",
+    "word": "thus",
+    "meaning": "このように・したがって",
+    "pos": "adv",
+    "exampleSentence": "The situation changed thus.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "thus：このように・したがって",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-basic-0024",
+    "type": "vocab",
+    "level": "basic",
+    "word": "labor",
+    "meaning": "労働・労働する",
+    "pos": "n/v",
+    "exampleSentence": "The labor is important in this discussion.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "labor：労働・労働する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-basic-0025",
+    "type": "vocab",
+    "level": "basic",
+    "word": "ban",
+    "meaning": "禁止する",
+    "pos": "v/n",
+    "exampleSentence": "We need to ban the problem carefully.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "ban：禁止する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-basic-0026",
+    "type": "vocab",
+    "level": "basic",
+    "word": "draft",
+    "meaning": "下書き・草案を作る",
+    "pos": "n/v",
+    "exampleSentence": "The draft is important in this discussion.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "draft：下書き・草案を作る",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-basic-0027",
+    "type": "vocab",
+    "level": "basic",
+    "word": "media",
+    "meaning": "メディア",
+    "pos": "n",
+    "exampleSentence": "The media is important in this discussion.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "media：メディア",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-basic-0028",
+    "type": "vocab",
+    "level": "basic",
+    "word": "relic",
+    "meaning": "遺物",
+    "pos": "n",
+    "exampleSentence": "The relic is important in this discussion.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "relic：遺物",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-basic-0029",
+    "type": "vocab",
+    "level": "basic",
+    "word": "calm",
+    "meaning": "落ち着いた・落ち着く",
+    "pos": "adj/v",
+    "exampleSentence": "This is a calm issue.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "calm：落ち着いた・落ち着く",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-basic-0030",
+    "type": "vocab",
+    "level": "basic",
+    "word": "eager",
+    "meaning": "熱望している",
+    "pos": "adj",
+    "exampleSentence": "This is a eager issue.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "eager：熱望している",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-basic-0031",
+    "type": "vocab",
+    "level": "basic",
+    "word": "loyal",
+    "meaning": "忠実な",
+    "pos": "adj",
+    "exampleSentence": "This is a loyal issue.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "loyal：忠実な",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-basic-0032",
+    "type": "vocab",
+    "level": "basic",
+    "word": "admit",
+    "meaning": "認める",
+    "pos": "v",
+    "exampleSentence": "We need to admit the problem carefully.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "admit：認める",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-basic-0033",
+    "type": "vocab",
+    "level": "basic",
+    "word": "blame",
+    "meaning": "責める・責任を負わせる",
+    "pos": "v",
+    "exampleSentence": "We need to blame the problem carefully.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "blame：責める・責任を負わせる",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-basic-0034",
+    "type": "vocab",
+    "level": "basic",
+    "word": "focus",
+    "meaning": "焦点・集中する",
+    "pos": "n/v",
+    "exampleSentence": "The focus is important in this discussion.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "focus：焦点・集中する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-basic-0035",
+    "type": "vocab",
+    "level": "basic",
+    "word": "solve",
+    "meaning": "解決する",
+    "pos": "v",
+    "exampleSentence": "We need to solve the problem carefully.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "solve：解決する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026"
+  }
+]

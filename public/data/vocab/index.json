@@ -1,0 +1,145 @@
+{
+  "updated": "2026-08-20",
+  "files": [
+    {
+      "file": "advanced-01.json",
+      "count": 24
+    },
+    {
+      "file": "advanced-02.json",
+      "count": 60
+    },
+    {
+      "file": "advanced-03.json",
+      "count": 19
+    },
+    {
+      "file": "advanced-04.json",
+      "count": 26
+    },
+    {
+      "file": "basic-01.json",
+      "count": 30
+    },
+    {
+      "file": "basic-02.json",
+      "count": 60
+    },
+    {
+      "file": "basic-03.json",
+      "count": 54
+    },
+    {
+      "file": "basic-04.json",
+      "count": 39
+    },
+    {
+      "file": "developed-01.json",
+      "count": 29
+    },
+    {
+      "file": "developed-02.json",
+      "count": 55
+    },
+    {
+      "file": "developed-03.json",
+      "count": 50
+    },
+    {
+      "file": "developed-04.json",
+      "count": 32
+    },
+    {
+      "file": "dict-advanced-01.json",
+      "count": 67
+    },
+    {
+      "file": "dict-basic-01.json",
+      "count": 173
+    },
+    {
+      "file": "dict-developed-01.json",
+      "count": 123
+    },
+    {
+      "file": "dict-standard-01.json",
+      "count": 200
+    },
+    {
+      "file": "dict-standard-02.json",
+      "count": 87
+    },
+    {
+      "file": "hard-01.json",
+      "count": 20
+    },
+    {
+      "file": "hard-02.json",
+      "count": 58
+    },
+    {
+      "file": "hard-03.json",
+      "count": 42
+    },
+    {
+      "file": "hard-04.json",
+      "count": 30
+    },
+    {
+      "file": "max2-advanced-01.json",
+      "count": 16
+    },
+    {
+      "file": "max2-basic-01.json",
+      "count": 14
+    },
+    {
+      "file": "max2-developed-01.json",
+      "count": 3
+    },
+    {
+      "file": "max2-standard-01.json",
+      "count": 8
+    },
+    {
+      "file": "mega-advanced-01.json",
+      "count": 9
+    },
+    {
+      "file": "mega-basic-01.json",
+      "count": 35
+    },
+    {
+      "file": "mega-developed-01.json",
+      "count": 201
+    },
+    {
+      "file": "mega-hard-01.json",
+      "count": 112
+    },
+    {
+      "file": "mega-standard-01.json",
+      "count": 250
+    },
+    {
+      "file": "mega-standard-02.json",
+      "count": 117
+    },
+    {
+      "file": "standard-01.json",
+      "count": 30
+    },
+    {
+      "file": "standard-02.json",
+      "count": 56
+    },
+    {
+      "file": "standard-03.json",
+      "count": 74
+    },
+    {
+      "file": "standard-04.json",
+      "count": 43
+    }
+  ]
+}
