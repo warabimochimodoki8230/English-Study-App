@@ -1,0 +1,45 @@
+{
+  "version": "2026.08.20-final",
+  "kind": "vocab",
+  "levels": {
+    "basic": {
+      "count": 405,
+      "files": [
+        "basic-01.json",
+        "basic-02.json"
+      ]
+    },
+    "standard": {
+      "count": 955,
+      "files": [
+        "standard-01.json",
+        "standard-02.json",
+        "standard-03.json",
+        "standard-04.json"
+      ]
+    },
+    "developed": {
+      "count": 620,
+      "files": [
+        "developed-01.json",
+        "developed-02.json",
+        "developed-03.json"
+      ]
+    },
+    "advanced": {
+      "count": 246,
+      "files": [
+        "advanced-01.json"
+      ]
+    },
+    "hard": {
+      "count": 485,
+      "files": [
+        "hard-01.json",
+        "hard-02.json"
+      ]
+    }
+  },
+  "total_records": 2711,
+  "unique_words": 2328
+}
