@@ -1,0 +1,292 @@
+[
+  {
+    "id": "i-hard-001",
+    "type": "idiom",
+    "level": "hard",
+    "word": "at the expense of",
+    "meaning": "～を犠牲にして",
+    "question": "at the expense of",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を犠牲にして",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～を犠牲にして",
+    "explanation": "at the expense of = ～を犠牲にして。熟語は文中でまとまりとして処理しましょう。"
+  },
+  {
+    "id": "i-hard-002",
+    "type": "idiom",
+    "level": "hard",
+    "word": "by virtue of",
+    "meaning": "～のおかげで・～によって",
+    "question": "by virtue of",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～のおかげで・～によって",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～のおかげで・～によって",
+    "explanation": "by virtue of = ～のおかげで・～によって。熟語は文中でまとまりとして処理しましょう。"
+  },
+  {
+    "id": "i-hard-003",
+    "type": "idiom",
+    "level": "hard",
+    "word": "come into play",
+    "meaning": "働き始める・影響し始める",
+    "question": "come into play",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "働き始める・影響し始める",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "働き始める・影響し始める",
+    "explanation": "come into play = 働き始める・影響し始める。熟語は文中でまとまりとして処理しましょう。"
+  },
+  {
+    "id": "i-hard-004",
+    "type": "idiom",
+    "level": "hard",
+    "word": "be attributed to",
+    "meaning": "～に帰せられる",
+    "question": "be attributed to",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～に帰せられる",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～に帰せられる",
+    "explanation": "be attributed to = ～に帰せられる。熟語は文中でまとまりとして処理しましょう。"
+  },
+  {
+    "id": "i-hard-005",
+    "type": "idiom",
+    "level": "hard",
+    "word": "be compatible with",
+    "meaning": "～と両立する・互換性がある",
+    "question": "be compatible with",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～と両立する・互換性がある",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～と両立する・互換性がある",
+    "explanation": "be compatible with = ～と両立する・互換性がある。熟語は文中でまとまりとして処理しましょう。"
+  },
+  {
+    "id": "i-hard-006",
+    "type": "idiom",
+    "level": "hard",
+    "word": "be susceptible to",
+    "meaning": "～の影響を受けやすい",
+    "question": "be susceptible to",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～の影響を受けやすい",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～の影響を受けやすい",
+    "explanation": "be susceptible to = ～の影響を受けやすい。熟語は文中でまとまりとして処理しましょう。"
+  },
+  {
+    "id": "i-hard-007",
+    "type": "idiom",
+    "level": "hard",
+    "word": "take into account",
+    "meaning": "～を考慮に入れる",
+    "question": "take into account",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を考慮に入れる",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～を考慮に入れる",
+    "explanation": "take into account = ～を考慮に入れる。熟語は文中でまとまりとして処理しましょう。"
+  },
+  {
+    "id": "i-hard-008",
+    "type": "idiom",
+    "level": "hard",
+    "word": "give rise to",
+    "meaning": "～を引き起こす",
+    "question": "give rise to",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を引き起こす",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～を引き起こす",
+    "explanation": "give rise to = ～を引き起こす。熟語は文中でまとまりとして処理しましょう。"
+  },
+  {
+    "id": "i-hard-009",
+    "type": "idiom",
+    "level": "hard",
+    "word": "shed light on",
+    "meaning": "～に光を当てる・明らかにする",
+    "question": "shed light on",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～に光を当てる・明らかにする",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～に光を当てる・明らかにする",
+    "explanation": "shed light on = ～に光を当てる・明らかにする。熟語は文中でまとまりとして処理しましょう。"
+  },
+  {
+    "id": "i-hard-010",
+    "type": "idiom",
+    "level": "hard",
+    "word": "rule out",
+    "meaning": "～を除外する・可能性を否定する",
+    "question": "rule out",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を除外する・可能性を否定する",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～を除外する・可能性を否定する",
+    "explanation": "rule out = ～を除外する・可能性を否定する。熟語は文中でまとまりとして処理しましょう。"
+  }
+]

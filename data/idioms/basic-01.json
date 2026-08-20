@@ -1,0 +1,292 @@
+[
+  {
+    "id": "i-basic-001",
+    "type": "idiom",
+    "level": "basic",
+    "word": "be interested in",
+    "meaning": "～に興味がある",
+    "question": "be interested in",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～に興味がある",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～に興味がある",
+    "explanation": "be interested in = ～に興味がある。熟語は文中でまとまりとして処理しましょう。"
+  },
+  {
+    "id": "i-basic-002",
+    "type": "idiom",
+    "level": "basic",
+    "word": "be good at",
+    "meaning": "～が得意だ",
+    "question": "be good at",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～が得意だ",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～が得意だ",
+    "explanation": "be good at = ～が得意だ。熟語は文中でまとまりとして処理しましょう。"
+  },
+  {
+    "id": "i-basic-003",
+    "type": "idiom",
+    "level": "basic",
+    "word": "be afraid of",
+    "meaning": "～を恐れている",
+    "question": "be afraid of",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を恐れている",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～を恐れている",
+    "explanation": "be afraid of = ～を恐れている。熟語は文中でまとまりとして処理しましょう。"
+  },
+  {
+    "id": "i-basic-004",
+    "type": "idiom",
+    "level": "basic",
+    "word": "look for",
+    "meaning": "～を探す",
+    "question": "look for",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を探す",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～を探す",
+    "explanation": "look for = ～を探す。熟語は文中でまとまりとして処理しましょう。"
+  },
+  {
+    "id": "i-basic-005",
+    "type": "idiom",
+    "level": "basic",
+    "word": "look after",
+    "meaning": "～の世話をする",
+    "question": "look after",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～の世話をする",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～の世話をする",
+    "explanation": "look after = ～の世話をする。熟語は文中でまとまりとして処理しましょう。"
+  },
+  {
+    "id": "i-basic-006",
+    "type": "idiom",
+    "level": "basic",
+    "word": "get along with",
+    "meaning": "～とうまくやる",
+    "question": "get along with",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～とうまくやる",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～とうまくやる",
+    "explanation": "get along with = ～とうまくやる。熟語は文中でまとまりとして処理しましょう。"
+  },
+  {
+    "id": "i-basic-007",
+    "type": "idiom",
+    "level": "basic",
+    "word": "take care of",
+    "meaning": "～の世話をする・対処する",
+    "question": "take care of",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～の世話をする・対処する",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～の世話をする・対処する",
+    "explanation": "take care of = ～の世話をする・対処する。熟語は文中でまとまりとして処理しましょう。"
+  },
+  {
+    "id": "i-basic-008",
+    "type": "idiom",
+    "level": "basic",
+    "word": "go on",
+    "meaning": "続く・続ける",
+    "question": "go on",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "続く・続ける",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "続く・続ける",
+    "explanation": "go on = 続く・続ける。熟語は文中でまとまりとして処理しましょう。"
+  },
+  {
+    "id": "i-basic-009",
+    "type": "idiom",
+    "level": "basic",
+    "word": "give up",
+    "meaning": "あきらめる",
+    "question": "give up",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "あきらめる",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "あきらめる",
+    "explanation": "give up = あきらめる。熟語は文中でまとまりとして処理しましょう。"
+  },
+  {
+    "id": "i-basic-010",
+    "type": "idiom",
+    "level": "basic",
+    "word": "find out",
+    "meaning": "～を見つけ出す",
+    "question": "find out",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を見つけ出す",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～を見つけ出す",
+    "explanation": "find out = ～を見つけ出す。熟語は文中でまとまりとして処理しましょう。"
+  }
+]
