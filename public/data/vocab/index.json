@@ -1,0 +1,44 @@
+{
+  "version": "2026.08.20-vocab-curated",
+  "kind": "vocab",
+  "levels": {
+    "basic": {
+      "count": 230,
+      "files": [
+        "basic-01.json"
+      ]
+    },
+    "standard": {
+      "count": 502,
+      "files": [
+        "standard-01.json",
+        "standard-02.json"
+      ]
+    },
+    "developed": {
+      "count": 337,
+      "files": [
+        "developed-01.json",
+        "developed-02.json"
+      ]
+    },
+    "advanced": {
+      "count": 141,
+      "files": [
+        "advanced-01.json"
+      ]
+    },
+    "hard": {
+      "count": 249,
+      "files": [
+        "hard-01.json"
+      ]
+    }
+  },
+  "quality_notes": [
+    "Synthetic generated-family entries removed.",
+    "Dictionary-import-b dump removed from study set.",
+    "Headwords deduplicated within each level.",
+    "Basic and standard are input-first by design; context/cloze is restricted to developed and above."
+  ]
+}
