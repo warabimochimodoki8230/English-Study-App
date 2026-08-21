@@ -1,0 +1,13 @@
+{
+  "version": "2026.08.20-final",
+  "files": {
+    "overview": [
+      "overview-01.json",
+      "overview-02.json"
+    ],
+    "quiz": [
+      "quiz-01.json",
+      "quiz-02.json"
+    ]
+  }
+}
