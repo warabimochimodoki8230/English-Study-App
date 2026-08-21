@@ -1,7 +1,0 @@
-{
-  "version": "v22-1",
-  "sameLevelVocabRecordsRemoved": 542,
-  "nonQuizzableArticlesRemoved": 2,
-  "crossLevelDuplicatesRetained": true,
-  "rationale": "Same-level duplicates were merged; cross-level reuse remains intentional review material. Articles a/the were removed from vocabulary quiz pool because they cannot form meaningful four-choice vocabulary questions."
-}
