@@ -61,7 +61,7 @@ for (const {file,q} of records) {
 }
 
 // Add curated expansion.
-const addFile = path.resolve(new URL('../ADD_ALL.tsv', import.meta.url).pathname);
+const addFile = path.resolve(new URL('../ADD_WORDS.tsv', import.meta.url).pathname);
 if (fs.existsSync(addFile)) {
   const lines = fs.readFileSync(addFile,'utf8').split(/\r?\n/).filter(Boolean);
   let seq = 1;
@@ -81,9 +81,9 @@ if (fs.existsSync(addFile)) {
       tags:['curated-expansion-2026'], source:'curated-entrance-expansion-v1'
     };
     const prev = merged.get(key);
-    if (!prev) merged.set(key,{q:entry,files:['ADD_ALL.tsv'],levels:new Set([level])});
+    if (!prev) merged.set(key,{q:entry,files:['ADD_WORDS.tsv'],levels:new Set([level])});
     else {
-      prev.files.push('ADD_ALL.tsv'); prev.levels.add(level);
+      prev.files.push('ADD_WORDS.tsv'); prev.levels.add(level);
       const chosen = LEVEL_ORDER[Math.min(LEVEL_ORDER.indexOf(prev.q.level), LEVEL_ORDER.indexOf(level))];
       prev.q.level = chosen;
       prev.q.levelTags = LEVEL_ORDER.filter(l => prev.levels.has(l));

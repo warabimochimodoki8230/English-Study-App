@@ -6,7 +6,7 @@ const errors = [];
 const warnings = [];
 const seenIds = new Map();
 const seenWords = new Map();
-let totals = { files: 0, records: 0, vocab: 0, quiz: 0 };
+let totals = { files: 0, records: 0, vocab: 0, quiz: 0, readingPassages: 0, readingQuestions: 0 };
 
 function files(dir) {
   return fs.readdirSync(dir, { withFileTypes: true }).flatMap(e => {
@@ -29,6 +29,30 @@ for (const file of files(root)) {
     if (!norm(q.id)) errors.push(`${file}#${i}: missing id`);
     else if (seenIds.has(q.id)) errors.push(`${file}#${i}: duplicate id ${q.id} (also ${seenIds.get(q.id)})`);
     else seenIds.set(q.id, `${file}#${i}`);
+
+
+    if (q.type === 'reading') {
+      totals.readingPassages++;
+      if (!norm(q.level)) errors.push(`${file}#${i}: reading missing level`);
+      if (!norm(q.title)) errors.push(`${file}#${i}: reading missing title`);
+      if (!norm(q.passage) || norm(q.passage).length < 200) errors.push(`${file}#${i}: reading passage too short`);
+      if (!Array.isArray(q.questions) || !q.questions.length) errors.push(`${file}#${i}: reading missing questions`);
+      else q.questions.forEach((rq, j) => {
+        totals.readingQuestions++;
+        if (!norm(rq.id)) errors.push(`${file}#${i} question ${j}: missing id`);
+        else if (seenIds.has(rq.id)) errors.push(`${file}#${i} question ${j}: duplicate id ${rq.id}`);
+        else seenIds.set(rq.id, `${file}#${i} question ${j}`);
+        if (!norm(rq.question)) errors.push(`${file}#${i} question ${j}: missing question`);
+        if (!Array.isArray(rq.choices) || rq.choices.length !== 4) errors.push(`${file}#${i} question ${j}: reading choices must be exactly 4`);
+        else {
+          const labels=rq.choices.map(norm);
+          if (new Set(labels.map(x=>x.toLowerCase())).size!==4) errors.push(`${file}#${i} question ${j}: duplicate reading choices`);
+          if (!labels.includes(norm(rq.answer))) errors.push(`${file}#${i} question ${j}: answer not found in choices`);
+        }
+        if (!norm(rq.explanation)) errors.push(`${file}#${i} question ${j}: missing explanation`);
+      });
+      return;
+    }
 
     if (q.type === 'vocab' || q.word) {
       totals.vocab++;
@@ -58,7 +82,7 @@ for (const file of files(root)) {
   });
 }
 
-console.log(`Validated files=${totals.files} records=${totals.records} vocab=${totals.vocab} choice_records=${totals.quiz}`);
+console.log(`Validated files=${totals.files} records=${totals.records} vocab=${totals.vocab} choice_records=${totals.quiz} reading_passages=${totals.readingPassages} reading_questions=${totals.readingQuestions}`);
 for (const w of warnings.slice(0, 50)) console.warn('WARN', w);
 if (warnings.length > 50) console.warn(`WARN ... and ${warnings.length - 50} more`);
 if (errors.length) {
