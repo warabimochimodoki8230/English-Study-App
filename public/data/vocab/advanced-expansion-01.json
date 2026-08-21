@@ -1,0 +1,3218 @@
+[
+  {
+    "id": "v-curated-advanced-0001-abstain",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "abstain",
+    "meaning": "控える",
+    "pos": "動",
+    "exampleSentence": "Researchers often abstain the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「控える」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0002-adversity",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "adversity",
+    "meaning": "逆境",
+    "pos": "名",
+    "exampleSentence": "The study examines the role of adversity in modern society.",
+    "exampleJa": "その研究は現代社会における「逆境」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0003-alleviate",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "alleviate",
+    "meaning": "軽減する",
+    "pos": "動",
+    "exampleSentence": "Researchers often alleviate the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「軽減する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0004-ambivalence",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "ambivalence",
+    "meaning": "相反する感情",
+    "pos": "名",
+    "exampleSentence": "The study examines the role of ambivalence in modern society.",
+    "exampleJa": "その研究は現代社会における「相反する感情」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0005-ameliorate",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "ameliorate",
+    "meaning": "改善する",
+    "pos": "動",
+    "exampleSentence": "Researchers often ameliorate the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「改善する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0006-anomaly",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "anomaly",
+    "meaning": "異常、例外",
+    "pos": "名",
+    "exampleSentence": "The study examines the role of anomaly in modern society.",
+    "exampleJa": "その研究は現代社会における「異常」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0007-arduous",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "arduous",
+    "meaning": "困難な",
+    "pos": "形",
+    "exampleSentence": "The report presents a arduous explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「困難な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0008-assertive",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "assertive",
+    "meaning": "断定的な",
+    "pos": "形",
+    "exampleSentence": "The report presents a assertive explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「断定的な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0009-astute",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "astute",
+    "meaning": "抜け目のない",
+    "pos": "形",
+    "exampleSentence": "The report presents a astute explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「抜け目のない」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0010-atrophy",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "atrophy",
+    "meaning": "萎縮する",
+    "pos": "動",
+    "exampleSentence": "Researchers often atrophy the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「萎縮する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0011-augment",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "augment",
+    "meaning": "増大させる",
+    "pos": "動",
+    "exampleSentence": "Researchers often augment the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「増大させる」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0012-auspicious",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "auspicious",
+    "meaning": "幸先のよい",
+    "pos": "形",
+    "exampleSentence": "The report presents a auspicious explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「幸先のよい」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0013-autonomous",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "autonomous",
+    "meaning": "自治の、自律した",
+    "pos": "形",
+    "exampleSentence": "The report presents a autonomous explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「自治の」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0014-bewilder",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "bewilder",
+    "meaning": "困惑させる",
+    "pos": "動",
+    "exampleSentence": "Researchers often bewilder the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「困惑させる」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0015-bolster",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "bolster",
+    "meaning": "強化する",
+    "pos": "動",
+    "exampleSentence": "Researchers often bolster the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「強化する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0016-breach",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "breach",
+    "meaning": "違反、裂け目",
+    "pos": "名",
+    "exampleSentence": "The study examines the role of breach in modern society.",
+    "exampleJa": "その研究は現代社会における「違反」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0017-candid",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "candid",
+    "meaning": "率直な",
+    "pos": "形",
+    "exampleSentence": "The report presents a candid explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「率直な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0018-coerce",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "coerce",
+    "meaning": "強制する",
+    "pos": "動",
+    "exampleSentence": "Researchers often coerce the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「強制する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0019-coincidence",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "coincidence",
+    "meaning": "偶然の一致",
+    "pos": "名",
+    "exampleSentence": "The study examines the role of coincidence in modern society.",
+    "exampleJa": "その研究は現代社会における「偶然の一致」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0020-commensurate",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "commensurate",
+    "meaning": "釣り合った",
+    "pos": "形",
+    "exampleSentence": "The report presents a commensurate explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「釣り合った」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0021-compassion",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "compassion",
+    "meaning": "思いやり",
+    "pos": "名",
+    "exampleSentence": "The study examines the role of compassion in modern society.",
+    "exampleJa": "その研究は現代社会における「思いやり」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0022-complacent",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "complacent",
+    "meaning": "自己満足した",
+    "pos": "形",
+    "exampleSentence": "The report presents a complacent explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「自己満足した」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0023-concise",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "concise",
+    "meaning": "簡潔な",
+    "pos": "形",
+    "exampleSentence": "The report presents a concise explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「簡潔な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0024-concession",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "concession",
+    "meaning": "譲歩",
+    "pos": "名",
+    "exampleSentence": "The study examines the role of concession in modern society.",
+    "exampleJa": "その研究は現代社会における「譲歩」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0025-conspicuous",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "conspicuous",
+    "meaning": "目立つ",
+    "pos": "形",
+    "exampleSentence": "The report presents a conspicuous explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「目立つ」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0026-contemplate",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "contemplate",
+    "meaning": "熟考する",
+    "pos": "動",
+    "exampleSentence": "Researchers often contemplate the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「熟考する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0027-contentious",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "contentious",
+    "meaning": "論争的な",
+    "pos": "形",
+    "exampleSentence": "The report presents a contentious explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「論争的な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0028-corroborate",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "corroborate",
+    "meaning": "裏付ける",
+    "pos": "動",
+    "exampleSentence": "Researchers often corroborate the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「裏付ける」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0029-credibility",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "credibility",
+    "meaning": "信頼性",
+    "pos": "名",
+    "exampleSentence": "The study examines the role of credibility in modern society.",
+    "exampleJa": "その研究は現代社会における「信頼性」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0030-cursory",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "cursory",
+    "meaning": "ざっとした",
+    "pos": "形",
+    "exampleSentence": "The report presents a cursory explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「ざっとした」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0031-debilitate",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "debilitate",
+    "meaning": "弱体化させる",
+    "pos": "動",
+    "exampleSentence": "Researchers often debilitate the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「弱体化させる」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0032-deceit",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "deceit",
+    "meaning": "欺瞞",
+    "pos": "名",
+    "exampleSentence": "The study examines the role of deceit in modern society.",
+    "exampleJa": "その研究は現代社会における「欺瞞」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0033-defer",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "defer",
+    "meaning": "延期する、従う",
+    "pos": "動",
+    "exampleSentence": "Researchers often defer the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「延期する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0034-deliberate",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "deliberate",
+    "meaning": "故意の、慎重な",
+    "pos": "形",
+    "exampleSentence": "The report presents a deliberate explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「故意の」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0035-deteriorate",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "deteriorate",
+    "meaning": "悪化する",
+    "pos": "動",
+    "exampleSentence": "Researchers often deteriorate the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「悪化する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0036-deviate",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "deviate",
+    "meaning": "逸脱する",
+    "pos": "動",
+    "exampleSentence": "Researchers often deviate the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「逸脱する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0037-discrepancy",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "discrepancy",
+    "meaning": "食い違い",
+    "pos": "名",
+    "exampleSentence": "The study examines the role of discrepancy in modern society.",
+    "exampleJa": "その研究は現代社会における「食い違い」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0038-disparity",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "disparity",
+    "meaning": "格差",
+    "pos": "名",
+    "exampleSentence": "The study examines the role of disparity in modern society.",
+    "exampleJa": "その研究は現代社会における「格差」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0039-disrupt",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "disrupt",
+    "meaning": "混乱させる",
+    "pos": "動",
+    "exampleSentence": "Researchers often disrupt the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「混乱させる」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0040-dissipate",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "dissipate",
+    "meaning": "散らす、消散する",
+    "pos": "動",
+    "exampleSentence": "Researchers often dissipate the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「散らす」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0041-distort",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "distort",
+    "meaning": "歪める",
+    "pos": "動",
+    "exampleSentence": "Researchers often distort the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「歪める」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0042-diverge",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "diverge",
+    "meaning": "分岐する",
+    "pos": "動",
+    "exampleSentence": "Researchers often diverge the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「分岐する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0043-dominate",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "dominate",
+    "meaning": "支配する",
+    "pos": "動",
+    "exampleSentence": "Researchers often dominate the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「支配する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0044-eclipse",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "eclipse",
+    "meaning": "影を落とす",
+    "pos": "動",
+    "exampleSentence": "Researchers often eclipse the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「影を落とす」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0045-efficient",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "efficient",
+    "meaning": "効率的な",
+    "pos": "形",
+    "exampleSentence": "The report presents a efficient explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「効率的な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0046-elicit",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "elicit",
+    "meaning": "引き出す",
+    "pos": "動",
+    "exampleSentence": "Researchers often elicit the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「引き出す」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0047-equitable",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "equitable",
+    "meaning": "公平な",
+    "pos": "形",
+    "exampleSentence": "The report presents a equitable explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「公平な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0048-erode",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "erode",
+    "meaning": "侵食する",
+    "pos": "動",
+    "exampleSentence": "Researchers often erode the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「侵食する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0049-evade",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "evade",
+    "meaning": "逃れる、回避する",
+    "pos": "動",
+    "exampleSentence": "Researchers often evade the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「逃れる」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0050-exacerbate",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "exacerbate",
+    "meaning": "悪化させる",
+    "pos": "動",
+    "exampleSentence": "Researchers often exacerbate the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「悪化させる」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0051-exemplify",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "exemplify",
+    "meaning": "例示する",
+    "pos": "動",
+    "exampleSentence": "Researchers often exemplify the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「例示する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0052-exert",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "exert",
+    "meaning": "及ぼす、努力する",
+    "pos": "動",
+    "exampleSentence": "Researchers often exert the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「及ぼす」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0053-facade",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "facade",
+    "meaning": "見せかけ、正面",
+    "pos": "名",
+    "exampleSentence": "The study examines the role of facade in modern society.",
+    "exampleJa": "その研究は現代社会における「見せかけ」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0054-fallacy",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "fallacy",
+    "meaning": "誤った考え",
+    "pos": "名",
+    "exampleSentence": "The study examines the role of fallacy in modern society.",
+    "exampleJa": "その研究は現代社会における「誤った考え」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0055-flawed",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "flawed",
+    "meaning": "欠陥のある",
+    "pos": "形",
+    "exampleSentence": "The report presents a flawed explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「欠陥のある」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0056-formidable",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "formidable",
+    "meaning": "手ごわい",
+    "pos": "形",
+    "exampleSentence": "The report presents a formidable explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「手ごわい」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0057-friction",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "friction",
+    "meaning": "摩擦、対立",
+    "pos": "名",
+    "exampleSentence": "The study examines the role of friction in modern society.",
+    "exampleJa": "その研究は現代社会における「摩擦」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0058-futile",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "futile",
+    "meaning": "無益な",
+    "pos": "形",
+    "exampleSentence": "The report presents a futile explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「無益な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0059-hamper",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "hamper",
+    "meaning": "妨げる",
+    "pos": "動",
+    "exampleSentence": "Researchers often hamper the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「妨げる」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0060-haphazard",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "haphazard",
+    "meaning": "無計画な",
+    "pos": "形",
+    "exampleSentence": "The report presents a haphazard explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「無計画な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0061-hostile",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "hostile",
+    "meaning": "敵対的な",
+    "pos": "形",
+    "exampleSentence": "The report presents a hostile explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「敵対的な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0062-impartial",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "impartial",
+    "meaning": "公平な",
+    "pos": "形",
+    "exampleSentence": "The report presents a impartial explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「公平な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0063-imperative",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "imperative",
+    "meaning": "必須の",
+    "pos": "形",
+    "exampleSentence": "The report presents a imperative explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「必須の」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0064-implicit",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "implicit",
+    "meaning": "暗黙の",
+    "pos": "形",
+    "exampleSentence": "The report presents a implicit explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「暗黙の」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0065-inadvertent",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "inadvertent",
+    "meaning": "不注意による",
+    "pos": "形",
+    "exampleSentence": "The report presents a inadvertent explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「不注意による」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0066-incisive",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "incisive",
+    "meaning": "鋭い",
+    "pos": "形",
+    "exampleSentence": "The report presents a incisive explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「鋭い」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0067-incongruous",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "incongruous",
+    "meaning": "不調和な",
+    "pos": "形",
+    "exampleSentence": "The report presents a incongruous explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「不調和な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0068-indispensable",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "indispensable",
+    "meaning": "不可欠な",
+    "pos": "形",
+    "exampleSentence": "The report presents a indispensable explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「不可欠な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0069-inequity",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "inequity",
+    "meaning": "不公平",
+    "pos": "名",
+    "exampleSentence": "The study examines the role of inequity in modern society.",
+    "exampleJa": "その研究は現代社会における「不公平」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0070-inferior",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "inferior",
+    "meaning": "劣った",
+    "pos": "形",
+    "exampleSentence": "The report presents a inferior explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「劣った」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0071-infrastructure",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "infrastructure",
+    "meaning": "社会基盤",
+    "pos": "名",
+    "exampleSentence": "The study examines the role of infrastructure in modern society.",
+    "exampleJa": "その研究は現代社会における「社会基盤」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0072-innovate",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "innovate",
+    "meaning": "革新する",
+    "pos": "動",
+    "exampleSentence": "Researchers often innovate the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「革新する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0073-insulate",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "insulate",
+    "meaning": "隔離する、断熱する",
+    "pos": "動",
+    "exampleSentence": "Researchers often insulate the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「隔離する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0074-intermittent",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "intermittent",
+    "meaning": "断続的な",
+    "pos": "形",
+    "exampleSentence": "The report presents a intermittent explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「断続的な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0075-intricate",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "intricate",
+    "meaning": "複雑な",
+    "pos": "形",
+    "exampleSentence": "The report presents a intricate explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「複雑な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0076-intuition",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "intuition",
+    "meaning": "直感",
+    "pos": "名",
+    "exampleSentence": "The study examines the role of intuition in modern society.",
+    "exampleJa": "その研究は現代社会における「直感」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0077-juxtapose",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "juxtapose",
+    "meaning": "並置する",
+    "pos": "動",
+    "exampleSentence": "Researchers often juxtapose the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「並置する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0078-latent",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "latent",
+    "meaning": "潜在的な",
+    "pos": "形",
+    "exampleSentence": "The report presents a latent explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「潜在的な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0079-lucrative",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "lucrative",
+    "meaning": "もうかる",
+    "pos": "形",
+    "exampleSentence": "The report presents a lucrative explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「もうかる」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0080-malicious",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "malicious",
+    "meaning": "悪意のある",
+    "pos": "形",
+    "exampleSentence": "The report presents a malicious explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「悪意のある」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0081-meticulous",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "meticulous",
+    "meaning": "細心の注意を払った",
+    "pos": "形",
+    "exampleSentence": "The report presents a meticulous explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「細心の注意を払った」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0082-negligible",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "negligible",
+    "meaning": "無視できるほど小さい",
+    "pos": "形",
+    "exampleSentence": "The report presents a negligible explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「無視できるほど小さい」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0083-notwithstanding",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "notwithstanding",
+    "meaning": "～にもかかわらず",
+    "pos": "前",
+    "exampleSentence": "The issue of notwithstanding is discussed in the report.",
+    "exampleJa": "その報告書では「～にもかかわらず」の問題が論じられている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0084-obsolete",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "obsolete",
+    "meaning": "廃れた",
+    "pos": "形",
+    "exampleSentence": "The report presents a obsolete explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「廃れた」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0085-opaque",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "opaque",
+    "meaning": "不透明な、分かりにくい",
+    "pos": "形",
+    "exampleSentence": "The report presents a opaque explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「不透明な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0086-optimal",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "optimal",
+    "meaning": "最適な",
+    "pos": "形",
+    "exampleSentence": "The report presents a optimal explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「最適な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0087-paradox",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "paradox",
+    "meaning": "逆説",
+    "pos": "名",
+    "exampleSentence": "The study examines the role of paradox in modern society.",
+    "exampleJa": "その研究は現代社会における「逆説」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0088-pervasive",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "pervasive",
+    "meaning": "広く行き渡る",
+    "pos": "形",
+    "exampleSentence": "The report presents a pervasive explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「広く行き渡る」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0089-plausible",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "plausible",
+    "meaning": "もっともらしい",
+    "pos": "形",
+    "exampleSentence": "The report presents a plausible explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「もっともらしい」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0090-precedent",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "precedent",
+    "meaning": "前例",
+    "pos": "名",
+    "exampleSentence": "The study examines the role of precedent in modern society.",
+    "exampleJa": "その研究は現代社会における「前例」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0091-predicament",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "predicament",
+    "meaning": "苦境",
+    "pos": "名",
+    "exampleSentence": "The study examines the role of predicament in modern society.",
+    "exampleJa": "その研究は現代社会における「苦境」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0092-prescribe",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "prescribe",
+    "meaning": "規定する、処方する",
+    "pos": "動",
+    "exampleSentence": "Researchers often prescribe the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「規定する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0093-profoundly",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "profoundly",
+    "meaning": "深く",
+    "pos": "副",
+    "exampleSentence": "The researchers profoundly examined the available evidence.",
+    "exampleJa": "研究者たちは利用可能な証拠を「深く」調べた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0094-proliferate",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "proliferate",
+    "meaning": "急増する",
+    "pos": "動",
+    "exampleSentence": "Researchers often proliferate the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「急増する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0095-prone",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "prone",
+    "meaning": "～しがちな",
+    "pos": "形",
+    "exampleSentence": "The report presents a prone explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「～しがちな」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0096-prosperity",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "prosperity",
+    "meaning": "繁栄",
+    "pos": "名",
+    "exampleSentence": "The study examines the role of prosperity in modern society.",
+    "exampleJa": "その研究は現代社会における「繁栄」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0097-reassess",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "reassess",
+    "meaning": "再評価する",
+    "pos": "動",
+    "exampleSentence": "Researchers often reassess the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「再評価する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0098-reciprocal",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "reciprocal",
+    "meaning": "相互の",
+    "pos": "形",
+    "exampleSentence": "The report presents a reciprocal explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「相互の」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0099-redundant",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "redundant",
+    "meaning": "冗長な、余分な",
+    "pos": "形",
+    "exampleSentence": "The report presents a redundant explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「冗長な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0100-reluctantly",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "reluctantly",
+    "meaning": "しぶしぶ",
+    "pos": "副",
+    "exampleSentence": "The researchers reluctantly examined the available evidence.",
+    "exampleJa": "研究者たちは利用可能な証拠を「しぶしぶ」調べた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0101-repercussion",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "repercussion",
+    "meaning": "反響、悪影響",
+    "pos": "名",
+    "exampleSentence": "The study examines the role of repercussion in modern society.",
+    "exampleJa": "その研究は現代社会における「反響」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0102-resilient",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "resilient",
+    "meaning": "回復力のある",
+    "pos": "形",
+    "exampleSentence": "The report presents a resilient explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「回復力のある」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0103-rigorous",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "rigorous",
+    "meaning": "厳密な",
+    "pos": "形",
+    "exampleSentence": "The report presents a rigorous explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「厳密な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0104-scrutinize",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "scrutinize",
+    "meaning": "綿密に調べる",
+    "pos": "動",
+    "exampleSentence": "Researchers often scrutinize the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「綿密に調べる」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0105-skeptical",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "skeptical",
+    "meaning": "懐疑的な",
+    "pos": "形",
+    "exampleSentence": "The report presents a skeptical explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「懐疑的な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0106-sovereign",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "sovereign",
+    "meaning": "主権を持つ",
+    "pos": "形",
+    "exampleSentence": "The report presents a sovereign explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「主権を持つ」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0107-spontaneous",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "spontaneous",
+    "meaning": "自発的な",
+    "pos": "形",
+    "exampleSentence": "The report presents a spontaneous explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「自発的な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0108-subsequently",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "subsequently",
+    "meaning": "その後",
+    "pos": "副",
+    "exampleSentence": "The researchers subsequently examined the available evidence.",
+    "exampleJa": "研究者たちは利用可能な証拠を「その後」調べた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0109-subsidize",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "subsidize",
+    "meaning": "補助金を出す",
+    "pos": "動",
+    "exampleSentence": "Researchers often subsidize the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「補助金を出す」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0110-subtle",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "subtle",
+    "meaning": "微妙な",
+    "pos": "形",
+    "exampleSentence": "The report presents a subtle explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「微妙な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0111-tentative",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "tentative",
+    "meaning": "暫定的な",
+    "pos": "形",
+    "exampleSentence": "The report presents a tentative explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「暫定的な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0112-theoretical",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "theoretical",
+    "meaning": "理論上の",
+    "pos": "形",
+    "exampleSentence": "The report presents a theoretical explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「理論上の」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0113-transparent",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "transparent",
+    "meaning": "透明な、明快な",
+    "pos": "形",
+    "exampleSentence": "The report presents a transparent explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「透明な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0114-undermine",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "undermine",
+    "meaning": "弱体化させる",
+    "pos": "動",
+    "exampleSentence": "Researchers often undermine the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「弱体化させる」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0115-unwarranted",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "unwarranted",
+    "meaning": "正当化できない",
+    "pos": "形",
+    "exampleSentence": "The report presents a unwarranted explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「正当化できない」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0116-validate",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "validate",
+    "meaning": "妥当性を確認する",
+    "pos": "動",
+    "exampleSentence": "Researchers often validate the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「妥当性を確認する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0117-versus",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "versus",
+    "meaning": "～対、～に対して",
+    "pos": "前",
+    "exampleSentence": "The issue of versus is discussed in the report.",
+    "exampleJa": "その報告書では「～対」の問題が論じられている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0118-vulnerable",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "vulnerable",
+    "meaning": "傷つきやすい",
+    "pos": "形",
+    "exampleSentence": "The report presents a vulnerable explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「傷つきやすい」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0119-wherein",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "wherein",
+    "meaning": "その中で",
+    "pos": "副",
+    "exampleSentence": "The researchers wherein examined the available evidence.",
+    "exampleJa": "研究者たちは利用可能な証拠を「その中で」調べた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0120-whereupon",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "whereupon",
+    "meaning": "その結果すぐに",
+    "pos": "副",
+    "exampleSentence": "The researchers whereupon examined the available evidence.",
+    "exampleJa": "研究者たちは利用可能な証拠を「その結果すぐに」調べた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0121-wholly",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "wholly",
+    "meaning": "完全に",
+    "pos": "副",
+    "exampleSentence": "The researchers wholly examined the available evidence.",
+    "exampleJa": "研究者たちは利用可能な証拠を「完全に」調べた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0122-yield",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "yield",
+    "meaning": "産出する、譲る",
+    "pos": "動",
+    "exampleSentence": "Researchers often yield the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「産出する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0123-zealous",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "zealous",
+    "meaning": "熱心な",
+    "pos": "形",
+    "exampleSentence": "The report presents a zealous explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「熱心な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0124-admonish",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "admonish",
+    "meaning": "戒める",
+    "pos": "動",
+    "exampleSentence": "Researchers often admonish the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「戒める」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0125-affluent",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "affluent",
+    "meaning": "裕福な",
+    "pos": "形",
+    "exampleSentence": "The report presents a affluent explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「裕福な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0126-aggravate",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "aggravate",
+    "meaning": "悪化させる",
+    "pos": "動",
+    "exampleSentence": "Researchers often aggravate the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「悪化させる」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0127-apprehend",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "apprehend",
+    "meaning": "理解する、逮捕する",
+    "pos": "動",
+    "exampleSentence": "Researchers often apprehend the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「理解する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0128-apt",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "apt",
+    "meaning": "適切な、～しがちな",
+    "pos": "形",
+    "exampleSentence": "The report presents a apt explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「適切な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0129-assertion",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "assertion",
+    "meaning": "主張",
+    "pos": "名",
+    "exampleSentence": "The study examines the role of assertion in modern society.",
+    "exampleJa": "その研究は現代社会における「主張」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0130-assimilate",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "assimilate",
+    "meaning": "同化する",
+    "pos": "動",
+    "exampleSentence": "Researchers often assimilate the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「同化する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0131-attest",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "attest",
+    "meaning": "証明する",
+    "pos": "動",
+    "exampleSentence": "Researchers often attest the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「証明する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0132-avert",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "avert",
+    "meaning": "回避する",
+    "pos": "動",
+    "exampleSentence": "Researchers often avert the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「回避する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0133-belated",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "belated",
+    "meaning": "遅れた",
+    "pos": "形",
+    "exampleSentence": "The report presents a belated explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「遅れた」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0134-benign",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "benign",
+    "meaning": "穏やかな、良性の",
+    "pos": "形",
+    "exampleSentence": "The report presents a benign explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「穏やかな」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0135-capricious",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "capricious",
+    "meaning": "気まぐれな",
+    "pos": "形",
+    "exampleSentence": "The report presents a capricious explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「気まぐれな」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0136-circumvent",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "circumvent",
+    "meaning": "回避する",
+    "pos": "動",
+    "exampleSentence": "Researchers often circumvent the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「回避する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0137-collaborative",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "collaborative",
+    "meaning": "協働の",
+    "pos": "形",
+    "exampleSentence": "The report presents a collaborative explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「協働の」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0138-complicity",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "complicity",
+    "meaning": "共犯関係",
+    "pos": "名",
+    "exampleSentence": "The study examines the role of complicity in modern society.",
+    "exampleJa": "その研究は現代社会における「共犯関係」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0139-conciliatory",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "conciliatory",
+    "meaning": "和解を促す",
+    "pos": "形",
+    "exampleSentence": "The report presents a conciliatory explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「和解を促す」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0140-conventional",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "conventional",
+    "meaning": "従来の",
+    "pos": "形",
+    "exampleSentence": "The report presents a conventional explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「従来の」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0141-convergence",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "convergence",
+    "meaning": "収束",
+    "pos": "名",
+    "exampleSentence": "The study examines the role of convergence in modern society.",
+    "exampleJa": "その研究は現代社会における「収束」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0142-correlate",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "correlate",
+    "meaning": "相関する",
+    "pos": "動",
+    "exampleSentence": "Researchers often correlate the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「相関する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0143-defy",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "defy",
+    "meaning": "反抗する",
+    "pos": "動",
+    "exampleSentence": "Researchers often defy the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「反抗する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0144-deferential",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "deferential",
+    "meaning": "敬意を示す",
+    "pos": "形",
+    "exampleSentence": "The report presents a deferential explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「敬意を示す」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0145-deliberation",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "deliberation",
+    "meaning": "熟考、審議",
+    "pos": "名",
+    "exampleSentence": "The study examines the role of deliberation in modern society.",
+    "exampleJa": "その研究は現代社会における「熟考」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0146-demarcate",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "demarcate",
+    "meaning": "境界を定める",
+    "pos": "動",
+    "exampleSentence": "Researchers often demarcate the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「境界を定める」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0147-derive",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "derive",
+    "meaning": "由来する",
+    "pos": "動",
+    "exampleSentence": "Researchers often derive the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「由来する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0148-desolate",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "desolate",
+    "meaning": "荒涼とした",
+    "pos": "形",
+    "exampleSentence": "The report presents a desolate explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「荒涼とした」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0149-deterrent",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "deterrent",
+    "meaning": "抑止力",
+    "pos": "名",
+    "exampleSentence": "The study examines the role of deterrent in modern society.",
+    "exampleJa": "その研究は現代社会における「抑止力」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0150-discerning",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "discerning",
+    "meaning": "洞察力のある",
+    "pos": "形",
+    "exampleSentence": "The report presents a discerning explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「洞察力のある」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0151-disclose",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "disclose",
+    "meaning": "公開する",
+    "pos": "動",
+    "exampleSentence": "Researchers often disclose the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「公開する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0152-discreet",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "discreet",
+    "meaning": "慎重な、目立たない",
+    "pos": "形",
+    "exampleSentence": "The report presents a discreet explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「慎重な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0153-disposition",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "disposition",
+    "meaning": "気質、配置",
+    "pos": "名",
+    "exampleSentence": "The study examines the role of disposition in modern society.",
+    "exampleJa": "その研究は現代社会における「気質」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0154-disseminate",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "disseminate",
+    "meaning": "広める",
+    "pos": "動",
+    "exampleSentence": "Researchers often disseminate the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「広める」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0155-dormant",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "dormant",
+    "meaning": "休眠中の",
+    "pos": "形",
+    "exampleSentence": "The report presents a dormant explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「休眠中の」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0156-elevate",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "elevate",
+    "meaning": "高める",
+    "pos": "動",
+    "exampleSentence": "Researchers often elevate the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「高める」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0157-encompass",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "encompass",
+    "meaning": "含む、取り囲む",
+    "pos": "動",
+    "exampleSentence": "Researchers often encompass the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「含む」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0158-endemic",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "endemic",
+    "meaning": "特有の、風土性の",
+    "pos": "形",
+    "exampleSentence": "The report presents a endemic explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「特有の」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0159-entrenched",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "entrenched",
+    "meaning": "深く根付いた",
+    "pos": "形",
+    "exampleSentence": "The report presents a entrenched explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「深く根付いた」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0160-equanimity",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "equanimity",
+    "meaning": "平静",
+    "pos": "名",
+    "exampleSentence": "The study examines the role of equanimity in modern society.",
+    "exampleJa": "その研究は現代社会における「平静」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0161-exemplary",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "exemplary",
+    "meaning": "模範的な",
+    "pos": "形",
+    "exampleSentence": "The report presents a exemplary explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「模範的な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0162-extravagant",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "extravagant",
+    "meaning": "ぜいたくな、過度な",
+    "pos": "形",
+    "exampleSentence": "The report presents a extravagant explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「ぜいたくな」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0163-foster",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "foster",
+    "meaning": "育成する",
+    "pos": "動",
+    "exampleSentence": "Researchers often foster the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「育成する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0164-frugal",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "frugal",
+    "meaning": "質素な",
+    "pos": "形",
+    "exampleSentence": "The report presents a frugal explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「質素な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0165-incessant",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "incessant",
+    "meaning": "絶え間ない",
+    "pos": "形",
+    "exampleSentence": "The report presents a incessant explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「絶え間ない」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0166-indignant",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "indignant",
+    "meaning": "憤慨した",
+    "pos": "形",
+    "exampleSentence": "The report presents a indignant explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「憤慨した」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0167-insidious",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "insidious",
+    "meaning": "陰険な",
+    "pos": "形",
+    "exampleSentence": "The report presents a insidious explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「陰険な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0168-integrity",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "integrity",
+    "meaning": "誠実さ",
+    "pos": "名",
+    "exampleSentence": "The study examines the role of integrity in modern society.",
+    "exampleJa": "その研究は現代社会における「誠実さ」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0169-legislation",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "legislation",
+    "meaning": "法律、立法",
+    "pos": "名",
+    "exampleSentence": "The study examines the role of legislation in modern society.",
+    "exampleJa": "その研究は現代社会における「法律」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0170-manifest",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "manifest",
+    "meaning": "明白な",
+    "pos": "形",
+    "exampleSentence": "The report presents a manifest explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「明白な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0171-marginalize",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "marginalize",
+    "meaning": "社会の主流から外す",
+    "pos": "動",
+    "exampleSentence": "Researchers often marginalize the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「社会の主流から外す」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0172-mitigate",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "mitigate",
+    "meaning": "軽減する",
+    "pos": "動",
+    "exampleSentence": "Researchers often mitigate the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「軽減する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0173-momentous",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "momentous",
+    "meaning": "重大な",
+    "pos": "形",
+    "exampleSentence": "The report presents a momentous explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「重大な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0174-nuance",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "nuance",
+    "meaning": "微妙な差異",
+    "pos": "名",
+    "exampleSentence": "The study examines the role of nuance in modern society.",
+    "exampleJa": "その研究は現代社会における「微妙な差異」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0175-ornate",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "ornate",
+    "meaning": "華美な",
+    "pos": "形",
+    "exampleSentence": "The report presents a ornate explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「華美な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0176-perpetual",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "perpetual",
+    "meaning": "永続的な",
+    "pos": "形",
+    "exampleSentence": "The report presents a perpetual explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「永続的な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0177-predominantly",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "predominantly",
+    "meaning": "主に",
+    "pos": "副",
+    "exampleSentence": "The researchers predominantly examined the available evidence.",
+    "exampleJa": "研究者たちは利用可能な証拠を「主に」調べた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0178-proponent",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "proponent",
+    "meaning": "提唱者",
+    "pos": "名",
+    "exampleSentence": "The study examines the role of proponent in modern society.",
+    "exampleJa": "その研究は現代社会における「提唱者」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0179-proposition",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "proposition",
+    "meaning": "命題、提案",
+    "pos": "名",
+    "exampleSentence": "The study examines the role of proposition in modern society.",
+    "exampleJa": "その研究は現代社会における「命題」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0180-prudent",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "prudent",
+    "meaning": "慎重な",
+    "pos": "形",
+    "exampleSentence": "The report presents a prudent explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「慎重な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0181-receptive",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "receptive",
+    "meaning": "受容力のある",
+    "pos": "形",
+    "exampleSentence": "The report presents a receptive explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「受容力のある」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0182-relinquish",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "relinquish",
+    "meaning": "手放す",
+    "pos": "動",
+    "exampleSentence": "Researchers often relinquish the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「手放す」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0183-remedial",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "remedial",
+    "meaning": "改善の、補習の",
+    "pos": "形",
+    "exampleSentence": "The report presents a remedial explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「改善の」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0184-repudiate",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "repudiate",
+    "meaning": "拒絶する",
+    "pos": "動",
+    "exampleSentence": "Researchers often repudiate the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「拒絶する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0185-resolute",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "resolute",
+    "meaning": "断固とした",
+    "pos": "形",
+    "exampleSentence": "The report presents a resolute explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「断固とした」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0186-resurgence",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "resurgence",
+    "meaning": "再興",
+    "pos": "名",
+    "exampleSentence": "The study examines the role of resurgence in modern society.",
+    "exampleJa": "その研究は現代社会における「再興」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0187-rigorously",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "rigorously",
+    "meaning": "厳密に",
+    "pos": "副",
+    "exampleSentence": "The researchers rigorously examined the available evidence.",
+    "exampleJa": "研究者たちは利用可能な証拠を「厳密に」調べた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0188-salient",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "salient",
+    "meaning": "顕著な",
+    "pos": "形",
+    "exampleSentence": "The report presents a salient explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「顕著な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0189-saturated",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "saturated",
+    "meaning": "飽和した",
+    "pos": "形",
+    "exampleSentence": "The report presents a saturated explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「飽和した」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0190-scrupulous",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "scrupulous",
+    "meaning": "細心の、厳格な",
+    "pos": "形",
+    "exampleSentence": "The report presents a scrupulous explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「細心の」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0191-substantiate",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "substantiate",
+    "meaning": "裏付ける",
+    "pos": "動",
+    "exampleSentence": "Researchers often substantiate the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「裏付ける」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0192-superficial",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "superficial",
+    "meaning": "表面的な",
+    "pos": "形",
+    "exampleSentence": "The report presents a superficial explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「表面的な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0193-surmount",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "surmount",
+    "meaning": "乗り越える",
+    "pos": "動",
+    "exampleSentence": "Researchers often surmount the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「乗り越える」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0194-tacit",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "tacit",
+    "meaning": "暗黙の",
+    "pos": "形",
+    "exampleSentence": "The report presents a tacit explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「暗黙の」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0195-tangible",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "tangible",
+    "meaning": "触れられる、具体的な",
+    "pos": "形",
+    "exampleSentence": "The report presents a tangible explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「触れられる」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0196-transient",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "transient",
+    "meaning": "一時的な",
+    "pos": "形",
+    "exampleSentence": "The report presents a transient explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「一時的な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0197-unanimous",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "unanimous",
+    "meaning": "満場一致の",
+    "pos": "形",
+    "exampleSentence": "The report presents a unanimous explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「満場一致の」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0198-unilateral",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "unilateral",
+    "meaning": "一方的な",
+    "pos": "形",
+    "exampleSentence": "The report presents a unilateral explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「一方的な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0199-viable",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "viable",
+    "meaning": "実行可能な",
+    "pos": "形",
+    "exampleSentence": "The report presents a viable explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「実行可能な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0200-volatile",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "volatile",
+    "meaning": "変動しやすい",
+    "pos": "形",
+    "exampleSentence": "The report presents a volatile explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「変動しやすい」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0201-withstand",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "withstand",
+    "meaning": "耐える",
+    "pos": "動",
+    "exampleSentence": "Researchers often withstand the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「耐える」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  }
+]

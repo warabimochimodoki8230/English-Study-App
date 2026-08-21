@@ -1,0 +1,25 @@
+{
+  "generated": "2026-08-21",
+  "productVersion": "v20-4-all-genre-explanation-cleanup-idiom-expansion",
+  "vocabTotal": 5161,
+  "idiomTotal": 839,
+  "grammarOverviewTotal": 25,
+  "grammarQuizTotal": 1683,
+  "readingPassageTotal": 80,
+  "readingQuestionTotal": 400,
+  "totalRecords": 8108,
+  "source": "v14 validated database, global grammar stem deduplication, original v15 grammar polish set",
+  "deduped": true,
+  "static": true,
+  "version": "2026.08.21-v20-4",
+  "features": {
+    "grammarDedup": "Globally normalized question stems; retained one best-complete record per stem.",
+    "readingTranslation": "Full passage translation appears only after answering the final question of a passage.",
+    "readingTimer": "Each passage has a target reading time and a pauseable count-up stopwatch.",
+    "learningAnalytics": "Local progress analytics show actual mistakes, level accuracy, coverage, and review-risk candidates."
+  },
+  "expansion": {
+    "grammarAdded": 330,
+    "grammarRemovedAsDuplicates": 1422
+  }
+}
