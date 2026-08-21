@@ -1,0 +1,770 @@
+[
+  {
+    "id": "v-curated-developed-extra3-0001-adolescence",
+    "type": "vocab",
+    "level": "developed",
+    "word": "adolescence",
+    "meaning": "青年期",
+    "pos": "名",
+    "exampleSentence": "The project was completed within the adolescence.",
+    "exampleJa": "この文は「青年期」という内容を表している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0002-authorship",
+    "type": "vocab",
+    "level": "developed",
+    "word": "authorship",
+    "meaning": "著者であること",
+    "pos": "名",
+    "exampleSentence": "The authorship explained the situation to the committee.",
+    "exampleJa": "著者であることは委員会にその状況を説明した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0003-biodiversity",
+    "type": "vocab",
+    "level": "developed",
+    "word": "biodiversity",
+    "meaning": "生物多様性",
+    "pos": "名",
+    "exampleSentence": "The committee considered the biodiversity before making its decision.",
+    "exampleJa": "委員会は決定を下す前に生物多様性を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0004-capitalism",
+    "type": "vocab",
+    "level": "developed",
+    "word": "capitalism",
+    "meaning": "資本主義",
+    "pos": "名",
+    "exampleSentence": "The article explores the capitalism in modern society.",
+    "exampleJa": "この文は「資本主義」という内容を表している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0005-categorize",
+    "type": "vocab",
+    "level": "developed",
+    "word": "categorize",
+    "meaning": "分類する",
+    "pos": "動",
+    "exampleSentence": "The researchers need to categorize the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を分類する必要がある。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0006-centralize",
+    "type": "vocab",
+    "level": "developed",
+    "word": "centralize",
+    "meaning": "中央集権化する",
+    "pos": "動",
+    "exampleSentence": "The team worked together to centralize the issue.",
+    "exampleJa": "チームはその問題を中央集権化するために協力した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0007-cognition",
+    "type": "vocab",
+    "level": "developed",
+    "word": "cognition",
+    "meaning": "認知",
+    "pos": "名",
+    "exampleSentence": "The cognition became an important part of the discussion.",
+    "exampleJa": "認知は議論の重要な一部となった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0008-cognitive",
+    "type": "vocab",
+    "level": "developed",
+    "word": "cognitive",
+    "meaning": "認知の",
+    "pos": "形",
+    "exampleSentence": "The team chose a cognitive approach to the problem.",
+    "exampleJa": "チームはその問題に対して認知のという方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0009-confirmation",
+    "type": "vocab",
+    "level": "developed",
+    "word": "confirmation",
+    "meaning": "確認",
+    "pos": "名",
+    "exampleSentence": "The committee considered the confirmation before making its decision.",
+    "exampleJa": "委員会は決定を下す前に確認を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0010-continuity",
+    "type": "vocab",
+    "level": "developed",
+    "word": "continuity",
+    "meaning": "継続性",
+    "pos": "名",
+    "exampleSentence": "The continuity became an important part of the discussion.",
+    "exampleJa": "継続性は議論の重要な一部となった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0011-customize",
+    "type": "vocab",
+    "level": "developed",
+    "word": "customize",
+    "meaning": "特注する",
+    "pos": "動",
+    "exampleSentence": "The researchers need to customize the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を特注する必要がある。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0012-cyclical",
+    "type": "vocab",
+    "level": "developed",
+    "word": "cyclical",
+    "meaning": "周期的な",
+    "pos": "形",
+    "exampleSentence": "The report describes the cyclical characteristics of the system.",
+    "exampleJa": "その報告書はシステムの周期的なという特徴を詳しく説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0013-decisiveness",
+    "type": "vocab",
+    "level": "developed",
+    "word": "decisiveness",
+    "meaning": "決断力",
+    "pos": "名",
+    "exampleSentence": "The decisiveness became an important part of the discussion.",
+    "exampleJa": "決断力は議論の重要な一部となった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0014-decorrelation",
+    "type": "vocab",
+    "level": "developed",
+    "word": "decorrelation",
+    "meaning": "無相関化",
+    "pos": "名",
+    "exampleSentence": "The report describes the decorrelation in detail.",
+    "exampleJa": "その報告書は無相関化について詳しく説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0015-denial",
+    "type": "vocab",
+    "level": "developed",
+    "word": "denial",
+    "meaning": "否定",
+    "pos": "名",
+    "exampleSentence": "The committee considered the denial before making its decision.",
+    "exampleJa": "委員会は決定を下す前に否定を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0016-depiction",
+    "type": "vocab",
+    "level": "developed",
+    "word": "depiction",
+    "meaning": "描写",
+    "pos": "名",
+    "exampleSentence": "The depiction became an important part of the discussion.",
+    "exampleJa": "描写は議論の重要な一部となった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0017-disability",
+    "type": "vocab",
+    "level": "developed",
+    "word": "disability",
+    "meaning": "障害",
+    "pos": "名",
+    "exampleSentence": "The report describes the disability in detail.",
+    "exampleJa": "その報告書は障害について詳しく説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0018-equivalence",
+    "type": "vocab",
+    "level": "developed",
+    "word": "equivalence",
+    "meaning": "同等性",
+    "pos": "名",
+    "exampleSentence": "The committee considered the equivalence before making its decision.",
+    "exampleJa": "委員会は決定を下す前に同等性を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0019-exemption",
+    "type": "vocab",
+    "level": "developed",
+    "word": "exemption",
+    "meaning": "免除",
+    "pos": "名",
+    "exampleSentence": "The exemption became an important part of the discussion.",
+    "exampleJa": "免除は議論の重要な一部となった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0020-expansionary",
+    "type": "vocab",
+    "level": "developed",
+    "word": "expansionary",
+    "meaning": "拡張の",
+    "pos": "形",
+    "exampleSentence": "The team chose a expansionary approach to the problem.",
+    "exampleJa": "チームはその問題に対して拡張のという方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0021-fluctuating",
+    "type": "vocab",
+    "level": "developed",
+    "word": "fluctuating",
+    "meaning": "変動する",
+    "pos": "形",
+    "exampleSentence": "The report describes the fluctuating characteristics of the system.",
+    "exampleJa": "その報告書はシステムの変動という特徴を詳しく説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0022-generalization",
+    "type": "vocab",
+    "level": "developed",
+    "word": "generalization",
+    "meaning": "一般化",
+    "pos": "名",
+    "exampleSentence": "The generalization became an important part of the discussion.",
+    "exampleJa": "一般化は議論の重要な一部となった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0023-illustrative",
+    "type": "vocab",
+    "level": "developed",
+    "word": "illustrative",
+    "meaning": "説明用の",
+    "pos": "形",
+    "exampleSentence": "The team chose a illustrative approach to the problem.",
+    "exampleJa": "チームはその問題に対して説明用のという方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0024-institutionalize",
+    "type": "vocab",
+    "level": "developed",
+    "word": "institutionalize",
+    "meaning": "制度化する",
+    "pos": "動",
+    "exampleSentence": "The team worked together to institutionalize the issue.",
+    "exampleJa": "チームはその問題を制度化するために協力した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0025-interactional",
+    "type": "vocab",
+    "level": "developed",
+    "word": "interactional",
+    "meaning": "相互作用の",
+    "pos": "形",
+    "exampleSentence": "The researchers considered the interactional option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、相互作用のな選択肢を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0026-internalize",
+    "type": "vocab",
+    "level": "developed",
+    "word": "internalize",
+    "meaning": "内面化する",
+    "pos": "動",
+    "exampleSentence": "The researchers need to internalize the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を内面化する必要がある。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0027-investigator",
+    "type": "vocab",
+    "level": "developed",
+    "word": "investigator",
+    "meaning": "調査員",
+    "pos": "名",
+    "exampleSentence": "The team used the investigator to evaluate the proposed theory.",
+    "exampleJa": "チームは、調査員ことに取り組んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0028-judicial",
+    "type": "vocab",
+    "level": "developed",
+    "word": "judicial",
+    "meaning": "司法の",
+    "pos": "形",
+    "exampleSentence": "The researchers considered the judicial option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、司法のな選択肢を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0029-legality",
+    "type": "vocab",
+    "level": "developed",
+    "word": "legality",
+    "meaning": "合法性",
+    "pos": "名",
+    "exampleSentence": "The report describes the legality in detail.",
+    "exampleJa": "その報告書は合法性について詳しく説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0030-liberalization",
+    "type": "vocab",
+    "level": "developed",
+    "word": "liberalization",
+    "meaning": "自由化",
+    "pos": "名",
+    "exampleSentence": "The committee considered the liberalization before making its decision.",
+    "exampleJa": "委員会は決定を下す前に自由化を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0031-modernization",
+    "type": "vocab",
+    "level": "developed",
+    "word": "modernization",
+    "meaning": "近代化",
+    "pos": "名",
+    "exampleSentence": "The modernization became an important part of the discussion.",
+    "exampleJa": "近代化は議論の重要な一部となった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0032-monitoring",
+    "type": "vocab",
+    "level": "developed",
+    "word": "monitoring",
+    "meaning": "監視",
+    "pos": "名",
+    "exampleSentence": "The report describes the monitoring in detail.",
+    "exampleJa": "その報告書は監視について詳しく説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0033-observational",
+    "type": "vocab",
+    "level": "developed",
+    "word": "observational",
+    "meaning": "観察の",
+    "pos": "形",
+    "exampleSentence": "The report describes the observational characteristics of the system.",
+    "exampleJa": "その報告書はシステムの観察のという特徴を詳しく説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0034-organizational",
+    "type": "vocab",
+    "level": "developed",
+    "word": "organizational",
+    "meaning": "組織上の",
+    "pos": "形",
+    "exampleSentence": "The researchers considered the organizational option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、組織上のな選択肢を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0035-reasoning",
+    "type": "vocab",
+    "level": "developed",
+    "word": "reasoning",
+    "meaning": "推論",
+    "pos": "名",
+    "exampleSentence": "The report describes the reasoning in detail.",
+    "exampleJa": "その報告書は推論について詳しく説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0036-redistribute",
+    "type": "vocab",
+    "level": "developed",
+    "word": "redistribute",
+    "meaning": "再分配する",
+    "pos": "動",
+    "exampleSentence": "The team worked together to redistribute the issue.",
+    "exampleJa": "チームはその問題を再分配するために協力した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0037-reformative",
+    "type": "vocab",
+    "level": "developed",
+    "word": "reformative",
+    "meaning": "改革的な",
+    "pos": "形",
+    "exampleSentence": "The researchers considered the reformative option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、改革的なな選択肢を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0038-regionalism",
+    "type": "vocab",
+    "level": "developed",
+    "word": "regionalism",
+    "meaning": "地域主義",
+    "pos": "名",
+    "exampleSentence": "The city plans to improve the regionalism next year.",
+    "exampleJa": "その市は来年、地域主義を改善する予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0039-rejection",
+    "type": "vocab",
+    "level": "developed",
+    "word": "rejection",
+    "meaning": "拒絶",
+    "pos": "名",
+    "exampleSentence": "The committee considered the rejection before making its decision.",
+    "exampleJa": "委員会は決定を下す前に拒絶を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0040-relocation",
+    "type": "vocab",
+    "level": "developed",
+    "word": "relocation",
+    "meaning": "移転",
+    "pos": "名",
+    "exampleSentence": "The relocation became an important part of the discussion.",
+    "exampleJa": "移転は議論の重要な一部となった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0041-reproductive",
+    "type": "vocab",
+    "level": "developed",
+    "word": "reproductive",
+    "meaning": "生殖の",
+    "pos": "形",
+    "exampleSentence": "The team chose a reproductive approach to the problem.",
+    "exampleJa": "チームはその問題に対して生殖のという方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0042-respondent",
+    "type": "vocab",
+    "level": "developed",
+    "word": "respondent",
+    "meaning": "回答者",
+    "pos": "名",
+    "exampleSentence": "The committee considered the respondent before making its decision.",
+    "exampleJa": "委員会は決定を下す前に回答者を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0043-restructuring",
+    "type": "vocab",
+    "level": "developed",
+    "word": "restructuring",
+    "meaning": "再構築",
+    "pos": "名",
+    "exampleSentence": "The restructuring became an important part of the discussion.",
+    "exampleJa": "再構築は議論の重要な一部となった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0044-secular",
+    "type": "vocab",
+    "level": "developed",
+    "word": "secular",
+    "meaning": "世俗の",
+    "pos": "形",
+    "exampleSentence": "The team chose a secular approach to the problem.",
+    "exampleJa": "チームはその問題に対して世俗のという方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0045-socialize",
+    "type": "vocab",
+    "level": "developed",
+    "word": "socialize",
+    "meaning": "社会化する",
+    "pos": "動",
+    "exampleSentence": "The team worked together to socialize the issue.",
+    "exampleJa": "チームはその問題を社会化するために協力した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0046-substantiality",
+    "type": "vocab",
+    "level": "developed",
+    "word": "substantiality",
+    "meaning": "実質性",
+    "pos": "名",
+    "exampleSentence": "The substantiality became an important part of the discussion.",
+    "exampleJa": "実質性は議論の重要な一部となった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0047-theorize",
+    "type": "vocab",
+    "level": "developed",
+    "word": "theorize",
+    "meaning": "理論化する",
+    "pos": "動",
+    "exampleSentence": "The researchers need to theorize the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を理論化する必要がある。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra3-0048-validating",
+    "type": "vocab",
+    "level": "developed",
+    "word": "validating",
+    "meaning": "妥当性を確認する",
+    "pos": "形",
+    "exampleSentence": "The report describes the validating characteristics of the system.",
+    "exampleJa": "その報告書はシステムの妥当性を確認という特徴を詳しく説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  }
+]
