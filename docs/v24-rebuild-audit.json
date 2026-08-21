@@ -1,0 +1,19 @@
+{
+  "version": "v24",
+  "base": "v20-8 stable runtime + v21/v22 vocabulary smart-choice features",
+  "vocabTotal": 6034,
+  "idiomTotal": 839,
+  "grammarOverviewTotal": 25,
+  "grammarQuizTotal": 1683,
+  "readingQuestions": 400,
+  "changes": [
+    "all vocabulary modes at all levels",
+    "smart same-POS distractors",
+    "family questions hide POS",
+    "POS labels",
+    "mobile reset",
+    "always-visible disabled next button",
+    "tag search omitted",
+    "v20-8 runtime/data for idiom/grammar/reading preserved"
+  ]
+}

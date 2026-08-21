@@ -1,0 +1,373 @@
+[
+  {
+    "id": "v-family-v21-claimant",
+    "type": "vocab",
+    "level": "developed",
+    "word": "claimant",
+    "meaning": "請求者；原告",
+    "pos": "n",
+    "question": "claimant",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "請求者；原告",
+    "explanation": "",
+    "family": "claim;claimant",
+    "synonyms": [
+      "assert",
+      "demand"
+    ],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "語族派生語",
+      "入試対策",
+      "英検対策",
+      "v20-9-family-expansion"
+    ],
+    "source": "curated-word-family-v21",
+    "exampleSentence": "The claimant submitted documents to support her request for compensation.",
+    "exampleJa": "その請求者は補償を求めるための書類を提出した。"
+  },
+  {
+    "id": "v-family-v21-explorer",
+    "type": "vocab",
+    "level": "developed",
+    "word": "explorer",
+    "meaning": "探検家；探究者",
+    "pos": "n",
+    "question": "explorer",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "探検家；探究者",
+    "explanation": "",
+    "family": "explore;exploration;explorer",
+    "synonyms": [
+      "investigate",
+      "examine"
+    ],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "語族派生語",
+      "入試対策",
+      "英検対策",
+      "v20-9-family-expansion"
+    ],
+    "source": "curated-word-family-v21",
+    "exampleSentence": "The explorer recorded the plants he found in the remote valley.",
+    "exampleJa": "その探検家は人里離れた谷で見つけた植物を記録した。"
+  },
+  {
+    "id": "v-family-v21-integrated",
+    "type": "vocab",
+    "level": "developed",
+    "word": "integrated",
+    "meaning": "統合された；一体化した",
+    "pos": "adj",
+    "question": "integrated",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "統合された；一体化した",
+    "explanation": "",
+    "family": "integrate;integration;integrated",
+    "synonyms": [
+      "combine",
+      "unify"
+    ],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "語族派生語",
+      "入試対策",
+      "英検対策",
+      "v20-9-family-expansion"
+    ],
+    "source": "curated-word-family-v21",
+    "exampleSentence": "The school has an integrated program that combines science and technology.",
+    "exampleJa": "その学校には科学と技術を組み合わせた統合型のプログラムがある。"
+  },
+  {
+    "id": "v-family-v21-intensely",
+    "type": "vocab",
+    "level": "developed",
+    "word": "intensely",
+    "meaning": "強烈に；非常に",
+    "pos": "adv",
+    "question": "intensely",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "強烈に；非常に",
+    "explanation": "",
+    "family": "intense;intense;intensely",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "語族派生語",
+      "入試対策",
+      "英検対策",
+      "v20-9-family-expansion"
+    ],
+    "source": "curated-word-family-v21",
+    "exampleSentence": "The two teams competed intensely for the final position.",
+    "exampleJa": "その2チームは最後の順位をめぐって激しく競い合った。"
+  },
+  {
+    "id": "v-family-v21-competently",
+    "type": "vocab",
+    "level": "developed",
+    "word": "competently",
+    "meaning": "有能に；適切に",
+    "pos": "adv",
+    "question": "competently",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "有能に；適切に",
+    "explanation": "",
+    "family": "competent;competent;competently",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "語族派生語",
+      "入試対策",
+      "英検対策",
+      "v20-9-family-expansion"
+    ],
+    "source": "curated-word-family-v21",
+    "exampleSentence": "She handled the difficult negotiation competently and calmly.",
+    "exampleJa": "彼女はその難しい交渉を有能かつ冷静に進めた。"
+  },
+  {
+    "id": "v-family-v21-consisting",
+    "type": "vocab",
+    "level": "developed",
+    "word": "consisting",
+    "meaning": "成り立っている；構成されている",
+    "pos": "v",
+    "question": "consisting",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "成り立っている；構成されている",
+    "explanation": "",
+    "family": "consist;consisting",
+    "synonyms": [
+      "comprise",
+      "be made up of"
+    ],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "語族派生語",
+      "入試対策",
+      "英検対策",
+      "v20-9-family-expansion"
+    ],
+    "source": "curated-word-family-v21",
+    "exampleSentence": "The program consists of lectures, workshops, and field research.",
+    "exampleJa": "そのプログラムは講義、ワークショップ、実地調査で構成されている。"
+  },
+  {
+    "id": "v-family-v21-contrasting",
+    "type": "vocab",
+    "level": "developed",
+    "word": "contrasting",
+    "meaning": "対照的な",
+    "pos": "adj",
+    "question": "contrasting",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "対照的な",
+    "explanation": "",
+    "family": "contrast;contrasting",
+    "synonyms": [
+      "difference",
+      "comparison"
+    ],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "語族派生語",
+      "入試対策",
+      "英検対策",
+      "v20-9-family-expansion"
+    ],
+    "source": "curated-word-family-v21",
+    "exampleSentence": "The study compares two contrasting approaches to education.",
+    "exampleJa": "その研究は教育に対する2つの対照的なアプローチを比較している。"
+  },
+  {
+    "id": "v-family-v21-debatable",
+    "type": "vocab",
+    "level": "developed",
+    "word": "debatable",
+    "meaning": "議論の余地がある",
+    "pos": "adj",
+    "question": "debatable",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "議論の余地がある",
+    "explanation": "",
+    "family": "debate;debatable",
+    "synonyms": [
+      "discussion",
+      "argument"
+    ],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "語族派生語",
+      "入試対策",
+      "英検対策",
+      "v20-9-family-expansion"
+    ],
+    "source": "curated-word-family-v21",
+    "exampleSentence": "Whether the policy will reduce costs is still debatable.",
+    "exampleJa": "その政策が費用を削減するかどうかは、まだ議論の余地がある。"
+  },
+  {
+    "id": "v-family-v21-denotation",
+    "type": "vocab",
+    "level": "developed",
+    "word": "denotation",
+    "meaning": "表示；文字どおりの意味",
+    "pos": "n",
+    "question": "denotation",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "表示；文字どおりの意味",
+    "explanation": "",
+    "family": "denote;denotation",
+    "synonyms": [
+      "mean",
+      "signify"
+    ],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "語族派生語",
+      "入試対策",
+      "英検対策",
+      "v20-9-family-expansion"
+    ],
+    "source": "curated-word-family-v21",
+    "exampleSentence": "The denotation of the word is clear, but its emotional meaning is more complex.",
+    "exampleJa": "その語の字義どおりの意味は明確だが、感情的な意味はもっと複雑だ。"
+  },
+  {
+    "id": "v-family-v21-purchaser",
+    "type": "vocab",
+    "level": "developed",
+    "word": "purchaser",
+    "meaning": "購入者",
+    "pos": "n",
+    "question": "purchaser",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "購入者",
+    "explanation": "",
+    "family": "purchase;purchaser;purchase",
+    "synonyms": [
+      "buy",
+      "acquire"
+    ],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "語族派生語",
+      "入試対策",
+      "英検対策",
+      "v20-9-family-expansion"
+    ],
+    "source": "curated-word-family-v21",
+    "exampleSentence": "The purchaser received a full refund after returning the defective product.",
+    "exampleJa": "その購入者は、欠陥品を返品した後、全額返金を受けた。"
+  },
+  {
+    "id": "v-family-v21-reliance",
+    "type": "vocab",
+    "level": "developed",
+    "word": "reliance",
+    "meaning": "依存；信頼",
+    "pos": "n",
+    "question": "reliance",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "依存；信頼",
+    "explanation": "",
+    "family": "rely;reliance;reliable",
+    "synonyms": [
+      "depend",
+      "trust"
+    ],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "語族派生語",
+      "入試対策",
+      "英検対策",
+      "v20-9-family-expansion"
+    ],
+    "source": "curated-word-family-v21",
+    "exampleSentence": "Excessive reliance on technology can weaken basic problem-solving skills.",
+    "exampleJa": "テクノロジーへの過度な依存は、基本的な問題解決能力を弱めることがある。"
+  },
+  {
+    "id": "v-family-v21-maximization",
+    "type": "vocab",
+    "level": "developed",
+    "word": "maximization",
+    "meaning": "最大化",
+    "pos": "n",
+    "question": "maximization",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "最大化",
+    "explanation": "",
+    "family": "maximize;maximization",
+    "synonyms": [
+      "increase",
+      "optimize"
+    ],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "語族派生語",
+      "入試対策",
+      "英検対策",
+      "v20-9-family-expansion"
+    ],
+    "source": "curated-word-family-v21",
+    "exampleSentence": "The system is designed for the maximization of energy efficiency.",
+    "exampleJa": "そのシステムはエネルギー効率の最大化を目的として設計されている。"
+  },
+  {
+    "id": "v-family-v21-minimization",
+    "type": "vocab",
+    "level": "developed",
+    "word": "minimization",
+    "meaning": "最小化",
+    "pos": "n",
+    "question": "minimization",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "最小化",
+    "explanation": "",
+    "family": "minimize;minimization",
+    "synonyms": [
+      "reduce",
+      "limit"
+    ],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "語族派生語",
+      "入試対策",
+      "英検対策",
+      "v20-9-family-expansion"
+    ],
+    "source": "curated-word-family-v21",
+    "exampleSentence": "The project focuses on the minimization of waste during production.",
+    "exampleJa": "そのプロジェクトは生産中の廃棄物の最小化に重点を置いている。"
+  }
+]
