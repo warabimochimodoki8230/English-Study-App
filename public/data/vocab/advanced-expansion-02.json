@@ -1,0 +1,482 @@
+[
+  {
+    "id": "v-curated-advanced-0001-antagonize",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "antagonize",
+    "meaning": "敵対させる",
+    "pos": "v",
+    "exampleSentence": "The company plans to antagonize the new system next year.",
+    "exampleJa": "その会社は来年、新しいシステムを敵対させるする予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0002-conspicuously",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "conspicuously",
+    "meaning": "目立って",
+    "pos": "adv",
+    "exampleSentence": "The researchers conspicuously reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは目立ってして、研究結果を公表する前に証拠を再検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0003-discord",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "discord",
+    "meaning": "不和",
+    "pos": "n",
+    "exampleSentence": "The committee considered the discord before making its decision.",
+    "exampleJa": "委員会は決定を下す前に不和を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0004-dissemination",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "dissemination",
+    "meaning": "普及、拡散",
+    "pos": "n",
+    "exampleSentence": "The dissemination became an important part of the discussion.",
+    "exampleJa": "普及、拡散は議論の重要な一部となった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0005-divulge",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "divulge",
+    "meaning": "明かす",
+    "pos": "v",
+    "exampleSentence": "The process can divulge under certain conditions.",
+    "exampleJa": "その過程は特定の条件下では明かすことができる。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0006-dogma",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "dogma",
+    "meaning": "教義、独断的な信条",
+    "pos": "n",
+    "exampleSentence": "The committee considered the dogma before making its decision.",
+    "exampleJa": "委員会は決定を下す前に教義、独断的な信条を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0007-incessantly",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "incessantly",
+    "meaning": "絶え間なく",
+    "pos": "adv",
+    "exampleSentence": "The researchers incessantly reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは絶え間なくして、研究結果を公表する前に証拠を再検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0008-inquisitive",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "inquisitive",
+    "meaning": "好奇心の強い",
+    "pos": "adj",
+    "exampleSentence": "The team chose a inquisitive approach to the problem.",
+    "exampleJa": "チームはその問題に対して好奇心の強いという方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0009-insolvent",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "insolvent",
+    "meaning": "支払い能力のない",
+    "pos": "adj",
+    "exampleSentence": "The report describes the insolvent characteristics of the system.",
+    "exampleJa": "その報告書はシステムの支払い能力のないという特徴を詳しく説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0010-irrevocable",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "irrevocable",
+    "meaning": "取り消せない",
+    "pos": "adj",
+    "exampleSentence": "The researchers considered the irrevocable option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、取り消せないな選択肢を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0011-literate",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "literate",
+    "meaning": "読み書きできる",
+    "pos": "adj",
+    "exampleSentence": "The team chose a literate approach to the problem.",
+    "exampleJa": "チームはその問題に対して読み書きできるという方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0012-magnanimity",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "magnanimity",
+    "meaning": "寛大さ",
+    "pos": "n",
+    "exampleSentence": "The committee considered the magnanimity before making its decision.",
+    "exampleJa": "委員会は決定を下す前に寛大さを検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0013-monotonous",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "monotonous",
+    "meaning": "単調な",
+    "pos": "adj",
+    "exampleSentence": "The researchers considered the monotonous option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、単調なな選択肢を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0014-perpetuate",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "perpetuate",
+    "meaning": "永続させる",
+    "pos": "v",
+    "exampleSentence": "The researchers need to perpetuate the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を永続させるする必要がある。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0015-preempt",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "preempt",
+    "meaning": "先手を打って防ぐ",
+    "pos": "v",
+    "exampleSentence": "Better planning can preempt unnecessary costs.",
+    "exampleJa": "より良い計画を立てれば、不必要な費用を先手を打って防ぐことができる。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0016-prosecute",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "prosecute",
+    "meaning": "起訴する",
+    "pos": "v",
+    "exampleSentence": "The company plans to prosecute the new system next year.",
+    "exampleJa": "その会社は来年、新しいシステムを起訴する予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0017-remuneration",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "remuneration",
+    "meaning": "報酬",
+    "pos": "n",
+    "exampleSentence": "The report describes the remuneration in detail.",
+    "exampleJa": "その報告書は報酬について詳しく説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0018-synergy",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "synergy",
+    "meaning": "相乗効果",
+    "pos": "n",
+    "exampleSentence": "The committee considered the synergy before making its decision.",
+    "exampleJa": "委員会は決定を下す前に相乗効果を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0019-turbulent",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "turbulent",
+    "meaning": "荒れた、激動する",
+    "pos": "adj",
+    "exampleSentence": "The researchers considered the turbulent option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、荒れた、激動するな選択肢を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0020-unconventional",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "unconventional",
+    "meaning": "型にはまらない",
+    "pos": "adj",
+    "exampleSentence": "The team chose a unconventional approach to the problem.",
+    "exampleJa": "チームはその問題に対して型にはまらないという方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0021-withholding",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "withholding",
+    "meaning": "差し控え",
+    "pos": "n",
+    "exampleSentence": "The committee considered the withholding before making its decision.",
+    "exampleJa": "委員会は決定を下す前に差し控えを検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0022-exhaustive",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "exhaustive",
+    "meaning": "徹底的な",
+    "pos": "adj",
+    "exampleSentence": "The researchers considered the exhaustive option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、徹底的なな選択肢を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0023-faction",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "faction",
+    "meaning": "派閥",
+    "pos": "n",
+    "exampleSentence": "The report describes the faction in detail.",
+    "exampleJa": "その報告書は派閥について詳しく説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0024-incumbent",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "incumbent",
+    "meaning": "現職の、義務として必要な",
+    "pos": "adj",
+    "exampleSentence": "The plan appears incumbent after the latest review.",
+    "exampleJa": "最新の検討後、その計画は現職の、義務として必要なように見える。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0025-inquisitor",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "inquisitor",
+    "meaning": "尋問者",
+    "pos": "n",
+    "exampleSentence": "The inquisitor became an important part of the discussion.",
+    "exampleJa": "尋問者は議論の重要な一部となった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0026-interrogate",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "interrogate",
+    "meaning": "尋問する",
+    "pos": "v",
+    "exampleSentence": "The researchers need to interrogate the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を尋問する必要がある。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0027-proclivity",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "proclivity",
+    "meaning": "傾向",
+    "pos": "n",
+    "exampleSentence": "The committee considered the proclivity before making its decision.",
+    "exampleJa": "委員会は決定を下す前に傾向を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0028-rebuttal",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "rebuttal",
+    "meaning": "反論",
+    "pos": "n",
+    "exampleSentence": "The rebuttal became an important part of the discussion.",
+    "exampleJa": "反論は議論の重要な一部となった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0029-renounce",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "renounce",
+    "meaning": "放棄する",
+    "pos": "v",
+    "exampleSentence": "The researchers need to renounce the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を放棄する必要がある。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-0030-revitalize",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "revitalize",
+    "meaning": "活性化する",
+    "pos": "v",
+    "exampleSentence": "The team worked together to revitalize the issue.",
+    "exampleJa": "チームはその問題を活性化するために協力した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  }
+]

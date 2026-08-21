@@ -1,0 +1,514 @@
+[
+  {
+    "id": "v-curated-developed-extra4-0001-accreditation",
+    "type": "vocab",
+    "level": "developed",
+    "word": "accreditation",
+    "meaning": "認定",
+    "pos": "n",
+    "exampleSentence": "The accreditation became an important part of the discussion.",
+    "exampleJa": "認定は議論の重要な一部となった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra4-0002-auditable",
+    "type": "vocab",
+    "level": "developed",
+    "word": "auditable",
+    "meaning": "監査可能な",
+    "pos": "adj",
+    "exampleSentence": "The method is considered auditable for small experiments.",
+    "exampleJa": "その方法は小規模な実験に監査可能なと考えられている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra4-0003-behavioral",
+    "type": "vocab",
+    "level": "developed",
+    "word": "behavioral",
+    "meaning": "行動の",
+    "pos": "adj",
+    "exampleSentence": "The report describes the behavioral characteristics of the system.",
+    "exampleJa": "その報告書はシステムの行動のという特徴を詳しく説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra4-0004-calibrate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "calibrate",
+    "meaning": "調整する",
+    "pos": "v",
+    "exampleSentence": "The company plans to calibrate the new system next year.",
+    "exampleJa": "その会社は来年、新しいシステムを調整する予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra4-0005-classroom",
+    "type": "vocab",
+    "level": "developed",
+    "word": "classroom",
+    "meaning": "教室",
+    "pos": "n",
+    "exampleSentence": "The report describes the classroom in detail.",
+    "exampleJa": "その報告書は教室について詳しく説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra4-0006-commercialize",
+    "type": "vocab",
+    "level": "developed",
+    "word": "commercialize",
+    "meaning": "商業化する",
+    "pos": "v",
+    "exampleSentence": "The team worked together to commercialize the issue.",
+    "exampleJa": "チームはその問題を商業化するために協力した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra4-0007-communicative",
+    "type": "vocab",
+    "level": "developed",
+    "word": "communicative",
+    "meaning": "意思伝達の",
+    "pos": "adj",
+    "exampleSentence": "The researchers considered the communicative option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、意思伝達のな選択肢を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra4-0008-compilation",
+    "type": "vocab",
+    "level": "developed",
+    "word": "compilation",
+    "meaning": "編集、集成",
+    "pos": "n",
+    "exampleSentence": "The report describes the compilation in detail.",
+    "exampleJa": "その報告書は編集、集成について詳しく説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra4-0009-conditionality",
+    "type": "vocab",
+    "level": "developed",
+    "word": "conditionality",
+    "meaning": "条件性",
+    "pos": "n",
+    "exampleSentence": "The committee considered the conditionality before making its decision.",
+    "exampleJa": "委員会は決定を下す前に条件性を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra4-0010-consultancy",
+    "type": "vocab",
+    "level": "developed",
+    "word": "consultancy",
+    "meaning": "コンサルティング",
+    "pos": "n",
+    "exampleSentence": "The consultancy became an important part of the discussion.",
+    "exampleJa": "コンサルティングは議論の重要な一部となった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra4-0011-contextual",
+    "type": "vocab",
+    "level": "developed",
+    "word": "contextual",
+    "meaning": "文脈上の",
+    "pos": "adj",
+    "exampleSentence": "The team chose a contextual approach to the problem.",
+    "exampleJa": "チームはその問題に対して文脈上のという方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra4-0012-continuously",
+    "type": "vocab",
+    "level": "developed",
+    "word": "continuously",
+    "meaning": "継続的に",
+    "pos": "adv",
+    "exampleSentence": "The researchers continuously reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは継続的にして、研究結果を公表する前に証拠を再検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra4-0013-curricular",
+    "type": "vocab",
+    "level": "developed",
+    "word": "curricular",
+    "meaning": "教育課程の",
+    "pos": "adj",
+    "exampleSentence": "The report examines the curricular effects of the policy.",
+    "exampleJa": "その報告書は、教育課程のについて詳しく説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra4-0014-definitive",
+    "type": "vocab",
+    "level": "developed",
+    "word": "definitive",
+    "meaning": "決定的な",
+    "pos": "adj",
+    "exampleSentence": "The team chose a definitive approach to the problem.",
+    "exampleJa": "チームはその問題に対して決定的なという方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra4-0015-demonstrable",
+    "type": "vocab",
+    "level": "developed",
+    "word": "demonstrable",
+    "meaning": "証明できる",
+    "pos": "adj",
+    "exampleSentence": "The report describes the demonstrable characteristics of the system.",
+    "exampleJa": "その報告書はシステムの証明できるという特徴を詳しく説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra4-0016-educationally",
+    "type": "vocab",
+    "level": "developed",
+    "word": "educationally",
+    "meaning": "教育的に",
+    "pos": "adv",
+    "exampleSentence": "The researchers educationally reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは教育的にして、研究結果を公表する前に証拠を再検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra4-0017-exclusionary",
+    "type": "vocab",
+    "level": "developed",
+    "word": "exclusionary",
+    "meaning": "排他的な",
+    "pos": "adj",
+    "exampleSentence": "The team chose a exclusionary approach to the problem.",
+    "exampleJa": "チームはその問題に対して排他的なという方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra4-0018-explanatory",
+    "type": "vocab",
+    "level": "developed",
+    "word": "explanatory",
+    "meaning": "説明的な",
+    "pos": "adj",
+    "exampleSentence": "The report describes the explanatory characteristics of the system.",
+    "exampleJa": "その報告書はシステムの説明的なという特徴を詳しく説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra4-0019-inaccuracy",
+    "type": "vocab",
+    "level": "developed",
+    "word": "inaccuracy",
+    "meaning": "不正確さ",
+    "pos": "n",
+    "exampleSentence": "The inaccuracy became an important part of the discussion.",
+    "exampleJa": "不正確さは議論の重要な一部となった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra4-0020-incapable",
+    "type": "vocab",
+    "level": "developed",
+    "word": "incapable",
+    "meaning": "能力のない",
+    "pos": "adj",
+    "exampleSentence": "The team chose a incapable approach to the problem.",
+    "exampleJa": "チームはその問題に対して能力のないという方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra4-0021-incremental",
+    "type": "vocab",
+    "level": "developed",
+    "word": "incremental",
+    "meaning": "漸進的な",
+    "pos": "adj",
+    "exampleSentence": "The report describes the incremental characteristics of the system.",
+    "exampleJa": "その報告書はシステムの漸進的なという特徴を詳しく説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra4-0022-informal",
+    "type": "vocab",
+    "level": "developed",
+    "word": "informal",
+    "meaning": "非公式の",
+    "pos": "adj",
+    "exampleSentence": "The researchers considered the informal option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、非公式のな選択肢を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra4-0023-institutionalization",
+    "type": "vocab",
+    "level": "developed",
+    "word": "institutionalization",
+    "meaning": "制度化",
+    "pos": "n",
+    "exampleSentence": "The report describes the institutionalization used by the researchers.",
+    "exampleJa": "その報告書は、制度化について詳しく説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra4-0024-intentionally",
+    "type": "vocab",
+    "level": "developed",
+    "word": "intentionally",
+    "meaning": "意図的に",
+    "pos": "adv",
+    "exampleSentence": "The researchers intentionally reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは意図的にして、研究結果を公表する前に証拠を再検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra4-0025-interdisciplinary",
+    "type": "vocab",
+    "level": "developed",
+    "word": "interdisciplinary",
+    "meaning": "学際的な",
+    "pos": "adj",
+    "exampleSentence": "The researchers considered the interdisciplinary option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、学際的なな選択肢を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra4-0026-linguistic",
+    "type": "vocab",
+    "level": "developed",
+    "word": "linguistic",
+    "meaning": "言語の",
+    "pos": "adj",
+    "exampleSentence": "The team chose a linguistic approach to the problem.",
+    "exampleJa": "チームはその問題に対して言語のという方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra4-0027-marginalization",
+    "type": "vocab",
+    "level": "developed",
+    "word": "marginalization",
+    "meaning": "周縁化",
+    "pos": "n",
+    "exampleSentence": "The committee considered the marginalization before making its decision.",
+    "exampleJa": "委員会は決定を下す前に周縁化を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra4-0028-objectively",
+    "type": "vocab",
+    "level": "developed",
+    "word": "objectively",
+    "meaning": "客観的に",
+    "pos": "adv",
+    "exampleSentence": "The researchers objectively reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは客観的にして、研究結果を公表する前に証拠を再検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra4-0029-operationalize",
+    "type": "vocab",
+    "level": "developed",
+    "word": "operationalize",
+    "meaning": "操作的に定義する",
+    "pos": "v",
+    "exampleSentence": "The researchers need to operationalize the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を操作的に定義する必要がある。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra4-0030-periodically",
+    "type": "vocab",
+    "level": "developed",
+    "word": "periodically",
+    "meaning": "定期的に",
+    "pos": "adv",
+    "exampleSentence": "The researchers periodically reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは定期的にして、研究結果を公表する前に証拠を再検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra4-0031-prescriptive",
+    "type": "vocab",
+    "level": "developed",
+    "word": "prescriptive",
+    "meaning": "規範を定める",
+    "pos": "adj",
+    "exampleSentence": "The researchers considered the prescriptive option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、規範を定めるな選択肢を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra4-0032-prioritization",
+    "type": "vocab",
+    "level": "developed",
+    "word": "prioritization",
+    "meaning": "優先順位付け",
+    "pos": "n",
+    "exampleSentence": "The report describes the prioritization in detail.",
+    "exampleJa": "その報告書は優先順位付けについて詳しく説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  }
+]
