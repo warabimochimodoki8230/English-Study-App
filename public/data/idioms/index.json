@@ -1,0 +1,45 @@
+{
+  "version": "2026.08.21-idiom-db-v1",
+  "kind": "idioms",
+  "total": 281,
+  "levels": {
+    "basic": {
+      "count": 40,
+      "files": [
+        "basic-01.json"
+      ]
+    },
+    "standard": {
+      "count": 44,
+      "files": [
+        "standard-01.json"
+      ]
+    },
+    "entrance": {
+      "count": 38,
+      "files": [
+        "entrance-01.json"
+      ]
+    },
+    "hard": {
+      "count": 41,
+      "files": [
+        "hard-01.json"
+      ]
+    }
+  },
+  "files": {
+    "basic": [
+      "basic-bulk.json"
+    ],
+    "standard": [
+      "standard-bulk.json"
+    ],
+    "entrance": [
+      "entrance-bulk.json"
+    ],
+    "hard": [
+      "hard-bulk.json"
+    ]
+  }
+}

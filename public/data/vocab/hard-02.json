@@ -1,0 +1,421 @@
+[
+  {
+    "id": "v-hard-04-truculent",
+    "type": "vocab",
+    "level": "hard",
+    "word": "truculent",
+    "meaning": "好戦的な",
+    "pos": "adj",
+    "question": "truculent",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "好戦的な",
+    "explanation": "truculent = 好戦的な。品詞: adj。",
+    "exampleSentence": "a truculent response.",
+    "exampleJa": "この文脈では「好戦的な」という意味。",
+    "family": "truculent;truculently",
+    "synonyms": [],
+    "tags": [
+      "hard",
+      "adj"
+    ],
+    "note": "入試・読解で見かけやすい重要語。"
+  },
+  {
+    "id": "v-hard-03-ubiquitous",
+    "type": "vocab",
+    "level": "hard",
+    "word": "ubiquitous",
+    "meaning": "至る所にある",
+    "pos": "adj",
+    "question": "ubiquitous",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "至る所にある",
+    "explanation": "ubiquitous = 至る所にある。品詞: adj。語群: ubiquity。",
+    "exampleSentence": "The report provides a ubiquitous explanation of the issue.",
+    "exampleJa": "その報告書はその問題について至る所にある説明をしている。",
+    "family": "ubiquity",
+    "synonyms": [
+      "widespread",
+      "omnipresent"
+    ],
+    "tags": [
+      "hard",
+      "adj"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。ubiquitous の派生語: ubiquity."
+  },
+  {
+    "id": "v-hard-155",
+    "type": "vocab",
+    "level": "hard",
+    "word": "unprecedented",
+    "meaning": "前例のない",
+    "question": "unprecedented",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "前例のない",
+        "correct": true
+      },
+      {
+        "text": "実行可能な",
+        "correct": false
+      },
+      {
+        "text": "目立つ",
+        "correct": false
+      },
+      {
+        "text": "超える",
+        "correct": false
+      }
+    ],
+    "answer": "前例のない",
+    "explanation": "unprecedented = 前例のない。例：an unprecedented event"
+  },
+  {
+    "id": "v-hard-03-untenable",
+    "type": "vocab",
+    "level": "hard",
+    "word": "untenable",
+    "meaning": "維持できない",
+    "pos": "adj",
+    "question": "untenable",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "維持できない",
+    "explanation": "untenable = 維持できない。品詞: adj。語群: untenability。",
+    "exampleSentence": "The report provides a untenable explanation of the issue.",
+    "exampleJa": "その報告書はその問題について維持できない説明をしている。",
+    "family": "untenability",
+    "synonyms": [
+      "indefensible",
+      "impossible"
+    ],
+    "tags": [
+      "hard",
+      "adj"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。untenable の派生語: untenability."
+  },
+  {
+    "id": "v-curated-3056",
+    "type": "vocab",
+    "level": "hard",
+    "word": "utilitarian",
+    "meaning": "功利主義の・実用的な",
+    "pos": "adj",
+    "question": "utilitarian",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "功利主義の・実用的な",
+    "explanation": "utilitarian = 功利主義の・実用的な。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v-hard-156",
+    "type": "vocab",
+    "level": "hard",
+    "word": "versatile",
+    "meaning": "多用途の・多才な",
+    "question": "versatile",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "軽減する",
+        "correct": false
+      },
+      {
+        "text": "公平な",
+        "correct": false
+      },
+      {
+        "text": "意図しない",
+        "correct": false
+      },
+      {
+        "text": "多用途の・多才な",
+        "correct": true
+      }
+    ],
+    "answer": "多用途の・多才な",
+    "explanation": "versatile = 多用途の・多才な。例：a versatile tool"
+  },
+  {
+    "id": "v-curated-3096",
+    "type": "vocab",
+    "level": "hard",
+    "word": "viability",
+    "meaning": "存続可能性・実行可能性",
+    "pos": "n",
+    "question": "viability",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "存続可能性・実行可能性",
+    "explanation": "viability = 存続可能性・実行可能性。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v-hard-135",
+    "type": "vocab",
+    "level": "hard",
+    "word": "viable",
+    "meaning": "実行可能な・生存できる",
+    "question": "viable",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "軽減する",
+        "correct": false
+      },
+      {
+        "text": "認める・譲歩する",
+        "correct": false
+      },
+      {
+        "text": "実行可能な・生存できる",
+        "correct": true
+      },
+      {
+        "text": "妨げる",
+        "correct": false
+      }
+    ],
+    "answer": "実行可能な・生存できる",
+    "explanation": "viable = 実行可能な・生存できる。例：a viable solution"
+  },
+  {
+    "id": "v-hard-03-vicarious",
+    "type": "vocab",
+    "level": "hard",
+    "word": "vicarious",
+    "meaning": "代理の・間接的な",
+    "pos": "adj",
+    "question": "vicarious",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "代理の・間接的な",
+    "explanation": "vicarious = 代理の・間接的な。品詞: adj。語群: vicariously。",
+    "exampleSentence": "The report provides a vicarious explanation of the issue.",
+    "exampleJa": "その報告書はその問題について代理の説明をしている。",
+    "family": "vicariously",
+    "synonyms": [
+      "indirect",
+      "secondhand"
+    ],
+    "tags": [
+      "hard",
+      "adj"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。vicarious の派生語: vicariously."
+  },
+  {
+    "id": "v-hard-03-vindicate",
+    "type": "vocab",
+    "level": "hard",
+    "word": "vindicate",
+    "meaning": "正しさを証明する",
+    "pos": "v",
+    "question": "vindicate",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "正しさを証明する",
+    "explanation": "vindicate = 正しさを証明する。品詞: v。語群: vindication。",
+    "exampleSentence": "Researchers vindicate the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を正しさを証明する。",
+    "family": "vindication",
+    "synonyms": [
+      "justify",
+      "clear"
+    ],
+    "tags": [
+      "hard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。vindicate の派生語: vindication."
+  },
+  {
+    "id": "v-hard-04-vociferous",
+    "type": "vocab",
+    "level": "hard",
+    "word": "vociferous",
+    "meaning": "声高な",
+    "pos": "adj",
+    "question": "vociferous",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "声高な",
+    "explanation": "vociferous = 声高な。品詞: adj。",
+    "exampleSentence": "vociferous criticism.",
+    "exampleJa": "この文脈では「声高な」という意味。",
+    "family": "vociferous;vociferously",
+    "synonyms": [],
+    "tags": [
+      "hard",
+      "adj"
+    ],
+    "note": "入試・読解で見かけやすい重要語。"
+  },
+  {
+    "id": "v-hard-03-volatile",
+    "type": "vocab",
+    "level": "hard",
+    "word": "volatile",
+    "meaning": "不安定な・揮発性の",
+    "pos": "adj",
+    "question": "volatile",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "不安定な・揮発性の",
+    "explanation": "volatile = 不安定な・揮発性の。品詞: adj。語群: volatility。",
+    "exampleSentence": "The report provides a volatile explanation of the issue.",
+    "exampleJa": "その報告書はその問題について不安定な説明をしている。",
+    "family": "volatility",
+    "synonyms": [
+      "unstable",
+      "changeable"
+    ],
+    "tags": [
+      "hard",
+      "adj"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。volatile の派生語: volatility."
+  },
+  {
+    "id": "v-hard-157",
+    "type": "vocab",
+    "level": "hard",
+    "word": "voluntary",
+    "meaning": "自発的な・任意の",
+    "question": "voluntary",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "本質的な・固有の",
+        "correct": false
+      },
+      {
+        "text": "有害な",
+        "correct": false
+      },
+      {
+        "text": "自発的な・任意の",
+        "correct": true
+      },
+      {
+        "text": "回復力のある",
+        "correct": false
+      }
+    ],
+    "answer": "自発的な・任意の",
+    "explanation": "voluntary = 自発的な・任意の。例：voluntary participation"
+  },
+  {
+    "id": "v-curated-2542",
+    "type": "vocab",
+    "level": "hard",
+    "word": "whereby",
+    "meaning": "それによって",
+    "pos": "conj",
+    "question": "whereby",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "それによって",
+    "explanation": "whereby = それによって。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v-hard-136",
+    "type": "vocab",
+    "level": "hard",
+    "word": "withdraw",
+    "meaning": "引き下げる・撤退する",
+    "question": "withdraw",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "思いとどまらせる",
+        "correct": false
+      },
+      {
+        "text": "自発的な・任意の",
+        "correct": false
+      },
+      {
+        "text": "妨げる",
+        "correct": false
+      },
+      {
+        "text": "引き下げる・撤退する",
+        "correct": true
+      }
+    ],
+    "answer": "引き下げる・撤退する",
+    "explanation": "withdraw = 引き下げる・撤退する。例：withdraw support"
+  },
+  {
+    "id": "v-hard-158",
+    "type": "vocab",
+    "level": "hard",
+    "word": "zealous",
+    "meaning": "熱心な・熱烈な",
+    "question": "zealous",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "厳密な・徹底した",
+        "correct": false
+      },
+      {
+        "text": "熱心な・熱烈な",
+        "correct": true
+      },
+      {
+        "text": "軽減する",
+        "correct": false
+      },
+      {
+        "text": "思いとどまらせる",
+        "correct": false
+      }
+    ],
+    "answer": "熱心な・熱烈な",
+    "explanation": "zealous = 熱心な・熱烈な。例：a zealous supporter"
+  },
+  {
+    "id": "v-curated-2287",
+    "type": "vocab",
+    "level": "hard",
+    "word": "zealous",
+    "meaning": "熱心な",
+    "pos": "adj",
+    "question": "zealous",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "熱心な",
+    "explanation": "zealous = 熱心な。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "hard"
+    ]
+  }
+]

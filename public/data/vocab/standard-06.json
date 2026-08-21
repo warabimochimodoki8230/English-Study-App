@@ -1,0 +1,6140 @@
+[
+  {
+    "id": "v-standard-ngsl-1965-0554",
+    "type": "vocab",
+    "level": "standard",
+    "word": "silence",
+    "meaning": "静けさ",
+    "pos": "n",
+    "question": "silence",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "静けさ",
+    "explanation": "silence = 静けさ。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a lack of sound or noise",
+    "frequencyRank": 1965,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "ngsl-2472",
+    "type": "vocab",
+    "word": "silent",
+    "meaning": "静かな",
+    "pos": "adj",
+    "level": "standard",
+    "rank": 2472,
+    "definition": "not speaking or making noise",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2699",
+    "type": "vocab",
+    "word": "silly",
+    "meaning": "愚か",
+    "pos": "adj",
+    "level": "standard",
+    "rank": 2699,
+    "definition": "stupid, small and not important",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-2031-0599",
+    "type": "vocab",
+    "level": "standard",
+    "word": "silver",
+    "meaning": "銀",
+    "pos": "n",
+    "question": "silver",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "銀",
+    "explanation": "silver = 銀。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a soft grayish-white metal that is very valuable and is used to make jewelry, coins, knives, forks, etc.",
+    "frequencyRank": 2031,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-129",
+    "type": "vocab",
+    "level": "standard",
+    "word": "similar",
+    "meaning": "似ている",
+    "question": "similar",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "証拠",
+        "correct": false
+      },
+      {
+        "text": "合理的な・妥当な",
+        "correct": false
+      },
+      {
+        "text": "似ている",
+        "correct": true
+      },
+      {
+        "text": "重要な・かなりの",
+        "correct": false
+      }
+    ],
+    "answer": "似ている",
+    "explanation": "similar = 似ている。例：similar to mine"
+  },
+  {
+    "id": "v-curated-0486",
+    "type": "vocab",
+    "level": "standard",
+    "word": "similar",
+    "meaning": "似た",
+    "pos": "adj",
+    "question": "similar",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "似た",
+    "explanation": "similar = 似た。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-developed-04-similarly",
+    "type": "vocab",
+    "level": "standard",
+    "word": "similarly",
+    "meaning": "同様に",
+    "pos": "adv",
+    "exampleSentence": "Similarly, the second group improved..",
+    "exampleJa": "この文脈では「同様に」という意味。",
+    "explanation": "similarly = 同様に。品詞: adv。",
+    "family": "similarly;similarlys",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "developed",
+      "adv"
+    ],
+    "source": "curated-core-2026",
+    "question": "similarly",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "同様に",
+    "note": "入試・読解で見かけやすい重要語。",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-curated-1797",
+    "type": "vocab",
+    "level": "standard",
+    "word": "simplify",
+    "meaning": "単純化する",
+    "pos": "v",
+    "question": "simplify",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "単純化する",
+    "explanation": "simplify = 単純化する。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-mega-standard-0343",
+    "type": "vocab",
+    "level": "standard",
+    "word": "sincere",
+    "meaning": "誠実な",
+    "pos": "adj",
+    "explanation": "sincere：誠実な",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-standard-ngsl-2180-0706",
+    "type": "vocab",
+    "level": "standard",
+    "word": "singer",
+    "meaning": "歌手",
+    "pos": "n",
+    "question": "singer",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "歌手",
+    "explanation": "singer = 歌手。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "someone who sings",
+    "frequencyRank": 2180,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-2103-0648",
+    "type": "vocab",
+    "level": "standard",
+    "word": "sink",
+    "meaning": "沈む",
+    "pos": "v",
+    "question": "sink",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "沈む",
+    "explanation": "sink = 沈む。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to go down below the surface of water, mud, etc.",
+    "frequencyRank": 2103,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-2136-0673",
+    "type": "vocab",
+    "level": "standard",
+    "word": "sir",
+    "meaning": "（男性への丁寧な呼び掛け）旦那様、お客様",
+    "pos": "n",
+    "question": "sir",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "（男性への丁寧な呼び掛け）旦那様、お客様",
+    "explanation": "sir = （男性への丁寧な呼び掛け）旦那様、お客様。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "used without a name as a form of polite address to a man you do not know",
+    "frequencyRank": 2136,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "ngsl-2725",
+    "type": "vocab",
+    "word": "situate",
+    "meaning": "～に置く",
+    "pos": "v",
+    "level": "standard",
+    "rank": 2725,
+    "definition": "to put something in a particular position",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2591",
+    "type": "vocab",
+    "word": "ski",
+    "meaning": "スキー",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2591,
+    "definition": "one of a pair of long, thin pieces of wood or plastic that you wear on the bottom of boots to move over snow",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1459-0222",
+    "type": "vocab",
+    "level": "standard",
+    "word": "skin",
+    "meaning": "肌",
+    "pos": "n",
+    "question": "skin",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "肌",
+    "explanation": "skin = 肌。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "the natural outer layer of tissue that covers the body of a person or animal",
+    "frequencyRank": 1459,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "ngsl-2449",
+    "type": "vocab",
+    "word": "skirt",
+    "meaning": "スカート",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2449,
+    "definition": "a piece of clothing worn by women and girls that hangs from the waist down",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1718-0394",
+    "type": "vocab",
+    "level": "standard",
+    "word": "sky",
+    "meaning": "空",
+    "pos": "n",
+    "question": "sky",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "空",
+    "explanation": "sky = 空。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "the space over the Earth where the sun, moon, stars, and clouds appear",
+    "frequencyRank": 1718,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "ngsl-2423",
+    "type": "vocab",
+    "word": "slave",
+    "meaning": "奴隷",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2423,
+    "definition": "someone who is legally owned by another person and is forced to work for that person without pay",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2743",
+    "type": "vocab",
+    "word": "slice",
+    "meaning": "一切れ",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2743,
+    "definition": "a flat piece of something that has been cut from a larger piece",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1895-0511",
+    "type": "vocab",
+    "level": "standard",
+    "word": "slide",
+    "meaning": "滑る",
+    "pos": "v",
+    "question": "slide",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "滑る",
+    "explanation": "slide = 滑る。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to move smoothly along a surface",
+    "frequencyRank": 1895,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-2040-0606",
+    "type": "vocab",
+    "level": "standard",
+    "word": "slight",
+    "meaning": "わずかな",
+    "pos": "adj",
+    "question": "slight",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "わずかな",
+    "explanation": "slight = わずかな。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "very small in degree or amount",
+    "frequencyRank": 2040,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-mega-standard-0143",
+    "type": "vocab",
+    "level": "standard",
+    "word": "slightly",
+    "meaning": "わずかに",
+    "pos": "adv",
+    "explanation": "slightly：わずかに",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-standard-ngsl-1808-0455",
+    "type": "vocab",
+    "level": "standard",
+    "word": "slip",
+    "meaning": "滑り落ちる",
+    "pos": "v",
+    "question": "slip",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "滑り落ちる",
+    "explanation": "slip = 滑り落ちる。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to slide out of the proper position",
+    "frequencyRank": 1808,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "ngsl-2693",
+    "type": "vocab",
+    "word": "slope",
+    "meaning": "坂",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2693,
+    "definition": "ground that slants downward or upward : ground that slopes",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1116-0008",
+    "type": "vocab",
+    "level": "standard",
+    "word": "slow",
+    "meaning": "遅い",
+    "pos": "adj",
+    "question": "slow",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "遅い",
+    "explanation": "slow = 遅い。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "not moving quickly or not able to move quickly",
+    "frequencyRank": 1116,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-2021-0593",
+    "type": "vocab",
+    "level": "standard",
+    "word": "smart",
+    "meaning": "賢い",
+    "pos": "adj",
+    "question": "smart",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "賢い",
+    "explanation": "smart = 賢い。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "intelligent",
+    "frequencyRank": 2021,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1789-0443",
+    "type": "vocab",
+    "level": "standard",
+    "word": "smell",
+    "meaning": "におい",
+    "pos": "n",
+    "question": "smell",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "におい",
+    "explanation": "smell = におい。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "the quality of a thing that you can sense with your nose",
+    "frequencyRank": 1789,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1228-0078",
+    "type": "vocab",
+    "level": "standard",
+    "word": "smoke",
+    "meaning": "煙",
+    "pos": "n",
+    "question": "smoke",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "煙",
+    "explanation": "smoke = 煙。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "the cloud of black, gray, or white gases and dust that is produced by burning something",
+    "frequencyRank": 1228,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "ngsl-2239",
+    "type": "vocab",
+    "word": "smooth",
+    "meaning": "滑らかな",
+    "pos": "adj",
+    "level": "standard",
+    "rank": 2239,
+    "definition": "having a flat, even surface : not rough : not having any bumps, ridges, or uneven parts",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2728",
+    "type": "vocab",
+    "word": "snap",
+    "meaning": "バキっ！　ばしん！、折る",
+    "pos": "v",
+    "level": "standard",
+    "rank": 2728,
+    "definition": "to break something, such as a pencil, making a short, loud sound",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1948-0543",
+    "type": "vocab",
+    "level": "standard",
+    "word": "snow",
+    "meaning": "ゆき",
+    "pos": "n",
+    "question": "snow",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "ゆき",
+    "explanation": "snow = ゆき。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "soft, white pieces of frozen water that fall to the ground from the sky in cold weather",
+    "frequencyRank": 1948,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-147",
+    "type": "vocab",
+    "level": "standard",
+    "word": "social",
+    "meaning": "社会の・社交的な",
+    "question": "social",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "利益・恩恵",
+        "correct": false
+      },
+      {
+        "text": "価値のある",
+        "correct": false
+      },
+      {
+        "text": "能力がある",
+        "correct": false
+      },
+      {
+        "text": "社会の・社交的な",
+        "correct": true
+      }
+    ],
+    "answer": "社会の・社交的な",
+    "explanation": "social = 社会の・社交的な。例：social issues"
+  },
+  {
+    "id": "v-standard-ngsl-1599-0311",
+    "type": "vocab",
+    "level": "standard",
+    "word": "soft",
+    "meaning": "柔らかい",
+    "pos": "adj",
+    "question": "soft",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "柔らかい",
+    "explanation": "soft = 柔らかい。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "easy to press, bend, cut, etc. : not hard or firm",
+    "frequencyRank": 1599,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-mega-standard-0324",
+    "type": "vocab",
+    "level": "standard",
+    "word": "software",
+    "meaning": "ソフトウェア",
+    "pos": "n",
+    "explanation": "software：ソフトウェア",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-standard-ngsl-2020-0592",
+    "type": "vocab",
+    "level": "standard",
+    "word": "soil",
+    "meaning": "土",
+    "pos": "n",
+    "question": "soil",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "土",
+    "explanation": "soil = 土。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "the top layer of earth in which plants grow",
+    "frequencyRank": 2020,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-mega-standard-0236",
+    "type": "vocab",
+    "level": "standard",
+    "word": "solely",
+    "meaning": "もっぱら",
+    "pos": "adv",
+    "explanation": "solely：もっぱら",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-2048-0611",
+    "type": "vocab",
+    "level": "standard",
+    "word": "solid",
+    "meaning": "固体",
+    "pos": "adj",
+    "question": "solid",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "固体",
+    "explanation": "solid = 固体。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "firm or hard : not having the form of a gas or liquid",
+    "frequencyRank": 2048,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-130",
+    "type": "vocab",
+    "level": "standard",
+    "word": "solution",
+    "meaning": "解決策",
+    "question": "solution",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "理論",
+        "correct": false
+      },
+      {
+        "text": "個人・個々の",
+        "correct": false
+      },
+      {
+        "text": "解決策",
+        "correct": true
+      },
+      {
+        "text": "資源・資料",
+        "correct": false
+      }
+    ],
+    "answer": "解決策",
+    "explanation": "solution = 解決策。例：find a solution"
+  },
+  {
+    "id": "v-standard-ngsl-1882-0503",
+    "type": "vocab",
+    "level": "standard",
+    "word": "soul",
+    "meaning": "魂",
+    "pos": "n",
+    "question": "soul",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "魂",
+    "explanation": "soul = 魂。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "the spiritual part of a person that is believed to give life to the body and in many religions is believed to live forever",
+    "frequencyRank": 1882,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1157-0034",
+    "type": "vocab",
+    "level": "standard",
+    "word": "south",
+    "meaning": "南",
+    "pos": "n",
+    "question": "south",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "南",
+    "explanation": "south = 南。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "the direction that is the opposite of north",
+    "frequencyRank": 1157,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1918-0524",
+    "type": "vocab",
+    "level": "standard",
+    "word": "southern",
+    "meaning": "南の",
+    "pos": "adj",
+    "question": "southern",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "南の",
+    "explanation": "southern = 南の。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "in or from the south part of an area",
+    "frequencyRank": 1918,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-2124-0664",
+    "type": "vocab",
+    "level": "standard",
+    "word": "spare",
+    "meaning": "予備、スペア",
+    "pos": "adj",
+    "question": "spare",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "予備、スペア",
+    "explanation": "spare = 予備、スペア。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "kept as something extra that can be used if it is needed",
+    "frequencyRank": 2124,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-mega-standard-0128",
+    "type": "vocab",
+    "level": "standard",
+    "word": "spatial",
+    "meaning": "空間の",
+    "pos": "adj",
+    "explanation": "spatial：空間の",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-standard-ngsl-1239-0085",
+    "type": "vocab",
+    "level": "standard",
+    "word": "speaker",
+    "meaning": "スピーカー",
+    "pos": "n",
+    "question": "speaker",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "スピーカー",
+    "explanation": "speaker = スピーカー。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "the part of a radio, CD player, etc. which the sound comes out of; a person who is speaking",
+    "frequencyRank": 1239,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "ngsl-2335",
+    "type": "vocab",
+    "word": "specialize",
+    "meaning": "専門とする",
+    "pos": "v",
+    "level": "standard",
+    "rank": 2335,
+    "definition": "to spend most of your time studying one particular subject or doing one type of business",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-mega-standard-0256",
+    "type": "vocab",
+    "level": "standard",
+    "word": "species",
+    "meaning": "種",
+    "pos": "n",
+    "explanation": "species：種",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-standard-131",
+    "type": "vocab",
+    "level": "standard",
+    "word": "specific",
+    "meaning": "特定の・具体的な",
+    "question": "specific",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "能力がある",
+        "correct": false
+      },
+      {
+        "text": "特定の・具体的な",
+        "correct": true
+      },
+      {
+        "text": "多様性・種類",
+        "correct": false
+      },
+      {
+        "text": "利用できる",
+        "correct": false
+      }
+    ],
+    "answer": "特定の・具体的な",
+    "explanation": "specific = 特定の・具体的な。例：specific examples"
+  },
+  {
+    "id": "v-mega-hard-0049",
+    "type": "vocab",
+    "level": "standard",
+    "word": "specifically",
+    "meaning": "具体的に・特に",
+    "pos": "adv",
+    "question": "specifically",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "具体的に",
+    "explanation": "specifically：具体的に・特に",
+    "definitionEn": "for a particular reason, purpose, etc.",
+    "frequencyRank": 1651,
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "The situation changed specifically.",
+    "exampleJa": "（学習用例文）",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "levelTags": [
+      "standard",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-mega-standard-0225",
+    "type": "vocab",
+    "level": "standard",
+    "word": "specify",
+    "meaning": "明記する",
+    "pos": "v",
+    "explanation": "specify：明記する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "developed",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-mega-standard-0129",
+    "type": "vocab",
+    "level": "standard",
+    "word": "speculate",
+    "meaning": "推測する",
+    "pos": "v",
+    "explanation": "speculate：推測する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-standard-ngsl-1104-0003",
+    "type": "vocab",
+    "level": "standard",
+    "word": "speed",
+    "meaning": "速度",
+    "pos": "n",
+    "question": "speed",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "速度",
+    "explanation": "speed = 速度。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "the rate at which someone or something moves or travels",
+    "frequencyRank": 1104,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1970-0556",
+    "type": "vocab",
+    "level": "standard",
+    "word": "spell",
+    "meaning": "つづる",
+    "pos": "v",
+    "question": "spell",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "つづる",
+    "explanation": "spell = つづる。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to say, write, or print the letters of (a word or name)",
+    "frequencyRank": 1970,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "ngsl-2326",
+    "type": "vocab",
+    "word": "spin",
+    "meaning": "回転する",
+    "pos": "v",
+    "level": "standard",
+    "rank": 2326,
+    "definition": "to turn or cause someone or something to turn around repeatedly",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1331-0143",
+    "type": "vocab",
+    "level": "standard",
+    "word": "spirit",
+    "meaning": "魂",
+    "pos": "n",
+    "question": "spirit",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "魂",
+    "explanation": "spirit = 魂。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "the non-physical part of a person, our emotions and soul",
+    "frequencyRank": 1331,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1934-0534",
+    "type": "vocab",
+    "level": "standard",
+    "word": "split",
+    "meaning": "分ける",
+    "pos": "v",
+    "question": "split",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "分ける",
+    "explanation": "split = 分ける。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to break apart or into pieces especially along a straight line",
+    "frequencyRank": 1934,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "ngsl-2279",
+    "type": "vocab",
+    "word": "sponsor",
+    "meaning": "スポンサーを務める",
+    "pos": "v",
+    "level": "standard",
+    "rank": 2279,
+    "definition": "to give money to someone to support an activity, event, or organization, sometimes as a way to advertise your company or product",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1136-0020",
+    "type": "vocab",
+    "level": "standard",
+    "word": "spot",
+    "meaning": "場所",
+    "pos": "n",
+    "question": "spot",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "場所",
+    "explanation": "spot = 場所。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a small area of a surface that is different from other areas",
+    "frequencyRank": 1136,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1330-0142",
+    "type": "vocab",
+    "level": "standard",
+    "word": "spring",
+    "meaning": "春",
+    "pos": "n",
+    "question": "spring",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "春",
+    "explanation": "spring = 春。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "the season between winter and summer",
+    "frequencyRank": 1330,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1441-0213",
+    "type": "vocab",
+    "level": "standard",
+    "word": "square",
+    "meaning": "四角形",
+    "pos": "n",
+    "question": "square",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "四角形",
+    "explanation": "square = 四角形。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a four-sided shape that is made up of four straight sides that are the same length",
+    "frequencyRank": 1441,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-mega-developed-0164",
+    "type": "vocab",
+    "level": "standard",
+    "word": "stability",
+    "meaning": "安定性",
+    "pos": "n",
+    "exampleSentence": "The stability is important in this discussion.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "stability：安定性",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-mega-standard-0092",
+    "type": "vocab",
+    "level": "standard",
+    "word": "stable",
+    "meaning": "安定した",
+    "pos": "adj",
+    "explanation": "stable：安定した",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "ngsl-2755",
+    "type": "vocab",
+    "word": "stain",
+    "meaning": "汚す",
+    "pos": "v",
+    "level": "standard",
+    "rank": 2755,
+    "definition": "to leave a mark on something",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2627",
+    "type": "vocab",
+    "word": "stair",
+    "meaning": "階段",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2627,
+    "definition": "a series of steps that go from one level or floor to another",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2522",
+    "type": "vocab",
+    "word": "stake",
+    "meaning": "賭ける、出資金",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2522,
+    "definition": "If something is at stake, it is in a situation where it might be lost or damaged; an amount of money invested in a business",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2651",
+    "type": "vocab",
+    "word": "stamp",
+    "meaning": "切手",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2651,
+    "definition": "a small piece of paper that you buy and then stick to an envelope or package to pay the cost of mailing it",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-2104-0649",
+    "type": "vocab",
+    "level": "standard",
+    "word": "stare",
+    "meaning": "見つめる",
+    "pos": "v",
+    "question": "stare",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "見つめる",
+    "explanation": "stare = 見つめる。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to look at someone or something for a long time and not move your eyes",
+    "frequencyRank": 2104,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "ngsl-2254",
+    "type": "vocab",
+    "word": "statistic",
+    "meaning": "統計",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2254,
+    "definition": "a number that represents a piece of information",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-mega-standard-0144",
+    "type": "vocab",
+    "level": "standard",
+    "word": "steadily",
+    "meaning": "着実に",
+    "pos": "adv",
+    "explanation": "steadily：着実に",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-standard-ngsl-2109-0653",
+    "type": "vocab",
+    "level": "standard",
+    "word": "steady",
+    "meaning": "固定した、安定した",
+    "pos": "adj",
+    "question": "steady",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "固定した、安定した",
+    "explanation": "steady = 固定した、安定した。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "not shaking or moving : held firmly in one place or position",
+    "frequencyRank": 2109,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1705-0384",
+    "type": "vocab",
+    "level": "standard",
+    "word": "steal",
+    "meaning": "盗む",
+    "pos": "v",
+    "question": "steal",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "盗む",
+    "explanation": "steal = 盗む。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to secretly take something that does not belong to you, without intending to return it",
+    "frequencyRank": 1705,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-2170-0700",
+    "type": "vocab",
+    "level": "standard",
+    "word": "steel",
+    "meaning": "鋼",
+    "pos": "n",
+    "question": "steel",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "鋼",
+    "explanation": "steel = 鋼。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a strong, hard metal made of iron and carbon",
+    "frequencyRank": 2170,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-2200-0725",
+    "type": "vocab",
+    "level": "standard",
+    "word": "stem",
+    "meaning": "茎",
+    "pos": "n",
+    "question": "stem",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "茎",
+    "explanation": "stem = 茎。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "the main long and thin part of a plant that rises above the soil and supports the leaves and flowers",
+    "frequencyRank": 2200,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "ngsl-2737",
+    "type": "vocab",
+    "word": "stir",
+    "meaning": "かき混ぜる",
+    "pos": "v",
+    "level": "standard",
+    "rank": 2737,
+    "definition": "to mix (something) by making circular movements in it with a spoon or similar object",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2634",
+    "type": "vocab",
+    "word": "stomach",
+    "meaning": "胃",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2634,
+    "definition": "the organ in your body where food goes and begins to be digested after you swallow it",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1372-0166",
+    "type": "vocab",
+    "level": "standard",
+    "word": "stone",
+    "meaning": "石",
+    "pos": "n",
+    "question": "stone",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "石",
+    "explanation": "stone = 石。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a hard substance that comes from the ground and is used for building, carving, etc.",
+    "frequencyRank": 1372,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-mega-standard-0325",
+    "type": "vocab",
+    "level": "standard",
+    "word": "storage",
+    "meaning": "保管・記憶装置",
+    "pos": "n",
+    "explanation": "storage：保管・記憶装置",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-standard-ngsl-1997-0571",
+    "type": "vocab",
+    "level": "standard",
+    "word": "storm",
+    "meaning": "嵐",
+    "pos": "n",
+    "question": "storm",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "嵐",
+    "explanation": "storm = 嵐。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "an occurrence of bad weather in which there is a lot of rain, snow, etc., and often strong winds",
+    "frequencyRank": 1997,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-2177-0704",
+    "type": "vocab",
+    "level": "standard",
+    "word": "strain",
+    "meaning": "緊張、体の一部を痛めること",
+    "pos": "n",
+    "question": "strain",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "緊張、体の一部を痛めること",
+    "explanation": "strain = 緊張、体の一部を痛めること。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "when you feel worried and nervous about something; an injury to part of your body that is caused by using it too much",
+    "frequencyRank": 2177,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1343-0150",
+    "type": "vocab",
+    "level": "standard",
+    "word": "strange",
+    "meaning": "変な",
+    "pos": "adj",
+    "question": "strange",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "変な",
+    "explanation": "strange = 変な。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "different from what is usual, normal, or expected",
+    "frequencyRank": 1343,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "ngsl-2722",
+    "type": "vocab",
+    "word": "stranger",
+    "meaning": "初対面の人、知らない人",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2722,
+    "definition": "someone you have never met before",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-advanced-04-strategic",
+    "type": "vocab",
+    "level": "standard",
+    "word": "strategic",
+    "meaning": "戦略的な",
+    "pos": "adj",
+    "explanation": "strategic = 戦略的な。品詞: adj。",
+    "family": "strategic;strategicly",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "advanced",
+      "adj",
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "question": "strategic",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "戦略的な",
+    "exampleSentence": "a strategic decision.",
+    "exampleJa": "この文脈では「戦略的な」という意味。",
+    "note": "入試・読解で見かけやすい重要語。",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-mega-standard-0166",
+    "type": "vocab",
+    "level": "standard",
+    "word": "strategy",
+    "meaning": "戦略",
+    "pos": "n",
+    "explanation": "strategy：戦略",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-2146-0680",
+    "type": "vocab",
+    "level": "standard",
+    "word": "stream",
+    "meaning": "小川",
+    "pos": "n",
+    "question": "stream",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "小川",
+    "explanation": "stream = 小川。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a natural flow of water that is smaller than a river",
+    "frequencyRank": 2146,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1261-0101",
+    "type": "vocab",
+    "level": "standard",
+    "word": "strength",
+    "meaning": "体力",
+    "pos": "n",
+    "question": "strength",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "体力",
+    "explanation": "strength = 体力。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "the quality or state of being physically strong",
+    "frequencyRank": 1261,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1631-0333",
+    "type": "vocab",
+    "level": "standard",
+    "word": "stretch",
+    "meaning": "伸ばす",
+    "pos": "v",
+    "question": "stretch",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "伸ばす",
+    "explanation": "stretch = 伸ばす。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to make (something) wider or longer by pulling it",
+    "frequencyRank": 1631,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-mega-standard-0185",
+    "type": "vocab",
+    "level": "standard",
+    "word": "strict",
+    "meaning": "厳格な",
+    "pos": "adj",
+    "explanation": "strict：厳格な",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-curated-0819",
+    "type": "vocab",
+    "level": "standard",
+    "word": "strictly",
+    "meaning": "厳密に",
+    "pos": "adv",
+    "question": "strictly",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "厳密に",
+    "explanation": "strictly = 厳密に。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-2087-0639",
+    "type": "vocab",
+    "level": "standard",
+    "word": "string",
+    "meaning": "紐",
+    "pos": "n",
+    "question": "string",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "紐",
+    "explanation": "string = 紐。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a long, thin piece of twisted thread that you use to attach things, tie things together, or hang things",
+    "frequencyRank": 2087,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "ngsl-2238",
+    "type": "vocab",
+    "word": "strip",
+    "meaning": "脱ぐ",
+    "pos": "v",
+    "level": "standard",
+    "rank": 2238,
+    "definition": "to remove your clothing",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2398",
+    "type": "vocab",
+    "word": "stroke",
+    "meaning": "脳卒中",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2398,
+    "definition": "a serious illness caused when a blood vessel in your brain suddenly breaks or is blocked",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-mega-standard-0145",
+    "type": "vocab",
+    "level": "standard",
+    "word": "strongly",
+    "meaning": "強く",
+    "pos": "adv",
+    "explanation": "strongly：強く",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "ngsl-2760",
+    "type": "vocab",
+    "word": "structural",
+    "meaning": "構造的な",
+    "pos": "adj",
+    "level": "standard",
+    "rank": 2760,
+    "definition": "relating to the structure of something",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1169-0043",
+    "type": "vocab",
+    "level": "standard",
+    "word": "struggle",
+    "meaning": "奮闘する",
+    "pos": "v",
+    "question": "struggle",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "奮闘する",
+    "explanation": "struggle = 奮闘する。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to try very hard to do, achieve, or deal with something that is difficult or that causes problems",
+    "frequencyRank": 1169,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1481-0239",
+    "type": "vocab",
+    "level": "standard",
+    "word": "studio",
+    "meaning": "スタジオ",
+    "pos": "n",
+    "question": "studio",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "スタジオ",
+    "explanation": "studio = スタジオ。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a room where an artist or photographer works; a place where TV, radio, or movies are made or broadcast",
+    "frequencyRank": 1481,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "ngsl-2361",
+    "type": "vocab",
+    "word": "stupid",
+    "meaning": "頭が悪い",
+    "pos": "adj",
+    "level": "standard",
+    "rank": 2361,
+    "definition": "not intelligent : having or showing a lack of ability to learn and understand things",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-mega-developed-0165",
+    "type": "vocab",
+    "level": "standard",
+    "word": "submission",
+    "meaning": "提出・服従",
+    "pos": "n",
+    "exampleSentence": "The submission is important in this discussion.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "submission：提出・服従",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-mega-standard-0226",
+    "type": "vocab",
+    "level": "standard",
+    "word": "submit",
+    "meaning": "提出する・服従する",
+    "pos": "v",
+    "explanation": "submit：提出する・服従する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-03-substitute",
+    "type": "vocab",
+    "level": "standard",
+    "word": "substitute",
+    "meaning": "代える",
+    "pos": "v",
+    "exampleSentence": "Researchers substitute the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を代える。",
+    "explanation": "substitute = 代える。品詞: v。語群: substitution。",
+    "family": "substitution",
+    "synonyms": [
+      "replace",
+      "exchange"
+    ],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "standard",
+      "v"
+    ],
+    "source": "curated-core-2026",
+    "question": "substitute",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "代える",
+    "note": "重要語。意味だけでなく文脈で覚える。substitute の派生語: substitution.",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-curated-0223",
+    "type": "vocab",
+    "level": "standard",
+    "word": "substitute",
+    "meaning": "代替物",
+    "pos": "n",
+    "question": "substitute",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "代替物",
+    "explanation": "substitute = 代替物。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-mega-developed-0106",
+    "type": "vocab",
+    "level": "standard",
+    "word": "substitution",
+    "meaning": "代用・置換",
+    "pos": "n",
+    "exampleSentence": "The substitution is important in this discussion.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "substitution：代用・置換",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1584-0301",
+    "type": "vocab",
+    "level": "standard",
+    "word": "succeed",
+    "meaning": "成功する",
+    "pos": "v",
+    "question": "succeed",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "成功する",
+    "explanation": "succeed = 成功する。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to do what you are trying to do : to achieve the correct or desired result",
+    "frequencyRank": 1584,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-developed-136",
+    "type": "vocab",
+    "level": "standard",
+    "word": "sufficient",
+    "meaning": "十分な",
+    "question": "sufficient",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "当然と思う・仮定する",
+        "correct": false
+      },
+      {
+        "text": "修正する",
+        "correct": false
+      },
+      {
+        "text": "十分な",
+        "correct": true
+      },
+      {
+        "text": "減少する・断る",
+        "correct": false
+      }
+    ],
+    "answer": "十分な",
+    "explanation": "sufficient = 十分な。例：sufficient evidence",
+    "levelTags": [
+      "standard",
+      "developed"
+    ]
+  },
+  {
+    "id": "v-mega-hard-0030",
+    "type": "vocab",
+    "level": "standard",
+    "word": "sufficient",
+    "meaning": "十分な",
+    "pos": "adj",
+    "exampleSentence": "This is a sufficient issue.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "sufficient：十分な",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-mega-hard-0081",
+    "type": "vocab",
+    "level": "standard",
+    "word": "sufficiently",
+    "meaning": "十分に",
+    "pos": "adv",
+    "exampleSentence": "The situation changed sufficiently.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "sufficiently：十分に",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "ngsl-2232",
+    "type": "vocab",
+    "word": "sugar",
+    "meaning": "砂糖",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2232,
+    "definition": "a sweet substance usually in the form of white or brown crystals or white powder that comes from plants and is used to make foods sweeter",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1120-0010",
+    "type": "vocab",
+    "level": "standard",
+    "word": "suit",
+    "meaning": "スーツ",
+    "pos": "n",
+    "question": "suit",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "スーツ",
+    "explanation": "suit = スーツ。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a set of clothes that usually consists of a jacket and a skirt or pair of pants that are made out of the same material",
+    "frequencyRank": 1120,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1373-0167",
+    "type": "vocab",
+    "level": "standard",
+    "word": "sum",
+    "meaning": "合計",
+    "pos": "n",
+    "question": "sum",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "合計",
+    "explanation": "sum = 合計。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "the result of adding two or more numbers together",
+    "frequencyRank": 1373,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-mega-standard-0367",
+    "type": "vocab",
+    "level": "standard",
+    "word": "summarize",
+    "meaning": "要約する",
+    "pos": "v",
+    "explanation": "summarize：要約する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1359-0158",
+    "type": "vocab",
+    "level": "standard",
+    "word": "sun",
+    "meaning": "太陽",
+    "pos": "n",
+    "question": "sun",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "太陽",
+    "explanation": "sun = 太陽。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "the star that the Earth moves around and that gives the Earth heat and light",
+    "frequencyRank": 1359,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-curated-0773",
+    "type": "vocab",
+    "level": "standard",
+    "word": "supervision",
+    "meaning": "監督",
+    "pos": "n",
+    "question": "supervision",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "監督",
+    "explanation": "supervision = 監督。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-2002-0574",
+    "type": "vocab",
+    "level": "standard",
+    "word": "supplier",
+    "meaning": "供給者",
+    "pos": "n",
+    "question": "supplier",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "供給者",
+    "explanation": "supplier = 供給者。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a company or person who provides things that people want or need",
+    "frequencyRank": 2002,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-mega-standard-0268",
+    "type": "vocab",
+    "level": "standard",
+    "word": "supply",
+    "meaning": "供給・供給する",
+    "pos": "n",
+    "explanation": "supply：供給・供給する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-standard-132",
+    "type": "vocab",
+    "level": "standard",
+    "word": "support",
+    "meaning": "支える・支持する",
+    "question": "support",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "支える・支持する",
+        "correct": true
+      },
+      {
+        "text": "維持する",
+        "correct": false
+      },
+      {
+        "text": "起こる",
+        "correct": false
+      },
+      {
+        "text": "予測する",
+        "correct": false
+      }
+    ],
+    "answer": "支える・支持する",
+    "explanation": "support = 支える・支持する。例：support the argument"
+  },
+  {
+    "id": "v-standard-ngsl-2107-0652",
+    "type": "vocab",
+    "level": "standard",
+    "word": "supporter",
+    "meaning": "支持者",
+    "pos": "n",
+    "question": "supporter",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "支持者",
+    "explanation": "supporter = 支持者。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "someone who supports a particular idea, group, or person; a sports fan",
+    "frequencyRank": 2107,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-curated-1992",
+    "type": "vocab",
+    "level": "standard",
+    "word": "supportive",
+    "meaning": "支持する・支援的な",
+    "pos": "adj",
+    "question": "supportive",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "支持する・支援的な",
+    "explanation": "supportive = 支持する・支援的な。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1674-0361",
+    "type": "vocab",
+    "level": "standard",
+    "word": "surely",
+    "meaning": "まさか",
+    "pos": "adv",
+    "question": "surely",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "まさか",
+    "explanation": "surely = まさか。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "used to express surprise that something has happened or is going to happen",
+    "frequencyRank": 1674,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1159-0035",
+    "type": "vocab",
+    "level": "standard",
+    "word": "surface",
+    "meaning": "表面",
+    "pos": "n",
+    "question": "surface",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "表面",
+    "explanation": "surface = 表面。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "an outside or upper layer of something",
+    "frequencyRank": 1159,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "ngsl-2347",
+    "type": "vocab",
+    "word": "surgery",
+    "meaning": "手術",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2347,
+    "definition": "when a doctor cuts your body open and repairs or removes something",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "ngsl-2643",
+    "type": "vocab",
+    "word": "surprisingly",
+    "meaning": "驚くべき",
+    "pos": "adv",
+    "level": "standard",
+    "rank": 2643,
+    "definition": "in an unexpected way that makes someone feel surprised",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1172-0045",
+    "type": "vocab",
+    "level": "standard",
+    "word": "surround",
+    "meaning": "周り",
+    "pos": "v",
+    "question": "surround",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "周り",
+    "explanation": "surround = 周り。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to be on every side of (someone or something)",
+    "frequencyRank": 1172,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-curated-4169",
+    "type": "vocab",
+    "level": "standard",
+    "word": "survivor",
+    "meaning": "生存者",
+    "pos": "n",
+    "question": "survivor",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "生存者",
+    "explanation": "survivor = 生存者。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1"
+  },
+  {
+    "id": "v-standard-ngsl-1488-0244",
+    "type": "vocab",
+    "level": "standard",
+    "word": "suspect",
+    "meaning": "疑う",
+    "pos": "v",
+    "question": "suspect",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "疑う",
+    "explanation": "suspect = 疑う。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to think that (someone) is possibly guilty of a crime or of doing something wrong",
+    "frequencyRank": 1488,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "ngsl-2751",
+    "type": "vocab",
+    "word": "suspend",
+    "meaning": "一時停止する",
+    "pos": "v",
+    "level": "standard",
+    "rank": 2751,
+    "definition": "to stop something for a usually short period of time",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "standard",
+      "developed",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-curated-0940",
+    "type": "vocab",
+    "level": "standard",
+    "word": "suspicion",
+    "meaning": "疑い",
+    "pos": "n",
+    "question": "suspicion",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "疑い",
+    "explanation": "suspicion = 疑い。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-mega-standard-0093",
+    "type": "vocab",
+    "level": "standard",
+    "word": "sustain",
+    "meaning": "維持する・支える",
+    "pos": "v",
+    "explanation": "sustain：維持する・支える",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "developed",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-max2-sustainable",
+    "type": "vocab",
+    "level": "standard",
+    "word": "sustainable",
+    "meaning": "持続可能な",
+    "pos": "adj",
+    "explanation": "sustainable：持続可能な。常用・入試重要語として定着させる。",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-max2",
+      "常用語"
+    ],
+    "source": "curated-vocab-max2-2026",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ]
+  },
+  {
+    "id": "ngsl-2732",
+    "type": "vocab",
+    "word": "swear",
+    "meaning": "誓う",
+    "pos": "v",
+    "level": "standard",
+    "rank": 2732,
+    "definition": "to state (something) very strongly and sincerely",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-2134-0671",
+    "type": "vocab",
+    "level": "standard",
+    "word": "sweep",
+    "meaning": "掃く",
+    "pos": "v",
+    "question": "sweep",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "掃く",
+    "explanation": "sweep = 掃く。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to remove (something, such as dust or dirt) from a surface with a broom or brush or with a quick movement of your hand, fingers, etc.",
+    "frequencyRank": 2134,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1779-0436",
+    "type": "vocab",
+    "level": "standard",
+    "word": "sweet",
+    "meaning": "甘い",
+    "pos": "adj",
+    "question": "sweet",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "甘い",
+    "explanation": "sweet = 甘い。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "containing a lot of sugar",
+    "frequencyRank": 1779,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1389-0178",
+    "type": "vocab",
+    "level": "standard",
+    "word": "swim",
+    "meaning": "泳ぐ",
+    "pos": "v",
+    "question": "swim",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "泳ぐ",
+    "explanation": "swim = 泳ぐ。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to move through water by moving your arms and legs",
+    "frequencyRank": 1389,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1935-0535",
+    "type": "vocab",
+    "level": "standard",
+    "word": "swing",
+    "meaning": "揺れる",
+    "pos": "v",
+    "question": "swing",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "揺れる",
+    "explanation": "swing = 揺れる。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to move backward and forward or from side to side while hanging from something",
+    "frequencyRank": 1935,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1461-0224",
+    "type": "vocab",
+    "level": "standard",
+    "word": "switch",
+    "meaning": "切り替える",
+    "pos": "v",
+    "question": "switch",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "切り替える",
+    "explanation": "switch = 切り替える。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to change from one thing to another",
+    "frequencyRank": 1461,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-2165-0696",
+    "type": "vocab",
+    "level": "standard",
+    "word": "symbol",
+    "meaning": "象徴",
+    "pos": "n",
+    "question": "symbol",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "象徴",
+    "explanation": "symbol = 象徴。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "an action, object that represents a particular idea or quality",
+    "frequencyRank": 2165,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-mega-standard-0094",
+    "type": "vocab",
+    "level": "standard",
+    "word": "symbolic",
+    "meaning": "象徴的な",
+    "pos": "adj",
+    "explanation": "symbolic：象徴的な",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "ngsl-2504",
+    "type": "vocab",
+    "word": "tackle",
+    "meaning": "取り組む、タックルする",
+    "pos": "v",
+    "level": "standard",
+    "rank": 2504,
+    "definition": "to try to deal with a problem; in sports, to try to take the ball from someone or knock them down",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-curated-2269",
+    "type": "vocab",
+    "level": "standard",
+    "word": "tactic",
+    "meaning": "戦術",
+    "pos": "n",
+    "question": "tactic",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "戦術",
+    "explanation": "tactic = 戦術。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "ngsl-2537",
+    "type": "vocab",
+    "word": "tail",
+    "meaning": "しっぽ",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2537,
+    "definition": "the part of an animal's body that extends from the animal's back end",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2543",
+    "type": "vocab",
+    "word": "tale",
+    "meaning": "(事実・伝説・架空の）話、物語",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2543,
+    "definition": "a story, especially one which is not true or is difficult to believe",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1788-0442",
+    "type": "vocab",
+    "level": "standard",
+    "word": "talent",
+    "meaning": "才能",
+    "pos": "n",
+    "question": "talent",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "才能",
+    "explanation": "talent = 才能。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a natural ability to do something",
+    "frequencyRank": 1788,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1783-0438",
+    "type": "vocab",
+    "level": "standard",
+    "word": "tall",
+    "meaning": "高い",
+    "pos": "adj",
+    "question": "tall",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "高い",
+    "explanation": "tall = 高い。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "greater in height than the average person, building, etc.",
+    "frequencyRank": 1783,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-2187-0712",
+    "type": "vocab",
+    "level": "standard",
+    "word": "tank",
+    "meaning": "タンク",
+    "pos": "n",
+    "question": "tank",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "タンク",
+    "explanation": "tank = タンク。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a large container for storing liquid or gas",
+    "frequencyRank": 2187,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "ngsl-2295",
+    "type": "vocab",
+    "word": "tap",
+    "meaning": "軽くたたく",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2295,
+    "definition": "to hit (someone or something) lightly especially with a small sound",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1369-0164",
+    "type": "vocab",
+    "level": "standard",
+    "word": "tape",
+    "meaning": "テープ",
+    "pos": "n",
+    "question": "tape",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "テープ",
+    "explanation": "tape = テープ。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a long, narrow piece of material used to stick things",
+    "frequencyRank": 1369,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1411-0190",
+    "type": "vocab",
+    "level": "standard",
+    "word": "taste",
+    "meaning": "味",
+    "pos": "n",
+    "question": "taste",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "味",
+    "explanation": "taste = 味。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "the sweet, sour, bitter, or salty quality of a thing that you can sense when it is in your mouth",
+    "frequencyRank": 1411,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1146-0026",
+    "type": "vocab",
+    "level": "standard",
+    "word": "taxi",
+    "meaning": "タクシー",
+    "pos": "n",
+    "question": "taxi",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "タクシー",
+    "explanation": "taxi = タクシー。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a car that carries passengers to a place for an amount of money that is based on the distance traveled",
+    "frequencyRank": 1146,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1597-0309",
+    "type": "vocab",
+    "level": "standard",
+    "word": "tea",
+    "meaning": "茶",
+    "pos": "n",
+    "question": "tea",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "茶",
+    "explanation": "tea = 茶。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a drink that is made by soaking the dried leaves of an Asian plant in hot water",
+    "frequencyRank": 1597,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1468-0228",
+    "type": "vocab",
+    "level": "standard",
+    "word": "tear",
+    "meaning": "涙",
+    "pos": "n",
+    "question": "tear",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "涙",
+    "explanation": "tear = 涙。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a drop of liquid that comes from your eyes especially when you cry",
+    "frequencyRank": 1468,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1456-0219",
+    "type": "vocab",
+    "level": "standard",
+    "word": "technical",
+    "meaning": "技術の",
+    "pos": "adj",
+    "question": "technical",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "技術の",
+    "explanation": "technical = 技術の。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "the practical use of machines or science in industry",
+    "frequencyRank": 1456,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-curated-0821",
+    "type": "vocab",
+    "level": "standard",
+    "word": "technically",
+    "meaning": "技術的に",
+    "pos": "adv",
+    "question": "technically",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "技術的に",
+    "explanation": "technically = 技術的に。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-curated-4064",
+    "type": "vocab",
+    "level": "standard",
+    "word": "technician",
+    "meaning": "技術者",
+    "pos": "n",
+    "question": "technician",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "技術者",
+    "explanation": "technician = 技術者。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1"
+  },
+  {
+    "id": "v-curated-3012",
+    "type": "vocab",
+    "level": "standard",
+    "word": "technological",
+    "meaning": "技術の",
+    "pos": "adj",
+    "question": "technological",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "技術の",
+    "explanation": "technological = 技術の。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "ngsl-2344",
+    "type": "vocab",
+    "word": "teenager",
+    "meaning": "１０代の",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2344,
+    "definition": "someone who is between 13 and 19 years old",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1450-0215",
+    "type": "vocab",
+    "level": "standard",
+    "word": "temperature",
+    "meaning": "温度",
+    "pos": "n",
+    "question": "temperature",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "温度",
+    "explanation": "temperature = 温度。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a measurement that indicates how hot or cold something is",
+    "frequencyRank": 1450,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-mega-standard-0095",
+    "type": "vocab",
+    "level": "standard",
+    "word": "temporary",
+    "meaning": "一時的な",
+    "pos": "adj",
+    "explanation": "temporary：一時的な",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-developed-138",
+    "type": "vocab",
+    "level": "standard",
+    "word": "tend",
+    "meaning": "～する傾向がある",
+    "question": "tend",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "避けられない",
+        "correct": false
+      },
+      {
+        "text": "原則",
+        "correct": false
+      },
+      {
+        "text": "示す",
+        "correct": false
+      },
+      {
+        "text": "～する傾向がある",
+        "correct": true
+      }
+    ],
+    "answer": "～する傾向がある",
+    "explanation": "tend = ～する傾向がある。例：tend to increase",
+    "levelTags": [
+      "standard",
+      "developed"
+    ]
+  },
+  {
+    "id": "ngsl-2406",
+    "type": "vocab",
+    "word": "tendency",
+    "meaning": "傾向",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2406,
+    "definition": "something that someone often does, or something that often happens",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "ngsl-2782",
+    "type": "vocab",
+    "word": "tender",
+    "meaning": "思いやりのある",
+    "pos": "adj",
+    "level": "standard",
+    "rank": 2782,
+    "definition": "very loving and gentle : showing affection and love for someone or something",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1915-0521",
+    "type": "vocab",
+    "level": "standard",
+    "word": "tennis",
+    "meaning": "テニス",
+    "pos": "n",
+    "question": "tennis",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "テニス",
+    "explanation": "tennis = テニス。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a sport in which two or four people hit a small ball to each other over a net",
+    "frequencyRank": 1915,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-2073-0630",
+    "type": "vocab",
+    "level": "standard",
+    "word": "tension",
+    "meaning": "緊張",
+    "pos": "n",
+    "question": "tension",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "緊張",
+    "explanation": "tension = 緊張。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a feeling that you are nervous, worried, and not relaxed",
+    "frequencyRank": 2073,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "ngsl-2719",
+    "type": "vocab",
+    "word": "tent",
+    "meaning": "テント",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2719,
+    "definition": "a portable shelter that is used outdoors, is made of cloth (such as canvas or nylon), and is held up with poles and ropes",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-curated-0778",
+    "type": "vocab",
+    "level": "standard",
+    "word": "termination",
+    "meaning": "終了",
+    "pos": "n",
+    "question": "termination",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "終了",
+    "explanation": "termination = 終了。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1642-0340",
+    "type": "vocab",
+    "level": "standard",
+    "word": "terrible",
+    "meaning": "ひどい",
+    "pos": "adj",
+    "question": "terrible",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "ひどい",
+    "explanation": "terrible = ひどい。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "very shocking and upsetting",
+    "frequencyRank": 1642,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-2145-0679",
+    "type": "vocab",
+    "level": "standard",
+    "word": "territory",
+    "meaning": "領土",
+    "pos": "n",
+    "question": "territory",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "領土",
+    "explanation": "territory = 領土。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "land that is owned or controlled by a particular country",
+    "frequencyRank": 2145,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-2119-0661",
+    "type": "vocab",
+    "level": "standard",
+    "word": "terrorist",
+    "meaning": "テロリスト",
+    "pos": "n",
+    "question": "terrorist",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "テロリスト",
+    "explanation": "terrorist = テロリスト。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "someone who is involved in terrorism",
+    "frequencyRank": 2119,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1391-0179",
+    "type": "vocab",
+    "level": "standard",
+    "word": "theater",
+    "meaning": "劇場",
+    "pos": "n",
+    "question": "theater",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "劇場",
+    "explanation": "theater = 劇場。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a building where plays, shows, etc., are performed on a stage",
+    "frequencyRank": 1391,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1570-0292",
+    "type": "vocab",
+    "level": "standard",
+    "word": "theme",
+    "meaning": "テーマ",
+    "pos": "n",
+    "question": "theme",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "テーマ",
+    "explanation": "theme = テーマ。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "the main subject to discuss or describe",
+    "frequencyRank": 1570,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "ngsl-2773",
+    "type": "vocab",
+    "word": "theoretical",
+    "meaning": "理論的な",
+    "pos": "adj",
+    "level": "standard",
+    "rank": 2773,
+    "definition": "related to an explanation that has not been proved",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "standard",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-standard-133",
+    "type": "vocab",
+    "level": "standard",
+    "word": "theory",
+    "meaning": "理論",
+    "question": "theory",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "社会の・社交的な",
+        "correct": false
+      },
+      {
+        "text": "支える・支持する",
+        "correct": false
+      },
+      {
+        "text": "理論",
+        "correct": true
+      },
+      {
+        "text": "起こる",
+        "correct": false
+      }
+    ],
+    "answer": "理論",
+    "explanation": "theory = 理論。例：a scientific theory"
+  },
+  {
+    "id": "ngsl-2496",
+    "type": "vocab",
+    "word": "therapy",
+    "meaning": "治療",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2496,
+    "definition": "the work of treating mental or physical illness without using an operation",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-mega-standard-0237",
+    "type": "vocab",
+    "level": "standard",
+    "word": "thereby",
+    "meaning": "それによって",
+    "pos": "adv",
+    "explanation": "thereby：それによって",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced",
+      "hard"
+    ]
+  },
+  {
+    "id": "v-standard-028",
+    "type": "vocab",
+    "level": "standard",
+    "word": "therefore",
+    "meaning": "それゆえに",
+    "question": "therefore",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "それゆえに",
+        "correct": true
+      },
+      {
+        "text": "しかし",
+        "correct": false
+      },
+      {
+        "text": "たとえば",
+        "correct": false
+      },
+      {
+        "text": "その間",
+        "correct": false
+      }
+    ],
+    "answer": "それゆえに",
+    "explanation": "therefore = それゆえに。例：therefore, we left"
+  },
+  {
+    "id": "v-mega-standard-0318",
+    "type": "vocab",
+    "level": "standard",
+    "word": "thesis",
+    "meaning": "論文・主張",
+    "pos": "n",
+    "explanation": "thesis：論文・主張",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-standard-ngsl-1998-0572",
+    "type": "vocab",
+    "level": "standard",
+    "word": "thick",
+    "meaning": "厚い",
+    "pos": "adj",
+    "question": "thick",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "厚い",
+    "explanation": "thick = 厚い。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "having a large distance between the top and bottom or front and back surfaces",
+    "frequencyRank": 1998,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1696-0378",
+    "type": "vocab",
+    "level": "standard",
+    "word": "thin",
+    "meaning": "薄い",
+    "pos": "adj",
+    "question": "thin",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "薄い",
+    "explanation": "thin = 薄い。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "having a small distance between the top and bottom or front and back surfaces",
+    "frequencyRank": 1696,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "ngsl-2801",
+    "type": "vocab",
+    "word": "thirst",
+    "meaning": "渇き",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2801,
+    "definition": "an uncomfortable feeling that is caused by the need for something to drink",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-mega-standard-0186",
+    "type": "vocab",
+    "level": "standard",
+    "word": "thorough",
+    "meaning": "徹底的な",
+    "pos": "adj",
+    "explanation": "thorough：徹底的な",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-standard-ngsl-1519-0261",
+    "type": "vocab",
+    "level": "standard",
+    "word": "threaten",
+    "meaning": "脅かす",
+    "pos": "v",
+    "question": "threaten",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "脅かす",
+    "explanation": "threaten = 脅かす。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to say that you will harm someone or do something unpleasant or unwanted especially in order to make someone do what you want",
+    "frequencyRank": 1519,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "ngsl-2502",
+    "type": "vocab",
+    "word": "throat",
+    "meaning": "喉",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2502,
+    "definition": "the tube inside the neck that leads to the stomach and lungs",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1247-0091",
+    "type": "vocab",
+    "level": "standard",
+    "word": "ticket",
+    "meaning": "チケット",
+    "pos": "n",
+    "question": "ticket",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "チケット",
+    "explanation": "ticket = チケット。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a piece of paper that allows you to see a show, participate in an event, travel on a vehicle, etc.",
+    "frequencyRank": 1247,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1514-0258",
+    "type": "vocab",
+    "level": "standard",
+    "word": "tie",
+    "meaning": "つなげる",
+    "pos": "v",
+    "question": "tie",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "つなげる",
+    "explanation": "tie = つなげる。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to attach (someone or something) to something with a string, rope, etc.",
+    "frequencyRank": 1514,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-2081-0636",
+    "type": "vocab",
+    "level": "standard",
+    "word": "tight",
+    "meaning": "きつい",
+    "pos": "adj",
+    "question": "tight",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "きつい",
+    "explanation": "tight = きつい。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "difficult to move : fastened, attached, or held in a position that is not easy to move",
+    "frequencyRank": 2081,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1569-0291",
+    "type": "vocab",
+    "level": "standard",
+    "word": "till",
+    "meaning": "まで",
+    "pos": "prep",
+    "question": "till",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "まで",
+    "explanation": "till = まで。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "until",
+    "frequencyRank": 1569,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1634-0336",
+    "type": "vocab",
+    "level": "standard",
+    "word": "tiny",
+    "meaning": "とても小さい",
+    "pos": "adj",
+    "question": "tiny",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "とても小さい",
+    "explanation": "tiny = とても小さい。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "extremely small",
+    "frequencyRank": 1634,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1657-0349",
+    "type": "vocab",
+    "level": "standard",
+    "word": "tip",
+    "meaning": "先端",
+    "pos": "n",
+    "question": "tip",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "先端",
+    "explanation": "tip = 先端。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "the end of something that is usually long and thin",
+    "frequencyRank": 1657,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1329-0141",
+    "type": "vocab",
+    "level": "standard",
+    "word": "tire",
+    "meaning": "疲れる",
+    "pos": "v",
+    "question": "tire",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "疲れる",
+    "explanation": "tire = 疲れる。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to lose energy and begin to feel that you need to rest",
+    "frequencyRank": 1329,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-mega-standard-0257",
+    "type": "vocab",
+    "level": "standard",
+    "word": "tissue",
+    "meaning": "組織",
+    "pos": "n",
+    "explanation": "tissue：組織",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-curated-2365",
+    "type": "vocab",
+    "level": "standard",
+    "word": "tolerate",
+    "meaning": "許容する",
+    "pos": "v",
+    "question": "tolerate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "許容する",
+    "explanation": "tolerate = 許容する。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1691-0374",
+    "type": "vocab",
+    "level": "standard",
+    "word": "tone",
+    "meaning": "音質",
+    "pos": "n",
+    "question": "tone",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "音質",
+    "explanation": "tone = 音質。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "the quality of a sound, especially of someone's voice",
+    "frequencyRank": 1691,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "ngsl-2758",
+    "type": "vocab",
+    "word": "tongue",
+    "meaning": "舌",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2758,
+    "definition": "the soft, movable part in the mouth that is used for tasting and eating food and in human beings for speaking",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1412-0191",
+    "type": "vocab",
+    "level": "standard",
+    "word": "tonight",
+    "meaning": "今夜",
+    "pos": "n",
+    "question": "tonight",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "今夜",
+    "explanation": "tonight = 今夜。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "this night or the night following this day",
+    "frequencyRank": 1412,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1225-0077",
+    "type": "vocab",
+    "level": "standard",
+    "word": "tool",
+    "meaning": "道具",
+    "pos": "n",
+    "question": "tool",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "道具",
+    "explanation": "tool = 道具。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "something (such as a hammer, saw, shovel, etc.) that you hold in your hand and use for a particular task",
+    "frequencyRank": 1225,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-2024-0596",
+    "type": "vocab",
+    "level": "standard",
+    "word": "tooth",
+    "meaning": "歯",
+    "pos": "n",
+    "question": "tooth",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "歯",
+    "explanation": "tooth = 歯。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "one of the hard white objects inside the mouth that are used for biting and chewing",
+    "frequencyRank": 2024,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1294-0118",
+    "type": "vocab",
+    "level": "standard",
+    "word": "topic",
+    "meaning": "題",
+    "pos": "n",
+    "question": "topic",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "題",
+    "explanation": "topic = 題。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a matter people talk or write about",
+    "frequencyRank": 1294,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1467-0227",
+    "type": "vocab",
+    "level": "standard",
+    "word": "tough",
+    "meaning": "とても難しい",
+    "pos": "adj",
+    "question": "tough",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "とても難しい",
+    "explanation": "tough = とても難しい。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "very difficult to do or deal with",
+    "frequencyRank": 1467,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "ngsl-2625",
+    "type": "vocab",
+    "word": "tourism",
+    "meaning": "観光事業",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2625,
+    "definition": "the business of providing services for tourists, including organizing their travel, hotels, entertainment, etc.",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1484-0242",
+    "type": "vocab",
+    "level": "standard",
+    "word": "tourist",
+    "meaning": "旅行者",
+    "pos": "n",
+    "question": "tourist",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "旅行者",
+    "explanation": "tourist = 旅行者。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "someone who visits a place for pleasure and does not live there",
+    "frequencyRank": 1484,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "ngsl-2778",
+    "type": "vocab",
+    "word": "tournament",
+    "meaning": "大会",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2778,
+    "definition": "a competition with a series of games between many teams or players, with one winner at the end",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2322",
+    "type": "vocab",
+    "word": "tower",
+    "meaning": "タワー",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2322,
+    "definition": "a tall, narrow building or structure that may stand apart from or be attached to another building or structure",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1992-0568",
+    "type": "vocab",
+    "level": "standard",
+    "word": "toy",
+    "meaning": "おもちゃ",
+    "pos": "n",
+    "question": "toy",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "おもちゃ",
+    "explanation": "toy = おもちゃ。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "something a child plays with",
+    "frequencyRank": 1992,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-2045-0609",
+    "type": "vocab",
+    "level": "standard",
+    "word": "trace",
+    "meaning": "突き止める",
+    "pos": "v",
+    "question": "trace",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "突き止める",
+    "explanation": "trace = 突き止める。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "find, describe or discover by investigation",
+    "frequencyRank": 2045,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-148",
+    "type": "vocab",
+    "level": "standard",
+    "word": "traditional",
+    "meaning": "伝統的な",
+    "question": "traditional",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "実用的な",
+        "correct": false
+      },
+      {
+        "text": "伝統的な",
+        "correct": true
+      },
+      {
+        "text": "さまざまな",
+        "correct": false
+      },
+      {
+        "text": "集中する・焦点",
+        "correct": false
+      }
+    ],
+    "answer": "伝統的な",
+    "explanation": "traditional = 伝統的な。例：traditional culture"
+  },
+  {
+    "id": "v-curated-0493",
+    "type": "vocab",
+    "level": "standard",
+    "word": "traditional",
+    "meaning": "伝統的な",
+    "pos": "adj",
+    "question": "traditional",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "伝統的な",
+    "explanation": "traditional = 伝統的な。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-curated-1889",
+    "type": "vocab",
+    "level": "standard",
+    "word": "traditionally",
+    "meaning": "伝統的に",
+    "pos": "adv",
+    "question": "traditionally",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "伝統的に",
+    "explanation": "traditionally = 伝統的に。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-2181-0707",
+    "type": "vocab",
+    "level": "standard",
+    "word": "trail",
+    "meaning": "小道",
+    "pos": "n",
+    "question": "trail",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "小道",
+    "explanation": "trail = 小道。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a path through the countryside, often where people walk",
+    "frequencyRank": 2181,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-curated-0781",
+    "type": "vocab",
+    "level": "standard",
+    "word": "transaction",
+    "meaning": "取引",
+    "pos": "n",
+    "question": "transaction",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "取引",
+    "explanation": "transaction = 取引。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-curated-0945",
+    "type": "vocab",
+    "level": "standard",
+    "word": "transfer",
+    "meaning": "移転・転送",
+    "pos": "n",
+    "question": "transfer",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "移転・転送",
+    "explanation": "transfer = 移転・転送。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-mega-standard-0096",
+    "type": "vocab",
+    "level": "standard",
+    "word": "transform",
+    "meaning": "変える",
+    "pos": "v",
+    "explanation": "transform：変える",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-mega-developed-0107",
+    "type": "vocab",
+    "level": "standard",
+    "word": "transformation",
+    "meaning": "変革・変換",
+    "pos": "n",
+    "exampleSentence": "The transformation is important in this discussion.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "transformation：変革・変換",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-2193-0718",
+    "type": "vocab",
+    "level": "standard",
+    "word": "transition",
+    "meaning": "推移",
+    "pos": "n",
+    "question": "transition",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "推移",
+    "explanation": "transition = 推移。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "when something changes from one system or method to another, often gradually",
+    "frequencyRank": 2193,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "standard",
+      "developed",
+      "advanced"
+    ]
+  },
+  {
+    "id": "ngsl-2308",
+    "type": "vocab",
+    "word": "translate",
+    "meaning": "翻訳する",
+    "pos": "v",
+    "level": "standard",
+    "rank": 2308,
+    "definition": "to change words from one language into another language",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-curated-3187",
+    "type": "vocab",
+    "level": "standard",
+    "word": "translation",
+    "meaning": "翻訳・移動",
+    "pos": "n",
+    "question": "translation",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "翻訳・移動",
+    "explanation": "translation = 翻訳・移動。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-curated-4057",
+    "type": "vocab",
+    "level": "standard",
+    "word": "translator",
+    "meaning": "翻訳者",
+    "pos": "n",
+    "question": "translator",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "翻訳者",
+    "explanation": "translator = 翻訳者。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1"
+  },
+  {
+    "id": "v-mega-standard-0227",
+    "type": "vocab",
+    "level": "standard",
+    "word": "transmit",
+    "meaning": "伝える・送信する",
+    "pos": "v",
+    "explanation": "transmit：伝える・送信する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "developed",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-curated-4006",
+    "type": "vocab",
+    "level": "standard",
+    "word": "transport",
+    "meaning": "輸送する・輸送",
+    "pos": "n",
+    "question": "transport",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "輸送する・輸送",
+    "explanation": "transport = 輸送する・輸送。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1"
+  },
+  {
+    "id": "v-standard-ngsl-2182-0708",
+    "type": "vocab",
+    "level": "standard",
+    "word": "trap",
+    "meaning": "罠、仕掛け",
+    "pos": "n",
+    "question": "trap",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "罠、仕掛け",
+    "explanation": "trap = 罠、仕掛け。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a device that is used for catching animals",
+    "frequencyRank": 2182,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-curated-2276",
+    "type": "vocab",
+    "level": "standard",
+    "word": "tremendous",
+    "meaning": "ものすごい",
+    "pos": "adj",
+    "question": "tremendous",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "ものすごい",
+    "explanation": "tremendous = ものすごい。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "ngsl-2614",
+    "type": "vocab",
+    "word": "trick",
+    "meaning": "巧妙な技",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2614,
+    "definition": "an action that is meant to deceive someone",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-developed-03-trigger",
+    "type": "vocab",
+    "level": "standard",
+    "word": "trigger",
+    "meaning": "引き起こす",
+    "pos": "v",
+    "explanation": "trigger = 引き起こす。品詞: v。語群: trigger。",
+    "family": "trigger",
+    "synonyms": [
+      "cause",
+      "set off"
+    ],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "developed",
+      "v",
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "question": "trigger",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "引き起こす",
+    "exampleSentence": "Researchers trigger the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を引き起こす。",
+    "note": "重要語。意味だけでなく文脈で覚える。trigger の派生語: trigger.",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1455-0218",
+    "type": "vocab",
+    "level": "standard",
+    "word": "troop",
+    "meaning": "一団、軍隊",
+    "pos": "n",
+    "question": "troop",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "一団、軍隊",
+    "explanation": "troop = 一団、軍隊。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a group of people, especially soldiers or theater actors",
+    "frequencyRank": 1455,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-2111-0655",
+    "type": "vocab",
+    "level": "standard",
+    "word": "truck",
+    "meaning": "トラック",
+    "pos": "n",
+    "question": "truck",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "トラック",
+    "explanation": "truck = トラック。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a large road vehicle for carrying goods from place to place",
+    "frequencyRank": 2111,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "ngsl-2321",
+    "type": "vocab",
+    "word": "tube",
+    "meaning": "筒",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2321,
+    "definition": "a long, hollow object that is used especially to control the flow of a liquid or gas",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-2190-0715",
+    "type": "vocab",
+    "level": "standard",
+    "word": "tune",
+    "meaning": "旋律",
+    "pos": "n",
+    "question": "tune",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "旋律",
+    "explanation": "tune = 旋律。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a series of musical notes that produce a pleasing sound when played or sung",
+    "frequencyRank": 2190,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1306-0127",
+    "type": "vocab",
+    "level": "standard",
+    "word": "twice",
+    "meaning": "2回",
+    "pos": "adv",
+    "question": "twice",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "2回",
+    "explanation": "twice = 2回。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "two times",
+    "frequencyRank": 1306,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "ngsl-2364",
+    "type": "vocab",
+    "word": "twin",
+    "meaning": "双子",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2364,
+    "definition": "one of two children who are born to the same mother at the same time",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2498",
+    "type": "vocab",
+    "word": "twist",
+    "meaning": "ひねる",
+    "pos": "v",
+    "level": "standard",
+    "rank": 2498,
+    "definition": "to bend or turn (something) in order to change its shape",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-2004-0576",
+    "type": "vocab",
+    "level": "standard",
+    "word": "typically",
+    "meaning": "典型的に",
+    "pos": "adv",
+    "question": "typically",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "典型的に",
+    "explanation": "typically = 典型的に。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "used for saying that something is usual type of a person, thing, place, etc.",
+    "frequencyRank": 2004,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "ngsl-2784",
+    "type": "vocab",
+    "word": "ugly",
+    "meaning": "醜い",
+    "pos": "adj",
+    "level": "standard",
+    "rank": 2784,
+    "definition": "unpleasant to look at : not pretty or attractive",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-mega-standard-0098",
+    "type": "vocab",
+    "level": "standard",
+    "word": "ultimate",
+    "meaning": "究極の・最終の",
+    "pos": "adj",
+    "explanation": "ultimate：究極の・最終の",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-mega-hard-0050",
+    "type": "vocab",
+    "level": "standard",
+    "word": "ultimately",
+    "meaning": "最終的に",
+    "pos": "adv",
+    "question": "ultimately",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "最終的に",
+    "explanation": "ultimately：最終的に",
+    "definitionEn": "finally, after a series of things have happened; in the end",
+    "frequencyRank": 2018,
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "The situation changed ultimately.",
+    "exampleJa": "（学習用例文）",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "levelTags": [
+      "standard",
+      "developed",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1716-0392",
+    "type": "vocab",
+    "level": "standard",
+    "word": "unable",
+    "meaning": "できない",
+    "pos": "adj",
+    "question": "unable",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "できない",
+    "explanation": "unable = できない。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to not be able to do something",
+    "frequencyRank": 1716,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-curated-3014",
+    "type": "vocab",
+    "level": "standard",
+    "word": "uncertain",
+    "meaning": "不確かな",
+    "pos": "adj",
+    "question": "uncertain",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "不確かな",
+    "explanation": "uncertain = 不確かな。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-advanced-04-uncertainty",
+    "type": "vocab",
+    "level": "standard",
+    "word": "uncertainty",
+    "meaning": "不確実性",
+    "pos": "n",
+    "exampleSentence": "deal with uncertainty.",
+    "exampleJa": "この文脈では「不確実性」という意味。",
+    "explanation": "uncertainty = 不確実性。品詞: n。",
+    "family": "uncertainty;uncertaintys",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "advanced",
+      "n",
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "question": "uncertainty",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "不確実性",
+    "note": "入試・読解で見かけやすい重要語。",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ]
+  },
+  {
+    "id": "ngsl-2691",
+    "type": "vocab",
+    "word": "uncle",
+    "meaning": "叔父",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2691,
+    "definition": "the brother of your father or mother or the husband of your aunt",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-curated-0385",
+    "type": "vocab",
+    "level": "standard",
+    "word": "underestimate",
+    "meaning": "過小評価する",
+    "pos": "v",
+    "question": "underestimate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "過小評価する",
+    "explanation": "underestimate = 過小評価する。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard",
+      "developed",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-mega-standard-0099",
+    "type": "vocab",
+    "level": "standard",
+    "word": "undergo",
+    "meaning": "経験する",
+    "pos": "v",
+    "explanation": "undergo：経験する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "developed",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-2128-0667",
+    "type": "vocab",
+    "level": "standard",
+    "word": "underlie",
+    "meaning": "下に横たわる",
+    "pos": "v",
+    "question": "underlie",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "下に横たわる",
+    "explanation": "underlie = 下に横たわる。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to lie or be situated under something",
+    "frequencyRank": 2128,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "standard",
+      "hard"
+    ]
+  },
+  {
+    "id": "v-mega-standard-0100",
+    "type": "vocab",
+    "level": "standard",
+    "word": "undermine",
+    "meaning": "弱体化させる",
+    "pos": "v",
+    "explanation": "undermine：弱体化させる",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced",
+      "hard"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-2034-0601",
+    "type": "vocab",
+    "level": "standard",
+    "word": "undertake",
+    "meaning": "着手する、取り組む",
+    "pos": "v",
+    "question": "undertake",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "着手する、取り組む",
+    "explanation": "undertake = 着手する、取り組む。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to begin or attempt, commit oneself to and begin",
+    "frequencyRank": 2034,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "standard",
+      "developed",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1982-0562",
+    "type": "vocab",
+    "level": "standard",
+    "word": "unemployment",
+    "meaning": "失業",
+    "pos": "n",
+    "question": "unemployment",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "失業",
+    "explanation": "unemployment = 失業。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "the number of people who are without jobs; not having a job",
+    "frequencyRank": 1982,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1267-0106",
+    "type": "vocab",
+    "level": "standard",
+    "word": "unfortunately",
+    "meaning": "残念ながら",
+    "pos": "adv",
+    "question": "unfortunately",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "残念ながら",
+    "explanation": "unfortunately = 残念ながら。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "used to say that you wish something was not true or that something had not happened",
+    "frequencyRank": 1267,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-2053-0615",
+    "type": "vocab",
+    "level": "standard",
+    "word": "uniform",
+    "meaning": "ユニフォーム",
+    "pos": "n",
+    "question": "uniform",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "ユニフォーム",
+    "explanation": "uniform = ユニフォーム。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "same designed clothing that identifies belongings",
+    "frequencyRank": 2053,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1277-0110",
+    "type": "vocab",
+    "level": "standard",
+    "word": "union",
+    "meaning": "組合",
+    "pos": "n",
+    "question": "union",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "組合",
+    "explanation": "union = 組合。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "an organization of workers formed to protect the rights",
+    "frequencyRank": 1277,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-mega-standard-0101",
+    "type": "vocab",
+    "level": "standard",
+    "word": "unique",
+    "meaning": "独特の",
+    "pos": "adj",
+    "explanation": "unique：独特の",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "ngsl-2763",
+    "type": "vocab",
+    "word": "unite",
+    "meaning": "団結する",
+    "pos": "v",
+    "level": "standard",
+    "rank": 2763,
+    "definition": "to join together, to come together for the same goal",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-mega-developed-0191",
+    "type": "vocab",
+    "level": "standard",
+    "word": "universal",
+    "meaning": "普遍的な",
+    "pos": "adj",
+    "exampleSentence": "This is a universal issue.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "universal：普遍的な",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "developed"
+    ]
+  },
+  {
+    "id": "ngsl-2705",
+    "type": "vocab",
+    "word": "universe",
+    "meaning": "宇宙",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2705,
+    "definition": "all of space and everything in it including stars, planets, galaxies, etc.",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-2041-0607",
+    "type": "vocab",
+    "level": "standard",
+    "word": "unknown",
+    "meaning": "未知の、無名の",
+    "pos": "adj",
+    "question": "unknown",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "未知の、無名の",
+    "explanation": "unknown = 未知の、無名の。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "not known; not famous",
+    "frequencyRank": 2041,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1735-0406",
+    "type": "vocab",
+    "level": "standard",
+    "word": "unlike",
+    "meaning": "～とは違って",
+    "pos": "prep",
+    "question": "unlike",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "～とは違って",
+    "explanation": "unlike = ～とは違って。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "different from someone or something",
+    "frequencyRank": 1735,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-2037-0604",
+    "type": "vocab",
+    "level": "standard",
+    "word": "unlikely",
+    "meaning": "なさそうな",
+    "pos": "adj",
+    "question": "unlikely",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "なさそうな",
+    "explanation": "unlikely = なさそうな。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "not expected to happen",
+    "frequencyRank": 2037,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1871-0497",
+    "type": "vocab",
+    "level": "standard",
+    "word": "unusual",
+    "meaning": "珍しい",
+    "pos": "adj",
+    "question": "unusual",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "珍しい",
+    "explanation": "unusual = 珍しい。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "different and not ordinary, often in a way that is interesting or exciting",
+    "frequencyRank": 1871,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1931-0532",
+    "type": "vocab",
+    "level": "standard",
+    "word": "update",
+    "meaning": "更新する",
+    "pos": "v",
+    "question": "update",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "更新する",
+    "explanation": "update = 更新する。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to add new information",
+    "frequencyRank": 1931,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1926-0530",
+    "type": "vocab",
+    "level": "standard",
+    "word": "upper",
+    "meaning": "上の",
+    "pos": "adj",
+    "question": "upper",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "上の",
+    "explanation": "upper = 上の。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "located above another or others of the same kind",
+    "frequencyRank": 1926,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-2023-0595",
+    "type": "vocab",
+    "level": "standard",
+    "word": "upset",
+    "meaning": "取り乱す",
+    "pos": "adj",
+    "question": "upset",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "取り乱す",
+    "explanation": "upset = 取り乱す。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "angry or unhappy",
+    "frequencyRank": 2023,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1916-0522",
+    "type": "vocab",
+    "level": "standard",
+    "word": "urban",
+    "meaning": "都会の",
+    "pos": "adj",
+    "question": "urban",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "都会の",
+    "explanation": "urban = 都会の。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "belonging or relating to a town or city",
+    "frequencyRank": 1916,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1784-0439",
+    "type": "vocab",
+    "level": "standard",
+    "word": "urge",
+    "meaning": "駆り立てる",
+    "pos": "v",
+    "question": "urge",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "駆り立てる",
+    "explanation": "urge = 駆り立てる。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to try to persuade (someone) in a serious way to do something",
+    "frequencyRank": 1784,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1113-0006",
+    "type": "vocab",
+    "level": "standard",
+    "word": "user",
+    "meaning": "使用者",
+    "pos": "n",
+    "question": "user",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "使用者",
+    "explanation": "user = 使用者。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "someone who uses a product, machine, or service",
+    "frequencyRank": 1113,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-curated-1518",
+    "type": "vocab",
+    "level": "standard",
+    "word": "vague",
+    "meaning": "曖昧な",
+    "pos": "adj",
+    "question": "vague",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "曖昧な",
+    "explanation": "vague = 曖昧な。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "ngsl-2413",
+    "type": "vocab",
+    "word": "valley",
+    "meaning": "谷",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2413,
+    "definition": "an area of low land between hills or mountains",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-standard-149",
+    "type": "vocab",
+    "level": "standard",
+    "word": "valuable",
+    "meaning": "価値のある",
+    "question": "valuable",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "価値のある",
+        "correct": true
+      },
+      {
+        "text": "気づいている",
+        "correct": false
+      },
+      {
+        "text": "適切な",
+        "correct": false
+      },
+      {
+        "text": "特定の・特別な",
+        "correct": false
+      }
+    ],
+    "answer": "価値のある",
+    "explanation": "valuable = 価値のある。例：valuable experience"
+  },
+  {
+    "id": "ngsl-2215",
+    "type": "vocab",
+    "word": "van",
+    "meaning": "バン",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2215,
+    "definition": "a vehicle that is used for carrying things but which is smaller than a truck",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1777-0434",
+    "type": "vocab",
+    "level": "standard",
+    "word": "variable",
+    "meaning": "変わりやすい",
+    "pos": "adj",
+    "question": "variable",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "変わりやすい",
+    "explanation": "variable = 変わりやすい。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "changing often",
+    "frequencyRank": 1777,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-curated-0951",
+    "type": "vocab",
+    "level": "standard",
+    "word": "variable",
+    "meaning": "変数・可変のもの",
+    "pos": "n",
+    "question": "variable",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "変数・可変のもの",
+    "explanation": "variable = 変数・可変のもの。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-mega-developed-0067",
+    "type": "vocab",
+    "level": "standard",
+    "word": "variation",
+    "meaning": "変化・変動",
+    "pos": "n",
+    "question": "variation",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "差異",
+    "explanation": "variation：変化・変動",
+    "definitionEn": "a difference in amount or quality",
+    "frequencyRank": 2017,
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage",
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "The variation is important in this discussion.",
+    "exampleJa": "（学習用例文）",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-029",
+    "type": "vocab",
+    "level": "standard",
+    "word": "variety",
+    "meaning": "多様性・いろいろ",
+    "question": "variety",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "多様性・いろいろ",
+        "correct": true
+      },
+      {
+        "text": "単一性",
+        "correct": false
+      },
+      {
+        "text": "責任",
+        "correct": false
+      },
+      {
+        "text": "証拠",
+        "correct": false
+      }
+    ],
+    "answer": "多様性・いろいろ",
+    "explanation": "variety = 多様性・いろいろ。例：a wide variety"
+  },
+  {
+    "id": "v-standard-150",
+    "type": "vocab",
+    "level": "standard",
+    "word": "various",
+    "meaning": "さまざまな",
+    "question": "various",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "さまざまな",
+        "correct": true
+      },
+      {
+        "text": "維持する",
+        "correct": false
+      },
+      {
+        "text": "確かな・ある",
+        "correct": false
+      },
+      {
+        "text": "特定の・具体的な",
+        "correct": false
+      }
+    ],
+    "answer": "さまざまな",
+    "explanation": "various = さまざまな。例：various reasons"
+  },
+  {
+    "id": "v-standard-03-vary",
+    "type": "vocab",
+    "level": "standard",
+    "word": "vary",
+    "meaning": "異なる・変化する",
+    "pos": "v",
+    "question": "vary",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "異なる・変化する",
+    "explanation": "vary = 異なる・変化する。品詞: v。語群: variation;variety。",
+    "exampleSentence": "Researchers vary the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を異なる。",
+    "family": "variation;variety",
+    "synonyms": [
+      "differ",
+      "change"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。vary の派生語: variation;variety.",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1800-0450",
+    "type": "vocab",
+    "level": "standard",
+    "word": "vast",
+    "meaning": "広大",
+    "pos": "adj",
+    "question": "vast",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "広大",
+    "explanation": "vast = 広大。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "extremely big",
+    "frequencyRank": 1800,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "ngsl-2214",
+    "type": "vocab",
+    "word": "vegetable",
+    "meaning": "野菜",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2214,
+    "definition": "a plant that you eat, for example potatoes, onions, beans, etc.",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2377",
+    "type": "vocab",
+    "word": "venture",
+    "meaning": "冒険",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2377,
+    "definition": "a new activity that may not be successful",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2697",
+    "type": "vocab",
+    "word": "verb",
+    "meaning": "動詞",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2697,
+    "definition": "a word (such as jump, think, happen, or exist) that is usually one of the main parts of a sentence and that expresses an action, an occurrence, or a state of being",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-curated-0786",
+    "type": "vocab",
+    "level": "standard",
+    "word": "verification",
+    "meaning": "検証",
+    "pos": "n",
+    "question": "verification",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "検証",
+    "explanation": "verification = 検証。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard",
+      "developed",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-developed-03-verify",
+    "type": "vocab",
+    "level": "standard",
+    "word": "verify",
+    "meaning": "検証する",
+    "pos": "v",
+    "explanation": "verify = 検証する。品詞: v。語群: verification。",
+    "family": "verification",
+    "synonyms": [
+      "check",
+      "confirm"
+    ],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "developed",
+      "v",
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "question": "verify",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "検証する",
+    "exampleSentence": "Researchers verify the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を検証する。",
+    "note": "重要語。意味だけでなく文脈で覚える。verify の派生語: verification.",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ]
+  },
+  {
+    "id": "ngsl-2480",
+    "type": "vocab",
+    "word": "versus",
+    "meaning": "対",
+    "pos": "prep",
+    "level": "standard",
+    "rank": 2480,
+    "definition": "used to say that one team or person is competing against another; used to compare two things or ideas",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "ngsl-2696",
+    "type": "vocab",
+    "word": "vessel",
+    "meaning": "貨物船",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2696,
+    "definition": "a ship or large boat",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2671",
+    "type": "vocab",
+    "word": "veteran",
+    "meaning": "ベテラン",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2671,
+    "definition": "someone who has been in the military; someone who has done a job or activity for a long time",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2243",
+    "type": "vocab",
+    "word": "vice",
+    "meaning": "悪徳",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2243,
+    "definition": "something bad that someone often does; crime that involves sex or drugs",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1774-0432",
+    "type": "vocab",
+    "level": "standard",
+    "word": "victory",
+    "meaning": "勝利",
+    "pos": "n",
+    "question": "victory",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "勝利",
+    "explanation": "victory = 勝利。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "success in defeating an opponent or enemy",
+    "frequencyRank": 1774,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-mega-standard-0102",
+    "type": "vocab",
+    "level": "standard",
+    "word": "violate",
+    "meaning": "侵害する",
+    "pos": "v",
+    "explanation": "violate：侵害する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1434-0207",
+    "type": "vocab",
+    "level": "standard",
+    "word": "violence",
+    "meaning": "暴力",
+    "pos": "n",
+    "question": "violence",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "暴力",
+    "explanation": "violence = 暴力。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "the use of physical force to harm someone, to damage property, etc.",
+    "frequencyRank": 1434,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "ngsl-2422",
+    "type": "vocab",
+    "word": "violent",
+    "meaning": "暴力",
+    "pos": "adj",
+    "level": "standard",
+    "rank": 2422,
+    "definition": "using or involving the use of physical force to cause harm or damage to someone or something",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-mega-standard-0103",
+    "type": "vocab",
+    "level": "standard",
+    "word": "virtual",
+    "meaning": "事実上の・仮想の",
+    "pos": "adj",
+    "explanation": "virtual：事実上の・仮想の",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "ngsl-2339",
+    "type": "vocab",
+    "word": "virus",
+    "meaning": "ウイルス",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2339,
+    "definition": "an infectious organism too small to be seen that causes disease, or an illness that it causes; a harmful computer program",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2360",
+    "type": "vocab",
+    "word": "visual",
+    "meaning": "視覚",
+    "pos": "adj",
+    "level": "standard",
+    "rank": 2360,
+    "definition": "relating to seeing or to the eyes, sight",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-2121-0662",
+    "type": "vocab",
+    "level": "standard",
+    "word": "vital",
+    "meaning": "必要不可欠な",
+    "pos": "adj",
+    "question": "vital",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "必要不可欠な",
+    "explanation": "vital = 必要不可欠な。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "necessary",
+    "frequencyRank": 2121,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-mega-standard-0105",
+    "type": "vocab",
+    "level": "standard",
+    "word": "voluntary",
+    "meaning": "自発的な・任意の",
+    "pos": "adj",
+    "explanation": "voluntary：自発的な・任意の",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "developed"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1750-0417",
+    "type": "vocab",
+    "level": "standard",
+    "word": "voter",
+    "meaning": "有権者",
+    "pos": "n",
+    "question": "voter",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "有権者",
+    "explanation": "voter = 有権者。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "someone who votes or who is officially allowed to vote",
+    "frequencyRank": 1750,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1755-0421",
+    "type": "vocab",
+    "level": "standard",
+    "word": "wage",
+    "meaning": "賃金",
+    "pos": "n",
+    "question": "wage",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "賃金",
+    "explanation": "wage = 賃金。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "an amount of money that a worker is paid based on the number of hours, days, etc., that are worked",
+    "frequencyRank": 1755,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1506-0253",
+    "type": "vocab",
+    "level": "standard",
+    "word": "wake",
+    "meaning": "起こす",
+    "pos": "v",
+    "question": "wake",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "起こす",
+    "explanation": "wake = 起こす。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to cause (a person or animal) to be awake after sleeping",
+    "frequencyRank": 1506,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "ngsl-2744",
+    "type": "vocab",
+    "word": "wander",
+    "meaning": "さまよう",
+    "pos": "v",
+    "level": "standard",
+    "rank": 2744,
+    "definition": "to move around or go to different places usually without having a particular purpose or direction",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1130-0015",
+    "type": "vocab",
+    "level": "standard",
+    "word": "warn",
+    "meaning": "警告する",
+    "pos": "v",
+    "question": "warn",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "警告する",
+    "explanation": "warn = 警告する。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to tell (someone) about possible danger or trouble",
+    "frequencyRank": 1130,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1366-0162",
+    "type": "vocab",
+    "level": "standard",
+    "word": "wash",
+    "meaning": "洗う",
+    "pos": "v",
+    "question": "wash",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "洗う",
+    "explanation": "wash = 洗う。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to clean (something) with water and usually soap",
+    "frequencyRank": 1366,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1244-0088",
+    "type": "vocab",
+    "level": "standard",
+    "word": "waste",
+    "meaning": "無駄にする",
+    "pos": "v",
+    "question": "waste",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "無駄にする",
+    "explanation": "waste = 無駄にする。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to use (something valuable) in a way that is not necessary or effective",
+    "frequencyRank": 1244,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1156-0033",
+    "type": "vocab",
+    "level": "standard",
+    "word": "wave",
+    "meaning": "波",
+    "pos": "n",
+    "question": "wave",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "波",
+    "explanation": "wave = 波。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "an area of moving water that is raised above the main surface of an ocean, a lake, etc.",
+    "frequencyRank": 1156,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "ngsl-2455",
+    "type": "vocab",
+    "word": "weakness",
+    "meaning": "弱点",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2455,
+    "definition": "when someone or something is not strong or powerful; a part of something or someone that is not good",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-mega-standard-0269",
+    "type": "vocab",
+    "level": "standard",
+    "word": "wealth",
+    "meaning": "富・財産",
+    "pos": "n",
+    "explanation": "wealth：富・財産",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "ngsl-2424",
+    "type": "vocab",
+    "word": "wealthy",
+    "meaning": "豊か",
+    "pos": "adj",
+    "level": "standard",
+    "rank": 2424,
+    "definition": "rich",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2221",
+    "type": "vocab",
+    "word": "web",
+    "meaning": "ウェブ",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2221,
+    "definition": "part of the Internet that consists of all the connected websites (= pages of text and pictures); a spider's net used to catch insects",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1563-0287",
+    "type": "vocab",
+    "level": "standard",
+    "word": "wed",
+    "meaning": "結婚する",
+    "pos": "v",
+    "question": "wed",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "結婚する",
+    "explanation": "wed = 結婚する。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to marry someone",
+    "frequencyRank": 1563,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "ngsl-2658",
+    "type": "vocab",
+    "word": "weekly",
+    "meaning": "週１",
+    "pos": "adj",
+    "level": "standard",
+    "rank": 2658,
+    "definition": "happening once a week or every week",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2479",
+    "type": "vocab",
+    "word": "weigh",
+    "meaning": "量る",
+    "pos": "v",
+    "level": "standard",
+    "rank": 2479,
+    "definition": "to find how heavy (someone or something) is : to measure the weight of",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  }
+]

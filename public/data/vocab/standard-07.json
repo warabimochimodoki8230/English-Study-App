@@ -1,0 +1,737 @@
+[
+  {
+    "id": "ngsl-2767",
+    "type": "vocab",
+    "word": "weird",
+    "meaning": "変わった",
+    "pos": "adj",
+    "level": "standard",
+    "rank": 2767,
+    "definition": "very strange",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-mega-standard-0281",
+    "type": "vocab",
+    "level": "standard",
+    "word": "welfare",
+    "meaning": "福祉・幸福",
+    "pos": "n",
+    "explanation": "welfare：福祉・幸福",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "developed"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1535-0272",
+    "type": "vocab",
+    "level": "standard",
+    "word": "west",
+    "meaning": "西",
+    "pos": "n",
+    "question": "west",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "西",
+    "explanation": "west = 西。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "the direction where the sun sets; opposite of east",
+    "frequencyRank": 1535,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-2150-0683",
+    "type": "vocab",
+    "level": "standard",
+    "word": "western",
+    "meaning": "西部の",
+    "pos": "adj",
+    "question": "western",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "西部の",
+    "explanation": "western = 西部の。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "located in or toward the west",
+    "frequencyRank": 2150,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-2082-0637",
+    "type": "vocab",
+    "level": "standard",
+    "word": "wet",
+    "meaning": "濡れた",
+    "pos": "adj",
+    "question": "wet",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "濡れた",
+    "explanation": "wet = 濡れた。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "covered or soaked with water or another liquid : not dry",
+    "frequencyRank": 2082,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1983-0563",
+    "type": "vocab",
+    "level": "standard",
+    "word": "wheel",
+    "meaning": "タイヤ",
+    "pos": "n",
+    "question": "wheel",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "タイヤ",
+    "explanation": "wheel = タイヤ。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "one of the round parts underneath a car, wagon, etc., that rolls and allows something to move",
+    "frequencyRank": 1983,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-mega-standard-0106",
+    "type": "vocab",
+    "level": "standard",
+    "word": "whereas",
+    "meaning": "～である一方",
+    "pos": "conj",
+    "explanation": "whereas：～である一方",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "developed",
+      "advanced"
+    ]
+  },
+  {
+    "id": "ngsl-2659",
+    "type": "vocab",
+    "word": "wherever",
+    "meaning": "どこでも",
+    "pos": "adv",
+    "level": "standard",
+    "rank": 2659,
+    "definition": "in what place;  where - used in questions that express surprise or confusion",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-curated-0603",
+    "type": "vocab",
+    "level": "standard",
+    "word": "wherever",
+    "meaning": "どこで～しても",
+    "pos": "conj",
+    "question": "wherever",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "どこで～しても",
+    "explanation": "wherever = どこで～しても。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "ngsl-2550",
+    "type": "vocab",
+    "word": "whilst",
+    "meaning": "の間に、一方で",
+    "pos": "conj",
+    "level": "standard",
+    "rank": 2550,
+    "definition": "during the same time; used to compare two different facts or situations",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "ngsl-2592",
+    "type": "vocab",
+    "word": "whisper",
+    "meaning": "ささやく",
+    "pos": "v",
+    "level": "standard",
+    "rank": 2592,
+    "definition": "to speak very softly or quietly",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-standard-151",
+    "type": "vocab",
+    "level": "standard",
+    "word": "whole",
+    "meaning": "全体の",
+    "question": "whole",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "解決策",
+        "correct": false
+      },
+      {
+        "text": "機能・機能する",
+        "correct": false
+      },
+      {
+        "text": "全体の",
+        "correct": true
+      },
+      {
+        "text": "証拠",
+        "correct": false
+      }
+    ],
+    "answer": "全体の",
+    "explanation": "whole = 全体の。例：the whole story"
+  },
+  {
+    "id": "v-curated-1081",
+    "type": "vocab",
+    "level": "standard",
+    "word": "widen",
+    "meaning": "広げる",
+    "pos": "v",
+    "question": "widen",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "広げる",
+    "explanation": "widen = 広げる。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-advanced-150",
+    "type": "vocab",
+    "level": "standard",
+    "word": "widespread",
+    "meaning": "広範囲に及ぶ",
+    "question": "widespread",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "広範囲に及ぶ",
+        "correct": true
+      },
+      {
+        "text": "持続する・執拗な",
+        "correct": false
+      },
+      {
+        "text": "不可欠な",
+        "correct": false
+      },
+      {
+        "text": "強いる",
+        "correct": false
+      }
+    ],
+    "answer": "広範囲に及ぶ",
+    "explanation": "widespread = 広範囲に及ぶ。例：widespread concern",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-mega-hard-0025",
+    "type": "vocab",
+    "level": "standard",
+    "word": "widespread",
+    "meaning": "広範囲にわたる",
+    "pos": "adj",
+    "exampleSentence": "This is a widespread issue.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "widespread：広範囲にわたる",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1589-0305",
+    "type": "vocab",
+    "level": "standard",
+    "word": "wild",
+    "meaning": "野生の",
+    "pos": "adj",
+    "question": "wild",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "野生の",
+    "explanation": "wild = 野生の。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "living in nature without human control or care : not tame",
+    "frequencyRank": 1589,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1387-0176",
+    "type": "vocab",
+    "level": "standard",
+    "word": "wine",
+    "meaning": "ワイン",
+    "pos": "n",
+    "question": "wine",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "ワイン",
+    "explanation": "wine = ワイン。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "an alcoholic drink made from the juice of grapes",
+    "frequencyRank": 1387,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-2007-0579",
+    "type": "vocab",
+    "level": "standard",
+    "word": "wing",
+    "meaning": "羽",
+    "pos": "n",
+    "question": "wing",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "羽",
+    "explanation": "wing = 羽。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a part of an animal's body that is used for flying or gliding",
+    "frequencyRank": 2007,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1909-0517",
+    "type": "vocab",
+    "level": "standard",
+    "word": "winner",
+    "meaning": "勝者",
+    "pos": "n",
+    "question": "winner",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "勝者",
+    "explanation": "winner = 勝者。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "someone who wins a game, competition, or election",
+    "frequencyRank": 1909,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1326-0139",
+    "type": "vocab",
+    "level": "standard",
+    "word": "winter",
+    "meaning": "冬",
+    "pos": "n",
+    "question": "winter",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "冬",
+    "explanation": "winter = 冬。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "the coldest season of the year that is after autumn and before spring",
+    "frequencyRank": 1326,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "ngsl-2766",
+    "type": "vocab",
+    "word": "wipe",
+    "meaning": "拭く",
+    "pos": "v",
+    "level": "standard",
+    "rank": 2766,
+    "definition": "to clean or dry (something) by using a towel, your hand, etc.",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-2036-0603",
+    "type": "vocab",
+    "level": "standard",
+    "word": "wire",
+    "meaning": "ワイヤー",
+    "pos": "n",
+    "question": "wire",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "ワイヤー",
+    "explanation": "wire = ワイヤー。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a thin, flexible thread of metal",
+    "frequencyRank": 2036,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-curated-4019",
+    "type": "vocab",
+    "level": "standard",
+    "word": "wisdom",
+    "meaning": "知恵",
+    "pos": "n",
+    "question": "wisdom",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "知恵",
+    "explanation": "wisdom = 知恵。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1"
+  },
+  {
+    "id": "ngsl-2574",
+    "type": "vocab",
+    "word": "wise",
+    "meaning": "賢い",
+    "pos": "adj",
+    "level": "standard",
+    "rank": 2574,
+    "definition": "having or showing wisdom or knowledge usually from learning or experiencing many things",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-mega-standard-0107",
+    "type": "vocab",
+    "level": "standard",
+    "word": "withdraw",
+    "meaning": "引き出す・撤退する",
+    "pos": "v",
+    "explanation": "withdraw：引き出す・撤退する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "developed"
+    ]
+  },
+  {
+    "id": "v-curated-0952",
+    "type": "vocab",
+    "level": "standard",
+    "word": "witness",
+    "meaning": "目撃者",
+    "pos": "n",
+    "question": "witness",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "目撃者",
+    "explanation": "witness = 目撃者。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1465-0226",
+    "type": "vocab",
+    "level": "standard",
+    "word": "wood",
+    "meaning": "木",
+    "pos": "n",
+    "question": "wood",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "木",
+    "explanation": "wood = 木。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "the hard substance that makes up the stems and branches of trees and shrubs",
+    "frequencyRank": 1465,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "ngsl-2541",
+    "type": "vocab",
+    "word": "wooden",
+    "meaning": "木製の",
+    "pos": "adj",
+    "level": "standard",
+    "rank": 2541,
+    "definition": "made of wood",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-curated-1826",
+    "type": "vocab",
+    "level": "standard",
+    "word": "workforce",
+    "meaning": "労働力",
+    "pos": "n",
+    "question": "workforce",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "労働力",
+    "explanation": "workforce = 労働力。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-curated-4022",
+    "type": "vocab",
+    "level": "standard",
+    "word": "workplace",
+    "meaning": "職場",
+    "pos": "n",
+    "question": "workplace",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "職場",
+    "explanation": "workplace = 職場。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1"
+  },
+  {
+    "id": "v-curated-4023",
+    "type": "vocab",
+    "level": "standard",
+    "word": "workshop",
+    "meaning": "研修会・工房",
+    "pos": "n",
+    "question": "workshop",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "研修会・工房",
+    "explanation": "workshop = 研修会・工房。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1"
+  },
+  {
+    "id": "v-standard-ngsl-2173-0702",
+    "type": "vocab",
+    "level": "standard",
+    "word": "wound",
+    "meaning": "傷",
+    "pos": "n",
+    "question": "wound",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "傷",
+    "explanation": "wound = 傷。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "an injury that is caused when a knife, bullet, etc., cuts or breaks the skin",
+    "frequencyRank": 2173,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "ngsl-2332",
+    "type": "vocab",
+    "word": "wrap",
+    "meaning": "包む",
+    "pos": "v",
+    "level": "standard",
+    "rank": 2332,
+    "definition": "to cover (something) by winding or folding a piece of material around it",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1665-0355",
+    "type": "vocab",
+    "level": "standard",
+    "word": "yard",
+    "meaning": "庭",
+    "pos": "n",
+    "question": "yard",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "庭",
+    "explanation": "yard = 庭。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "an outdoor area that is next to a house and is usually covered by grass",
+    "frequencyRank": 1665,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1825-0462",
+    "type": "vocab",
+    "level": "standard",
+    "word": "yellow",
+    "meaning": "黄色",
+    "pos": "adj",
+    "question": "yellow",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "黄色",
+    "explanation": "yellow = 黄色。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "having the color of the sun or of ripe lemons",
+    "frequencyRank": 1825,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1601-0313",
+    "type": "vocab",
+    "level": "standard",
+    "word": "youth",
+    "meaning": "青年時代、若いころ",
+    "pos": "n",
+    "question": "youth",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "青年時代、若いころ",
+    "explanation": "youth = 青年時代、若いころ。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "the time of life when someone is young : the time when a young person has not yet become an adult",
+    "frequencyRank": 1601,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-2043-0608",
+    "type": "vocab",
+    "level": "standard",
+    "word": "zone",
+    "meaning": "地帯",
+    "pos": "n",
+    "question": "zone",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "地帯",
+    "explanation": "zone = 地帯。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "an area where a particular thing happens:",
+    "frequencyRank": 2043,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  }
+]

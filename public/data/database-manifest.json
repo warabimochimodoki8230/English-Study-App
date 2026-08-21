@@ -1,0 +1,32 @@
+{
+  "version": "2026.08.21-bulk-expansion-v8",
+  "static": true,
+  "vocab": {
+    "headwords": 4555,
+    "levels": {
+      "basic": 1640,
+      "standard": 1837,
+      "developed": 224,
+      "advanced": 537,
+      "hard": 317
+    }
+  },
+  "idioms": {
+    "records": 281
+  },
+  "grammar": {
+    "quizFiles": [
+      "quiz-01.json",
+      "quiz-02.json",
+      "quiz-bulk-01.json"
+    ],
+    "overviewFiles": [
+      "overview-01.json",
+      "overview-02.json"
+    ]
+  },
+  "notes": [
+    "Bulk expansion focuses on broad exam-relevant vocabulary plus additional idiom and grammar question banks.",
+    "All learner state remains browser-local; content files are read-only static assets."
+  ]
+}

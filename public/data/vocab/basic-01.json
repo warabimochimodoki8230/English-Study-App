@@ -1,0 +1,6891 @@
+[
+  {
+    "id": "v-basic-ngsl-0006-0006",
+    "type": "vocab",
+    "level": "basic",
+    "word": "a",
+    "meaning": "一つの",
+    "pos": "article",
+    "question": "a",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "一つの",
+    "explanation": "a = 一つの。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "one particular thing or one of a class of things",
+    "frequencyRank": 6,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-03-ability",
+    "type": "vocab",
+    "level": "basic",
+    "word": "ability",
+    "meaning": "能力",
+    "pos": "n",
+    "question": "ability",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "能力",
+    "explanation": "ability = 能力。品詞: n。語群: abilities;able。",
+    "exampleSentence": "The study examines ability in modern society.",
+    "exampleJa": "その研究は現代社会における能力を検討している。",
+    "family": "abilities;able",
+    "synonyms": [
+      "capacity",
+      "skill"
+    ],
+    "tags": [
+      "basic",
+      "n"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。ability の派生語: abilities;able."
+  },
+  {
+    "id": "v-basic-ngsl-0271-0225",
+    "type": "vocab",
+    "level": "basic",
+    "word": "able",
+    "meaning": "できる",
+    "pos": "adj",
+    "question": "able",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "できる",
+    "explanation": "able = できる。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "having the power, skill, money, or means to do something",
+    "frequencyRank": 271,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-advanced-03-abolish",
+    "type": "vocab",
+    "level": "basic",
+    "word": "abolish",
+    "meaning": "廃止する",
+    "pos": "v",
+    "question": "abolish",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "廃止する",
+    "explanation": "abolish = 廃止する。品詞: v。語群: abolition。",
+    "tags": [
+      "advanced",
+      "v",
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "Researchers abolish the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を廃止する。",
+    "family": "abolition",
+    "synonyms": [
+      "eliminate",
+      "end"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。abolish の派生語: abolition.",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-ngsl-0037-0037",
+    "type": "vocab",
+    "level": "basic",
+    "word": "about",
+    "meaning": "～について",
+    "pos": "prep",
+    "question": "about",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "～について",
+    "explanation": "about = ～について。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "on the subject of, or concerning something",
+    "frequencyRank": 37,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-core-0001-above",
+    "type": "vocab",
+    "level": "basic",
+    "word": "above",
+    "meaning": "上に；上記の",
+    "pos": "prep",
+    "question": "above",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "上に；上記の",
+    "explanation": "above = 上に；上記の。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-basic-core-0002-absolutely",
+    "type": "vocab",
+    "level": "basic",
+    "word": "absolutely",
+    "meaning": "完全に；絶対に",
+    "pos": "adv",
+    "question": "absolutely",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "完全に；絶対に",
+    "explanation": "absolutely = 完全に；絶対に。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-basic-core-0174-abuse",
+    "type": "vocab",
+    "level": "basic",
+    "word": "abuse",
+    "meaning": "乱用する；虐待する；乱用",
+    "pos": "v",
+    "question": "abuse",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "乱用する；虐待する；乱用",
+    "explanation": "abuse = 乱用する；虐待する；乱用。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-developed-03-accelerate",
+    "type": "vocab",
+    "level": "basic",
+    "word": "accelerate",
+    "meaning": "加速する",
+    "pos": "v",
+    "exampleSentence": "Researchers accelerate the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を加速する。",
+    "explanation": "accelerate = 加速する。品詞: v。語群: acceleration。",
+    "family": "acceleration",
+    "synonyms": [
+      "speed up",
+      "hasten"
+    ],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "basic",
+      "core",
+      "input-first",
+      "developed",
+      "v",
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "question": "accelerate",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "加速する",
+    "note": "重要語。意味だけでなく文脈で覚える。accelerate の派生語: acceleration.",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-core-0004-accent",
+    "type": "vocab",
+    "level": "basic",
+    "word": "accent",
+    "meaning": "訛り；強調",
+    "pos": "n",
+    "question": "accent",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "訛り；強調",
+    "explanation": "accent = 訛り；強調。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-basic-101",
+    "type": "vocab",
+    "level": "basic",
+    "word": "accept",
+    "meaning": "受け入れる",
+    "question": "accept",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "可能な",
+        "correct": false
+      },
+      {
+        "text": "受け入れる",
+        "correct": true
+      },
+      {
+        "text": "集める",
+        "correct": false
+      },
+      {
+        "text": "考慮する",
+        "correct": false
+      }
+    ],
+    "answer": "受け入れる",
+    "explanation": "accept = 受け入れる。例：accept the offer"
+  },
+  {
+    "id": "v-basic-04-acceptance",
+    "type": "vocab",
+    "level": "basic",
+    "word": "acceptance",
+    "meaning": "受け入れ",
+    "pos": "n",
+    "question": "acceptance",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "受け入れ",
+    "explanation": "acceptance = 受け入れ。品詞: n。",
+    "exampleSentence": "acceptance of diversity.",
+    "exampleJa": "この文脈では「受け入れ」という意味。",
+    "family": "acceptance;acceptances",
+    "synonyms": [],
+    "tags": [
+      "basic",
+      "n"
+    ],
+    "note": "入試・読解で見かけやすい重要語。"
+  },
+  {
+    "id": "v-basic-core-0239-accessibility",
+    "type": "vocab",
+    "level": "basic",
+    "word": "accessibility",
+    "meaning": "利用しやすさ",
+    "pos": "n",
+    "question": "accessibility",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "利用しやすさ",
+    "explanation": "accessibility = 利用しやすさ。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-basic-core-0005-accident",
+    "type": "vocab",
+    "level": "basic",
+    "word": "accident",
+    "meaning": "事故；偶然",
+    "pos": "n",
+    "question": "accident",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "事故；偶然",
+    "explanation": "accident = 事故；偶然。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "v-mega-hard-0002",
+    "type": "vocab",
+    "level": "basic",
+    "word": "accommodate",
+    "meaning": "収容する・適応させる",
+    "pos": "v",
+    "question": "accommodate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "収容する；適応させる",
+    "explanation": "accommodate：収容する・適応させる",
+    "tags": [
+      "basic",
+      "core",
+      "input-first",
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "We need to accommodate the problem carefully.",
+    "exampleJa": "（学習用例文）",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-max2-accommodation",
+    "type": "vocab",
+    "level": "basic",
+    "word": "accommodation",
+    "meaning": "宿泊施設；適応",
+    "pos": "n",
+    "explanation": "accommodation：宿泊施設；適応。常用・入試重要語として定着させる。",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-max2",
+      "常用語"
+    ],
+    "source": "curated-vocab-max2-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-ngsl-0522-0371",
+    "type": "vocab",
+    "level": "basic",
+    "word": "accord",
+    "meaning": "合意",
+    "pos": "n",
+    "question": "accord",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "合意",
+    "explanation": "accord = 合意。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a formal or official agreement",
+    "frequencyRank": 522,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "basic",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-basic-core-0006-according",
+    "type": "vocab",
+    "level": "basic",
+    "word": "according",
+    "meaning": "～によれば",
+    "pos": "prep",
+    "question": "according",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "～によれば",
+    "explanation": "according = ～によれば。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-basic-core-0007-account",
+    "type": "vocab",
+    "level": "basic",
+    "word": "account",
+    "meaning": "説明；口座；占める",
+    "pos": "n",
+    "question": "account",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "説明；口座；占める",
+    "explanation": "account = 説明；口座；占める。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-developed-03-accumulate",
+    "type": "vocab",
+    "level": "basic",
+    "word": "accumulate",
+    "meaning": "蓄積する",
+    "pos": "v",
+    "exampleSentence": "Researchers accumulate the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を蓄積する。",
+    "explanation": "accumulate = 蓄積する。品詞: v。語群: accumulation。",
+    "family": "accumulation",
+    "synonyms": [
+      "build up",
+      "gather"
+    ],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "basic",
+      "core",
+      "input-first",
+      "developed",
+      "v",
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "question": "accumulate",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "蓄積する",
+    "note": "重要語。意味だけでなく文脈で覚える。accumulate の派生語: accumulation.",
+    "levelTags": [
+      "basic",
+      "standard",
+      "developed"
+    ]
+  },
+  {
+    "id": "v-mega-hard-0034",
+    "type": "vocab",
+    "level": "basic",
+    "word": "accurately",
+    "meaning": "正確に",
+    "pos": "adv",
+    "question": "accurately",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "正確に",
+    "explanation": "accurately：正確に",
+    "tags": [
+      "basic",
+      "core",
+      "input-first",
+      "vocab-power",
+      "core-expansion",
+      "exam"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "The situation changed accurately.",
+    "exampleJa": "（学習用例文）",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-core-0008-achievable",
+    "type": "vocab",
+    "level": "basic",
+    "word": "achievable",
+    "meaning": "達成可能な",
+    "pos": "adj",
+    "question": "achievable",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "達成可能な",
+    "explanation": "achievable = 達成可能な。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-basic-001",
+    "type": "vocab",
+    "level": "basic",
+    "word": "achieve",
+    "meaning": "達成する",
+    "question": "achieve",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "達成する",
+        "correct": true
+      },
+      {
+        "text": "避ける",
+        "correct": false
+      },
+      {
+        "text": "借りる",
+        "correct": false
+      },
+      {
+        "text": "延期する",
+        "correct": false
+      }
+    ],
+    "answer": "達成する",
+    "explanation": "achieve = 達成する。例：achieve a goal"
+  },
+  {
+    "id": "v-max2-achievement",
+    "type": "vocab",
+    "level": "basic",
+    "word": "achievement",
+    "meaning": "達成",
+    "pos": "n",
+    "explanation": "achievement：達成。常用・入試重要語として定着させる。",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-max2",
+      "常用語"
+    ],
+    "source": "curated-vocab-max2-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-developed-03-acknowledge",
+    "type": "vocab",
+    "level": "basic",
+    "word": "acknowledge",
+    "meaning": "認める",
+    "pos": "v",
+    "exampleSentence": "Researchers acknowledge the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を認める。",
+    "explanation": "acknowledge = 認める。品詞: v。語群: acknowledgment。",
+    "family": "acknowledgment",
+    "synonyms": [
+      "admit",
+      "recognize"
+    ],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "basic",
+      "core",
+      "input-first",
+      "developed",
+      "v",
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "question": "acknowledge",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "認める",
+    "note": "重要語。意味だけでなく文脈で覚える。acknowledge の派生語: acknowledgment.",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-ngsl-0383-0290",
+    "type": "vocab",
+    "level": "basic",
+    "word": "across",
+    "meaning": "横切って",
+    "pos": "prep",
+    "question": "across",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "横切って",
+    "explanation": "across = 横切って。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "from one side to the other of something",
+    "frequencyRank": 383,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "v-basic-ngsl-0515-0368",
+    "type": "vocab",
+    "level": "basic",
+    "word": "act",
+    "meaning": "行動する",
+    "pos": "n",
+    "question": "act",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "行動する",
+    "explanation": "act = 行動する。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "take action",
+    "frequencyRank": 515,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-ngsl-0474-0338",
+    "type": "vocab",
+    "level": "basic",
+    "word": "action",
+    "meaning": "行動",
+    "pos": "n",
+    "question": "action",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "行動",
+    "explanation": "action = 行動。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "something that a person does",
+    "frequencyRank": 474,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-core-0178-activate",
+    "type": "vocab",
+    "level": "basic",
+    "word": "activate",
+    "meaning": "作動させる",
+    "pos": "v",
+    "question": "activate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "作動させる",
+    "explanation": "activate = 作動させる。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "developed"
+    ]
+  },
+  {
+    "id": "v-basic-core-0240-activation",
+    "type": "vocab",
+    "level": "basic",
+    "word": "activation",
+    "meaning": "作動；活性化",
+    "pos": "n",
+    "question": "activation",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "作動；活性化",
+    "explanation": "activation = 作動；活性化。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-basic-core-0430-active",
+    "type": "vocab",
+    "level": "basic",
+    "word": "active",
+    "meaning": "活動的な",
+    "pos": "adj",
+    "question": "active",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "活動的な",
+    "explanation": "active = 活動的な。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-basic-04-activity",
+    "type": "vocab",
+    "level": "basic",
+    "word": "activity",
+    "meaning": "活動",
+    "pos": "n",
+    "question": "activity",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "活動",
+    "explanation": "activity = 活動。品詞: n。",
+    "exampleSentence": "physical activity.",
+    "exampleJa": "この文脈では「活動」という意味。",
+    "family": "activity;activitys",
+    "synonyms": [],
+    "tags": [
+      "basic",
+      "n"
+    ],
+    "note": "入試・読解で見かけやすい重要語。",
+    "levelTags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "v-basic-core-0179-actual",
+    "type": "vocab",
+    "level": "basic",
+    "word": "actual",
+    "meaning": "実際の",
+    "pos": "adj",
+    "question": "actual",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "実際の",
+    "explanation": "actual = 実際の。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-basic-core-0180-actually",
+    "type": "vocab",
+    "level": "basic",
+    "word": "actually",
+    "meaning": "実際に",
+    "pos": "adv",
+    "question": "actually",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "実際に",
+    "explanation": "actually = 実際に。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-mega-basic-0001",
+    "type": "vocab",
+    "level": "basic",
+    "word": "adapt",
+    "meaning": "適応する・改作する",
+    "pos": "v",
+    "explanation": "adapt：適応する・改作する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-mega-developed-0127",
+    "type": "vocab",
+    "level": "basic",
+    "word": "adaptation",
+    "meaning": "適応・改作",
+    "pos": "n",
+    "question": "adaptation",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "適応；改作",
+    "explanation": "adaptation：適応・改作",
+    "tags": [
+      "basic",
+      "core",
+      "input-first",
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "The adaptation is important in this discussion.",
+    "exampleJa": "（学習用例文）",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "levelTags": [
+      "basic",
+      "standard",
+      "developed"
+    ]
+  },
+  {
+    "id": "v-basic-102",
+    "type": "vocab",
+    "level": "basic",
+    "word": "add",
+    "meaning": "加える",
+    "question": "add",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "比較する",
+        "correct": false
+      },
+      {
+        "text": "加える",
+        "correct": true
+      },
+      {
+        "text": "到着する・届く",
+        "correct": false
+      },
+      {
+        "text": "作り出す",
+        "correct": false
+      }
+    ],
+    "answer": "加える",
+    "explanation": "add = 加える。例：add some water"
+  },
+  {
+    "id": "v-basic-core-0241-addition",
+    "type": "vocab",
+    "level": "basic",
+    "word": "addition",
+    "meaning": "追加；足し算",
+    "pos": "n",
+    "question": "addition",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "追加；足し算",
+    "explanation": "addition = 追加；足し算。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-mega-developed-0196",
+    "type": "vocab",
+    "level": "basic",
+    "word": "additional",
+    "meaning": "追加の",
+    "pos": "adj",
+    "question": "additional",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "追加の",
+    "explanation": "additional：追加の",
+    "tags": [
+      "basic",
+      "core",
+      "input-first",
+      "vocab-power",
+      "core-expansion",
+      "exam"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "This is a additional issue.",
+    "exampleJa": "（学習用例文）",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-04-address",
+    "type": "vocab",
+    "level": "basic",
+    "word": "address",
+    "meaning": "住所・問題への対処",
+    "pos": "n",
+    "question": "address",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "住所・問題への対処",
+    "explanation": "address = 住所・問題への対処。品詞: n。",
+    "exampleSentence": "address the issue.",
+    "exampleJa": "この文脈では「住所」という意味。",
+    "family": "address;addresss",
+    "synonyms": [],
+    "tags": [
+      "basic",
+      "n"
+    ],
+    "note": "入試・読解で見かけやすい重要語。"
+  },
+  {
+    "id": "v-basic-core-0242-adjustment",
+    "type": "vocab",
+    "level": "basic",
+    "word": "adjustment",
+    "meaning": "調整",
+    "pos": "n",
+    "question": "adjustment",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "調整",
+    "explanation": "adjustment = 調整。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-mega-developed-0128",
+    "type": "vocab",
+    "level": "basic",
+    "word": "administration",
+    "meaning": "行政・管理",
+    "pos": "n",
+    "question": "administration",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "行政；管理",
+    "explanation": "administration：行政・管理",
+    "tags": [
+      "basic",
+      "core",
+      "input-first",
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "The administration is important in this discussion.",
+    "exampleJa": "（学習用例文）",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-mega-developed-0022",
+    "type": "vocab",
+    "level": "basic",
+    "word": "administrative",
+    "meaning": "行政上の・管理の",
+    "pos": "adj",
+    "question": "administrative",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "行政上の；管理の",
+    "explanation": "administrative：行政上の・管理の",
+    "tags": [
+      "basic",
+      "core",
+      "input-first",
+      "vocab-power",
+      "core-expansion",
+      "exam"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "This is a administrative issue.",
+    "exampleJa": "（学習用例文）",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "levelTags": [
+      "basic",
+      "standard",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-basic-core-0012-admiration",
+    "type": "vocab",
+    "level": "basic",
+    "word": "admiration",
+    "meaning": "賞賛",
+    "pos": "n",
+    "question": "admiration",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "賞賛",
+    "explanation": "admiration = 賞賛。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-mega-basic-0032",
+    "type": "vocab",
+    "level": "basic",
+    "word": "admit",
+    "meaning": "認める",
+    "pos": "v",
+    "explanation": "admit：認める",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-basic-ngsl-0879-0565",
+    "type": "vocab",
+    "level": "basic",
+    "word": "adult",
+    "meaning": "大人",
+    "pos": "n",
+    "question": "adult",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "大人",
+    "explanation": "adult = 大人。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a person or animal that is grown up",
+    "frequencyRank": 879,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-core-0013-advanced",
+    "type": "vocab",
+    "level": "basic",
+    "word": "advanced",
+    "meaning": "進んだ；高度な",
+    "pos": "adj",
+    "question": "advanced",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "進んだ；高度な",
+    "explanation": "advanced = 進んだ；高度な。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-basic-03-advantage",
+    "type": "vocab",
+    "level": "basic",
+    "word": "advantage",
+    "meaning": "利点・有利な点",
+    "pos": "n",
+    "question": "advantage",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "利点・有利な点",
+    "explanation": "advantage = 利点・有利な点。品詞: n。語群: advantageous。",
+    "exampleSentence": "The study examines advantage in modern society.",
+    "exampleJa": "その研究は現代社会における利点を検討している。",
+    "family": "advantageous",
+    "synonyms": [
+      "benefit",
+      "strength"
+    ],
+    "tags": [
+      "basic",
+      "n"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。advantage の派生語: advantageous."
+  },
+  {
+    "id": "v-mega-developed-0109",
+    "type": "vocab",
+    "level": "basic",
+    "word": "advantageous",
+    "meaning": "有利な",
+    "pos": "adj",
+    "question": "advantageous",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "有利な",
+    "explanation": "advantageous：有利な",
+    "tags": [
+      "basic",
+      "core",
+      "input-first",
+      "vocab-power",
+      "core-expansion",
+      "exam"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "This is a advantageous issue.",
+    "exampleJa": "（学習用例文）",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "levelTags": [
+      "basic",
+      "developed"
+    ]
+  },
+  {
+    "id": "ngsl-2664",
+    "type": "vocab",
+    "word": "adventure",
+    "meaning": "冒険",
+    "pos": "n",
+    "level": "basic",
+    "rank": 2664,
+    "definition": "an exciting or dangerous experience",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-core-0015-advertise",
+    "type": "vocab",
+    "level": "basic",
+    "word": "advertise",
+    "meaning": "広告する",
+    "pos": "v",
+    "question": "advertise",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "広告する",
+    "explanation": "advertise = 広告する。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "v-basic-core-0016-advertisement",
+    "type": "vocab",
+    "level": "basic",
+    "word": "advertisement",
+    "meaning": "広告",
+    "pos": "n",
+    "question": "advertisement",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "広告",
+    "explanation": "advertisement = 広告。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "v-basic-03-advice",
+    "type": "vocab",
+    "level": "basic",
+    "word": "advice",
+    "meaning": "助言",
+    "pos": "n",
+    "question": "advice",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "助言",
+    "explanation": "advice = 助言。品詞: n。語群: advise。",
+    "exampleSentence": "The study examines advice in modern society.",
+    "exampleJa": "その研究は現代社会における助言を検討している。",
+    "family": "advise",
+    "synonyms": [
+      "guidance",
+      "recommendation"
+    ],
+    "tags": [
+      "basic",
+      "n"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。advice の派生語: advise."
+  },
+  {
+    "id": "v-standard-03-afford",
+    "type": "vocab",
+    "level": "basic",
+    "word": "afford",
+    "meaning": "余裕がある",
+    "pos": "v",
+    "question": "afford",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "余裕がある",
+    "explanation": "afford = 余裕がある。品詞: v。語群: affordable。",
+    "exampleSentence": "Researchers afford the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を余裕がある。",
+    "family": "affordable",
+    "synonyms": [
+      "manage",
+      "bear"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。afford の派生語: affordable.",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1351-0154",
+    "type": "vocab",
+    "level": "basic",
+    "word": "afraid",
+    "meaning": "怖がる",
+    "pos": "adj",
+    "question": "afraid",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "怖がる",
+    "explanation": "afraid = 怖がる。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "worried that something will cause pain or injury",
+    "frequencyRank": 1351,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-ngsl-0084-0084",
+    "type": "vocab",
+    "level": "basic",
+    "word": "after",
+    "meaning": "後で",
+    "pos": "prep",
+    "question": "after",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "後で",
+    "explanation": "after = 後で。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "following in time, at a later time",
+    "frequencyRank": 84,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-ngsl-0947-0606",
+    "type": "vocab",
+    "level": "basic",
+    "word": "afternoon",
+    "meaning": "午後",
+    "pos": "n",
+    "question": "afternoon",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "午後",
+    "explanation": "afternoon = 午後。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "the middle part of the day : the part of the day between noon and evening",
+    "frequencyRank": 947,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-core-0017-afterward",
+    "type": "vocab",
+    "level": "basic",
+    "word": "afterward",
+    "meaning": "その後",
+    "pos": "adv",
+    "question": "afterward",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "その後",
+    "explanation": "afterward = その後。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-ngsl-0175-0161",
+    "type": "vocab",
+    "level": "basic",
+    "word": "again",
+    "meaning": "再び",
+    "pos": "adv",
+    "question": "again",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "再び",
+    "explanation": "again = 再び。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "one more time, once more",
+    "frequencyRank": 175,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-ngsl-0224-0195",
+    "type": "vocab",
+    "level": "basic",
+    "word": "against",
+    "meaning": "反対に、逆らって",
+    "pos": "prep",
+    "question": "against",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "反対に、逆らって",
+    "explanation": "against = 反対に、逆らって。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "in opposition to",
+    "frequencyRank": 224,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-ngsl-0282-0233",
+    "type": "vocab",
+    "level": "basic",
+    "word": "age",
+    "meaning": "年齢",
+    "pos": "n",
+    "question": "age",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "年齢",
+    "explanation": "age = 年齢。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "the amount of time a person has lived",
+    "frequencyRank": 282,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-developed-04-agency",
+    "type": "vocab",
+    "level": "basic",
+    "word": "agency",
+    "meaning": "機関・代理権",
+    "pos": "n",
+    "question": "agency",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "機関・代理権",
+    "explanation": "agency = 機関・代理権。品詞: n。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first",
+      "developed",
+      "n"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "government agency.",
+    "exampleJa": "この文脈では「機関」という意味。",
+    "family": "agency;agencys",
+    "synonyms": [],
+    "note": "入試・読解で見かけやすい重要語。",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-core-0019-agenda",
+    "type": "vocab",
+    "level": "basic",
+    "word": "agenda",
+    "meaning": "議題；予定表",
+    "pos": "n",
+    "question": "agenda",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "議題；予定表",
+    "explanation": "agenda = 議題；予定表。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-ngsl-0990-0633",
+    "type": "vocab",
+    "level": "basic",
+    "word": "agent",
+    "meaning": "代理人",
+    "pos": "n",
+    "question": "agent",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "代理人",
+    "explanation": "agent = 代理人。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a person who does business for another person : a person who acts on behalf of another",
+    "frequencyRank": 990,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-mega-developed-0110",
+    "type": "vocab",
+    "level": "basic",
+    "word": "aggressive",
+    "meaning": "攻撃的な",
+    "pos": "adj",
+    "question": "aggressive",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "攻撃的な；積極的な",
+    "explanation": "aggressive：攻撃的な",
+    "tags": [
+      "basic",
+      "core",
+      "input-first",
+      "vocab-power",
+      "core-expansion",
+      "exam"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "This is a aggressive issue.",
+    "exampleJa": "（学習用例文）",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-ngsl-0372-0285",
+    "type": "vocab",
+    "level": "basic",
+    "word": "ago",
+    "meaning": "以前に",
+    "pos": "adv",
+    "question": "ago",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "以前に",
+    "explanation": "ago = 以前に。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "in the past",
+    "frequencyRank": 372,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-103",
+    "type": "vocab",
+    "level": "basic",
+    "word": "agree",
+    "meaning": "賛成する・同意する",
+    "question": "agree",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "滞在する・ままでいる",
+        "correct": false
+      },
+      {
+        "text": "公共の・公の",
+        "correct": false
+      },
+      {
+        "text": "従う・ついていく",
+        "correct": false
+      },
+      {
+        "text": "賛成する・同意する",
+        "correct": true
+      }
+    ],
+    "answer": "賛成する・同意する",
+    "explanation": "agree = 賛成する・同意する。例：agree with the idea"
+  },
+  {
+    "id": "v-basic-ngsl-0785-0517",
+    "type": "vocab",
+    "level": "basic",
+    "word": "agreement",
+    "meaning": "合意",
+    "pos": "n",
+    "question": "agreement",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "合意",
+    "explanation": "agreement = 合意。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a promise or decision made between two or more people",
+    "frequencyRank": 785,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "v-mega-hard-0051",
+    "type": "vocab",
+    "level": "basic",
+    "word": "agriculture",
+    "meaning": "農業",
+    "pos": "n",
+    "question": "agriculture",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "農業",
+    "explanation": "agriculture：農業",
+    "tags": [
+      "basic",
+      "core",
+      "input-first",
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "The agriculture is important in this discussion.",
+    "exampleJa": "（学習用例文）",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-ngsl-0973-0621",
+    "type": "vocab",
+    "level": "basic",
+    "word": "ahead",
+    "meaning": "前",
+    "pos": "adv",
+    "question": "ahead",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "前",
+    "explanation": "ahead = 前。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "in or toward the front",
+    "frequencyRank": 973,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-ngsl-0794-0522",
+    "type": "vocab",
+    "level": "basic",
+    "word": "aim",
+    "meaning": "狙う",
+    "pos": "n",
+    "question": "aim",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "狙う",
+    "explanation": "aim = 狙う。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to have a specified goal or purpose",
+    "frequencyRank": 794,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-ngsl-0542-0383",
+    "type": "vocab",
+    "level": "basic",
+    "word": "air",
+    "meaning": "空気",
+    "pos": "n",
+    "question": "air",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "空気",
+    "explanation": "air = 空気。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "the invisible mixture of gases that we breathe",
+    "frequencyRank": 542,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "ngsl-2599",
+    "type": "vocab",
+    "word": "airline",
+    "meaning": "航空",
+    "pos": "n",
+    "level": "basic",
+    "rank": 2599,
+    "definition": "a company that provides regular flights to places",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-curated-3679",
+    "type": "vocab",
+    "level": "basic",
+    "word": "airport",
+    "meaning": "空港",
+    "pos": "n",
+    "question": "airport",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "空港",
+    "explanation": "airport = 空港。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1"
+  },
+  {
+    "id": "v-basic-core-0022-alarm",
+    "type": "vocab",
+    "level": "basic",
+    "word": "alarm",
+    "meaning": "警報；不安",
+    "pos": "n",
+    "question": "alarm",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "警報；不安",
+    "explanation": "alarm = 警報；不安。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "ngsl-2212",
+    "type": "vocab",
+    "word": "alcohol",
+    "meaning": "アルコール",
+    "pos": "n",
+    "level": "basic",
+    "rank": 2212,
+    "definition": "drinks such as wine and beer that can make you drunk",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-mega-basic-0019",
+    "type": "vocab",
+    "level": "basic",
+    "word": "alert",
+    "meaning": "警戒して・警告",
+    "pos": "adj",
+    "explanation": "alert：警戒して・警告",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "basic",
+      "standard",
+      "developed"
+    ]
+  },
+  {
+    "id": "v-basic-core-0023-alike",
+    "type": "vocab",
+    "level": "basic",
+    "word": "alike",
+    "meaning": "似て；同様に",
+    "pos": "adv",
+    "question": "alike",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "似て；同様に",
+    "explanation": "alike = 似て；同様に。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-basic-core-0024-alive",
+    "type": "vocab",
+    "level": "basic",
+    "word": "alive",
+    "meaning": "生きている",
+    "pos": "adj",
+    "question": "alive",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "生きている",
+    "explanation": "alive = 生きている。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-basic-ngsl-0033-0033",
+    "type": "vocab",
+    "level": "basic",
+    "word": "all",
+    "meaning": "全て",
+    "pos": "det",
+    "question": "all",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "全て",
+    "explanation": "all = 全て。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "the whole, entire or total amount",
+    "frequencyRank": 33,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-002",
+    "type": "vocab",
+    "level": "basic",
+    "word": "allow",
+    "meaning": "許す・可能にする",
+    "question": "allow",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "許す・可能にする",
+        "correct": true
+      },
+      {
+        "text": "到着する",
+        "correct": false
+      },
+      {
+        "text": "選ぶ",
+        "correct": false
+      },
+      {
+        "text": "隠す",
+        "correct": false
+      }
+    ],
+    "answer": "許す・可能にする",
+    "explanation": "allow = 許す・可能にする。例：allow students to use dictionaries"
+  },
+  {
+    "id": "v-basic-core-0025-allowance",
+    "type": "vocab",
+    "level": "basic",
+    "word": "allowance",
+    "meaning": "手当；小遣い",
+    "pos": "n",
+    "question": "allowance",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "手当；小遣い",
+    "explanation": "allowance = 手当；小遣い。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-core-0479-almost",
+    "type": "vocab",
+    "level": "basic",
+    "word": "almost",
+    "meaning": "ほとんど",
+    "pos": "adv",
+    "question": "almost",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "ほとんど",
+    "explanation": "almost = ほとんど。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-basic-core-0480-alone",
+    "type": "vocab",
+    "level": "basic",
+    "word": "alone",
+    "meaning": "一人で；単独で",
+    "pos": "adv",
+    "question": "alone",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "一人で；単独で",
+    "explanation": "alone = 一人で；単独で。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-basic-core-0481-along",
+    "type": "vocab",
+    "level": "basic",
+    "word": "along",
+    "meaning": "～に沿って",
+    "pos": "prep",
+    "question": "along",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "～に沿って",
+    "explanation": "along = ～に沿って。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-basic-core-0478-already",
+    "type": "vocab",
+    "level": "basic",
+    "word": "already",
+    "meaning": "すでに",
+    "pos": "adv",
+    "question": "already",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "すでに",
+    "explanation": "already = すでに。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-basic-ngsl-0072-0072",
+    "type": "vocab",
+    "level": "basic",
+    "word": "also",
+    "meaning": "～もまた",
+    "pos": "adv",
+    "question": "also",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "～もまた",
+    "explanation": "also = ～もまた。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "in addition, too, in a similar way",
+    "frequencyRank": 72,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-mega-basic-0002",
+    "type": "vocab",
+    "level": "basic",
+    "word": "alter",
+    "meaning": "変える",
+    "pos": "v",
+    "explanation": "alter：変える",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-ngsl-0278-0230",
+    "type": "vocab",
+    "level": "basic",
+    "word": "although",
+    "meaning": "だけれども",
+    "pos": "conj",
+    "question": "although",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "だけれども",
+    "explanation": "although = だけれども。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "despite the fact that, however,",
+    "frequencyRank": 278,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "v-basic-ngsl-0183-0167",
+    "type": "vocab",
+    "level": "basic",
+    "word": "always",
+    "meaning": "いつも",
+    "pos": "adv",
+    "question": "always",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "いつも",
+    "explanation": "always = いつも。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "at all times",
+    "frequencyRank": 183,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-core-0026-amaze",
+    "type": "vocab",
+    "level": "basic",
+    "word": "amaze",
+    "meaning": "驚かせる",
+    "pos": "v",
+    "question": "amaze",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "驚かせる",
+    "explanation": "amaze = 驚かせる。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-core-0027-amazing",
+    "type": "vocab",
+    "level": "basic",
+    "word": "amazing",
+    "meaning": "驚くべき",
+    "pos": "adj",
+    "question": "amazing",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "驚くべき",
+    "explanation": "amazing = 驚くべき。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-mega-developed-0003",
+    "type": "vocab",
+    "level": "basic",
+    "word": "ambition",
+    "meaning": "野心・大望",
+    "pos": "n",
+    "question": "ambition",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "野心；大望",
+    "explanation": "ambition：野心・大望",
+    "tags": [
+      "basic",
+      "core",
+      "input-first",
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "The ambition is important in this discussion.",
+    "exampleJa": "（学習用例文）",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-core-0029-ambitious",
+    "type": "vocab",
+    "level": "basic",
+    "word": "ambitious",
+    "meaning": "野心的な",
+    "pos": "adj",
+    "question": "ambitious",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "野心的な",
+    "explanation": "ambitious = 野心的な。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-max2-amend",
+    "type": "vocab",
+    "level": "basic",
+    "word": "amend",
+    "meaning": "修正する",
+    "pos": "v",
+    "question": "amend",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "修正する",
+    "explanation": "amend：修正する。常用・入試重要語として定着させる。",
+    "tags": [
+      "vocab-max2",
+      "入試発展",
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "curated-vocab-max2-2026",
+    "exampleSentence": "We need to amend the problem carefully.",
+    "exampleJa": "私たちはその問題を注意深く修正する必要がある。",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "levelTags": [
+      "basic",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-mega-developed-0030",
+    "type": "vocab",
+    "level": "basic",
+    "word": "amendment",
+    "meaning": "修正・改正",
+    "pos": "n",
+    "question": "amendment",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "修正；改正",
+    "explanation": "amendment：修正・改正",
+    "tags": [
+      "basic",
+      "core",
+      "input-first",
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "The amendment is important in this discussion.",
+    "exampleJa": "（学習用例文）",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "levelTags": [
+      "basic",
+      "standard",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-basic-ngsl-0376-0288",
+    "type": "vocab",
+    "level": "basic",
+    "word": "among",
+    "meaning": "～の間で",
+    "pos": "prep",
+    "question": "among",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "～の間で",
+    "explanation": "among = ～の間で。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "situated centrally, in relation to several things",
+    "frequencyRank": 376,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-03-amount",
+    "type": "vocab",
+    "level": "basic",
+    "word": "amount",
+    "meaning": "量",
+    "pos": "n",
+    "question": "amount",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "量",
+    "explanation": "amount = 量。品詞: n。語群: amount。",
+    "exampleSentence": "The study examines amount in modern society.",
+    "exampleJa": "その研究は現代社会における量を検討している。",
+    "family": "amount",
+    "synonyms": [
+      "quantity",
+      "volume"
+    ],
+    "tags": [
+      "basic",
+      "n"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。amount の派生語: amount.",
+    "levelTags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "v-basic-core-0431-amusing",
+    "type": "vocab",
+    "level": "basic",
+    "word": "amusing",
+    "meaning": "面白い",
+    "pos": "adj",
+    "question": "amusing",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "面白い",
+    "explanation": "amusing = 面白い。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-basic-core-0432-ancient",
+    "type": "vocab",
+    "level": "basic",
+    "word": "ancient",
+    "meaning": "古代の；古い",
+    "pos": "adj",
+    "question": "ancient",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "古代の；古い",
+    "explanation": "ancient = 古代の；古い。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-basic-ngsl-0003-0003",
+    "type": "vocab",
+    "level": "basic",
+    "word": "and",
+    "meaning": "～と",
+    "pos": "conj",
+    "question": "and",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "～と",
+    "explanation": "and = ～と。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "used to join words or groups of words",
+    "frequencyRank": 3,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-core-0433-angry",
+    "type": "vocab",
+    "level": "basic",
+    "word": "angry",
+    "meaning": "怒っている",
+    "pos": "adj",
+    "question": "angry",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "怒っている",
+    "explanation": "angry = 怒っている。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-basic-ngsl-0587-0406",
+    "type": "vocab",
+    "level": "basic",
+    "word": "animal",
+    "meaning": "動物",
+    "pos": "n",
+    "question": "animal",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "動物",
+    "explanation": "animal = 動物。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a living thing that is not a human being or plant",
+    "frequencyRank": 587,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-core-0246-anniversary",
+    "type": "vocab",
+    "level": "basic",
+    "word": "anniversary",
+    "meaning": "記念日",
+    "pos": "n",
+    "question": "anniversary",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "記念日",
+    "explanation": "anniversary = 記念日。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-core-0030-announcement",
+    "type": "vocab",
+    "level": "basic",
+    "word": "announcement",
+    "meaning": "発表",
+    "pos": "n",
+    "question": "announcement",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "発表",
+    "explanation": "announcement = 発表。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-max2-annual",
+    "type": "vocab",
+    "level": "basic",
+    "word": "annual",
+    "meaning": "毎年の",
+    "pos": "adj",
+    "explanation": "annual：毎年の。常用・入試重要語として定着させる。",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-max2",
+      "常用語"
+    ],
+    "source": "curated-vocab-max2-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-ngsl-0140-0132",
+    "type": "vocab",
+    "level": "basic",
+    "word": "another",
+    "meaning": "もう一つ",
+    "pos": "det",
+    "question": "another",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "もう一つ",
+    "explanation": "another = もう一つ。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "one more in addition",
+    "frequencyRank": 140,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-104",
+    "type": "vocab",
+    "level": "basic",
+    "word": "answer",
+    "meaning": "答える・答え",
+    "question": "answer",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "必要とする",
+        "correct": false
+      },
+      {
+        "text": "考慮する",
+        "correct": false
+      },
+      {
+        "text": "答える・答え",
+        "correct": true
+      },
+      {
+        "text": "参加する・加わる",
+        "correct": false
+      }
+    ],
+    "answer": "答える・答え",
+    "explanation": "answer = 答える・答え。例：answer the question"
+  },
+  {
+    "id": "v-developed-03-anticipate",
+    "type": "vocab",
+    "level": "basic",
+    "word": "anticipate",
+    "meaning": "予期する",
+    "pos": "v",
+    "exampleSentence": "Researchers anticipate the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を予期する。",
+    "explanation": "anticipate = 予期する。品詞: v。語群: anticipation。",
+    "family": "anticipation",
+    "synonyms": [
+      "expect",
+      "foresee"
+    ],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "basic",
+      "core",
+      "input-first",
+      "developed",
+      "v",
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "question": "anticipate",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "予期する",
+    "note": "重要語。意味だけでなく文脈で覚える。anticipate の派生語: anticipation.",
+    "levelTags": [
+      "basic",
+      "standard",
+      "developed"
+    ]
+  },
+  {
+    "id": "v-max2-anticipation",
+    "type": "vocab",
+    "level": "basic",
+    "word": "anticipation",
+    "meaning": "予想；期待",
+    "pos": "n",
+    "question": "anticipation",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "予想；期待",
+    "explanation": "anticipation：予想；期待。常用・入試重要語として定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first",
+      "vocab-max2",
+      "入試発展"
+    ],
+    "source": "curated-vocab-max2-2026",
+    "exampleSentence": "The anticipation is important in this context.",
+    "exampleJa": "この文脈では予想が重要だ。",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "levelTags": [
+      "basic",
+      "standard",
+      "developed",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-basic-core-0031-anxious",
+    "type": "vocab",
+    "level": "basic",
+    "word": "anxious",
+    "meaning": "心配して；切望して",
+    "pos": "adj",
+    "question": "anxious",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "心配して；切望して",
+    "explanation": "anxious = 心配して；切望して。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-basic-ngsl-0083-0083",
+    "type": "vocab",
+    "level": "basic",
+    "word": "any",
+    "meaning": "何か",
+    "pos": "det",
+    "question": "any",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "何か",
+    "explanation": "any = 何か。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "used to refer to something not particular or specific",
+    "frequencyRank": 83,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-ngsl-0754-0500",
+    "type": "vocab",
+    "level": "basic",
+    "word": "anyone",
+    "meaning": "だれか",
+    "pos": "pron",
+    "question": "anyone",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "だれか",
+    "explanation": "anyone = だれか。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "any person",
+    "frequencyRank": 754,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-ngsl-0318-0252",
+    "type": "vocab",
+    "level": "basic",
+    "word": "anything",
+    "meaning": "何でも",
+    "pos": "pron",
+    "question": "anything",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "何でも",
+    "explanation": "anything = 何でも。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a thing of any kind, used to refer to a thing, no matter what",
+    "frequencyRank": 318,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-ngsl-0892-0572",
+    "type": "vocab",
+    "level": "basic",
+    "word": "anyway",
+    "meaning": "とにかく",
+    "pos": "adv",
+    "question": "anyway",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "とにかく",
+    "explanation": "anyway = とにかく。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "despite something that has been stated before",
+    "frequencyRank": 892,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-core-0482-anywhere",
+    "type": "vocab",
+    "level": "basic",
+    "word": "anywhere",
+    "meaning": "どこでも；どこかへ",
+    "pos": "adv",
+    "question": "anywhere",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "どこでも；どこかへ",
+    "explanation": "anywhere = どこでも；どこかへ。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-standard-ngsl-2166-0697",
+    "type": "vocab",
+    "level": "basic",
+    "word": "apartment",
+    "meaning": "アパート",
+    "pos": "n",
+    "question": "apartment",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "アパート",
+    "explanation": "apartment = アパート。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a set of rooms for someone to live in on one level of a building or house",
+    "frequencyRank": 2166,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-core-0483-apparently",
+    "type": "vocab",
+    "level": "basic",
+    "word": "apparently",
+    "meaning": "見たところ",
+    "pos": "adv",
+    "question": "apparently",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "見たところ",
+    "explanation": "apparently = 見たところ。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-core-0183-appealing",
+    "type": "vocab",
+    "level": "basic",
+    "word": "appealing",
+    "meaning": "魅力的な",
+    "pos": "adj",
+    "question": "appealing",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "魅力的な",
+    "explanation": "appealing = 魅力的な。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-003",
+    "type": "vocab",
+    "level": "basic",
+    "word": "appear",
+    "meaning": "現れる・～のように見える",
+    "question": "appear",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "現れる・～のように見える",
+        "correct": true
+      },
+      {
+        "text": "消える",
+        "correct": false
+      },
+      {
+        "text": "改善する",
+        "correct": false
+      },
+      {
+        "text": "含む",
+        "correct": false
+      }
+    ],
+    "answer": "現れる・～のように見える",
+    "explanation": "appear = 現れる・～のように見える。例：A rainbow appeared in the sky."
+  },
+  {
+    "id": "v-curated-0833",
+    "type": "vocab",
+    "level": "basic",
+    "word": "appetite",
+    "meaning": "食欲",
+    "pos": "n",
+    "question": "appetite",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "食欲",
+    "explanation": "appetite = 食欲。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-mega-developed-0195",
+    "type": "vocab",
+    "level": "basic",
+    "word": "appliance",
+    "meaning": "器具・家電",
+    "pos": "n",
+    "question": "appliance",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "器具；家電",
+    "explanation": "appliance：器具・家電",
+    "tags": [
+      "basic",
+      "core",
+      "input-first",
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "The appliance is important in this discussion.",
+    "exampleJa": "（学習用例文）",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-core-0032-application",
+    "type": "vocab",
+    "level": "basic",
+    "word": "application",
+    "meaning": "応募；申請；適用",
+    "pos": "n",
+    "question": "application",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "応募；申請；適用",
+    "explanation": "application = 応募；申請；適用。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "v-basic-core-0033-appointment",
+    "type": "vocab",
+    "level": "basic",
+    "word": "appointment",
+    "meaning": "約束；予約；任命",
+    "pos": "n",
+    "question": "appointment",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "約束；予約；任命",
+    "explanation": "appointment = 約束；予約；任命。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-mega-developed-0129",
+    "type": "vocab",
+    "level": "basic",
+    "word": "appreciation",
+    "meaning": "感謝・理解",
+    "pos": "n",
+    "question": "appreciation",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "感謝；評価",
+    "explanation": "appreciation：感謝・理解",
+    "tags": [
+      "basic",
+      "core",
+      "input-first",
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "The appreciation is important in this discussion.",
+    "exampleJa": "（学習用例文）",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "levelTags": [
+      "basic",
+      "developed"
+    ]
+  },
+  {
+    "id": "v-mega-hard-0036",
+    "type": "vocab",
+    "level": "basic",
+    "word": "approximately",
+    "meaning": "およそ",
+    "pos": "adv",
+    "question": "approximately",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "およそ",
+    "explanation": "approximately：およそ",
+    "tags": [
+      "basic",
+      "core",
+      "input-first",
+      "vocab-power",
+      "core-expansion",
+      "exam"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "The situation changed approximately.",
+    "exampleJa": "（学習用例文）",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-curated-3692",
+    "type": "vocab",
+    "level": "basic",
+    "word": "apron",
+    "meaning": "エプロン",
+    "pos": "n",
+    "question": "apron",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "エプロン",
+    "explanation": "apron = エプロン。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1"
+  },
+  {
+    "id": "v-mega-hard-0052",
+    "type": "vocab",
+    "level": "basic",
+    "word": "architecture",
+    "meaning": "建築・建築学",
+    "pos": "n",
+    "question": "architecture",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "建築；構造",
+    "explanation": "architecture：建築・建築学",
+    "tags": [
+      "basic",
+      "core",
+      "input-first",
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "The architecture is important in this discussion.",
+    "exampleJa": "（学習用例文）",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-03-area",
+    "type": "vocab",
+    "level": "basic",
+    "word": "area",
+    "meaning": "地域・分野",
+    "pos": "n",
+    "question": "area",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "地域・分野",
+    "explanation": "area = 地域・分野。品詞: n。語群: areas。",
+    "exampleSentence": "The study examines area in modern society.",
+    "exampleJa": "その研究は現代社会における地域を検討している。",
+    "family": "areas",
+    "synonyms": [
+      "region",
+      "field"
+    ],
+    "tags": [
+      "basic",
+      "n"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。area の派生語: areas."
+  },
+  {
+    "id": "v-basic-core-0035-argue",
+    "type": "vocab",
+    "level": "basic",
+    "word": "argue",
+    "meaning": "主張する；議論する",
+    "pos": "v",
+    "question": "argue",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "主張する；議論する",
+    "explanation": "argue = 主張する；議論する。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-basic-04-argument",
+    "type": "vocab",
+    "level": "basic",
+    "word": "argument",
+    "meaning": "議論・主張",
+    "pos": "n",
+    "exampleSentence": "a strong argument.",
+    "exampleJa": "この文脈では「議論」という意味。",
+    "explanation": "argument = 議論・主張。品詞: n。",
+    "family": "argument;arguments",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "basic",
+      "n",
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "question": "argument",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "議論・主張",
+    "note": "入試・読解で見かけやすい重要語。",
+    "levelTags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "v-advanced-03-arise",
+    "type": "vocab",
+    "level": "basic",
+    "word": "arise",
+    "meaning": "生じる",
+    "pos": "v",
+    "question": "arise",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "生じる",
+    "explanation": "arise = 生じる。品詞: v。語群: arose;arising。",
+    "tags": [
+      "advanced",
+      "v",
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "Researchers arise the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を生じる。",
+    "family": "arose;arising",
+    "synonyms": [
+      "emerge",
+      "occur"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。arise の派生語: arose;arising.",
+    "levelTags": [
+      "basic",
+      "standard",
+      "developed"
+    ]
+  },
+  {
+    "id": "v-basic-ngsl-0621-0425",
+    "type": "vocab",
+    "level": "basic",
+    "word": "arm",
+    "meaning": "腕",
+    "pos": "n",
+    "question": "arm",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "腕",
+    "explanation": "arm = 腕。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "each of the two long body parts from shoulder to the hand",
+    "frequencyRank": 621,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-ngsl-0170-0157",
+    "type": "vocab",
+    "level": "basic",
+    "word": "around",
+    "meaning": "～の周りに",
+    "pos": "prep",
+    "question": "around",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "～の周りに",
+    "explanation": "around = ～の周りに。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "located on every side or along something",
+    "frequencyRank": 170,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-03-arrange",
+    "type": "vocab",
+    "level": "basic",
+    "word": "arrange",
+    "meaning": "並べる・手配する",
+    "pos": "v",
+    "question": "arrange",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "並べる・手配する",
+    "explanation": "arrange = 並べる・手配する。品詞: v。語群: arrangement。",
+    "exampleSentence": "Researchers arrange the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を並べる。",
+    "family": "arrangement",
+    "synonyms": [
+      "set up",
+      "organize"
+    ],
+    "tags": [
+      "basic",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。arrange の派生語: arrangement."
+  },
+  {
+    "id": "v-basic-core-0305-arrest",
+    "type": "vocab",
+    "level": "basic",
+    "word": "arrest",
+    "meaning": "逮捕する；逮捕",
+    "pos": "v",
+    "question": "arrest",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "逮捕する；逮捕",
+    "explanation": "arrest = 逮捕する；逮捕。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-2056-0618",
+    "type": "vocab",
+    "level": "basic",
+    "word": "arrival",
+    "meaning": "到着",
+    "pos": "n",
+    "question": "arrival",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "到着",
+    "explanation": "arrival = 到着。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "when someone or something arrives somewhere",
+    "frequencyRank": 2056,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-105",
+    "type": "vocab",
+    "level": "basic",
+    "word": "arrive",
+    "meaning": "到着する",
+    "question": "arrive",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "起こる",
+        "correct": false
+      },
+      {
+        "text": "答える・答え",
+        "correct": false
+      },
+      {
+        "text": "到着する",
+        "correct": true
+      },
+      {
+        "text": "建てる・築く",
+        "correct": false
+      }
+    ],
+    "answer": "到着する",
+    "explanation": "arrive = 到着する。例：arrive at the station"
+  },
+  {
+    "id": "v-basic-ngsl-0646-0439",
+    "type": "vocab",
+    "level": "basic",
+    "word": "art",
+    "meaning": "芸術",
+    "pos": "n",
+    "question": "art",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "芸術",
+    "explanation": "art = 芸術。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a human creative skill using the imagination",
+    "frequencyRank": 646,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-core-0037-article",
+    "type": "vocab",
+    "level": "basic",
+    "word": "article",
+    "meaning": "記事；品物；冠詞",
+    "pos": "n",
+    "question": "article",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "記事；品物；冠詞",
+    "explanation": "article = 記事；品物；冠詞。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-mega-developed-0111",
+    "type": "vocab",
+    "level": "basic",
+    "word": "artificial",
+    "meaning": "人工の・不自然な",
+    "pos": "adj",
+    "question": "artificial",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "人工の；不自然な",
+    "explanation": "artificial：人工の・不自然な",
+    "tags": [
+      "basic",
+      "core",
+      "input-first",
+      "vocab-power",
+      "core-expansion",
+      "exam"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "This is a artificial issue.",
+    "exampleJa": "（学習用例文）",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-ngsl-0022-0022",
+    "type": "vocab",
+    "level": "basic",
+    "word": "as",
+    "meaning": "～のように",
+    "pos": "conj",
+    "question": "as",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "～のように",
+    "explanation": "as = ～のように。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "used to refer to the same degree or amount",
+    "frequencyRank": 22,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-ngsl-0134-0126",
+    "type": "vocab",
+    "level": "basic",
+    "word": "ask",
+    "meaning": "求める",
+    "pos": "v",
+    "question": "ask",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "求める",
+    "explanation": "ask = 求める。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to request",
+    "frequencyRank": 134,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-core-0250-assertion",
+    "type": "vocab",
+    "level": "basic",
+    "word": "assertion",
+    "meaning": "主張",
+    "pos": "n",
+    "question": "assertion",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "主張",
+    "explanation": "assertion = 主張。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard",
+      "developed",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-basic-core-0038-assignment",
+    "type": "vocab",
+    "level": "basic",
+    "word": "assignment",
+    "meaning": "課題；割り当て",
+    "pos": "n",
+    "question": "assignment",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "課題；割り当て",
+    "explanation": "assignment = 課題；割り当て。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "v-basic-core-0039-assist",
+    "type": "vocab",
+    "level": "basic",
+    "word": "assist",
+    "meaning": "助ける",
+    "pos": "v",
+    "question": "assist",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "助ける",
+    "explanation": "assist = 助ける。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-2013-0585",
+    "type": "vocab",
+    "level": "basic",
+    "word": "assistance",
+    "meaning": "援助",
+    "pos": "n",
+    "question": "assistance",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "援助",
+    "explanation": "assistance = 援助。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "help",
+    "frequencyRank": 2013,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1737-0408",
+    "type": "vocab",
+    "level": "basic",
+    "word": "assistant",
+    "meaning": "助手、補佐",
+    "pos": "n",
+    "question": "assistant",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "助手、補佐",
+    "explanation": "assistant = 助手、補佐。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "someone whose job is to help a person who has a more important job",
+    "frequencyRank": 1737,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-ngsl-0856-0554",
+    "type": "vocab",
+    "level": "basic",
+    "word": "associate",
+    "meaning": "関連付ける、連想する",
+    "pos": "v",
+    "question": "associate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "関連付ける、連想する",
+    "explanation": "associate = 関連付ける、連想する。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to relate two things, people, etc. in your mind",
+    "frequencyRank": 856,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-mega-developed-0033",
+    "type": "vocab",
+    "level": "basic",
+    "word": "assumption",
+    "meaning": "仮定",
+    "pos": "n",
+    "question": "assumption",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "仮定；思い込み",
+    "explanation": "assumption：仮定",
+    "tags": [
+      "basic",
+      "core",
+      "input-first",
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "The assumption is important in this discussion.",
+    "exampleJa": "（学習用例文）",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "levelTags": [
+      "basic",
+      "standard",
+      "developed"
+    ]
+  },
+  {
+    "id": "v-basic-core-0251-astonish",
+    "type": "vocab",
+    "level": "basic",
+    "word": "astonish",
+    "meaning": "驚かせる",
+    "pos": "v",
+    "question": "astonish",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "驚かせる",
+    "explanation": "astonish = 驚かせる。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-ngsl-0023-0023",
+    "type": "vocab",
+    "level": "basic",
+    "word": "at",
+    "meaning": "～で",
+    "pos": "prep",
+    "question": "at",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "～で",
+    "explanation": "at = ～で。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "used to indicate place, location, or arrival",
+    "frequencyRank": 23,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "ngsl-2756",
+    "type": "vocab",
+    "word": "athlete",
+    "meaning": "アスリート",
+    "pos": "n",
+    "level": "basic",
+    "rank": 2756,
+    "definition": "someone who is very good at a sport and who competes with others in organized events",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-core-0041-atmosphere",
+    "type": "vocab",
+    "level": "basic",
+    "word": "atmosphere",
+    "meaning": "大気；雰囲気",
+    "pos": "n",
+    "question": "atmosphere",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "大気；雰囲気",
+    "explanation": "atmosphere = 大気；雰囲気。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-basic-core-0042-attach",
+    "type": "vocab",
+    "level": "basic",
+    "word": "attach",
+    "meaning": "取り付ける；添付する",
+    "pos": "v",
+    "question": "attach",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "取り付ける；添付する",
+    "explanation": "attach = 取り付ける；添付する。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-basic-ngsl-0632-0431",
+    "type": "vocab",
+    "level": "basic",
+    "word": "attack",
+    "meaning": "攻撃する",
+    "pos": "n",
+    "question": "attack",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "攻撃する",
+    "explanation": "attack = 攻撃する。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to act violently against or to try to hurt, injure or destroy",
+    "frequencyRank": 632,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-core-0306-attainable",
+    "type": "vocab",
+    "level": "basic",
+    "word": "attainable",
+    "meaning": "達成可能な",
+    "pos": "adj",
+    "question": "attainable",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "達成可能な",
+    "explanation": "attainable = 達成可能な。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-basic-ngsl-0578-0399",
+    "type": "vocab",
+    "level": "basic",
+    "word": "attention",
+    "meaning": "注意",
+    "pos": "n",
+    "question": "attention",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "注意",
+    "explanation": "attention = 注意。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "an act or power of carefully thinking about",
+    "frequencyRank": 578,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-core-0043-attract",
+    "type": "vocab",
+    "level": "basic",
+    "word": "attract",
+    "meaning": "引きつける",
+    "pos": "v",
+    "question": "attract",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "引きつける",
+    "explanation": "attract = 引きつける。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-basic-core-0044-attraction",
+    "type": "vocab",
+    "level": "basic",
+    "word": "attraction",
+    "meaning": "魅力；引きつけること",
+    "pos": "n",
+    "question": "attraction",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "魅力；引きつけること",
+    "explanation": "attraction = 魅力；引きつけること。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-core-0434-attractive",
+    "type": "vocab",
+    "level": "basic",
+    "word": "attractive",
+    "meaning": "魅力的な",
+    "pos": "adj",
+    "question": "attractive",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "魅力的な",
+    "explanation": "attractive = 魅力的な。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-standard-ngsl-1164-0040",
+    "type": "vocab",
+    "level": "basic",
+    "word": "audience",
+    "meaning": "観衆",
+    "pos": "n",
+    "question": "audience",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "観衆",
+    "explanation": "audience = 観衆。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a group of people who gather together to listen to something (such as a concert) or watch something (such as a movie or play)",
+    "frequencyRank": 1164,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-core-0184-author",
+    "type": "vocab",
+    "level": "basic",
+    "word": "author",
+    "meaning": "著者；執筆する",
+    "pos": "n",
+    "question": "author",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "著者；執筆する",
+    "explanation": "author = 著者；執筆する。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "v-advanced-03-authority",
+    "type": "vocab",
+    "level": "basic",
+    "word": "authority",
+    "meaning": "権威・権限",
+    "pos": "n",
+    "question": "authority",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "権威・権限",
+    "explanation": "authority = 権威・権限。品詞: n。語群: authorize;authoritative。",
+    "tags": [
+      "advanced",
+      "n",
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "The study examines authority in modern society.",
+    "exampleJa": "その研究は現代社会における権威を検討している。",
+    "family": "authorize;authoritative",
+    "synonyms": [
+      "power",
+      "control"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。authority の派生語: authorize;authoritative.",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-core-0252-automate",
+    "type": "vocab",
+    "level": "basic",
+    "word": "automate",
+    "meaning": "自動化する",
+    "pos": "v",
+    "question": "automate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "自動化する",
+    "explanation": "automate = 自動化する。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "developed",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-curated-3705",
+    "type": "vocab",
+    "level": "basic",
+    "word": "available",
+    "meaning": "利用できる",
+    "pos": "adj",
+    "question": "available",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "利用できる",
+    "explanation": "available = 利用できる。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1"
+  },
+  {
+    "id": "v-basic-core-0435-average",
+    "type": "vocab",
+    "level": "basic",
+    "word": "average",
+    "meaning": "平均；平均的な",
+    "pos": "n",
+    "question": "average",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "平均；平均的な",
+    "explanation": "average = 平均；平均的な。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "v-basic-004",
+    "type": "vocab",
+    "level": "basic",
+    "word": "avoid",
+    "meaning": "避ける",
+    "question": "avoid",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "避ける",
+        "correct": true
+      },
+      {
+        "text": "認める",
+        "correct": false
+      },
+      {
+        "text": "招待する",
+        "correct": false
+      },
+      {
+        "text": "説明する",
+        "correct": false
+      }
+    ],
+    "answer": "避ける",
+    "explanation": "avoid = 避ける。例：avoid unnecessary trouble"
+  },
+  {
+    "id": "v-mega-basic-0003",
+    "type": "vocab",
+    "level": "basic",
+    "word": "aware",
+    "meaning": "気づいている",
+    "pos": "adj",
+    "explanation": "aware：気づいている",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-core-0484-away",
+    "type": "vocab",
+    "level": "basic",
+    "word": "away",
+    "meaning": "離れて",
+    "pos": "adv",
+    "question": "away",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "離れて",
+    "explanation": "away = 離れて。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-basic-ngsl-0870-0562",
+    "type": "vocab",
+    "level": "basic",
+    "word": "baby",
+    "meaning": "赤ん坊",
+    "pos": "n",
+    "question": "baby",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "赤ん坊",
+    "explanation": "baby = 赤ん坊。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a very young child",
+    "frequencyRank": 870,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-ngsl-0094-0093",
+    "type": "vocab",
+    "level": "basic",
+    "word": "back",
+    "meaning": "背中；後ろ；戻る",
+    "pos": "n",
+    "question": "back",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "背中；後ろ；戻る",
+    "explanation": "back = 背中；後ろ；戻る。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "the rear surface of something",
+    "frequencyRank": 94,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-04-background",
+    "type": "vocab",
+    "level": "basic",
+    "word": "background",
+    "meaning": "背景",
+    "pos": "n",
+    "question": "background",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "背景",
+    "explanation": "background = 背景。品詞: n。",
+    "exampleSentence": "cultural background.",
+    "exampleJa": "この文脈では「背景」という意味。",
+    "family": "background;backgrounds",
+    "synonyms": [],
+    "tags": [
+      "basic",
+      "n"
+    ],
+    "note": "入試・読解で見かけやすい重要語。",
+    "levelTags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "v-basic-ngsl-0268-0222",
+    "type": "vocab",
+    "level": "basic",
+    "word": "bad",
+    "meaning": "悪い",
+    "pos": "adj",
+    "question": "bad",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "悪い",
+    "explanation": "bad = 悪い。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "low or poor in quality, not correct or proper",
+    "frequencyRank": 268,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-curated-3710",
+    "type": "vocab",
+    "level": "basic",
+    "word": "bake",
+    "meaning": "焼く",
+    "pos": "v",
+    "question": "bake",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "焼く",
+    "explanation": "bake = 焼く。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1"
+  },
+  {
+    "id": "v-basic-04-balance",
+    "type": "vocab",
+    "level": "basic",
+    "word": "balance",
+    "meaning": "均衡・残高",
+    "pos": "n",
+    "question": "balance",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "均衡・残高",
+    "explanation": "balance = 均衡・残高。品詞: n。",
+    "exampleSentence": "maintain a balance.",
+    "exampleJa": "この文脈では「均衡」という意味。",
+    "family": "balance;balances",
+    "synonyms": [],
+    "tags": [
+      "basic",
+      "n"
+    ],
+    "note": "入試・読解で見かけやすい重要語。",
+    "levelTags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "v-mega-basic-0025",
+    "type": "vocab",
+    "level": "basic",
+    "word": "ban",
+    "meaning": "禁止する",
+    "pos": "v",
+    "explanation": "ban：禁止する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-curated-3543",
+    "type": "vocab",
+    "level": "basic",
+    "word": "ban",
+    "meaning": "禁止・禁止する",
+    "pos": "n",
+    "question": "ban",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "禁止・禁止する",
+    "explanation": "ban = 禁止・禁止する。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "v-basic-ngsl-1085-0684",
+    "type": "vocab",
+    "level": "basic",
+    "word": "band",
+    "meaning": "バンド",
+    "pos": "n",
+    "question": "band",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "バンド",
+    "explanation": "band = バンド。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a group of people or animals",
+    "frequencyRank": 1085,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-ngsl-0627-0428",
+    "type": "vocab",
+    "level": "basic",
+    "word": "bank",
+    "meaning": "堤防",
+    "pos": "n",
+    "question": "bank",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "堤防",
+    "explanation": "bank = 堤防。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "the higher ground that is along the edge of a river, stream, etc.",
+    "frequencyRank": 627,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-ngsl-0836-0546",
+    "type": "vocab",
+    "level": "basic",
+    "word": "bar",
+    "meaning": "酒場",
+    "pos": "n",
+    "question": "bar",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "酒場",
+    "explanation": "bar = 酒場。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a building or room where alcoholic drinks and sometimes food are served",
+    "frequencyRank": 836,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-core-0046-barrier",
+    "type": "vocab",
+    "level": "basic",
+    "word": "barrier",
+    "meaning": "障壁；妨げ",
+    "pos": "n",
+    "question": "barrier",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "障壁；妨げ",
+    "explanation": "barrier = 障壁；妨げ。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-04-base",
+    "type": "vocab",
+    "level": "basic",
+    "word": "base",
+    "meaning": "基盤・基礎",
+    "pos": "n",
+    "question": "base",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "基盤・基礎",
+    "explanation": "base = 基盤・基礎。品詞: n。",
+    "exampleSentence": "a solid base.",
+    "exampleJa": "この文脈では「基盤」という意味。",
+    "family": "base;bases",
+    "synonyms": [],
+    "tags": [
+      "basic",
+      "n"
+    ],
+    "note": "入試・読解で見かけやすい重要語。"
+  },
+  {
+    "id": "v-basic-03-basic",
+    "type": "vocab",
+    "level": "basic",
+    "word": "basic",
+    "meaning": "基本的な",
+    "pos": "adj",
+    "question": "basic",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "基本的な",
+    "explanation": "basic = 基本的な。品詞: adj。語群: basics。",
+    "exampleSentence": "The report provides a basic explanation of the issue.",
+    "exampleJa": "その報告書はその問題について基本的な説明をしている。",
+    "family": "basics",
+    "synonyms": [
+      "fundamental",
+      "simple"
+    ],
+    "tags": [
+      "basic",
+      "adj"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。basic の派生語: basics."
+  },
+  {
+    "id": "v-basic-ngsl-0908-0583",
+    "type": "vocab",
+    "level": "basic",
+    "word": "basis",
+    "meaning": "基礎",
+    "pos": "n",
+    "question": "basis",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "基礎",
+    "explanation": "basis = 基礎。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "something from which another thing develops",
+    "frequencyRank": 908,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-curated-3714",
+    "type": "vocab",
+    "level": "basic",
+    "word": "battery",
+    "meaning": "電池・バッテリー",
+    "pos": "n",
+    "question": "battery",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "電池・バッテリー",
+    "explanation": "battery = 電池・バッテリー。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1"
+  },
+  {
+    "id": "v-basic-ngsl-0002-0002",
+    "type": "vocab",
+    "level": "basic",
+    "word": "be",
+    "meaning": "である",
+    "pos": "v",
+    "question": "be",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "である",
+    "explanation": "be = である。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "used to show the identity of a thing",
+    "frequencyRank": 2,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-ngsl-0455-0330",
+    "type": "vocab",
+    "level": "basic",
+    "word": "bear",
+    "meaning": "耐える、負う",
+    "pos": "v",
+    "question": "bear",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "耐える、負う",
+    "explanation": "bear = 耐える、負う。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to accept or endure difficulties",
+    "frequencyRank": 455,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-ngsl-1033-0655",
+    "type": "vocab",
+    "level": "basic",
+    "word": "beat",
+    "meaning": "打つ",
+    "pos": "v",
+    "question": "beat",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "打つ",
+    "explanation": "beat = 打つ。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to hit (something) repeatedly",
+    "frequencyRank": 1033,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-core-0436-beautiful",
+    "type": "vocab",
+    "level": "basic",
+    "word": "beautiful",
+    "meaning": "美しい",
+    "pos": "adj",
+    "question": "beautiful",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "美しい",
+    "explanation": "beautiful = 美しい。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-basic-ngsl-0062-0062",
+    "type": "vocab",
+    "level": "basic",
+    "word": "because",
+    "meaning": "なぜならば",
+    "pos": "conj",
+    "question": "because",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "なぜならば",
+    "explanation": "because = なぜならば。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "for a reason",
+    "frequencyRank": 62,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-ngsl-0141-0133",
+    "type": "vocab",
+    "level": "basic",
+    "word": "become",
+    "meaning": "なる",
+    "pos": "v",
+    "question": "become",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "なる",
+    "explanation": "become = なる。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to begin to be, grow to be, develop into",
+    "frequencyRank": 141,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-ngsl-0694-0464",
+    "type": "vocab",
+    "level": "basic",
+    "word": "bed",
+    "meaning": "ベッド",
+    "pos": "n",
+    "question": "bed",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "ベッド",
+    "explanation": "bed = ベッド。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a piece of furniture that people sleep on",
+    "frequencyRank": 694,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-ngsl-0106-0104",
+    "type": "vocab",
+    "level": "basic",
+    "word": "before",
+    "meaning": "以前",
+    "pos": "prep",
+    "question": "before",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "以前",
+    "explanation": "before = 以前。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "at an earlier time, in front of",
+    "frequencyRank": 106,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-ngsl-0189-0172",
+    "type": "vocab",
+    "level": "basic",
+    "word": "begin",
+    "meaning": "始める",
+    "pos": "v",
+    "question": "begin",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "始める",
+    "explanation": "begin = 始める。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to do the first part of an action, to start",
+    "frequencyRank": 189,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-03-behavior",
+    "type": "vocab",
+    "level": "basic",
+    "word": "behavior",
+    "meaning": "行動・振る舞い",
+    "pos": "n",
+    "question": "behavior",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "行動・振る舞い",
+    "explanation": "behavior = 行動・振る舞い。品詞: n。語群: behave。",
+    "exampleSentence": "The study examines behavior in modern society.",
+    "exampleJa": "その研究は現代社会における行動を検討している。",
+    "family": "behave",
+    "synonyms": [
+      "conduct",
+      "action"
+    ],
+    "tags": [
+      "basic",
+      "n"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。behavior の派生語: behave.",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-ngsl-0492-0354",
+    "type": "vocab",
+    "level": "basic",
+    "word": "behind",
+    "meaning": "後ろに",
+    "pos": "prep",
+    "question": "behind",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "後ろに",
+    "explanation": "behind = 後ろに。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "in or toward the back",
+    "frequencyRank": 492,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-ngsl-0225-0196",
+    "type": "vocab",
+    "level": "basic",
+    "word": "believe",
+    "meaning": "信じる",
+    "pos": "v",
+    "question": "believe",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "信じる",
+    "explanation": "believe = 信じる。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to accept that something is true",
+    "frequencyRank": 225,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-005",
+    "type": "vocab",
+    "level": "basic",
+    "word": "belong",
+    "meaning": "所属する",
+    "question": "belong",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "所属する",
+        "correct": true
+      },
+      {
+        "text": "建てる",
+        "correct": false
+      },
+      {
+        "text": "壊す",
+        "correct": false
+      },
+      {
+        "text": "思い出す",
+        "correct": false
+      }
+    ],
+    "answer": "所属する",
+    "explanation": "belong = 所属する。例：belong to a club"
+  },
+  {
+    "id": "v-basic-ngsl-0761-0505",
+    "type": "vocab",
+    "level": "basic",
+    "word": "below",
+    "meaning": "下に",
+    "pos": "prep",
+    "question": "below",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "下に",
+    "explanation": "below = 下に。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "in or to a lower place",
+    "frequencyRank": 761,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-mega-developed-0004",
+    "type": "vocab",
+    "level": "basic",
+    "word": "beneficial",
+    "meaning": "有益な",
+    "pos": "adj",
+    "question": "beneficial",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "有益な",
+    "explanation": "beneficial：有益な",
+    "tags": [
+      "basic",
+      "core",
+      "input-first",
+      "vocab-power",
+      "core-expansion",
+      "exam"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "This is a beneficial issue.",
+    "exampleJa": "（学習用例文）",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-core-0253-beneficiary",
+    "type": "vocab",
+    "level": "basic",
+    "word": "beneficiary",
+    "meaning": "受益者",
+    "pos": "n",
+    "question": "beneficiary",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "受益者",
+    "explanation": "beneficiary = 受益者。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-curated-0623",
+    "type": "vocab",
+    "level": "basic",
+    "word": "benefit",
+    "meaning": "利益・恩恵",
+    "pos": "n",
+    "question": "benefit",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "利益・恩恵",
+    "explanation": "benefit = 利益・恩恵。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-2113-0657",
+    "type": "vocab",
+    "level": "basic",
+    "word": "beside",
+    "meaning": "隣の、近くの",
+    "pos": "prep",
+    "question": "beside",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "隣の、近くの",
+    "explanation": "beside = 隣の、近くの。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "by the side of (someone or something) : next to (someone or something)",
+    "frequencyRank": 2113,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-ngsl-0116-0112",
+    "type": "vocab",
+    "level": "basic",
+    "word": "between",
+    "meaning": "～の間",
+    "pos": "prep",
+    "question": "between",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "～の間",
+    "explanation": "between = ～の間。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "in the space that separates to objects",
+    "frequencyRank": 116,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-core-0048-beyond",
+    "type": "vocab",
+    "level": "basic",
+    "word": "beyond",
+    "meaning": "～を越えて",
+    "pos": "prep",
+    "question": "beyond",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "～を越えて",
+    "explanation": "beyond = ～を越えて。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-mega-basic-0004",
+    "type": "vocab",
+    "level": "basic",
+    "word": "bias",
+    "meaning": "偏見・偏り",
+    "pos": "n",
+    "explanation": "bias：偏見・偏り",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "basic",
+      "standard",
+      "developed"
+    ]
+  },
+  {
+    "id": "v-basic-ngsl-0184-0168",
+    "type": "vocab",
+    "level": "basic",
+    "word": "big",
+    "meaning": "大きい",
+    "pos": "adj",
+    "question": "big",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "大きい",
+    "explanation": "big = 大きい。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "large in size or extent",
+    "frequencyRank": 184,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-ngsl-0887-0569",
+    "type": "vocab",
+    "level": "basic",
+    "word": "bill",
+    "meaning": "請求書",
+    "pos": "n",
+    "question": "bill",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "請求書",
+    "explanation": "bill = 請求書。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a document that says how much money you owe for something you have bought or used",
+    "frequencyRank": 887,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-core-0185-bind",
+    "type": "vocab",
+    "level": "basic",
+    "word": "bind",
+    "meaning": "縛る；結びつける",
+    "pos": "v",
+    "question": "bind",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "縛る；結びつける",
+    "explanation": "bind = 縛る；結びつける。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-basic-ngsl-0352-0273",
+    "type": "vocab",
+    "level": "basic",
+    "word": "bit",
+    "meaning": "少し",
+    "pos": "n",
+    "question": "bit",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "少し",
+    "explanation": "bit = 少し。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a small piece of something",
+    "frequencyRank": 352,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-ngsl-0411-0306",
+    "type": "vocab",
+    "level": "basic",
+    "word": "black",
+    "meaning": "黒い",
+    "pos": "adj",
+    "question": "black",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "黒い",
+    "explanation": "black = 黒い。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "having the very dark color of coal or the night sky",
+    "frequencyRank": 411,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-mega-basic-0033",
+    "type": "vocab",
+    "level": "basic",
+    "word": "blame",
+    "meaning": "責める・責任を負わせる",
+    "pos": "v",
+    "explanation": "blame：責める・責任を負わせる",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-curated-3723",
+    "type": "vocab",
+    "level": "basic",
+    "word": "blanket",
+    "meaning": "毛布",
+    "pos": "n",
+    "question": "blanket",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "毛布",
+    "explanation": "blanket = 毛布。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1"
+  },
+  {
+    "id": "ngsl-2261",
+    "type": "vocab",
+    "word": "blind",
+    "meaning": "盲目",
+    "pos": "adj",
+    "level": "basic",
+    "rank": 2261,
+    "definition": "unable to see",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-core-0049-block",
+    "type": "vocab",
+    "level": "basic",
+    "word": "block",
+    "meaning": "妨げる；区画；塊",
+    "pos": "v",
+    "question": "block",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "妨げる；区画；塊",
+    "explanation": "block = 妨げる；区画；塊。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-basic-ngsl-1016-0647",
+    "type": "vocab",
+    "level": "basic",
+    "word": "blood",
+    "meaning": "血液",
+    "pos": "n",
+    "question": "blood",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "血液",
+    "explanation": "blood = 血液。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "the red liquid that flows through the bodies of people and animals",
+    "frequencyRank": 1016,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-ngsl-0857-0555",
+    "type": "vocab",
+    "level": "basic",
+    "word": "blue",
+    "meaning": "青",
+    "pos": "adj",
+    "question": "blue",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "青",
+    "explanation": "blue = 青。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "having the color of the clear sky",
+    "frequencyRank": 857,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-ngsl-0741-0490",
+    "type": "vocab",
+    "level": "basic",
+    "word": "board",
+    "meaning": "板",
+    "pos": "n",
+    "question": "board",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "板",
+    "explanation": "board = 板。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a long, thin, flat piece of wood",
+    "frequencyRank": 741,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "v-basic-ngsl-0401-0302",
+    "type": "vocab",
+    "level": "basic",
+    "word": "body",
+    "meaning": "体",
+    "pos": "n",
+    "question": "body",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "体",
+    "explanation": "body = 体。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a person's physical self",
+    "frequencyRank": 401,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-core-0254-bond",
+    "type": "vocab",
+    "level": "basic",
+    "word": "bond",
+    "meaning": "結合；債券；結びつく",
+    "pos": "n",
+    "question": "bond",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "結合；債券；結びつく",
+    "explanation": "bond = 結合；債券；結びつく。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-basic-ngsl-0171-0158",
+    "type": "vocab",
+    "level": "basic",
+    "word": "book",
+    "meaning": "本",
+    "pos": "n",
+    "question": "book",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "本",
+    "explanation": "book = 本。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a printed or written work that is bound together and has a cover",
+    "frequencyRank": 171,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-core-0186-boost",
+    "type": "vocab",
+    "level": "basic",
+    "word": "boost",
+    "meaning": "高める；後押し",
+    "pos": "v",
+    "question": "boost",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "高める；後押し",
+    "explanation": "boost = 高める；後押し。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-core-0050-border",
+    "type": "vocab",
+    "level": "basic",
+    "word": "border",
+    "meaning": "国境；境界",
+    "pos": "n",
+    "question": "border",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "国境；境界",
+    "explanation": "border = 国境；境界。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-basic-006",
+    "type": "vocab",
+    "level": "basic",
+    "word": "borrow",
+    "meaning": "借りる",
+    "question": "borrow",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "借りる",
+        "correct": true
+      },
+      {
+        "text": "貸す",
+        "correct": false
+      },
+      {
+        "text": "買い戻す",
+        "correct": false
+      },
+      {
+        "text": "売る",
+        "correct": false
+      }
+    ],
+    "answer": "借りる",
+    "explanation": "borrow = 借りる。例：borrow a book from the library"
+  },
+  {
+    "id": "v-curated-3728",
+    "type": "vocab",
+    "level": "basic",
+    "word": "borrow",
+    "meaning": "借りる",
+    "pos": "v",
+    "question": "borrow",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "借りる",
+    "explanation": "borrow = 借りる。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1"
+  },
+  {
+    "id": "v-standard-ngsl-1852-0483",
+    "type": "vocab",
+    "level": "basic",
+    "word": "boss",
+    "meaning": "社長",
+    "pos": "n",
+    "question": "boss",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "社長",
+    "explanation": "boss = 社長。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "someone who is responsible for employees and tells them what to do",
+    "frequencyRank": 1852,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-ngsl-0128-0120",
+    "type": "vocab",
+    "level": "basic",
+    "word": "both",
+    "meaning": "両方とも",
+    "pos": "det",
+    "question": "both",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "両方とも",
+    "explanation": "both = 両方とも。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "used to emphasis two things at the same time",
+    "frequencyRank": 128,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1842-0474",
+    "type": "vocab",
+    "level": "basic",
+    "word": "bother",
+    "meaning": "悩ます",
+    "pos": "v",
+    "question": "bother",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "悩ます",
+    "explanation": "bother = 悩ます。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to make someone feel worried or upset",
+    "frequencyRank": 1842,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-core-0187-bound",
+    "type": "vocab",
+    "level": "basic",
+    "word": "bound",
+    "meaning": "～行きの；境界",
+    "pos": "adj",
+    "question": "bound",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "～行きの；境界",
+    "explanation": "bound = ～行きの；境界。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-basic-core-0307-boundary",
+    "type": "vocab",
+    "level": "basic",
+    "word": "boundary",
+    "meaning": "境界",
+    "pos": "n",
+    "question": "boundary",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "境界",
+    "explanation": "boundary = 境界。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard",
+      "developed"
+    ]
+  },
+  {
+    "id": "v-basic-ngsl-0860-0557",
+    "type": "vocab",
+    "level": "basic",
+    "word": "box",
+    "meaning": "箱",
+    "pos": "n",
+    "question": "box",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "箱",
+    "explanation": "box = 箱。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a container that is made of a hard material (such as wood, metal, or cardboard) and that usually has four straight sides",
+    "frequencyRank": 860,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-ngsl-0510-0364",
+    "type": "vocab",
+    "level": "basic",
+    "word": "boy",
+    "meaning": "男の子",
+    "pos": "n",
+    "question": "boy",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "男の子",
+    "explanation": "boy = 男の子。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a male child or youth, a young man",
+    "frequencyRank": 510,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-ngsl-0368-0283",
+    "type": "vocab",
+    "level": "basic",
+    "word": "break",
+    "meaning": "壊す",
+    "pos": "v",
+    "question": "break",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "壊す",
+    "explanation": "break = 壊す。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to separate into pieces",
+    "frequencyRank": 368,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-core-0188-breakdown",
+    "type": "vocab",
+    "level": "basic",
+    "word": "breakdown",
+    "meaning": "崩壊；故障",
+    "pos": "n",
+    "question": "breakdown",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "崩壊；故障",
+    "explanation": "breakdown = 崩壊；故障。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1609-0318",
+    "type": "vocab",
+    "level": "basic",
+    "word": "breath",
+    "meaning": "息",
+    "pos": "n",
+    "question": "breath",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "息",
+    "explanation": "breath = 息。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "the air that you take into your lungs and send out from your lungs when you breathe",
+    "frequencyRank": 1609,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1912-0519",
+    "type": "vocab",
+    "level": "basic",
+    "word": "breathe",
+    "meaning": "息をする",
+    "pos": "v",
+    "question": "breathe",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "息をする",
+    "explanation": "breathe = 息をする。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to move air into and out of your lungs",
+    "frequencyRank": 1912,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-curated-3734",
+    "type": "vocab",
+    "level": "basic",
+    "word": "brick",
+    "meaning": "れんが",
+    "pos": "n",
+    "question": "brick",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "れんが",
+    "explanation": "brick = れんが。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1"
+  },
+  {
+    "id": "v-mega-basic-0005",
+    "type": "vocab",
+    "level": "basic",
+    "word": "brief",
+    "meaning": "短い・簡潔な",
+    "pos": "adj",
+    "explanation": "brief：短い・簡潔な",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-core-0437-bright",
+    "type": "vocab",
+    "level": "basic",
+    "word": "bright",
+    "meaning": "明るい；賢い",
+    "pos": "adj",
+    "question": "bright",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "明るい；賢い",
+    "explanation": "bright = 明るい；賢い。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-standard-ngsl-2198-0723",
+    "type": "vocab",
+    "level": "basic",
+    "word": "brilliant",
+    "meaning": "素晴らしい",
+    "pos": "adj",
+    "question": "brilliant",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "素晴らしい",
+    "explanation": "brilliant = 素晴らしい。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "very good; extremely clever; full of light or color",
+    "frequencyRank": 2198,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-ngsl-0196-0178",
+    "type": "vocab",
+    "level": "basic",
+    "word": "bring",
+    "meaning": "持っていく",
+    "pos": "v",
+    "question": "bring",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "持っていく",
+    "explanation": "bring = 持っていく。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to take or go with to a place,",
+    "frequencyRank": 196,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-core-0051-broad",
+    "type": "vocab",
+    "level": "basic",
+    "word": "broad",
+    "meaning": "広い；幅広い",
+    "pos": "adj",
+    "question": "broad",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "広い；幅広い",
+    "explanation": "broad = 広い；幅広い。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-basic-ngsl-0820-0535",
+    "type": "vocab",
+    "level": "basic",
+    "word": "brother",
+    "meaning": "兄弟",
+    "pos": "n",
+    "question": "brother",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "兄弟",
+    "explanation": "brother = 兄弟。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a boy or man who has one or both of the same parents as you",
+    "frequencyRank": 820,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-curated-3262",
+    "type": "vocab",
+    "level": "basic",
+    "word": "browser",
+    "meaning": "ブラウザ・閲覧ソフト",
+    "pos": "n",
+    "question": "browser",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "ブラウザ・閲覧ソフト",
+    "explanation": "browser = ブラウザ・閲覧ソフト。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "v-basic-106",
+    "type": "vocab",
+    "level": "basic",
+    "word": "build",
+    "meaning": "建てる・築く",
+    "question": "build",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "建てる・築く",
+        "correct": true
+      },
+      {
+        "text": "選ぶ",
+        "correct": false
+      },
+      {
+        "text": "公共の・公の",
+        "correct": false
+      },
+      {
+        "text": "申し出る・提供する",
+        "correct": false
+      }
+    ],
+    "answer": "建てる・築く",
+    "explanation": "build = 建てる・築く。例：build a house"
+  },
+  {
+    "id": "v-developed-04-bulk",
+    "type": "vocab",
+    "level": "basic",
+    "word": "bulk",
+    "meaning": "大部分・かさ",
+    "pos": "n",
+    "question": "bulk",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "大部分・かさ",
+    "explanation": "bulk = 大部分・かさ。品詞: n。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first",
+      "developed",
+      "n"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "the bulk of the work.",
+    "exampleJa": "この文脈では「大部分」という意味。",
+    "family": "bulk;bulks",
+    "synonyms": [],
+    "note": "入試・読解で見かけやすい重要語。",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-core-0052-burden",
+    "type": "vocab",
+    "level": "basic",
+    "word": "burden",
+    "meaning": "負担；負担を負わせる",
+    "pos": "n",
+    "question": "burden",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "負担；負担を負わせる",
+    "explanation": "burden = 負担；負担を負わせる。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-ngsl-0810-0531",
+    "type": "vocab",
+    "level": "basic",
+    "word": "bus",
+    "meaning": "バス",
+    "pos": "n",
+    "question": "bus",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "バス",
+    "explanation": "bus = バス。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a large vehicle that is used for carrying passengers especially along a particular route at particular times",
+    "frequencyRank": 810,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-ngsl-0211-0189",
+    "type": "vocab",
+    "level": "basic",
+    "word": "business",
+    "meaning": "ビジネス、商売",
+    "pos": "n",
+    "question": "business",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "ビジネス、商売",
+    "explanation": "business = ビジネス、商売。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "the activity of making, buying, selling or providing goods",
+    "frequencyRank": 211,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "v-basic-core-0438-busy",
+    "type": "vocab",
+    "level": "basic",
+    "word": "busy",
+    "meaning": "忙しい",
+    "pos": "adj",
+    "question": "busy",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "忙しい",
+    "explanation": "busy = 忙しい。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-basic-ngsl-0025-0025",
+    "type": "vocab",
+    "level": "basic",
+    "word": "but",
+    "meaning": "でも",
+    "pos": "conj",
+    "question": "but",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "でも",
+    "explanation": "but = でも。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "used to contrast a statement with a to previous one",
+    "frequencyRank": 25,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-ngsl-0242-0206",
+    "type": "vocab",
+    "level": "basic",
+    "word": "buy",
+    "meaning": "買う",
+    "pos": "v",
+    "question": "buy",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "買う",
+    "explanation": "buy = 買う。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to get something by paying money for it;  purchase",
+    "frequencyRank": 242,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-ngsl-0027-0027",
+    "type": "vocab",
+    "level": "basic",
+    "word": "by",
+    "meaning": "の近くに",
+    "pos": "prep",
+    "question": "by",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "の近くに",
+    "explanation": "by = の近くに。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "close to or next to, up to and beyond, beside a place",
+    "frequencyRank": 27,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-curated-3741",
+    "type": "vocab",
+    "level": "basic",
+    "word": "calendar",
+    "meaning": "カレンダー",
+    "pos": "n",
+    "question": "calendar",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "カレンダー",
+    "explanation": "calendar = カレンダー。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1"
+  },
+  {
+    "id": "v-basic-ngsl-0105-0103",
+    "type": "vocab",
+    "level": "basic",
+    "word": "call",
+    "meaning": "呼ぶ",
+    "pos": "v",
+    "question": "call",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "呼ぶ",
+    "explanation": "call = 呼ぶ。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to speak, announce or shout in a loud voice",
+    "frequencyRank": 105,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-mega-basic-0029",
+    "type": "vocab",
+    "level": "basic",
+    "word": "calm",
+    "meaning": "落ち着いた・落ち着く",
+    "pos": "adj",
+    "explanation": "calm：落ち着いた・落ち着く",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026"
+  },
+  {
+    "id": "v-mega-standard-0285",
+    "type": "vocab",
+    "level": "basic",
+    "word": "campaign",
+    "meaning": "運動・運動する",
+    "pos": "n",
+    "explanation": "campaign：運動・運動する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-ngsl-0038-0038",
+    "type": "vocab",
+    "level": "basic",
+    "word": "can",
+    "meaning": "～できる",
+    "pos": "v",
+    "question": "can",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "～できる",
+    "explanation": "can = ～できる。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to be able to do something",
+    "frequencyRank": 38,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-core-0190-cancel",
+    "type": "vocab",
+    "level": "basic",
+    "word": "cancel",
+    "meaning": "取り消す",
+    "pos": "v",
+    "question": "cancel",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "取り消す",
+    "explanation": "cancel = 取り消す。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "v-basic-ngsl-0789-0520",
+    "type": "vocab",
+    "level": "basic",
+    "word": "capital",
+    "meaning": "首都",
+    "pos": "n",
+    "question": "capital",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "首都",
+    "explanation": "capital = 首都。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "having the main offices of a government",
+    "frequencyRank": 789,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-ngsl-0260-0219",
+    "type": "vocab",
+    "level": "basic",
+    "word": "car",
+    "meaning": "車",
+    "pos": "n",
+    "question": "car",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "車",
+    "explanation": "car = 車。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a vehicle with four wheels and engine that can carry things",
+    "frequencyRank": 260,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-ngsl-0781-0514",
+    "type": "vocab",
+    "level": "basic",
+    "word": "card",
+    "meaning": "カード",
+    "pos": "n",
+    "question": "card",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "カード",
+    "explanation": "card = カード。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a small piece of stiff paper that is marked with symbols or pictures to show its value, comes in a set, and is used for playing games",
+    "frequencyRank": 781,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-ngsl-0313-0249",
+    "type": "vocab",
+    "level": "basic",
+    "word": "care",
+    "meaning": "注意",
+    "pos": "n",
+    "question": "care",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "注意",
+    "explanation": "care = 注意。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "effort made to do something correctly or well",
+    "frequencyRank": 313,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-core-0053-career",
+    "type": "vocab",
+    "level": "basic",
+    "word": "career",
+    "meaning": "職業；経歴",
+    "pos": "n",
+    "question": "career",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "職業；経歴",
+    "explanation": "career = 職業；経歴。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "v-basic-03-careful",
+    "type": "vocab",
+    "level": "basic",
+    "word": "careful",
+    "meaning": "注意深い",
+    "pos": "adj",
+    "question": "careful",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "注意深い",
+    "explanation": "careful = 注意深い。品詞: adj。語群: carefully。",
+    "exampleSentence": "The report provides a careful explanation of the issue.",
+    "exampleJa": "その報告書はその問題について注意深い説明をしている。",
+    "family": "carefully",
+    "synonyms": [
+      "cautious",
+      "attentive"
+    ],
+    "tags": [
+      "basic",
+      "adj"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。careful の派生語: carefully."
+  },
+  {
+    "id": "v-mega-advanced-0002",
+    "type": "vocab",
+    "level": "basic",
+    "word": "carefully",
+    "meaning": "注意深く",
+    "pos": "adv",
+    "question": "carefully",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "注意深く",
+    "explanation": "carefully：注意深く",
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "The situation changed carefully.",
+    "exampleJa": "（学習用例文）",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "levelTags": [
+      "basic",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-basic-107",
+    "type": "vocab",
+    "level": "basic",
+    "word": "carry",
+    "meaning": "運ぶ",
+    "question": "carry",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "運ぶ",
+        "correct": true
+      },
+      {
+        "text": "建てる・築く",
+        "correct": false
+      },
+      {
+        "text": "起こる",
+        "correct": false
+      },
+      {
+        "text": "学ぶ・知る",
+        "correct": false
+      }
+    ],
+    "answer": "運ぶ",
+    "explanation": "carry = 運ぶ。例：carry a bag"
+  },
+  {
+    "id": "v-basic-ngsl-0168-0155",
+    "type": "vocab",
+    "level": "basic",
+    "word": "case",
+    "meaning": "場合；事例；容器",
+    "pos": "n",
+    "question": "case",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "場合；事例；容器",
+    "explanation": "case = 場合；事例；容器。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "an example or instance of something",
+    "frequencyRank": 168,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-ngsl-0683-0460",
+    "type": "vocab",
+    "level": "basic",
+    "word": "catch",
+    "meaning": "捕まえる",
+    "pos": "v",
+    "question": "catch",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "捕まえる",
+    "explanation": "catch = 捕まえる。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to use your hands to stop and hold",
+    "frequencyRank": 683,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-04-cause",
+    "type": "vocab",
+    "level": "basic",
+    "word": "cause",
+    "meaning": "原因",
+    "pos": "n",
+    "question": "cause",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "原因",
+    "explanation": "cause = 原因。品詞: n。",
+    "exampleSentence": "the cause of the accident.",
+    "exampleJa": "この文脈では「原因」という意味。",
+    "family": "cause;causes",
+    "synonyms": [],
+    "tags": [
+      "basic",
+      "n"
+    ],
+    "note": "入試・読解で見かけやすい重要語。"
+  },
+  {
+    "id": "v-mega-basic-0006",
+    "type": "vocab",
+    "level": "basic",
+    "word": "cease",
+    "meaning": "やめる・終わる",
+    "pos": "v",
+    "explanation": "cease：やめる・終わる",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "basic",
+      "developed",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-basic-core-0308-ceiling",
+    "type": "vocab",
+    "level": "basic",
+    "word": "ceiling",
+    "meaning": "天井",
+    "pos": "n",
+    "question": "ceiling",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "天井",
+    "explanation": "ceiling = 天井。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-03-celebrate",
+    "type": "vocab",
+    "level": "basic",
+    "word": "celebrate",
+    "meaning": "祝う",
+    "pos": "v",
+    "question": "celebrate",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "祝う",
+    "explanation": "celebrate = 祝う。品詞: v。語群: celebration。",
+    "exampleSentence": "Researchers celebrate the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を祝う。",
+    "family": "celebration",
+    "synonyms": [
+      "honor",
+      "observe"
+    ],
+    "tags": [
+      "basic",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。celebrate の派生語: celebration.",
+    "levelTags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "v-basic-ngsl-0629-0429",
+    "type": "vocab",
+    "level": "basic",
+    "word": "cell",
+    "meaning": "細胞",
+    "pos": "n",
+    "question": "cell",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "細胞",
+    "explanation": "cell = 細胞。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "the smallest living part of an animal or a plant",
+    "frequencyRank": 629,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-ngsl-0749-0496",
+    "type": "vocab",
+    "level": "basic",
+    "word": "cent",
+    "meaning": "セント",
+    "pos": "n",
+    "question": "cent",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "セント",
+    "explanation": "cent = セント。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a unit of money that is equal to 1/100 of the basic unit of money",
+    "frequencyRank": 749,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-ngsl-0334-0261",
+    "type": "vocab",
+    "level": "basic",
+    "word": "center",
+    "meaning": "中央",
+    "pos": "n",
+    "question": "center",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "中央",
+    "explanation": "center = 中央。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "the middle point or part",
+    "frequencyRank": 334,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-ngsl-0890-0571",
+    "type": "vocab",
+    "level": "basic",
+    "word": "central",
+    "meaning": "真ん中の",
+    "pos": "adj",
+    "question": "central",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "真ん中の",
+    "explanation": "central = 真ん中の。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "in or near the center of a place or object",
+    "frequencyRank": 890,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-ngsl-0591-0407",
+    "type": "vocab",
+    "level": "basic",
+    "word": "century",
+    "meaning": "世紀",
+    "pos": "n",
+    "question": "century",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "世紀",
+    "explanation": "century = 世紀。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a period of 100 years",
+    "frequencyRank": 591,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-core-0309-ceremony",
+    "type": "vocab",
+    "level": "basic",
+    "word": "ceremony",
+    "meaning": "式典",
+    "pos": "n",
+    "question": "ceremony",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "式典",
+    "explanation": "ceremony = 式典。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-max2-certainly",
+    "type": "vocab",
+    "level": "basic",
+    "word": "certainly",
+    "meaning": "確かに",
+    "pos": "adv",
+    "explanation": "certainly：確かに。常用・入試重要語として定着させる。",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-max2",
+      "常用語"
+    ],
+    "source": "curated-vocab-max2-2026"
+  },
+  {
+    "id": "v-basic-ngsl-1058-0669",
+    "type": "vocab",
+    "level": "basic",
+    "word": "chair",
+    "meaning": "いす",
+    "pos": "n",
+    "question": "chair",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "いす",
+    "explanation": "chair = いす。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a seat for one person that has a back and usually four legs",
+    "frequencyRank": 1058,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-ngsl-0560-0394",
+    "type": "vocab",
+    "level": "basic",
+    "word": "chance",
+    "meaning": "機会",
+    "pos": "n",
+    "question": "chance",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "機会",
+    "explanation": "chance = 機会。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "an opportunity to do something;  an amount of time or a situation in which something can be done",
+    "frequencyRank": 560,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-108",
+    "type": "vocab",
+    "level": "basic",
+    "word": "change",
+    "meaning": "変える・変化する",
+    "question": "change",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "公共の・公の",
+        "correct": false
+      },
+      {
+        "text": "変える・変化する",
+        "correct": true
+      },
+      {
+        "text": "理解する",
+        "correct": false
+      },
+      {
+        "text": "賛成する・同意する",
+        "correct": false
+      }
+    ],
+    "answer": "変える・変化する",
+    "explanation": "change = 変える・変化する。例：change the plan"
+  },
+  {
+    "id": "v-basic-core-0310-chapter",
+    "type": "vocab",
+    "level": "basic",
+    "word": "chapter",
+    "meaning": "章",
+    "pos": "n",
+    "question": "chapter",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "章",
+    "explanation": "chapter = 章。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-basic-core-0054-character",
+    "type": "vocab",
+    "level": "basic",
+    "word": "character",
+    "meaning": "性格；登場人物；文字",
+    "pos": "n",
+    "question": "character",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "性格；登場人物；文字",
+    "explanation": "character = 性格；登場人物；文字。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-developed-03-characteristic",
+    "type": "vocab",
+    "level": "basic",
+    "word": "characteristic",
+    "meaning": "特徴",
+    "pos": "n",
+    "question": "characteristic",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "特徴",
+    "explanation": "characteristic = 特徴。品詞: n。語群: characterize。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first",
+      "developed",
+      "n"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "The study examines characteristic in modern society.",
+    "exampleJa": "その研究は現代社会における特徴を検討している。",
+    "family": "characterize",
+    "synonyms": [
+      "feature",
+      "trait"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。characteristic の派生語: characterize.",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-core-0056-charge",
+    "type": "vocab",
+    "level": "basic",
+    "word": "charge",
+    "meaning": "料金；責任；充電する",
+    "pos": "n",
+    "question": "charge",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "料金；責任；充電する",
+    "explanation": "charge = 料金；責任；充電する。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "ngsl-2352",
+    "type": "vocab",
+    "word": "charity",
+    "meaning": "慈善",
+    "pos": "n",
+    "level": "basic",
+    "rank": 2352,
+    "definition": "an official organization that gives money, food, or help to people who need it; money, food, or other help",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-core-0439-cheap",
+    "type": "vocab",
+    "level": "basic",
+    "word": "cheap",
+    "meaning": "安い",
+    "pos": "adj",
+    "question": "cheap",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "安い",
+    "explanation": "cheap = 安い。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026"
+  },
+  {
+    "id": "v-basic-ngsl-0580-0401",
+    "type": "vocab",
+    "level": "basic",
+    "word": "check",
+    "meaning": "確認する",
+    "pos": "v",
+    "question": "check",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "確認する",
+    "explanation": "check = 確認する。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "to look at (something) carefully to find mistakes, problems, etc.",
+    "frequencyRank": 580,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-curated-3752",
+    "type": "vocab",
+    "level": "basic",
+    "word": "cheer",
+    "meaning": "歓声・元気づける",
+    "pos": "n",
+    "question": "cheer",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "歓声・元気づける",
+    "explanation": "cheer = 歓声・元気づける。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1"
+  },
+  {
+    "id": "v-basic-ngsl-0102-0100",
+    "type": "vocab",
+    "level": "basic",
+    "word": "child",
+    "meaning": "子供",
+    "pos": "n",
+    "question": "child",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "子供",
+    "explanation": "child = 子供。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a young person",
+    "frequencyRank": 102,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-standard-ngsl-1806-0454",
+    "type": "vocab",
+    "level": "basic",
+    "word": "childhood",
+    "meaning": "子どもの頃",
+    "pos": "n",
+    "question": "childhood",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "子どもの頃",
+    "explanation": "childhood = 子どもの頃。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "the period of time when a person is a child",
+    "frequencyRank": 1806,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-03-choice",
+    "type": "vocab",
+    "level": "basic",
+    "word": "choice",
+    "meaning": "選択",
+    "pos": "n",
+    "question": "choice",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "選択",
+    "explanation": "choice = 選択。品詞: n。語群: choose;choosy。",
+    "exampleSentence": "The study examines choice in modern society.",
+    "exampleJa": "その研究は現代社会における選択を検討している。",
+    "family": "choose;choosy",
+    "synonyms": [
+      "selection",
+      "option"
+    ],
+    "tags": [
+      "basic",
+      "n"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。choice の派生語: choose;choosy."
+  },
+  {
+    "id": "v-basic-109",
+    "type": "vocab",
+    "level": "basic",
+    "word": "choose",
+    "meaning": "選ぶ",
+    "question": "choose",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "滞在する・ままでいる",
+        "correct": false
+      },
+      {
+        "text": "必要な",
+        "correct": false
+      },
+      {
+        "text": "選ぶ",
+        "correct": true
+      },
+      {
+        "text": "答える・答え",
+        "correct": false
+      }
+    ],
+    "answer": "選ぶ",
+    "explanation": "choose = 選ぶ。例：choose one"
+  },
+  {
+    "id": "v-basic-ngsl-0744-0493",
+    "type": "vocab",
+    "level": "basic",
+    "word": "church",
+    "meaning": "教会",
+    "pos": "n",
+    "question": "church",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "教会",
+    "explanation": "church = 教会。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "a building used for Christian religious worship or services",
+    "frequencyRank": 744,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-core-0057-citizen",
+    "type": "vocab",
+    "level": "basic",
+    "word": "citizen",
+    "meaning": "市民",
+    "pos": "n",
+    "question": "citizen",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "市民",
+    "explanation": "citizen = 市民。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "v-basic-ngsl-0269-0223",
+    "type": "vocab",
+    "level": "basic",
+    "word": "city",
+    "meaning": "都市",
+    "pos": "n",
+    "question": "city",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "都市",
+    "explanation": "city = 都市。基礎・標準ではまず意味を定着させる。",
+    "definitionEn": "many people living in a place larger than a town",
+    "frequencyRank": 269,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja"
+  },
+  {
+    "id": "v-basic-core-0058-civil",
+    "type": "vocab",
+    "level": "basic",
+    "word": "civil",
+    "meaning": "市民の；民間の",
+    "pos": "adj",
+    "question": "civil",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "市民の；民間の",
+    "explanation": "civil = 市民の；民間の。基礎・標準ではまず意味を定着させる。",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  }
+]

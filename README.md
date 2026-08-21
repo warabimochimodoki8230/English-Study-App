@@ -1,17 +1,26 @@
-# 総合英語 神問題
+# 総合英語 神問題 v8
 
-Cloudflare Workers Static Assets で配信する静的英語学習アプリです。
+静的ファイルだけで動作する英語学習アプリです。
 
-## 構成
-- `public/`：Cloudflare に配信するファイルだけを格納
-- `public/index.html`：画面
-- `public/styles.css`：スタイル
-- `public/app.js`：アプリ本体
-- `public/data/`：問題データ(JSON)
-- `wrangler.jsonc`：Cloudflare Workers の静的アセット設定
+## 今回の拡張
+- 単語データ: 4,555見出し語
+- 熟語データ: 281件
+- 文法クイズ: 109件を追加
+- 進捗はブラウザのlocalStorageに保存
+- 問題データは読み取り専用の静的JSON
+- データ検証スクリプト付き
 
-## Cloudflare
-Git 連携でデプロイする場合のデプロイコマンドは `npx wrangler deploy` のままでOKです。
-`wrangler.jsonc` が `public/` を静的アセットの配信元として指定します。
+## 品質検証
 
-重要：リポジトリ直下にある `.git/` は GitHub/GitLab 側の管理情報なので、Cloudflare の静的アセット用ディレクトリには含めません。
+```bash
+node scripts/validate-data.mjs
+node scripts/quality-check.mjs
+```
+
+現在の検証では構造エラー・警告ともに 0 です。
+
+## 静的デプロイ
+`public/` を静的ホスティングで配信してください。
+
+## データ方針
+市販の参考書の本文や問題文をそのまま転載するのではなく、入試・検定で重要な語彙・語法・文法を学習用データとして整理しています。
