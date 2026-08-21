@@ -1,0 +1,6638 @@
+[
+  {
+    "id": "v-max2-intermediate",
+    "type": "vocab",
+    "level": "standard",
+    "word": "intermediate",
+    "meaning": "中間の；中級者",
+    "pos": "adj",
+    "explanation": "intermediate：中間の；中級者。",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-max2",
+      "常用語"
+    ],
+    "source": "curated-vocab-max2-2026",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The researchers considered the intermediate option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、中間のという選択肢を検討した。"
+  },
+  {
+    "id": "v-curated-2479",
+    "type": "vocab",
+    "level": "standard",
+    "word": "intermediate",
+    "meaning": "中間の・中間段階",
+    "pos": "n",
+    "question": "intermediate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "中間の・中間段階",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The report describes the intermediate in detail.",
+    "exampleJa": "その報告書は中間の・中間段階について詳しく説明している。"
+  },
+  {
+    "id": "v-mega-standard-0321",
+    "type": "vocab",
+    "level": "standard",
+    "word": "internet",
+    "meaning": "インターネット",
+    "pos": "n",
+    "explanation": "internet：インターネット",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "The committee considered the internet before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、インターネットを検討した。"
+  },
+  {
+    "id": "v-mega-standard-0057",
+    "type": "vocab",
+    "level": "standard",
+    "word": "interpret",
+    "meaning": "解釈する",
+    "pos": "v",
+    "explanation": "interpret：解釈する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The company plans to interpret the new system next year.",
+    "exampleJa": "その会社は来年、新しいシステムを解釈する予定だ。"
+  },
+  {
+    "id": "v-advanced-04-interpretation",
+    "type": "vocab",
+    "level": "standard",
+    "word": "interpretation",
+    "meaning": "解釈",
+    "pos": "n",
+    "question": "interpretation",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "解釈",
+    "explanation": "",
+    "definitionEn": "an explanation or opinion of what something means",
+    "frequencyRank": 1987,
+    "tags": [
+      "advanced",
+      "n",
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage",
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "The report describes the interpretation in detail.",
+    "exampleJa": "その報告書は解釈について詳しく説明している。",
+    "family": "interpretation;interpretations",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "note": "入試・読解で見かけやすい重要語。",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-curated-4058",
+    "type": "vocab",
+    "level": "standard",
+    "word": "interpreter",
+    "meaning": "通訳者・解釈者",
+    "pos": "n",
+    "question": "interpreter",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "通訳者・解釈者",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The committee considered the interpreter before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、通訳者・解釈者を検討した。"
+  },
+  {
+    "id": "v-curated-0896",
+    "type": "vocab",
+    "level": "standard",
+    "word": "interruption",
+    "meaning": "中断",
+    "pos": "n",
+    "question": "interruption",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "中断",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard",
+      "developed"
+    ],
+    "exampleSentence": "The interruption played an important role in the discussion.",
+    "exampleJa": "中断は、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "v-mega-developed-0013",
+    "type": "vocab",
+    "level": "standard",
+    "word": "interval",
+    "meaning": "間隔・期間",
+    "pos": "n",
+    "exampleSentence": "Demand usually changes during this interval.",
+    "exampleJa": "需要は通常、この間隔・期間の間に変化する。",
+    "explanation": "interval：間隔・期間",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-mega-standard-0208",
+    "type": "vocab",
+    "level": "standard",
+    "word": "intervene",
+    "meaning": "介入する",
+    "pos": "v",
+    "explanation": "intervene：介入する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "hard"
+    ],
+    "exampleSentence": "The team worked together to intervene the issue.",
+    "exampleJa": "チームはその問題を介入するために協力した。"
+  },
+  {
+    "id": "v-mega-standard-0122",
+    "type": "vocab",
+    "level": "standard",
+    "word": "intrinsic",
+    "meaning": "本質的な",
+    "pos": "adj",
+    "explanation": "intrinsic：本質的な",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "hard"
+    ],
+    "exampleSentence": "The researchers argue that curiosity has intrinsic value even when it leads to no immediate reward.",
+    "exampleJa": "研究者たちは、本質的なことを検討した。"
+  },
+  {
+    "id": "v-curated-0710",
+    "type": "vocab",
+    "level": "standard",
+    "word": "invasion",
+    "meaning": "侵略",
+    "pos": "n",
+    "question": "invasion",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "侵略",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The report describes the invasion in detail.",
+    "exampleJa": "その報告書は侵略について詳しく説明している。"
+  },
+  {
+    "id": "ngsl-2624",
+    "type": "vocab",
+    "word": "invent",
+    "meaning": "発明する",
+    "pos": "v",
+    "level": "standard",
+    "rank": 2624,
+    "definition": "to create or produce (something useful) for the first time",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The team worked together to invent the issue.",
+    "exampleJa": "チームはその問題を発明するために協力した。"
+  },
+  {
+    "id": "v-standard-ngsl-1364-0160",
+    "type": "vocab",
+    "level": "standard",
+    "word": "invest",
+    "meaning": "投資する",
+    "pos": "v",
+    "question": "invest",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "投資する",
+    "explanation": "",
+    "definitionEn": "to use money to earn more money",
+    "frequencyRank": 1364,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The company plans to invest the new system next year.",
+    "exampleJa": "その会社は来年、新しいシステムを投資する予定だ。"
+  },
+  {
+    "id": "v-standard-03-investigate",
+    "type": "vocab",
+    "level": "standard",
+    "word": "investigate",
+    "meaning": "調査する",
+    "pos": "v",
+    "question": "investigate",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "調査する",
+    "explanation": "",
+    "exampleSentence": "The researchers need to investigate the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を調査する必要がある。",
+    "family": "investigation",
+    "synonyms": [
+      "examine",
+      "research"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。investigate の派生語: investigation."
+  },
+  {
+    "id": "v-standard-ngsl-1316-0134",
+    "type": "vocab",
+    "level": "standard",
+    "word": "investigation",
+    "meaning": "調査",
+    "pos": "n",
+    "question": "investigation",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "調査",
+    "explanation": "",
+    "definitionEn": "when officials try to discover all the facts about something, especially a crime or an accident",
+    "frequencyRank": 1316,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The team used the investigation to evaluate the proposed theory.",
+    "exampleJa": "チームは、調査ことに取り組んだ。"
+  },
+  {
+    "id": "v-standard-ngsl-1595-0308",
+    "type": "vocab",
+    "level": "standard",
+    "word": "investor",
+    "meaning": "投資家",
+    "pos": "n",
+    "question": "investor",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "投資家",
+    "explanation": "",
+    "definitionEn": "someone who puts money in a bank, business, etc. in order to make a profit",
+    "frequencyRank": 1595,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The company changed its strategy in response to the investor.",
+    "exampleJa": "その会社は、投資家ことを計画している。"
+  },
+  {
+    "id": "v-standard-153",
+    "type": "vocab",
+    "level": "standard",
+    "word": "involve",
+    "meaning": "関係させる・含む",
+    "question": "involve",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "関係させる・含む",
+        "correct": true
+      },
+      {
+        "text": "重要な・かなりの",
+        "correct": false
+      },
+      {
+        "text": "適切な",
+        "correct": false
+      },
+      {
+        "text": "複雑な",
+        "correct": false
+      }
+    ],
+    "answer": "関係させる・含む",
+    "explanation": "involve = 関係させる・含む。例：involve many people",
+    "exampleSentence": "The researchers need to involve the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を関係させる・含むする必要がある。",
+    "pos": "v"
+  },
+  {
+    "id": "ngsl-2304",
+    "type": "vocab",
+    "word": "involvement",
+    "meaning": "関与",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2304,
+    "definition": "when someone or something is involved in an activity or event",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The committee considered the involvement before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、関与を検討した。"
+  },
+  {
+    "id": "ngsl-2257",
+    "type": "vocab",
+    "word": "iron",
+    "meaning": "鉄分、鉄",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2257,
+    "definition": "a heavy type of metal that is very common, occurs naturally in blood, and is used to make steel and in many products",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The iron played an important role in the discussion.",
+    "exampleJa": "鉄分、鉄は、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "v-standard-ngsl-1212-0070",
+    "type": "vocab",
+    "level": "standard",
+    "word": "island",
+    "meaning": "島",
+    "pos": "n",
+    "question": "island",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "島",
+    "explanation": "",
+    "definitionEn": "an area of land that is surrounded by water",
+    "frequencyRank": 1212,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The city plans to improve the island next year.",
+    "exampleJa": "その市は来年、島を改善する予定だ。"
+  },
+  {
+    "id": "v-mega-standard-0058",
+    "type": "vocab",
+    "level": "standard",
+    "word": "isolate",
+    "meaning": "孤立させる・孤立した",
+    "pos": "v",
+    "explanation": "isolate：孤立させる・孤立した",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The team worked together to isolate the issue.",
+    "exampleJa": "チームはその問題を孤立させる・孤立したするために協力した。"
+  },
+  {
+    "id": "v-standard-118",
+    "type": "vocab",
+    "level": "standard",
+    "word": "issue",
+    "meaning": "問題・論点・発行する",
+    "question": "issue",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "複雑な",
+        "correct": false
+      },
+      {
+        "text": "懸念・関係する",
+        "correct": false
+      },
+      {
+        "text": "問題・論点・発行する",
+        "correct": true
+      },
+      {
+        "text": "避ける",
+        "correct": false
+      }
+    ],
+    "answer": "問題・論点・発行する",
+    "explanation": "issue = 問題・論点・発行する。例：a serious issue",
+    "exampleSentence": "The company plans to issue the new system next year.",
+    "exampleJa": "その会社は来年、新しいシステムを問題・論点・発行する予定だ。",
+    "pos": "v"
+  },
+  {
+    "id": "ngsl-2251",
+    "type": "vocab",
+    "word": "jacket",
+    "meaning": "ジャケット",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2251,
+    "definition": "a short coat",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The report describes the jacket in detail.",
+    "exampleJa": "その報告書はジャケットについて詳しく説明している。"
+  },
+  {
+    "id": "ngsl-2577",
+    "type": "vocab",
+    "word": "jail",
+    "meaning": "牢屋",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2577,
+    "definition": "a place where criminals are kept as a punishment",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The committee considered the jail before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、牢屋を検討した。"
+  },
+  {
+    "id": "v-mega-standard-0339",
+    "type": "vocab",
+    "level": "standard",
+    "word": "jealous",
+    "meaning": "嫉妬深い",
+    "pos": "adj",
+    "explanation": "jealous：嫉妬深い",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "The researchers considered the jealous option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、嫉妬深いという選択肢を検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1680-0366",
+    "type": "vocab",
+    "level": "standard",
+    "word": "joint",
+    "meaning": "関節",
+    "pos": "n",
+    "question": "joint",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "関節",
+    "explanation": "",
+    "definitionEn": "a point where two bones meet in the body",
+    "frequencyRank": 1680,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the joint in detail.",
+    "exampleJa": "その報告書は関節について詳しく説明している。"
+  },
+  {
+    "id": "v-standard-ngsl-1717-0393",
+    "type": "vocab",
+    "level": "standard",
+    "word": "joke",
+    "meaning": "冗談",
+    "pos": "n",
+    "question": "joke",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "冗談",
+    "explanation": "",
+    "definitionEn": "something said or done to cause laughter",
+    "frequencyRank": 1717,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The committee considered the joke before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、冗談を検討した。"
+  },
+  {
+    "id": "ngsl-2508",
+    "type": "vocab",
+    "word": "joy",
+    "meaning": "楽しさ",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2508,
+    "definition": "a feeling of great happiness",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The joy played an important role in the discussion.",
+    "exampleJa": "楽しさは、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "v-standard-ngsl-1571-0293",
+    "type": "vocab",
+    "level": "standard",
+    "word": "judgment",
+    "meaning": "判決",
+    "pos": "n",
+    "question": "judgment",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "判決",
+    "explanation": "",
+    "definitionEn": "an opinion about someone or something that is decided after thinking carefully",
+    "frequencyRank": 1571,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the judgment in detail.",
+    "exampleJa": "その報告書は判決について詳しく説明している。"
+  },
+  {
+    "id": "v-standard-ngsl-1322-0136",
+    "type": "vocab",
+    "level": "standard",
+    "word": "jump",
+    "meaning": "跳ぶ",
+    "pos": "v",
+    "question": "jump",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "跳ぶ",
+    "explanation": "",
+    "definitionEn": "to move your body upward from the ground and often forward, backward, or sideways through the air by pushing with your legs",
+    "frequencyRank": 1322,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "Many people jump differently when the situation changes.",
+    "exampleJa": "状況が変化すると、多くの人はそれぞれ異なる跳ぶ方をする。"
+  },
+  {
+    "id": "ngsl-2602",
+    "type": "vocab",
+    "word": "jury",
+    "meaning": "陪審",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2602,
+    "definition": "a group of people in a court of law who decide if someone is guilty or not",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The jury played an important role in the discussion.",
+    "exampleJa": "陪審は、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "v-mega-standard-0276",
+    "type": "vocab",
+    "level": "standard",
+    "word": "justice",
+    "meaning": "正義・司法",
+    "pos": "n",
+    "explanation": "justice：正義・司法",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The report describes the justice in detail.",
+    "exampleJa": "その報告書は正義・司法について詳しく説明している。"
+  },
+  {
+    "id": "v-mega-standard-0059",
+    "type": "vocab",
+    "level": "standard",
+    "word": "justify",
+    "meaning": "正当化する",
+    "pos": "v",
+    "explanation": "justify：正当化する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "The team worked together to justify the issue.",
+    "exampleJa": "チームはその問題を正当化するために協力した。"
+  },
+  {
+    "id": "ngsl-2362",
+    "type": "vocab",
+    "word": "keen",
+    "meaning": "熱心な",
+    "pos": "adj",
+    "level": "standard",
+    "rank": 2362,
+    "definition": "very interested or enthusiastic; very good or well developed",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The researcher remained keen despite the criticism.",
+    "exampleJa": "その研究者は批判を受けても熱心なであり続けた。"
+  },
+  {
+    "id": "v-standard-ngsl-1728-0402",
+    "type": "vocab",
+    "level": "standard",
+    "word": "kick",
+    "meaning": "蹴る",
+    "pos": "v",
+    "question": "kick",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "蹴る",
+    "explanation": "",
+    "definitionEn": "to hit (someone or something) with your foot",
+    "frequencyRank": 1728,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The process can kick under certain conditions.",
+    "exampleJa": "その過程は特定の条件下では蹴ることができる。"
+  },
+  {
+    "id": "v-standard-ngsl-1874-0500",
+    "type": "vocab",
+    "level": "standard",
+    "word": "king",
+    "meaning": "王様",
+    "pos": "n",
+    "question": "king",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "王様",
+    "explanation": "",
+    "definitionEn": "a male ruler of a country who usually inherits his position and rules for life",
+    "frequencyRank": 1874,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The committee considered the king before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、王様を検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1678-0364",
+    "type": "vocab",
+    "level": "standard",
+    "word": "kiss",
+    "meaning": "キス",
+    "pos": "v",
+    "question": "kiss",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "キス",
+    "explanation": "",
+    "definitionEn": "to touch (someone) with your lips as a greeting or as a way of showing love or sexual attraction",
+    "frequencyRank": 1678,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The researchers observed how the situation changed when they kiss.",
+    "exampleJa": "研究者たちは、彼らがキスしたときに状況がどう変化したかを観察した。"
+  },
+  {
+    "id": "v-standard-ngsl-1305-0126",
+    "type": "vocab",
+    "level": "standard",
+    "word": "kitchen",
+    "meaning": "台所",
+    "pos": "n",
+    "question": "kitchen",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "台所",
+    "explanation": "",
+    "definitionEn": "a room in which food is cooked",
+    "frequencyRank": 1305,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the kitchen in detail.",
+    "exampleJa": "その報告書は台所について詳しく説明している。"
+  },
+  {
+    "id": "ngsl-2219",
+    "type": "vocab",
+    "word": "knee",
+    "meaning": "膝",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2219,
+    "definition": "the joint that bends at the middle of your leg",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The committee considered the knee before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、膝を検討した。"
+  },
+  {
+    "id": "ngsl-2654",
+    "type": "vocab",
+    "word": "knife",
+    "meaning": "ナイフ",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2654,
+    "definition": "a usually sharp blade attached to a handle that is used for cutting or as a weapon",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The knife played an important role in the discussion.",
+    "exampleJa": "ナイフは、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "v-standard-ngsl-1812-0457",
+    "type": "vocab",
+    "level": "standard",
+    "word": "knock",
+    "meaning": "ノックする",
+    "pos": "v",
+    "question": "knock",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "ノックする",
+    "explanation": "",
+    "definitionEn": "to hit something (such as a door) with the knuckles of your hand or with a hard object (such as a knocker) in order to get people's attention",
+    "frequencyRank": 1812,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The researchers need to knock the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題をノックする必要がある。"
+  },
+  {
+    "id": "v-standard-ngsl-1526-0266",
+    "type": "vocab",
+    "level": "standard",
+    "word": "label",
+    "meaning": "ラベル",
+    "pos": "n",
+    "question": "label",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "ラベル",
+    "explanation": "",
+    "definitionEn": "an attached piece of paper used to identify something",
+    "frequencyRank": 1526,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The committee considered the label before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、ラベルを検討した。"
+  },
+  {
+    "id": "ngsl-2440",
+    "type": "vocab",
+    "word": "laboratory",
+    "meaning": "研究室",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2440,
+    "definition": "a room used for scientific work",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The researchers collected more laboratory before drawing a conclusion.",
+    "exampleJa": "研究者たちは、研究室ことを検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1259-0100",
+    "type": "vocab",
+    "level": "standard",
+    "word": "lady",
+    "meaning": "女性",
+    "pos": "n",
+    "question": "lady",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "女性",
+    "explanation": "",
+    "definitionEn": "a woman who behaves in a polite way",
+    "frequencyRank": 1259,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the lady in detail.",
+    "exampleJa": "その報告書は女性について詳しく説明している。"
+  },
+  {
+    "id": "v-standard-ngsl-1820-0460",
+    "type": "vocab",
+    "level": "standard",
+    "word": "lake",
+    "meaning": "湖",
+    "pos": "n",
+    "question": "lake",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "湖",
+    "explanation": "",
+    "definitionEn": "a large area of water that is surrounded by land",
+    "frequencyRank": 1820,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The committee considered the lake before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、湖を検討した。"
+  },
+  {
+    "id": "v-curated-0897",
+    "type": "vocab",
+    "level": "standard",
+    "word": "landmark",
+    "meaning": "目印・画期的事件",
+    "pos": "n",
+    "question": "landmark",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "目印・画期的事件",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The landmark played an important role in the discussion.",
+    "exampleJa": "目印・画期的事件は、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "v-mega-standard-0138",
+    "type": "vocab",
+    "level": "standard",
+    "word": "largely",
+    "meaning": "大部分は",
+    "pos": "adv",
+    "explanation": "largely：大部分は",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The change was largely caused by economic conditions.",
+    "exampleJa": "この例文では、大部分はという意味で使われている。"
+  },
+  {
+    "id": "v-standard-ngsl-1702-0382",
+    "type": "vocab",
+    "level": "standard",
+    "word": "latter",
+    "meaning": "後ろのほうの",
+    "pos": "det",
+    "question": "latter",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "後ろのほうの",
+    "explanation": "",
+    "definitionEn": "coming or happening near the end of a process, activity, series, life, etc.",
+    "frequencyRank": 1702,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "Of the two proposals, the latter is more practical.",
+    "exampleJa": "この文では「後ろのほうの」という意味・用法で使われている。"
+  },
+  {
+    "id": "v-standard-ngsl-1103-0002",
+    "type": "vocab",
+    "level": "standard",
+    "word": "lay",
+    "meaning": "敷く、置く",
+    "pos": "v",
+    "question": "lay",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "敷く、置く",
+    "explanation": "",
+    "definitionEn": "to place (someone or something) down gently in a flat position",
+    "frequencyRank": 1103,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The researchers observed how the situation changed when they lay.",
+    "exampleJa": "研究者たちは、彼らが敷く、置くしたときに状況がどう変化したかを観察した。"
+  },
+  {
+    "id": "v-standard-ngsl-2022-0594",
+    "type": "vocab",
+    "level": "standard",
+    "word": "layer",
+    "meaning": "層",
+    "pos": "n",
+    "question": "layer",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "層",
+    "explanation": "",
+    "definitionEn": "referring to one of several sheets of a material or object",
+    "frequencyRank": 2022,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the layer in detail.",
+    "exampleJa": "その報告書は層について詳しく説明している。"
+  },
+  {
+    "id": "ngsl-2795",
+    "type": "vocab",
+    "word": "lazy",
+    "meaning": "怠惰な",
+    "pos": "adj",
+    "level": "standard",
+    "rank": 2795,
+    "definition": "not liking to work hard or to be active",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The report describes the lazy characteristics of the system.",
+    "exampleJa": "その報告書は、システムの怠惰なという特徴を説明している。"
+  },
+  {
+    "id": "ngsl-2384",
+    "type": "vocab",
+    "word": "league",
+    "meaning": "リーグ",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2384,
+    "definition": "a group of teams which compete against each other in a sport",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The league played an important role in the discussion.",
+    "exampleJa": "リーグは、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "v-standard-ngsl-1972-0558",
+    "type": "vocab",
+    "level": "standard",
+    "word": "lean",
+    "meaning": "傾く",
+    "pos": "v",
+    "question": "lean",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "傾く",
+    "explanation": "",
+    "definitionEn": "to bend or move from a straight position",
+    "frequencyRank": 1972,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The process can lean under certain conditions.",
+    "exampleJa": "その過程は特定の条件下では傾くことができる。"
+  },
+  {
+    "id": "ngsl-2727",
+    "type": "vocab",
+    "word": "leap",
+    "meaning": "跳ねる",
+    "pos": "v",
+    "level": "standard",
+    "rank": 2727,
+    "definition": "to jump from one place to another",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "Many people leap differently when the situation changes.",
+    "exampleJa": "状況が変化すると、多くの人はそれぞれ異なる跳ねる方をする。"
+  },
+  {
+    "id": "ngsl-2730",
+    "type": "vocab",
+    "word": "leather",
+    "meaning": "革",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2730,
+    "definition": "animal skin that is chemically treated to preserve it and that is used in making clothes, shoes, furniture, etc.",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The leather played an important role in the discussion.",
+    "exampleJa": "革は、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "v-standard-ngsl-1218-0074",
+    "type": "vocab",
+    "level": "standard",
+    "word": "left",
+    "meaning": "左",
+    "pos": "adj",
+    "question": "left",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "左",
+    "explanation": "",
+    "definitionEn": "located on the same side of your body as your heart",
+    "frequencyRank": 1218,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The team chose a left approach to the problem.",
+    "exampleJa": "チームはその問題に対して左な方法を選んだ。"
+  },
+  {
+    "id": "v-mega-standard-0334",
+    "type": "vocab",
+    "level": "standard",
+    "word": "legacy",
+    "meaning": "遺産・遺物",
+    "pos": "n",
+    "explanation": "legacy：遺産・遺物",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "The committee considered the legacy before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、遺産・遺物を検討した。"
+  },
+  {
+    "id": "v-advanced-04-legislation",
+    "type": "vocab",
+    "level": "standard",
+    "word": "legislation",
+    "meaning": "法律・立法",
+    "pos": "n",
+    "question": "legislation",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "法律・立法",
+    "explanation": "",
+    "definitionEn": "a law or a set of laws",
+    "frequencyRank": 1733,
+    "tags": [
+      "advanced",
+      "n",
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage",
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "The government introduced a new legislation to address the problem.",
+    "exampleJa": "この文は「法律・立法」という内容を表している。",
+    "family": "legislation;legislations",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "note": "入試・読解で見かけやすい重要語。",
+    "levelTags": [
+      "standard",
+      "hard"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1315-0133",
+    "type": "vocab",
+    "level": "standard",
+    "word": "length",
+    "meaning": "長さ",
+    "pos": "n",
+    "question": "length",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "長さ",
+    "explanation": "",
+    "definitionEn": "the distance from one end of something to the other end",
+    "frequencyRank": 1315,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the length in detail.",
+    "exampleJa": "その報告書は長さについて詳しく説明している。"
+  },
+  {
+    "id": "v-standard-ngsl-1232-0080",
+    "type": "vocab",
+    "level": "standard",
+    "word": "lesson",
+    "meaning": "授業",
+    "pos": "n",
+    "question": "lesson",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "授業",
+    "explanation": "",
+    "definitionEn": "an activity that you do in order to learn something",
+    "frequencyRank": 1232,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The committee considered the lesson before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、授業を検討した。"
+  },
+  {
+    "id": "ngsl-2642",
+    "type": "vocab",
+    "word": "liability",
+    "meaning": "法的責任、債務",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2642,
+    "definition": "when you are legally responsible for something; a debt; a disadvantage",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The liability played an important role in the discussion.",
+    "exampleJa": "法的責任、債務は、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "v-mega-standard-0060",
+    "type": "vocab",
+    "level": "standard",
+    "word": "liberal",
+    "meaning": "自由主義の・寛大な",
+    "pos": "adj",
+    "explanation": "liberal：自由主義の・寛大な",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "The university has a relatively liberal policy on course selection.",
+    "exampleJa": "この文では、その状態が自由主義の・寛大なであることを表している。"
+  },
+  {
+    "id": "v-mega-standard-0277",
+    "type": "vocab",
+    "level": "standard",
+    "word": "liberty",
+    "meaning": "自由",
+    "pos": "n",
+    "explanation": "liberty：自由",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "The committee considered the liberty before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、自由を検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1160-0036",
+    "type": "vocab",
+    "level": "standard",
+    "word": "library",
+    "meaning": "図書館",
+    "pos": "n",
+    "question": "library",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "図書館",
+    "explanation": "",
+    "definitionEn": "a place where books, magazines, and other materials (such as videos and musical recordings) are available for people to use or borrow",
+    "frequencyRank": 1160,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The library played an important role in the discussion.",
+    "exampleJa": "図書館は、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "v-standard-ngsl-1581-0299",
+    "type": "vocab",
+    "level": "standard",
+    "word": "license",
+    "meaning": "免許",
+    "pos": "n",
+    "question": "license",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "免許",
+    "explanation": "",
+    "definitionEn": "to give someone official permission to do or have something",
+    "frequencyRank": 1581,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the license in detail.",
+    "exampleJa": "その報告書は免許について詳しく説明している。"
+  },
+  {
+    "id": "v-standard-ngsl-1165-0041",
+    "type": "vocab",
+    "level": "standard",
+    "word": "lift",
+    "meaning": "持ち上げる",
+    "pos": "v",
+    "question": "lift",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "持ち上げる",
+    "explanation": "",
+    "definitionEn": "to move (something or someone) to a higher position",
+    "frequencyRank": 1165,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "Many people lift differently when the situation changes.",
+    "exampleJa": "状況が変化すると、多くの人はそれぞれ異なる持ち上げる方をする。"
+  },
+  {
+    "id": "v-advanced-03-likewise",
+    "type": "vocab",
+    "level": "standard",
+    "word": "likewise",
+    "meaning": "同様に",
+    "pos": "adv",
+    "explanation": "",
+    "family": "likeness",
+    "synonyms": [
+      "similarly",
+      "also"
+    ],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "advanced",
+      "adv",
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "question": "likewise",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "同様に",
+    "exampleSentence": "The researchers likewise reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは同様にして、研究結果を公表する前に証拠を再検討した。",
+    "note": "重要語。意味だけでなく文脈で覚える。likewise の派生語: likeness.",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ]
+  },
+  {
+    "id": "ngsl-2571",
+    "type": "vocab",
+    "word": "limitation",
+    "meaning": "制限",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2571,
+    "definition": "when something is controlled so that it is less than a particular amount or number",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The report describes the limitation in detail.",
+    "exampleJa": "その報告書は制限について詳しく説明している。"
+  },
+  {
+    "id": "v-mega-standard-0123",
+    "type": "vocab",
+    "level": "standard",
+    "word": "linear",
+    "meaning": "直線的な",
+    "pos": "adj",
+    "explanation": "linear：直線的な",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the linear characteristics of the system.",
+    "exampleJa": "その報告書は、システムの直線的なという特徴を説明している。"
+  },
+  {
+    "id": "ngsl-2297",
+    "type": "vocab",
+    "word": "lip",
+    "meaning": "唇",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2297,
+    "definition": "either one of the two soft parts that surround the mouth",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The lip played an important role in the discussion.",
+    "exampleJa": "唇は、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "ngsl-2689",
+    "type": "vocab",
+    "word": "liquid",
+    "meaning": "液体",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2689,
+    "definition": "a substance that is able to flow freely",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The report describes the liquid in detail.",
+    "exampleJa": "その報告書は液体について詳しく説明している。"
+  },
+  {
+    "id": "ngsl-2781",
+    "type": "vocab",
+    "word": "listener",
+    "meaning": "傍聴者",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2781,
+    "definition": "someone who listens",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The committee considered the listener before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、傍聴者を検討した。"
+  },
+  {
+    "id": "v-mega-standard-0160",
+    "type": "vocab",
+    "level": "standard",
+    "word": "literacy",
+    "meaning": "読み書き能力",
+    "pos": "n",
+    "explanation": "literacy：読み書き能力",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "The literacy played an important role in the discussion.",
+    "exampleJa": "読み書き能力は、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "ngsl-2486",
+    "type": "vocab",
+    "word": "literally",
+    "meaning": "文字通りに",
+    "pos": "adv",
+    "level": "standard",
+    "rank": 2486,
+    "definition": "having the real or original meaning of a word or phrase",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The researchers literally reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは文字通りにして、研究結果を公表する前に証拠を再検討した。"
+  },
+  {
+    "id": "ngsl-2468",
+    "type": "vocab",
+    "word": "literary",
+    "meaning": "文学の",
+    "pos": "adj",
+    "level": "standard",
+    "rank": 2468,
+    "definition": "of or relating to literature",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The report describes the literary characteristics of the system.",
+    "exampleJa": "その報告書は、システムの文学のという特徴を説明している。"
+  },
+  {
+    "id": "v-standard-ngsl-1453-0217",
+    "type": "vocab",
+    "level": "standard",
+    "word": "load",
+    "meaning": "積載貨物",
+    "pos": "n",
+    "question": "load",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "積載貨物",
+    "explanation": "",
+    "definitionEn": "something that is lifted and carried",
+    "frequencyRank": 1453,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The load played an important role in the discussion.",
+    "exampleJa": "積載貨物は、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "v-standard-ngsl-1602-0314",
+    "type": "vocab",
+    "level": "standard",
+    "word": "lock",
+    "meaning": "錠前",
+    "pos": "n",
+    "question": "lock",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "錠前",
+    "explanation": "",
+    "definitionEn": "a device that keeps something (such as a door, window, or box) from being opened and that is usually opened by using a key",
+    "frequencyRank": 1602,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the lock in detail.",
+    "exampleJa": "その報告書は錠前について詳しく説明している。"
+  },
+  {
+    "id": "ngsl-2224",
+    "type": "vocab",
+    "word": "log",
+    "meaning": "丸太",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2224,
+    "definition": "a long, heavy section of a tree that has fallen or been cut down",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The committee considered the log before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、丸太を検討した。"
+  },
+  {
+    "id": "ngsl-2681",
+    "type": "vocab",
+    "word": "logic",
+    "meaning": "論理",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2681,
+    "definition": "a proper or linear way of thinking about something",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The logic played an important role in the discussion.",
+    "exampleJa": "論理は、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "v-developed-04-logical",
+    "type": "vocab",
+    "level": "standard",
+    "word": "logical",
+    "meaning": "論理的な",
+    "pos": "adj",
+    "explanation": "",
+    "family": "logical;logically",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "developed",
+      "adj",
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "question": "logical",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "論理的な",
+    "exampleSentence": "The team chose a logical approach to the problem.",
+    "exampleJa": "チームはその問題に対して論理的な方法を選んだ。",
+    "note": "入試・読解で見かけやすい重要語。",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-2183-0709",
+    "type": "vocab",
+    "level": "standard",
+    "word": "loose",
+    "meaning": "緩い",
+    "pos": "adj",
+    "question": "loose",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "緩い",
+    "explanation": "",
+    "definitionEn": "not tightly fastened, attached, or held",
+    "frequencyRank": 2183,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the loose characteristics of the system.",
+    "exampleJa": "その報告書は、システムの緩いという特徴を説明している。"
+  },
+  {
+    "id": "ngsl-2247",
+    "type": "vocab",
+    "word": "loud",
+    "meaning": "うるさい",
+    "pos": "adj",
+    "level": "standard",
+    "rank": 2247,
+    "definition": "making or causing a lot of noise : strong and noticeable in sound",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The researchers considered the loud option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、うるさいという選択肢を検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1598-0310",
+    "type": "vocab",
+    "level": "standard",
+    "word": "lovely",
+    "meaning": "美しい・素晴らしい",
+    "pos": "adj",
+    "question": "lovely",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "美しい・素晴らしい",
+    "explanation": "",
+    "definitionEn": "attractive or beautiful especially in a graceful way",
+    "frequencyRank": 1598,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The team chose a lovely approach to the problem.",
+    "exampleJa": "チームはその問題に対して美しい・素晴らしい方法を選んだ。"
+  },
+  {
+    "id": "ngsl-2708",
+    "type": "vocab",
+    "word": "lover",
+    "meaning": "恋人",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2708,
+    "definition": "If two people are lovers, they have a sexual relationship but they are not married",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "A lover was invited to speak at the event.",
+    "exampleJa": "恋人がその行事で話すよう招かれた。"
+  },
+  {
+    "id": "v-standard-ngsl-1932-0533",
+    "type": "vocab",
+    "level": "standard",
+    "word": "luck",
+    "meaning": "運",
+    "pos": "n",
+    "question": "luck",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "運",
+    "explanation": "",
+    "definitionEn": "the things that happen to a person because of chance",
+    "frequencyRank": 1932,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The luck played an important role in the discussion.",
+    "exampleJa": "運は、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "v-standard-ngsl-1332-0144",
+    "type": "vocab",
+    "level": "standard",
+    "word": "lunch",
+    "meaning": "昼食",
+    "pos": "n",
+    "question": "lunch",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "昼食",
+    "explanation": "",
+    "definitionEn": "a light meal eaten in the middle of the day",
+    "frequencyRank": 1332,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the lunch in detail.",
+    "exampleJa": "その報告書は昼食について詳しく説明している。"
+  },
+  {
+    "id": "ngsl-2657",
+    "type": "vocab",
+    "word": "luxury",
+    "meaning": "贅沢な",
+    "pos": "adj",
+    "level": "standard",
+    "rank": 2657,
+    "definition": "something expensive that you enjoy but do not need",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The report describes the luxury characteristics of the system.",
+    "exampleJa": "その報告書は、システムの贅沢なという特徴を説明している。"
+  },
+  {
+    "id": "ngsl-2415",
+    "type": "vocab",
+    "word": "mad",
+    "meaning": "怒り狂ってる",
+    "pos": "adj",
+    "level": "standard",
+    "rank": 2415,
+    "definition": "very angry",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The researcher remained mad despite the criticism.",
+    "exampleJa": "その研究者は批判を受けても怒り狂ってるであり続けた。"
+  },
+  {
+    "id": "ngsl-2589",
+    "type": "vocab",
+    "word": "magic",
+    "meaning": "魔法",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2589,
+    "definition": "special powers that can make things happen that seem impossible",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The report describes the magic in detail.",
+    "exampleJa": "その報告書は魔法について詳しく説明している。"
+  },
+  {
+    "id": "v-standard-ngsl-1641-0339",
+    "type": "vocab",
+    "level": "standard",
+    "word": "mail",
+    "meaning": "郵便",
+    "pos": "n",
+    "question": "mail",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "郵便",
+    "explanation": "",
+    "definitionEn": "the system used for sending letters and packages from one person to another",
+    "frequencyRank": 1641,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The committee considered the mail before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、郵便を検討した。"
+  },
+  {
+    "id": "v-standard-142",
+    "type": "vocab",
+    "level": "standard",
+    "word": "major",
+    "meaning": "主要な・専攻",
+    "question": "major",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "主要な・専攻",
+        "correct": true
+      },
+      {
+        "text": "文化",
+        "correct": false
+      },
+      {
+        "text": "減らす",
+        "correct": false
+      },
+      {
+        "text": "合理的な・妥当な",
+        "correct": false
+      }
+    ],
+    "answer": "主要な・専攻",
+    "explanation": "major = 主要な・専攻。例：a major problem",
+    "exampleSentence": "The researchers considered the major option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、主要な・専攻という選択肢を検討した。",
+    "pos": "n"
+  },
+  {
+    "id": "ngsl-2616",
+    "type": "vocab",
+    "word": "maker",
+    "meaning": "製作者",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2616,
+    "definition": "the person or company that makes a product",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The report describes the maker in detail.",
+    "exampleJa": "その報告書は製作者について詳しく説明している。"
+  },
+  {
+    "id": "v-mega-standard-0308",
+    "type": "vocab",
+    "level": "standard",
+    "word": "manifest",
+    "meaning": "明らかにする・明白な",
+    "pos": "v",
+    "explanation": "manifest：明らかにする・明白な",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "The benefits of the new system became manifest after several months of use.",
+    "exampleJa": "この文では「明らかにする・明白な」という動作を表している。"
+  },
+  {
+    "id": "v-standard-ngsl-1894-0510",
+    "type": "vocab",
+    "level": "standard",
+    "word": "manufacturer",
+    "meaning": "製造業者",
+    "pos": "n",
+    "question": "manufacturer",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "製造業者",
+    "explanation": "",
+    "definitionEn": "a company that manufactures something",
+    "frequencyRank": 1894,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The manufacturer played an important role in the discussion.",
+    "exampleJa": "製造業者は、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "v-standard-ngsl-1210-0069",
+    "type": "vocab",
+    "level": "standard",
+    "word": "map",
+    "meaning": "地図",
+    "pos": "n",
+    "question": "map",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "地図",
+    "explanation": "",
+    "definitionEn": "a picture or chart that shows the rivers, mountains, streets, etc., in a particular area",
+    "frequencyRank": 1210,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the map in detail.",
+    "exampleJa": "その報告書は地図について詳しく説明している。"
+  },
+  {
+    "id": "ngsl-2451",
+    "type": "vocab",
+    "word": "march",
+    "meaning": "行進",
+    "pos": "v",
+    "level": "standard",
+    "rank": 2451,
+    "definition": "to walk with regular steps as a group : to walk in the regular and organized way of soldiers",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "Many people march differently when the situation changes.",
+    "exampleJa": "状況が変化すると、多くの人はそれぞれ異なる行進方をする。"
+  },
+  {
+    "id": "ngsl-2391",
+    "type": "vocab",
+    "word": "margin",
+    "meaning": "余白",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2391,
+    "definition": "the edge or border of a page on above, below",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The margin played an important role in the discussion.",
+    "exampleJa": "余白は、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "v-standard-ngsl-1246-0090",
+    "type": "vocab",
+    "level": "standard",
+    "word": "marriage",
+    "meaning": "結婚",
+    "pos": "n",
+    "question": "marriage",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "結婚",
+    "explanation": "",
+    "definitionEn": "the relationship that exists between a husband and a wife",
+    "frequencyRank": 1246,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the marriage in detail.",
+    "exampleJa": "その報告書は結婚について詳しく説明している。"
+  },
+  {
+    "id": "v-standard-ngsl-1234-0082",
+    "type": "vocab",
+    "level": "standard",
+    "word": "mass",
+    "meaning": "巨大",
+    "pos": "n",
+    "question": "mass",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "巨大",
+    "explanation": "",
+    "definitionEn": "a usually large amount of a substance that has no particular shape",
+    "frequencyRank": 1234,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The committee considered the mass before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、巨大を検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1921-0527",
+    "type": "vocab",
+    "level": "standard",
+    "word": "massive",
+    "meaning": "巨大な",
+    "pos": "adj",
+    "question": "massive",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "巨大な",
+    "explanation": "",
+    "definitionEn": "very big",
+    "frequencyRank": 1921,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The researchers considered the massive option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、巨大なという選択肢を検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1554-0282",
+    "type": "vocab",
+    "level": "standard",
+    "word": "master",
+    "meaning": "管理人",
+    "pos": "n",
+    "question": "master",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "管理人",
+    "explanation": "",
+    "definitionEn": "someone who has control or power over others",
+    "frequencyRank": 1554,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The master explained the situation to the committee.",
+    "exampleJa": "管理人は委員会にその状況を説明した。"
+  },
+  {
+    "id": "ngsl-2286",
+    "type": "vocab",
+    "word": "mate",
+    "meaning": "仲間",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2286,
+    "definition": "a friend; an animal's sexual partner",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The committee considered the mate before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、仲間を検討した。"
+  },
+  {
+    "id": "v-mega-hard-0090",
+    "type": "vocab",
+    "level": "standard",
+    "word": "mathematics",
+    "meaning": "数学",
+    "pos": "n",
+    "question": "mathematics",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "数学",
+    "explanation": "mathematics：数学",
+    "definitionEn": "the study or science of numbers and shapes",
+    "frequencyRank": 1925,
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage",
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "The study measured the mathematics for each group.",
+    "exampleJa": "その研究では、各グループの数学を測定した。",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "levelTags": [
+      "standard",
+      "hard"
+    ]
+  },
+  {
+    "id": "v-mega-standard-0063",
+    "type": "vocab",
+    "level": "standard",
+    "word": "mature",
+    "meaning": "成熟した・成熟する",
+    "pos": "adj",
+    "explanation": "mature：成熟した・成熟する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The fruit is mature enough to harvest when its color changes.",
+    "exampleJa": "この文では、その状態が成熟した・成熟するであることを表している。"
+  },
+  {
+    "id": "v-developed-03-maximize",
+    "type": "vocab",
+    "level": "standard",
+    "word": "maximize",
+    "meaning": "最大化する",
+    "pos": "v",
+    "explanation": "",
+    "family": "maximization",
+    "synonyms": [
+      "increase",
+      "optimize"
+    ],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "developed",
+      "v",
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "question": "maximize",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "最大化する",
+    "exampleSentence": "The team worked together to maximize the issue.",
+    "exampleJa": "チームはその問題を最大化するために協力した。",
+    "note": "重要語。意味だけでなく文脈で覚える。maximize の派生語: maximization.",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ]
+  },
+  {
+    "id": "ngsl-2775",
+    "type": "vocab",
+    "word": "mayor",
+    "meaning": "市長",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2775,
+    "definition": "the person who is elected to be the leader of the group that governs a town or city",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The mayor played an important role in the discussion.",
+    "exampleJa": "市長は、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "v-standard-ngsl-1248-0092",
+    "type": "vocab",
+    "level": "standard",
+    "word": "meal",
+    "meaning": "ご飯",
+    "pos": "n",
+    "question": "meal",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "ご飯",
+    "explanation": "",
+    "definitionEn": "the foods eaten or prepared for eating at one time",
+    "frequencyRank": 1248,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the meal in detail.",
+    "exampleJa": "その報告書はご飯について詳しく説明している。"
+  },
+  {
+    "id": "v-curated-3921",
+    "type": "vocab",
+    "level": "standard",
+    "word": "meaningful",
+    "meaning": "意味のある",
+    "pos": "adj",
+    "question": "meaningful",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "意味のある",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The report describes the meaningful characteristics of the system.",
+    "exampleJa": "その報告書は、システムの意味のあるという特徴を説明している。"
+  },
+  {
+    "id": "v-standard-ngsl-1751-0418",
+    "type": "vocab",
+    "level": "standard",
+    "word": "meanwhile",
+    "meaning": "その間に",
+    "pos": "adv",
+    "question": "meanwhile",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "その間に",
+    "explanation": "",
+    "definitionEn": "at or during the same time : in the meantime",
+    "frequencyRank": 1751,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The researchers meanwhile reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちはその間にして、研究結果を公表する前に証拠を再検討した。"
+  },
+  {
+    "id": "v-standard-03-measure",
+    "type": "vocab",
+    "level": "standard",
+    "word": "measure",
+    "meaning": "措置・測定",
+    "pos": "n",
+    "question": "measure",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "措置・測定",
+    "explanation": "",
+    "exampleSentence": "The report describes the measure in detail.",
+    "exampleJa": "その報告書は措置・測定について詳しく説明している。",
+    "family": "measurement",
+    "synonyms": [
+      "step",
+      "action"
+    ],
+    "tags": [
+      "standard",
+      "n"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。measure の派生語: measurement."
+  },
+  {
+    "id": "ngsl-2429",
+    "type": "vocab",
+    "word": "measurement",
+    "meaning": "測定、寸法",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2429,
+    "definition": "the process of measuring something; the size and shape of something",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The committee considered the measurement before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、測定、寸法を検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1867-0494",
+    "type": "vocab",
+    "level": "standard",
+    "word": "meat",
+    "meaning": "肉",
+    "pos": "n",
+    "question": "meat",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "肉",
+    "explanation": "",
+    "definitionEn": "the flesh of an animal used as food",
+    "frequencyRank": 1867,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The meat played an important role in the discussion.",
+    "exampleJa": "肉は、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "v-curated-2990",
+    "type": "vocab",
+    "level": "standard",
+    "word": "mechanical",
+    "meaning": "機械の・機械的な",
+    "pos": "adj",
+    "question": "mechanical",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "機械の・機械的な",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The team chose a mechanical approach to the problem.",
+    "exampleJa": "チームはその問題に対して機械の・機械的な方法を選んだ。"
+  },
+  {
+    "id": "v-mega-developed-0015",
+    "type": "vocab",
+    "level": "standard",
+    "word": "mechanism",
+    "meaning": "仕組み・機構",
+    "pos": "n",
+    "question": "mechanism",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "メカニズム",
+    "explanation": "mechanism：仕組み・機構",
+    "definitionEn": "a piece of machinery : a mechanical part or group of parts having a particular function",
+    "frequencyRank": 1860,
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage",
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "The committee reviewed the mechanism before approving the plan.",
+    "exampleJa": "この文は「仕組み・機構」という内容を表している。",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "levelTags": [
+      "standard",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-mega-standard-0065",
+    "type": "vocab",
+    "level": "standard",
+    "word": "mediate",
+    "meaning": "仲介する",
+    "pos": "v",
+    "explanation": "mediate：仲介する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "hard"
+    ],
+    "exampleSentence": "The company plans to mediate the new system next year.",
+    "exampleJa": "その会社は来年、新しいシステムを仲介する予定だ。"
+  },
+  {
+    "id": "v-curated-0289",
+    "type": "vocab",
+    "level": "standard",
+    "word": "mend",
+    "meaning": "修理する",
+    "pos": "v",
+    "question": "mend",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "修理する",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The researchers need to mend the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を修理する必要がある。"
+  },
+  {
+    "id": "ngsl-2594",
+    "type": "vocab",
+    "word": "menu",
+    "meaning": "お品書き",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2594,
+    "definition": "a list of food and drinks that you can order in a restaurant; a list of choices on a computer or electronic device",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The committee considered the menu before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、お品書きを検討した。"
+  },
+  {
+    "id": "ngsl-2579",
+    "type": "vocab",
+    "word": "mere",
+    "meaning": "ほんの",
+    "pos": "adj",
+    "level": "standard",
+    "rank": 2579,
+    "definition": "used to say that something is small, unimportant, etc.",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "The researchers considered the mere option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、ほんのという選択肢を検討した。"
+  },
+  {
+    "id": "v-mega-standard-0139",
+    "type": "vocab",
+    "level": "standard",
+    "word": "merely",
+    "meaning": "単に",
+    "pos": "adv",
+    "explanation": "merely：単に",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The researchers merely reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは単にして、研究結果を公表する前に証拠を再検討した。"
+  },
+  {
+    "id": "ngsl-2380",
+    "type": "vocab",
+    "word": "mess",
+    "meaning": "乱雑、混乱",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2380,
+    "definition": "Someone or something that is a mess, or is in a mess, is dirty or untidy; a confused or difficult situation",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The committee considered the mess before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、乱雑、混乱を検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1832-0466",
+    "type": "vocab",
+    "level": "standard",
+    "word": "metal",
+    "meaning": "金属",
+    "pos": "n",
+    "question": "metal",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "金属",
+    "explanation": "",
+    "definitionEn": "a substance (such as gold, tin, or copper) that usually has a shiny appearance, is a good conductor of electricity and heat, can be melted, and is usually capable of being shaped",
+    "frequencyRank": 1832,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The metal played an important role in the discussion.",
+    "exampleJa": "金属は、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "v-standard-ngsl-2110-0654",
+    "type": "vocab",
+    "level": "standard",
+    "word": "meter",
+    "meaning": "メーター",
+    "pos": "n",
+    "question": "meter",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "メーター",
+    "explanation": "",
+    "definitionEn": "a piece of equipment for measuring the amount of something such as electricity, time, or light",
+    "frequencyRank": 2110,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the meter in detail.",
+    "exampleJa": "その報告書はメーターについて詳しく説明している。"
+  },
+  {
+    "id": "v-standard-120",
+    "type": "vocab",
+    "level": "standard",
+    "word": "method",
+    "meaning": "方法",
+    "question": "method",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "能力がある",
+        "correct": false
+      },
+      {
+        "text": "方法",
+        "correct": true
+      },
+      {
+        "text": "個人・個々の",
+        "correct": false
+      },
+      {
+        "text": "利用できる",
+        "correct": false
+      }
+    ],
+    "answer": "方法",
+    "explanation": "method = 方法。例：a useful method",
+    "exampleSentence": "The report describes the method characteristics of the system.",
+    "exampleJa": "その報告書は、システムの方法という特徴を説明している。",
+    "pos": "n"
+  },
+  {
+    "id": "v-mega-standard-0066",
+    "type": "vocab",
+    "level": "standard",
+    "word": "migrate",
+    "meaning": "移動する・移住する",
+    "pos": "v",
+    "explanation": "migrate：移動する・移住する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "The company plans to migrate the new system next year.",
+    "exampleJa": "その会社は来年、新しいシステムを移動する・移住する予定だ。"
+  },
+  {
+    "id": "v-standard-ngsl-1787-0441",
+    "type": "vocab",
+    "level": "standard",
+    "word": "milk",
+    "meaning": "牛乳,ミルク",
+    "pos": "n",
+    "question": "milk",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "牛乳,ミルク",
+    "explanation": "",
+    "definitionEn": "a white liquid produced by a woman to feed her baby or by female animals to feed their young",
+    "frequencyRank": 1787,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the milk in detail.",
+    "exampleJa": "その報告書は牛乳,ミルクについて詳しく説明している。"
+  },
+  {
+    "id": "v-mega-standard-0124",
+    "type": "vocab",
+    "level": "standard",
+    "word": "minimal",
+    "meaning": "最小限の",
+    "pos": "adj",
+    "explanation": "minimal：最小限の",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The report describes the minimal characteristics of the system.",
+    "exampleJa": "その報告書は、システムの最小限のという特徴を説明している。"
+  },
+  {
+    "id": "v-developed-03-minimize",
+    "type": "vocab",
+    "level": "standard",
+    "word": "minimize",
+    "meaning": "最小限にする",
+    "pos": "v",
+    "explanation": "",
+    "family": "minimization",
+    "synonyms": [
+      "reduce",
+      "limit"
+    ],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "developed",
+      "v",
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "question": "minimize",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "最小限にする",
+    "exampleSentence": "The company plans to minimize the new system next year.",
+    "exampleJa": "その会社は来年、新しいシステムを最小限にする予定だ。",
+    "note": "重要語。意味だけでなく文脈で覚える。minimize の派生語: minimization.",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1435-0208",
+    "type": "vocab",
+    "level": "standard",
+    "word": "minister",
+    "meaning": "大臣",
+    "pos": "n",
+    "question": "minister",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "大臣",
+    "explanation": "",
+    "definitionEn": "an official who heads a government department or a major section of a department in some countries",
+    "frequencyRank": 1435,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the minister in detail.",
+    "exampleJa": "その報告書は大臣について詳しく説明している。"
+  },
+  {
+    "id": "ngsl-2203",
+    "type": "vocab",
+    "word": "mirror",
+    "meaning": "鏡",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2203,
+    "definition": "a piece of glass with a shiny metallic material on one side which produces an image of anything that is in front of it",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The committee considered the mirror before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、鏡を検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1689-0373",
+    "type": "vocab",
+    "level": "standard",
+    "word": "mission",
+    "meaning": "任務",
+    "pos": "n",
+    "question": "mission",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "任務",
+    "explanation": "",
+    "definitionEn": "an important job, usually traveling somewhere",
+    "frequencyRank": 1689,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The mission played an important role in the discussion.",
+    "exampleJa": "任務は、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "ngsl-2517",
+    "type": "vocab",
+    "word": "mixture",
+    "meaning": "混合物",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2517,
+    "definition": "something made by combining two or more ingredients",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The report describes the mixture in detail.",
+    "exampleJa": "その報告書は混合物について詳しく説明している。"
+  },
+  {
+    "id": "ngsl-2202",
+    "type": "vocab",
+    "word": "mode",
+    "meaning": "方法",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2202,
+    "definition": "a particular form, way or type of something",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The committee reviewed the mode before approving the plan.",
+    "exampleJa": "この文は「方法」という内容を表している。"
+  },
+  {
+    "id": "ngsl-2346",
+    "type": "vocab",
+    "word": "moderate",
+    "meaning": "適度の",
+    "pos": "adj",
+    "level": "standard",
+    "rank": 2346,
+    "definition": "average in size or amount;  neither too much nor too little",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The researchers considered the moderate option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、適度のという選択肢を検討した。"
+  },
+  {
+    "id": "v-curated-2491",
+    "type": "vocab",
+    "level": "standard",
+    "word": "moderately",
+    "meaning": "適度に",
+    "pos": "adv",
+    "question": "moderately",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "適度に",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The researchers moderately reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは適度にして、研究結果を公表する前に証拠を再検討した。"
+  },
+  {
+    "id": "v-mega-standard-0335",
+    "type": "vocab",
+    "level": "standard",
+    "word": "modern",
+    "meaning": "現代の・現代的な",
+    "pos": "adj",
+    "explanation": "modern：現代の・現代的な",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "The report describes the modern characteristics of the system.",
+    "exampleJa": "その報告書は、システムの現代の・現代的なという特徴を説明している。"
+  },
+  {
+    "id": "v-mega-standard-0340",
+    "type": "vocab",
+    "level": "standard",
+    "word": "modest",
+    "meaning": "謙虚な・適度な",
+    "pos": "adj",
+    "explanation": "modest：謙虚な・適度な",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "The researchers considered the modest option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、謙虚な・適度なという選択肢を検討した。"
+  },
+  {
+    "id": "v-curated-2891",
+    "type": "vocab",
+    "level": "standard",
+    "word": "modification",
+    "meaning": "修正・変更",
+    "pos": "n",
+    "question": "modification",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "修正・変更",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The report describes the modification in detail.",
+    "exampleJa": "その報告書は修正・変更について詳しく説明している。"
+  },
+  {
+    "id": "v-mega-standard-0067",
+    "type": "vocab",
+    "level": "standard",
+    "word": "modify",
+    "meaning": "修正する",
+    "pos": "v",
+    "explanation": "modify：修正する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The team worked together to modify the issue.",
+    "exampleJa": "チームはその問題を修正するために協力した。"
+  },
+  {
+    "id": "ngsl-2785",
+    "type": "vocab",
+    "word": "module",
+    "meaning": "モジュール",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2785,
+    "definition": "a part of an object that can operate alone, especially a part of a spacecraft; part of a course or a textbook",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The module played an important role in the discussion.",
+    "exampleJa": "モジュールは、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "v-mega-standard-0254",
+    "type": "vocab",
+    "level": "standard",
+    "word": "molecule",
+    "meaning": "分子",
+    "pos": "n",
+    "explanation": "molecule：分子",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "The report describes the molecule in detail.",
+    "exampleJa": "その報告書は分子について詳しく説明している。"
+  },
+  {
+    "id": "v-standard-ngsl-2129-0668",
+    "type": "vocab",
+    "level": "standard",
+    "word": "mom",
+    "meaning": "まま",
+    "pos": "n",
+    "question": "mom",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "まま",
+    "explanation": "",
+    "definitionEn": "mother",
+    "frequencyRank": 2129,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The committee considered the mom before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、ままを検討した。"
+  },
+  {
+    "id": "v-mega-standard-0068",
+    "type": "vocab",
+    "level": "standard",
+    "word": "monitor",
+    "meaning": "監視する",
+    "pos": "v",
+    "explanation": "monitor：監視する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The company plans to monitor the new system next year.",
+    "exampleJa": "その会社は来年、新しいシステムを監視する予定だ。"
+  },
+  {
+    "id": "ngsl-2735",
+    "type": "vocab",
+    "word": "monthly",
+    "meaning": "月１",
+    "pos": "adj",
+    "level": "standard",
+    "rank": 2735,
+    "definition": "happening or produced once a month",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The team chose a monthly approach to the problem.",
+    "exampleJa": "チームはその問題に対して月１な方法を選んだ。"
+  },
+  {
+    "id": "v-standard-ngsl-2064-0623",
+    "type": "vocab",
+    "level": "standard",
+    "word": "mood",
+    "meaning": "気分",
+    "pos": "n",
+    "question": "mood",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "気分",
+    "explanation": "",
+    "definitionEn": "the way someone feels at a particular time",
+    "frequencyRank": 2064,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The committee considered the mood before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、気分を検討した。"
+  },
+  {
+    "id": "ngsl-2596",
+    "type": "vocab",
+    "word": "moon",
+    "meaning": "月",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2596,
+    "definition": "the large round object that circles the Earth and that shines at night by reflecting light from the sun",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The project was completed within the moon.",
+    "exampleJa": "この文は「月」という内容を表している。"
+  },
+  {
+    "id": "v-standard-ngsl-1401-0185",
+    "type": "vocab",
+    "level": "standard",
+    "word": "moreover",
+    "meaning": "そのうえに",
+    "pos": "adv",
+    "question": "moreover",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "そのうえに",
+    "explanation": "",
+    "definitionEn": "in addition to what has been said",
+    "frequencyRank": 1401,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The researchers moreover reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちはそのうえにして、研究結果を公表する前に証拠を再検討した。"
+  },
+  {
+    "id": "ngsl-2441",
+    "type": "vocab",
+    "word": "mortgage",
+    "meaning": "抵当",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2441,
+    "definition": "money that you borrow to buy a home",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The committee considered the mortgage before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、抵当を検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1846-0478",
+    "type": "vocab",
+    "level": "standard",
+    "word": "motion",
+    "meaning": "動き",
+    "pos": "n",
+    "question": "motion",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "動き",
+    "explanation": "",
+    "definitionEn": "an act or process of moving",
+    "frequencyRank": 1846,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The motion played an important role in the discussion.",
+    "exampleJa": "動きは、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "ngsl-2408",
+    "type": "vocab",
+    "word": "motor",
+    "meaning": "モーター",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2408,
+    "definition": "a machine that produces motion or power for doing work",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The report describes the motor in detail.",
+    "exampleJa": "その報告書はモーターについて詳しく説明している。"
+  },
+  {
+    "id": "ngsl-2331",
+    "type": "vocab",
+    "word": "mount",
+    "meaning": "上がる",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2331,
+    "definition": "to increase in amount or level",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The committee considered the mount before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、上がるを検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1243-0087",
+    "type": "vocab",
+    "level": "standard",
+    "word": "mountain",
+    "meaning": "山",
+    "pos": "n",
+    "question": "mountain",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "山",
+    "explanation": "",
+    "definitionEn": "an area of land that rises very high above the land around it and that is higher than a hill",
+    "frequencyRank": 1243,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The mountain played an important role in the discussion.",
+    "exampleJa": "山は、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "v-standard-ngsl-1924-0528",
+    "type": "vocab",
+    "level": "standard",
+    "word": "mouse",
+    "meaning": "鼠",
+    "pos": "n",
+    "question": "mouse",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "鼠",
+    "explanation": "",
+    "definitionEn": "a very small animal that has a pointed nose and a long, thin tail",
+    "frequencyRank": 1924,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the mouse in detail.",
+    "exampleJa": "その報告書は鼠について詳しく説明している。"
+  },
+  {
+    "id": "v-standard-ngsl-1437-0210",
+    "type": "vocab",
+    "level": "standard",
+    "word": "mouth",
+    "meaning": "口",
+    "pos": "n",
+    "question": "mouth",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "口",
+    "explanation": "",
+    "definitionEn": "the opening through which food passes into the body",
+    "frequencyRank": 1437,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The committee considered the mouth before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、口を検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1374-0168",
+    "type": "vocab",
+    "level": "standard",
+    "word": "murder",
+    "meaning": "殺人犯",
+    "pos": "n",
+    "question": "murder",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "殺人犯",
+    "explanation": "",
+    "definitionEn": "the crime of deliberately killing a person",
+    "frequencyRank": 1374,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The murder spoke with the students after the meeting.",
+    "exampleJa": "殺人犯は会議後に学生たちと話した。"
+  },
+  {
+    "id": "v-standard-ngsl-2153-0686",
+    "type": "vocab",
+    "level": "standard",
+    "word": "muscle",
+    "meaning": "筋肉",
+    "pos": "n",
+    "question": "muscle",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "筋肉",
+    "explanation": "",
+    "definitionEn": "one of many pieces of tissue in the body that are connected to bones and which produce movement by becoming longer or shorter",
+    "frequencyRank": 2153,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the muscle in detail.",
+    "exampleJa": "その報告書は筋肉について詳しく説明している。"
+  },
+  {
+    "id": "v-standard-ngsl-1395-0181",
+    "type": "vocab",
+    "level": "standard",
+    "word": "museum",
+    "meaning": "美術館",
+    "pos": "n",
+    "question": "museum",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "美術館",
+    "explanation": "",
+    "definitionEn": "a building where you can look at important objects connected with art, history, or science",
+    "frequencyRank": 1395,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The committee considered the museum before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、美術館を検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1628-0331",
+    "type": "vocab",
+    "level": "standard",
+    "word": "musical",
+    "meaning": "音楽の、音楽の才能がある",
+    "pos": "adj",
+    "question": "musical",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "音楽の、音楽の才能がある",
+    "explanation": "",
+    "definitionEn": "relating to music; skilled at music",
+    "frequencyRank": 1628,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The researchers considered the musical option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、音楽の、音楽の才能があるという選択肢を検討した。"
+  },
+  {
+    "id": "ngsl-2348",
+    "type": "vocab",
+    "word": "musician",
+    "meaning": "ミュージシャン",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2348,
+    "definition": "a person who writes, sings, or plays music",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The report describes the musician in detail.",
+    "exampleJa": "その報告書はミュージシャンについて詳しく説明している。"
+  },
+  {
+    "id": "v-mega-standard-0069",
+    "type": "vocab",
+    "level": "standard",
+    "word": "mutual",
+    "meaning": "相互の",
+    "pos": "adj",
+    "explanation": "mutual：相互の",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The two countries reached a mutual agreement to share scientific data.",
+    "exampleJa": "この文では、その状態が相互のであることを表している。"
+  },
+  {
+    "id": "ngsl-2590",
+    "type": "vocab",
+    "word": "mystery",
+    "meaning": "謎",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2590,
+    "definition": "something that is not known",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The mystery played an important role in the discussion.",
+    "exampleJa": "謎は、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "ngsl-2621",
+    "type": "vocab",
+    "word": "narrative",
+    "meaning": "物語",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2621,
+    "definition": "a story or description of a series of events",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The report describes the narrative in detail.",
+    "exampleJa": "その報告書は物語について詳しく説明している。"
+  },
+  {
+    "id": "v-standard-ngsl-1583-0300",
+    "type": "vocab",
+    "level": "standard",
+    "word": "narrow",
+    "meaning": "狭い",
+    "pos": "adj",
+    "question": "narrow",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "狭い",
+    "explanation": "",
+    "definitionEn": "long and not wide : small from one side to the other side",
+    "frequencyRank": 1583,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the narrow characteristics of the system.",
+    "exampleJa": "その報告書は、システムの狭いという特徴を説明している。"
+  },
+  {
+    "id": "v-standard-ngsl-1637-0337",
+    "type": "vocab",
+    "level": "standard",
+    "word": "native",
+    "meaning": "母国",
+    "pos": "adj",
+    "question": "native",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "母国",
+    "explanation": "",
+    "definitionEn": "born in a particular place",
+    "frequencyRank": 1637,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The researchers considered the native option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、母国という選択肢を検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1893-0509",
+    "type": "vocab",
+    "level": "standard",
+    "word": "nearby",
+    "meaning": "近くの",
+    "pos": "adj",
+    "question": "nearby",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "近くの",
+    "explanation": "",
+    "definitionEn": "not far away",
+    "frequencyRank": 1893,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The team chose a nearby approach to the problem.",
+    "exampleJa": "チームはその問題に対して近くのな方法を選んだ。"
+  },
+  {
+    "id": "v-mega-hard-0079",
+    "type": "vocab",
+    "level": "standard",
+    "word": "necessarily",
+    "meaning": "必ずしも・必然的に",
+    "pos": "adv",
+    "question": "necessarily",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "必ずしも",
+    "explanation": "necessarily：必ずしも・必然的に",
+    "definitionEn": "(esp. in negatives) in all cases; as an expected result",
+    "frequencyRank": 1507,
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "The researchers necessarily reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは必ずしも・必然的にして、研究結果を公表する前に証拠を再検討した。",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1950-0545",
+    "type": "vocab",
+    "level": "standard",
+    "word": "neck",
+    "meaning": "首",
+    "pos": "n",
+    "question": "neck",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "首",
+    "explanation": "",
+    "definitionEn": "the part of the body between the head and the shoulders",
+    "frequencyRank": 1950,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The neck played an important role in the discussion.",
+    "exampleJa": "首は、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "v-mega-standard-0070",
+    "type": "vocab",
+    "level": "standard",
+    "word": "neglect",
+    "meaning": "怠る・放置する",
+    "pos": "v",
+    "explanation": "neglect：怠る・放置する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "The researchers need to neglect the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を怠る・放置する必要がある。"
+  },
+  {
+    "id": "v-developed-03-negotiate",
+    "type": "vocab",
+    "level": "standard",
+    "word": "negotiate",
+    "meaning": "交渉する",
+    "pos": "v",
+    "question": "negotiate",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "交渉する",
+    "explanation": "",
+    "definitionEn": "to try to make or change an agreement by discussion",
+    "frequencyRank": 2000,
+    "tags": [
+      "developed",
+      "v",
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The team worked together to negotiate the issue.",
+    "exampleJa": "チームはその問題を交渉するために協力した。",
+    "family": "negotiation",
+    "synonyms": [
+      "bargain",
+      "discuss"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。negotiate の派生語: negotiation.",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1692-0375",
+    "type": "vocab",
+    "level": "standard",
+    "word": "neighborhood",
+    "meaning": "隣人",
+    "pos": "n",
+    "question": "neighborhood",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "隣人",
+    "explanation": "",
+    "definitionEn": "the people who live near each other or a section of a town or city",
+    "frequencyRank": 1692,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The neighborhood spoke with the students after the meeting.",
+    "exampleJa": "隣人は会議後に学生たちと話した。"
+  },
+  {
+    "id": "v-standard-ngsl-1214-0071",
+    "type": "vocab",
+    "level": "standard",
+    "word": "neither",
+    "meaning": "どちらも～ない",
+    "pos": "adv",
+    "question": "neither",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "どちらも～ない",
+    "explanation": "",
+    "definitionEn": "not one or the other of two people or things",
+    "frequencyRank": 1214,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The researchers neither reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちはどちらも～ないして、研究結果を公表する前に証拠を再検討した。"
+  },
+  {
+    "id": "ngsl-2673",
+    "type": "vocab",
+    "word": "nerve",
+    "meaning": "神経",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2673,
+    "definition": "one of the threads in your body which carry messages between your brain and other parts of the body",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The committee considered the nerve before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、神経を検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-2076-0633",
+    "type": "vocab",
+    "level": "standard",
+    "word": "nervous",
+    "meaning": "緊張する",
+    "pos": "adj",
+    "question": "nervous",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "緊張する",
+    "explanation": "",
+    "definitionEn": "worried and anxious",
+    "frequencyRank": 2076,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The researchers considered the nervous option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、緊張するという選択肢を検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1189-0056",
+    "type": "vocab",
+    "level": "standard",
+    "word": "net",
+    "meaning": "網",
+    "pos": "adj",
+    "question": "net",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "網",
+    "explanation": "",
+    "definitionEn": "a device that is used for catching or holding things or for keeping things out of a space and that is made of pieces of string, rope, wire, etc., woven together with spaces in between",
+    "frequencyRank": 1189,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The team chose a net approach to the problem.",
+    "exampleJa": "チームはその問題に対して網な方法を選んだ。"
+  },
+  {
+    "id": "v-mega-standard-0180",
+    "type": "vocab",
+    "level": "standard",
+    "word": "neutral",
+    "meaning": "中立の",
+    "pos": "adj",
+    "explanation": "neutral：中立の",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The report describes the neutral characteristics of the system.",
+    "exampleJa": "その報告書は、システムの中立のという特徴を説明している。"
+  },
+  {
+    "id": "ngsl-2276",
+    "type": "vocab",
+    "word": "newly",
+    "meaning": "新たに",
+    "pos": "adv",
+    "level": "standard",
+    "rank": 2276,
+    "definition": "recently",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The researchers newly reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは新たにして、研究結果を公表する前に証拠を再検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1101-0001",
+    "type": "vocab",
+    "level": "standard",
+    "word": "nobody",
+    "meaning": "だれも～ない",
+    "pos": "pron",
+    "question": "nobody",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "だれも～ない",
+    "explanation": "",
+    "definitionEn": "no person, no one",
+    "frequencyRank": 1101,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "Nobody noticed the error until the report was published.",
+    "exampleJa": "この文では「だれもない」という意味・用法で使われている。"
+  },
+  {
+    "id": "v-standard-ngsl-1438-0211",
+    "type": "vocab",
+    "level": "standard",
+    "word": "noise",
+    "meaning": "騒音",
+    "pos": "n",
+    "question": "noise",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "騒音",
+    "explanation": "",
+    "definitionEn": "a loud or unpleasant sound",
+    "frequencyRank": 1438,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The committee considered the noise before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、騒音を検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1203-0066",
+    "type": "vocab",
+    "level": "standard",
+    "word": "north",
+    "meaning": "北",
+    "pos": "n",
+    "question": "north",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "北",
+    "explanation": "",
+    "definitionEn": "the direction that is to your left when you are facing the rising sun",
+    "frequencyRank": 1203,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The north played an important role in the discussion.",
+    "exampleJa": "北は、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "v-standard-ngsl-1768-0428",
+    "type": "vocab",
+    "level": "standard",
+    "word": "northern",
+    "meaning": "北の",
+    "pos": "adj",
+    "question": "northern",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "北の",
+    "explanation": "",
+    "definitionEn": "located in or toward the north",
+    "frequencyRank": 1768,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The team chose a northern approach to the problem.",
+    "exampleJa": "チームはその問題に対して北のな方法を選んだ。"
+  },
+  {
+    "id": "v-standard-ngsl-2112-0656",
+    "type": "vocab",
+    "level": "standard",
+    "word": "nose",
+    "meaning": "鼻",
+    "pos": "n",
+    "question": "nose",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "鼻",
+    "explanation": "",
+    "definitionEn": "the part of the face or head through which a person or animal smells and breathes",
+    "frequencyRank": 2112,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The committee considered the nose before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、鼻を検討した。"
+  },
+  {
+    "id": "v-mega-standard-0181",
+    "type": "vocab",
+    "level": "standard",
+    "word": "notable",
+    "meaning": "注目すべき",
+    "pos": "adj",
+    "explanation": "notable：注目すべき",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "The researchers considered the notable option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、注目すべきという選択肢を検討した。"
+  },
+  {
+    "id": "v-mega-standard-0140",
+    "type": "vocab",
+    "level": "standard",
+    "word": "notably",
+    "meaning": "特に",
+    "pos": "adv",
+    "explanation": "notably：特に",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "The researchers notably reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは特にして、研究結果を公表する前に証拠を再検討した。"
+  },
+  {
+    "id": "v-curated-0729",
+    "type": "vocab",
+    "level": "standard",
+    "word": "notification",
+    "meaning": "通知",
+    "pos": "n",
+    "question": "notification",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "通知",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The committee considered the notification before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、通知を検討した。"
+  },
+  {
+    "id": "v-mega-standard-0071",
+    "type": "vocab",
+    "level": "standard",
+    "word": "notion",
+    "meaning": "考え・概念",
+    "pos": "n",
+    "explanation": "notion：考え・概念",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "The article explores the notion in modern society.",
+    "exampleJa": "この文は「考え・概念」という内容を表している。"
+  },
+  {
+    "id": "ngsl-2792",
+    "type": "vocab",
+    "word": "noun",
+    "meaning": "名詞",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2792,
+    "definition": "a word that is the name of something (such as a person, animal, place, thing, quality, idea, or action) and is typically used in a sentence as subject or object of a verb or as object of a preposition",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The report describes the noun in detail.",
+    "exampleJa": "その報告書は名詞について詳しく説明している。"
+  },
+  {
+    "id": "ngsl-2208",
+    "type": "vocab",
+    "word": "nowadays",
+    "meaning": "最近は",
+    "pos": "adv",
+    "level": "standard",
+    "rank": 2208,
+    "definition": "at the present time",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The researchers nowadays reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは最近はして、研究結果を公表する前に証拠を再検討した。"
+  },
+  {
+    "id": "ngsl-2635",
+    "type": "vocab",
+    "word": "nowhere",
+    "meaning": "どこにも～ない",
+    "pos": "adv",
+    "level": "standard",
+    "rank": 2635,
+    "definition": "not in or at any place",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The researchers nowhere reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちはどこにも～ないして、研究結果を公表する前に証拠を再検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1196-0061",
+    "type": "vocab",
+    "level": "standard",
+    "word": "nuclear",
+    "meaning": "核",
+    "pos": "adj",
+    "question": "nuclear",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "核",
+    "explanation": "",
+    "definitionEn": "relating to atomic power",
+    "frequencyRank": 1196,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The team chose a nuclear approach to the problem.",
+    "exampleJa": "チームはその問題に対して核な方法を選んだ。"
+  },
+  {
+    "id": "v-standard-ngsl-2067-0626",
+    "type": "vocab",
+    "level": "standard",
+    "word": "numerous",
+    "meaning": "夥しい数の",
+    "pos": "adj",
+    "question": "numerous",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "夥しい数の",
+    "explanation": "",
+    "definitionEn": "existing in large numbers",
+    "frequencyRank": 2067,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the numerous characteristics of the system.",
+    "exampleJa": "その報告書は、システムの夥しい数のという特徴を説明している。"
+  },
+  {
+    "id": "v-curated-4188",
+    "type": "vocab",
+    "level": "standard",
+    "word": "nutrition",
+    "meaning": "栄養",
+    "pos": "n",
+    "question": "nutrition",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "栄養",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The nutrition played an important role in the discussion.",
+    "exampleJa": "栄養は、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "v-mega-developed-0016",
+    "type": "vocab",
+    "level": "standard",
+    "word": "objective",
+    "meaning": "客観的な・目的",
+    "pos": "adj",
+    "exampleSentence": "The team chose a objective approach to the problem.",
+    "exampleJa": "チームはその問題に対して客観的な・目的方法を選んだ。",
+    "explanation": "objective：客観的な・目的",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-2135-0672",
+    "type": "vocab",
+    "level": "standard",
+    "word": "obligation",
+    "meaning": "義務",
+    "pos": "n",
+    "question": "obligation",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "義務",
+    "explanation": "",
+    "definitionEn": "something that you do because it is your duty or because you feel you have to",
+    "frequencyRank": 2135,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The committee considered the obligation before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、義務を検討した。"
+  },
+  {
+    "id": "v-mega-standard-0211",
+    "type": "vocab",
+    "level": "standard",
+    "word": "oblige",
+    "meaning": "義務づける",
+    "pos": "v",
+    "explanation": "oblige：義務づける",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "The researchers observed how the situation changed when they oblige.",
+    "exampleJa": "研究者たちは、彼らが義務づけるしたときに状況がどう変化したかを観察した。"
+  },
+  {
+    "id": "v-standard-04-obstacle",
+    "type": "vocab",
+    "level": "standard",
+    "word": "obstacle",
+    "meaning": "障害",
+    "pos": "n",
+    "question": "obstacle",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "障害",
+    "explanation": "",
+    "exampleSentence": "The report describes the obstacle in detail.",
+    "exampleJa": "その報告書は障害について詳しく説明している。",
+    "family": "obstacle;obstacles",
+    "synonyms": [],
+    "tags": [
+      "standard",
+      "n"
+    ],
+    "note": "入試・読解で見かけやすい重要語。",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-mega-standard-0072",
+    "type": "vocab",
+    "level": "standard",
+    "word": "obtain",
+    "meaning": "得る",
+    "pos": "v",
+    "explanation": "obtain：得る",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The team worked together to obtain the issue.",
+    "exampleJa": "チームはその問題を得るするために協力した。"
+  },
+  {
+    "id": "v-mega-standard-0182",
+    "type": "vocab",
+    "level": "standard",
+    "word": "obvious",
+    "meaning": "明らかな",
+    "pos": "adj",
+    "explanation": "obvious：明らかな",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The researchers considered the obvious option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、明らかなという選択肢を検討した。"
+  },
+  {
+    "id": "ngsl-2287",
+    "type": "vocab",
+    "word": "occasionally",
+    "meaning": "たまに",
+    "pos": "adv",
+    "level": "standard",
+    "rank": 2287,
+    "definition": "not happening often",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The researchers occasionally reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちはたまにして、研究結果を公表する前に証拠を再検討した。"
+  },
+  {
+    "id": "v-mega-developed-0098",
+    "type": "vocab",
+    "level": "standard",
+    "word": "occupation",
+    "meaning": "職業・占有",
+    "pos": "n",
+    "exampleSentence": "The committee considered the occupation before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、職業・占有を検討した。",
+    "explanation": "occupation：職業・占有",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "developed"
+    ]
+  },
+  {
+    "id": "v-developed-03-occupy",
+    "type": "vocab",
+    "level": "standard",
+    "word": "occupy",
+    "meaning": "占める・占有する",
+    "pos": "v",
+    "explanation": "",
+    "family": "occupation",
+    "synonyms": [
+      "fill",
+      "inhabit"
+    ],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "developed",
+      "v",
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "question": "occupy",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "占める・占有する",
+    "exampleSentence": "The company plans to occupy the new system next year.",
+    "exampleJa": "その会社は来年、新しいシステムを占める・占有する予定だ。",
+    "note": "重要語。意味だけでなく文脈で覚える。occupy の派生語: occupation.",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-121",
+    "type": "vocab",
+    "level": "standard",
+    "word": "occur",
+    "meaning": "起こる",
+    "question": "occur",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "過程・処理する",
+        "correct": false
+      },
+      {
+        "text": "避ける",
+        "correct": false
+      },
+      {
+        "text": "予測する",
+        "correct": false
+      },
+      {
+        "text": "起こる",
+        "correct": true
+      }
+    ],
+    "answer": "起こる",
+    "explanation": "occur = 起こる。例：an accident occurred",
+    "exampleSentence": "The problem occurred soon after the update was installed.",
+    "exampleJa": "この文では「起こる」という動作を表している。",
+    "pos": "v"
+  },
+  {
+    "id": "ngsl-2668",
+    "type": "vocab",
+    "word": "ocean",
+    "meaning": "海洋",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2668,
+    "definition": "the salt water that covers much of the Earth's surface",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The committee considered the ocean before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、海洋を検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1572-0294",
+    "type": "vocab",
+    "level": "standard",
+    "word": "odd",
+    "meaning": "変な",
+    "pos": "adj",
+    "question": "odd",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "変な",
+    "explanation": "",
+    "definitionEn": "to be strange or different from what is usual or expected",
+    "frequencyRank": 1572,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The researchers considered the odd option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、変なという選択肢を検討した。"
+  },
+  {
+    "id": "ngsl-2342",
+    "type": "vocab",
+    "word": "offense",
+    "meaning": "犯行",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2342,
+    "definition": "a criminal act; something that causes a person to be hurt, angry, or upset",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The report describes the offense in detail.",
+    "exampleJa": "その報告書は犯行について詳しく説明している。"
+  },
+  {
+    "id": "v-curated-1508",
+    "type": "vocab",
+    "level": "standard",
+    "word": "omit",
+    "meaning": "省略する",
+    "pos": "v",
+    "question": "omit",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "省略する",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "The team worked together to omit the issue.",
+    "exampleJa": "チームはその問題を省略するために協力した。"
+  },
+  {
+    "id": "v-mega-standard-0074",
+    "type": "vocab",
+    "level": "standard",
+    "word": "ongoing",
+    "meaning": "進行中の",
+    "pos": "adj",
+    "explanation": "ongoing：進行中の",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The researchers considered the ongoing option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、進行中のという選択肢を検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1792-0445",
+    "type": "vocab",
+    "level": "standard",
+    "word": "online",
+    "meaning": "オンライン",
+    "pos": "adj",
+    "question": "online",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "オンライン",
+    "explanation": "",
+    "definitionEn": "connected to a system of computers, especially the Internet",
+    "frequencyRank": 1792,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The team chose a online approach to the problem.",
+    "exampleJa": "チームはその問題に対してオンラインな方法を選んだ。"
+  },
+  {
+    "id": "v-standard-ngsl-1402-0186",
+    "type": "vocab",
+    "level": "standard",
+    "word": "onto",
+    "meaning": "～の上に",
+    "pos": "prep",
+    "question": "onto",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "～の上に",
+    "explanation": "",
+    "definitionEn": "to a position that is on (something, such as a surface, area, or object)",
+    "frequencyRank": 1402,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The meaning of onto depends on the words that follow it.",
+    "exampleJa": "の上にの意味は、その後に続く語によって決まる。"
+  },
+  {
+    "id": "v-curated-1875",
+    "type": "vocab",
+    "level": "standard",
+    "word": "openly",
+    "meaning": "公然と",
+    "pos": "adv",
+    "question": "openly",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "公然と",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The students openly discussed their concerns with the teacher.",
+    "exampleJa": "この例文では、公然とという意味で使われている。"
+  },
+  {
+    "id": "ngsl-2459",
+    "type": "vocab",
+    "word": "opera",
+    "meaning": "歌劇",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2459,
+    "definition": "a musical play in which most of the words are sung",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The report describes the opera in detail.",
+    "exampleJa": "その報告書は歌劇について詳しく説明している。"
+  },
+  {
+    "id": "ngsl-2327",
+    "type": "vocab",
+    "word": "operator",
+    "meaning": "オペレーター",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2327,
+    "definition": "a person who uses and controls something (such as a machine, device, or business): someone who operates something",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The committee considered the operator before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、オペレーターを検討した。"
+  },
+  {
+    "id": "ngsl-2393",
+    "type": "vocab",
+    "word": "opponent",
+    "meaning": "対戦相手、反対者",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2393,
+    "definition": "someone who you compete against in a game or competition; someone who disagrees with an idea or action",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The opponent played an important role in the discussion.",
+    "exampleJa": "対戦相手、反対者は、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "v-mega-standard-0075",
+    "type": "vocab",
+    "level": "standard",
+    "word": "oppose",
+    "meaning": "反対する",
+    "pos": "v",
+    "explanation": "oppose：反対する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The researchers need to oppose the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を反対する必要がある。"
+  },
+  {
+    "id": "v-standard-ngsl-1371-0165",
+    "type": "vocab",
+    "level": "standard",
+    "word": "opposite",
+    "meaning": "反対",
+    "pos": "adj",
+    "question": "opposite",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "反対",
+    "explanation": "",
+    "definitionEn": "located at the other end, side, or corner of something",
+    "frequencyRank": 1371,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the opposite characteristics of the system.",
+    "exampleJa": "その報告書は、システムの反対という特徴を説明している。"
+  },
+  {
+    "id": "v-standard-ngsl-1620-0327",
+    "type": "vocab",
+    "level": "standard",
+    "word": "opposition",
+    "meaning": "反対",
+    "pos": "n",
+    "question": "opposition",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "反対",
+    "explanation": "",
+    "definitionEn": "actions or opinions that show that you disagree with or disapprove of someone or something",
+    "frequencyRank": 1620,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The opposition played an important role in the discussion.",
+    "exampleJa": "反対は、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "v-curated-2216",
+    "type": "vocab",
+    "level": "standard",
+    "word": "optimism",
+    "meaning": "楽観主義",
+    "pos": "n",
+    "question": "optimism",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "楽観主義",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "She expressed her optimism during the discussion.",
+    "exampleJa": "この文は「楽観主義」という内容を表している。"
+  },
+  {
+    "id": "v-mega-hard-0064",
+    "type": "vocab",
+    "level": "standard",
+    "word": "optimistic",
+    "meaning": "楽観的な",
+    "pos": "adj",
+    "exampleSentence": "The report describes the optimistic characteristics of the system.",
+    "exampleJa": "その報告書は、システムの楽観的なという特徴を説明している。",
+    "explanation": "optimistic：楽観的な",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "ngsl-2497",
+    "type": "vocab",
+    "word": "orange",
+    "meaning": "オレンジ",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2497,
+    "definition": "a citrus fruit that is round and that has an orange skin",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The orange played an important role in the discussion.",
+    "exampleJa": "オレンジは、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "ngsl-2757",
+    "type": "vocab",
+    "word": "organic",
+    "meaning": "有機栽培の",
+    "pos": "adj",
+    "level": "standard",
+    "rank": 2757,
+    "definition": "not using artificial chemicals when keeping animals or growing plants for food",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The team chose a organic approach to the problem.",
+    "exampleJa": "チームはその問題に対して有機栽培のな方法を選んだ。"
+  },
+  {
+    "id": "v-mega-standard-0366",
+    "type": "vocab",
+    "level": "standard",
+    "word": "organize",
+    "meaning": "組織する・整理する",
+    "pos": "v",
+    "explanation": "organize：組織する・整理する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "The team worked together to organize the issue.",
+    "exampleJa": "チームはその問題を組織する・整理するために協力した。"
+  },
+  {
+    "id": "v-developed-04-orient",
+    "type": "vocab",
+    "level": "standard",
+    "word": "orient",
+    "meaning": "方向づける",
+    "pos": "v",
+    "explanation": "",
+    "family": "orient;orients",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "developed",
+      "v",
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "question": "orient",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "方向づける",
+    "exampleSentence": "The researchers observed how the situation changed when they orient.",
+    "exampleJa": "研究者たちは、彼らが方向づけるしたときに状況がどう変化したかを観察した。",
+    "note": "入試・読解で見かけやすい重要語。",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1941-0538",
+    "type": "vocab",
+    "level": "standard",
+    "word": "originally",
+    "meaning": "もともと",
+    "pos": "adv",
+    "question": "originally",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "もともと",
+    "explanation": "",
+    "definitionEn": "at the beginning or before any changes",
+    "frequencyRank": 1941,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The researchers originally reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちはもともとして、研究結果を公表する前に証拠を再検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1475-0233",
+    "type": "vocab",
+    "level": "standard",
+    "word": "ought",
+    "meaning": "～すべき",
+    "pos": "v",
+    "question": "ought",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "～すべき",
+    "explanation": "",
+    "definitionEn": "used to indicate what is expected",
+    "frequencyRank": 1475,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "Many people ought differently when the situation changes.",
+    "exampleJa": "状況が変化すると、多くの人はそれぞれ異なる～すべき方をする。"
+  },
+  {
+    "id": "v-standard-ngsl-1613-0322",
+    "type": "vocab",
+    "level": "standard",
+    "word": "ourselves",
+    "meaning": "私たち自身",
+    "pos": "pron",
+    "question": "ourselves",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "私たち自身",
+    "explanation": "",
+    "definitionEn": "the reflexive form of the pronoun 'we'",
+    "frequencyRank": 1613,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "We challenged ourselves to finish the project before the deadline.",
+    "exampleJa": "この文では「私たち自身」という意味・用法で使われている。"
+  },
+  {
+    "id": "v-standard-ngsl-1929-0531",
+    "type": "vocab",
+    "level": "standard",
+    "word": "outline",
+    "meaning": "概要",
+    "pos": "n",
+    "question": "outline",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "概要",
+    "explanation": "",
+    "definitionEn": "a written list or description of only the most important parts of an essay, speech, plan, etc.",
+    "frequencyRank": 1929,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the outline in detail.",
+    "exampleJa": "その報告書は概要について詳しく説明している。"
+  },
+  {
+    "id": "v-curated-0911",
+    "type": "vocab",
+    "level": "standard",
+    "word": "outlook",
+    "meaning": "見通し・見解",
+    "pos": "n",
+    "question": "outlook",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "見通し・見解",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The course asks students to reconsider the outlook.",
+    "exampleJa": "この文は「見通し・見解」という内容を表している。"
+  },
+  {
+    "id": "v-standard-ngsl-1919-0525",
+    "type": "vocab",
+    "level": "standard",
+    "word": "output",
+    "meaning": "生産高",
+    "pos": "n",
+    "question": "output",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "生産高",
+    "explanation": "",
+    "definitionEn": "the amount of something that is produced",
+    "frequencyRank": 1919,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The output played an important role in the discussion.",
+    "exampleJa": "生産高は、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "v-curated-1766",
+    "type": "vocab",
+    "level": "standard",
+    "word": "outward",
+    "meaning": "外へ向かう",
+    "pos": "adv",
+    "question": "outward",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "外へ向かう",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The researchers outward reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは外へ向かうして、研究結果を公表する前に証拠を再検討した。"
+  },
+  {
+    "id": "ngsl-2220",
+    "type": "vocab",
+    "word": "overcome",
+    "meaning": "打ち勝つ",
+    "pos": "v",
+    "level": "standard",
+    "rank": 2220,
+    "definition": "to defeat (someone or something)",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "Many people overcome differently when the situation changes.",
+    "exampleJa": "状況が変化すると、多くの人はそれぞれ異なる打ち勝つ方をする。"
+  },
+  {
+    "id": "v-mega-standard-0309",
+    "type": "vocab",
+    "level": "standard",
+    "word": "overlap",
+    "meaning": "重なる",
+    "pos": "v",
+    "explanation": "overlap：重なる",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "The researchers observed how the situation changed when they overlap.",
+    "exampleJa": "研究者たちは、彼らが重なるしたときに状況がどう変化したかを観察した。"
+  },
+  {
+    "id": "ngsl-2313",
+    "type": "vocab",
+    "word": "overseas",
+    "meaning": "海外",
+    "pos": "adj",
+    "level": "standard",
+    "rank": 2313,
+    "definition": "in or to a foreign country that is across a sea",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The team chose a overseas approach to the problem.",
+    "exampleJa": "チームはその問題に対して海外な方法を選んだ。"
+  },
+  {
+    "id": "v-standard-ngsl-2051-0613",
+    "type": "vocab",
+    "level": "standard",
+    "word": "owe",
+    "meaning": "支払う義務がある、借りがある",
+    "pos": "v",
+    "question": "owe",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "支払う義務がある、借りがある",
+    "explanation": "",
+    "definitionEn": "to need to pay or repay money to a person, bank, business, etc.",
+    "frequencyRank": 2051,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "Many people owe differently when the situation changes.",
+    "exampleJa": "状況が変化すると、多くの人はそれぞれ異なる支払う義務がある、借りがある方をする。"
+  },
+  {
+    "id": "v-standard-ngsl-1256-0097",
+    "type": "vocab",
+    "level": "standard",
+    "word": "owner",
+    "meaning": "持ち主",
+    "pos": "n",
+    "question": "owner",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "持ち主",
+    "explanation": "",
+    "definitionEn": "someone who legally owns something",
+    "frequencyRank": 1256,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The owner played an important role in the discussion.",
+    "exampleJa": "持ち主は、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "ngsl-2749",
+    "type": "vocab",
+    "word": "ownership",
+    "meaning": "所有権",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2749,
+    "definition": "the state or fact of owning something",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The report describes the ownership in detail.",
+    "exampleJa": "その報告書は所有権について詳しく説明している。"
+  },
+  {
+    "id": "v-standard-ngsl-2116-0659",
+    "type": "vocab",
+    "level": "standard",
+    "word": "pace",
+    "meaning": "ペース",
+    "pos": "n",
+    "question": "pace",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "ペース",
+    "explanation": "",
+    "definitionEn": "the speed at which someone or something moves or does something",
+    "frequencyRank": 2116,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The committee considered the pace before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、ペースを検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1385-0174",
+    "type": "vocab",
+    "level": "standard",
+    "word": "pack",
+    "meaning": "詰める",
+    "pos": "v",
+    "question": "pack",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "詰める",
+    "explanation": "",
+    "definitionEn": "to put (something) into a bag, suitcase, etc., so that you can take it with you",
+    "frequencyRank": 1385,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The researchers observed how the situation changed when they pack.",
+    "exampleJa": "研究者たちは、彼らが詰めるしたときに状況がどう変化したかを観察した。"
+  },
+  {
+    "id": "v-standard-ngsl-1148-0028",
+    "type": "vocab",
+    "level": "standard",
+    "word": "pain",
+    "meaning": "痛み",
+    "pos": "n",
+    "question": "pain",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "痛み",
+    "explanation": "",
+    "definitionEn": "the physical feeling caused by disease, injury, or something that hurts the body",
+    "frequencyRank": 1148,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the pain in detail.",
+    "exampleJa": "その報告書は痛みについて詳しく説明している。"
+  },
+  {
+    "id": "ngsl-2754",
+    "type": "vocab",
+    "word": "pale",
+    "meaning": "淡い",
+    "pos": "adj",
+    "level": "standard",
+    "rank": 2754,
+    "definition": "light in color",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The report describes the pale characteristics of the system.",
+    "exampleJa": "その報告書は、システムの淡いという特徴を説明している。"
+  },
+  {
+    "id": "v-standard-ngsl-1835-0469",
+    "type": "vocab",
+    "level": "standard",
+    "word": "panel",
+    "meaning": "パネル",
+    "pos": "n",
+    "question": "panel",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "パネル",
+    "explanation": "",
+    "definitionEn": "a group of people who answer questions or give opinions",
+    "frequencyRank": 1835,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The panel played an important role in the discussion.",
+    "exampleJa": "パネルは、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "ngsl-2690",
+    "type": "vocab",
+    "word": "panic",
+    "meaning": "パニック",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2690,
+    "definition": "a sudden, strong feeling of worry or fear that makes you unable to think or behave calmly",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The report describes the panic in detail.",
+    "exampleJa": "その報告書はパニックについて詳しく説明している。"
+  },
+  {
+    "id": "v-mega-standard-0077",
+    "type": "vocab",
+    "level": "standard",
+    "word": "paradigm",
+    "meaning": "枠組み・典型",
+    "pos": "n",
+    "explanation": "paradigm：枠組み・典型",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "hard"
+    ],
+    "exampleSentence": "The discovery led scientists to reconsider the traditional paradigm of the field.",
+    "exampleJa": "この文は「枠組み・典型」という内容を表している。"
+  },
+  {
+    "id": "ngsl-2615",
+    "type": "vocab",
+    "word": "paragraph",
+    "meaning": "段落",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2615,
+    "definition": "a section of writing that usually deals with one subject",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The paragraph played an important role in the discussion.",
+    "exampleJa": "段落は、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "ngsl-2277",
+    "type": "vocab",
+    "word": "parallel",
+    "meaning": "類似した、同時に起きる",
+    "pos": "adj",
+    "level": "standard",
+    "rank": 2277,
+    "definition": "very similar and often occurring at the same time",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "The team chose a parallel approach to the problem.",
+    "exampleJa": "チームはその問題に対して類似した、同時に起きるな方法を選んだ。"
+  },
+  {
+    "id": "v-standard-04-parameter",
+    "type": "vocab",
+    "level": "standard",
+    "word": "parameter",
+    "meaning": "範囲・パラメータ",
+    "pos": "n",
+    "question": "parameter",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "範囲・パラメータ",
+    "explanation": "",
+    "exampleSentence": "The committee considered the parameter before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、範囲・パラメータを検討した。",
+    "family": "parameter;parameters",
+    "synonyms": [],
+    "tags": [
+      "standard",
+      "n"
+    ],
+    "note": "入試・読解で見かけやすい重要語。",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-max2-partial",
+    "type": "vocab",
+    "level": "standard",
+    "word": "partial",
+    "meaning": "部分的な；偏った",
+    "pos": "adj",
+    "explanation": "partial：部分的な；偏った。",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-max2",
+      "常用語"
+    ],
+    "source": "curated-vocab-max2-2026",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The researchers considered the partial option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、部分的なという選択肢を検討した。"
+  },
+  {
+    "id": "v-mega-advanced-0004",
+    "type": "vocab",
+    "level": "standard",
+    "word": "partially",
+    "meaning": "部分的に",
+    "pos": "adv",
+    "exampleSentence": "The researchers partially reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは部分的にして、研究結果を公表する前に証拠を再検討した。",
+    "explanation": "partially：部分的に",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-122",
+    "type": "vocab",
+    "level": "standard",
+    "word": "participate",
+    "meaning": "参加する",
+    "question": "participate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "全体の",
+        "correct": false
+      },
+      {
+        "text": "取り組み・近づく",
+        "correct": false
+      },
+      {
+        "text": "利益・恩恵",
+        "correct": false
+      },
+      {
+        "text": "参加する",
+        "correct": true
+      }
+    ],
+    "answer": "参加する",
+    "explanation": "participate = 参加する。例：participate in the event",
+    "exampleSentence": "More students participated in the volunteer program this year.",
+    "exampleJa": "この文では「参加する」という動作を表している。",
+    "pos": "v"
+  },
+  {
+    "id": "v-mega-standard-0255",
+    "type": "vocab",
+    "level": "standard",
+    "word": "particle",
+    "meaning": "粒子",
+    "pos": "n",
+    "explanation": "particle：粒子",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "The report describes the particle in detail.",
+    "exampleJa": "その報告書は粒子について詳しく説明している。"
+  },
+  {
+    "id": "v-standard-021",
+    "type": "vocab",
+    "level": "standard",
+    "word": "particular",
+    "meaning": "特定の・特別な",
+    "question": "particular",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "特定の・特別な",
+        "correct": true
+      },
+      {
+        "text": "一般的な",
+        "correct": false
+      },
+      {
+        "text": "偶然の",
+        "correct": false
+      },
+      {
+        "text": "不可能な",
+        "correct": false
+      }
+    ],
+    "answer": "特定の・特別な",
+    "explanation": "particular = 特定の・特別な。例：in particular",
+    "exampleSentence": "The report describes the particular characteristics of the system.",
+    "exampleJa": "その報告書は、システムの特定の・特別なという特徴を説明している。",
+    "pos": "n"
+  },
+  {
+    "id": "ngsl-2524",
+    "type": "vocab",
+    "word": "partnership",
+    "meaning": "連携",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2524,
+    "definition": "when two people or organizations work together to achieve something",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The partnership played an important role in the discussion.",
+    "exampleJa": "連携は、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "v-standard-ngsl-1856-0486",
+    "type": "vocab",
+    "level": "standard",
+    "word": "passage",
+    "meaning": "通路",
+    "pos": "n",
+    "question": "passage",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "通路",
+    "explanation": "",
+    "definitionEn": "a long, narrow space that connects one place to another",
+    "frequencyRank": 1856,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the passage in detail.",
+    "exampleJa": "その報告書は通路について詳しく説明している。"
+  },
+  {
+    "id": "v-standard-ngsl-1693-0376",
+    "type": "vocab",
+    "level": "standard",
+    "word": "passenger",
+    "meaning": "乗客",
+    "pos": "n",
+    "question": "passenger",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "乗客",
+    "explanation": "",
+    "definitionEn": "a person who is traveling from one place to another in a car, bus, train, ship, airplane, etc., and who is not driving or working on it",
+    "frequencyRank": 1693,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The committee considered the passenger before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、乗客を検討した。"
+  },
+  {
+    "id": "ngsl-2443",
+    "type": "vocab",
+    "word": "passion",
+    "meaning": "情熱",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2443,
+    "definition": "a strong belief in something or a strong feeling about a subject; sexual feelings",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The passion played an important role in the discussion.",
+    "exampleJa": "情熱は、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "v-standard-ngsl-1293-0117",
+    "type": "vocab",
+    "level": "standard",
+    "word": "path",
+    "meaning": "小道",
+    "pos": "n",
+    "question": "path",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "小道",
+    "explanation": "",
+    "definitionEn": "a track that is made by people or animals walking over the ground",
+    "frequencyRank": 1293,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the path in detail.",
+    "exampleJa": "その報告書は小道について詳しく説明している。"
+  },
+  {
+    "id": "v-curated-3943",
+    "type": "vocab",
+    "level": "standard",
+    "word": "patience",
+    "meaning": "忍耐",
+    "pos": "n",
+    "question": "patience",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "忍耐",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The committee considered the patience before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、忍耐を検討した。"
+  },
+  {
+    "id": "v-mega-standard-0341",
+    "type": "vocab",
+    "level": "standard",
+    "word": "patient",
+    "meaning": "忍耐強い・患者",
+    "pos": "adj",
+    "explanation": "patient：忍耐強い・患者",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "The researchers considered the patient option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、忍耐強い・患者という選択肢を検討した。"
+  },
+  {
+    "id": "v-curated-4197",
+    "type": "vocab",
+    "level": "standard",
+    "word": "patiently",
+    "meaning": "辛抱強く",
+    "pos": "adv",
+    "question": "patiently",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "辛抱強く",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The researchers patiently reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは辛抱強くして、研究結果を公表する前に証拠を再検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1124-0013",
+    "type": "vocab",
+    "level": "standard",
+    "word": "peace",
+    "meaning": "平和",
+    "pos": "n",
+    "question": "peace",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "平和",
+    "explanation": "",
+    "definitionEn": "freedom from any disturbance; when there is no war or fighting",
+    "frequencyRank": 1124,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The committee considered the peace before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、平和を検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1659-0351",
+    "type": "vocab",
+    "level": "standard",
+    "word": "peak",
+    "meaning": "頂点",
+    "pos": "n",
+    "question": "peak",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "頂点",
+    "explanation": "",
+    "definitionEn": "the highest level or value of something; the top of a mountain",
+    "frequencyRank": 1659,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The peak played an important role in the discussion.",
+    "exampleJa": "頂点は、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "v-standard-ngsl-2005-0577",
+    "type": "vocab",
+    "level": "standard",
+    "word": "peer",
+    "meaning": "同級生、同僚",
+    "pos": "n",
+    "question": "peer",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "同級生、同僚",
+    "explanation": "",
+    "definitionEn": "someone who is the same age, or who has the same social position or abilities as other members of a group",
+    "frequencyRank": 2005,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the peer in detail.",
+    "exampleJa": "その報告書は同級生、同僚について詳しく説明している。"
+  },
+  {
+    "id": "ngsl-2318",
+    "type": "vocab",
+    "word": "pen",
+    "meaning": "ペン",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2318,
+    "definition": "a writing instrument that uses ink",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The committee considered the pen before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、ペンを検討した。"
+  },
+  {
+    "id": "ngsl-2527",
+    "type": "vocab",
+    "word": "penalty",
+    "meaning": "罪",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2527,
+    "definition": "a punishment for doing something which is against a law or rule",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The penalty played an important role in the discussion.",
+    "exampleJa": "罪は、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "v-standard-ngsl-2006-0578",
+    "type": "vocab",
+    "level": "standard",
+    "word": "pension",
+    "meaning": "年金",
+    "pos": "n",
+    "question": "pension",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "年金",
+    "explanation": "",
+    "definitionEn": "money that a person receives after retirement",
+    "frequencyRank": 2006,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "Demand usually changes during this pension.",
+    "exampleJa": "需要は通常、この年金の間に変化する。"
+  },
+  {
+    "id": "v-standard-03-perceive",
+    "type": "vocab",
+    "level": "standard",
+    "word": "perceive",
+    "meaning": "知覚する・認識する",
+    "pos": "v",
+    "question": "perceive",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "知覚する・認識する",
+    "explanation": "",
+    "exampleSentence": "The researchers perceive that more evidence is needed.",
+    "exampleJa": "研究者たちは、知覚する・認識することを検討した。",
+    "family": "perception",
+    "synonyms": [
+      "notice",
+      "recognize"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。perceive の派生語: perception.",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1123-0012",
+    "type": "vocab",
+    "level": "standard",
+    "word": "percentage",
+    "meaning": "割合",
+    "pos": "n",
+    "question": "percentage",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "割合",
+    "explanation": "",
+    "definitionEn": "an amount of something, expressed as a number out of 100",
+    "frequencyRank": 1123,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The study measured the percentage for each group.",
+    "exampleJa": "その研究では、各グループの割合を測定した。"
+  },
+  {
+    "id": "v-mega-developed-0153",
+    "type": "vocab",
+    "level": "standard",
+    "word": "perception",
+    "meaning": "認識・知覚",
+    "pos": "n",
+    "question": "perception",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "見識",
+    "explanation": "perception：認識・知覚",
+    "definitionEn": "what you think or believe about someone or something",
+    "frequencyRank": 2140,
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage",
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "The report describes the perception in detail.",
+    "exampleJa": "その報告書は認識・知覚について詳しく説明している。",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "levelTags": [
+      "standard",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1886-0506",
+    "type": "vocab",
+    "level": "standard",
+    "word": "perfectly",
+    "meaning": "完全に",
+    "pos": "adv",
+    "question": "perfectly",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "完全に",
+    "explanation": "",
+    "definitionEn": "used to emphasize the word that follows it; in a perfect way",
+    "frequencyRank": 1886,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The researchers perfectly reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは完全にして、研究結果を公表する前に証拠を再検討した。"
+  },
+  {
+    "id": "v-standard-022",
+    "type": "vocab",
+    "level": "standard",
+    "word": "perform",
+    "meaning": "実行する・演じる",
+    "question": "perform",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "実行する・演じる",
+        "correct": true
+      },
+      {
+        "text": "推測する",
+        "correct": false
+      },
+      {
+        "text": "延期する",
+        "correct": false
+      },
+      {
+        "text": "含める",
+        "correct": false
+      }
+    ],
+    "answer": "実行する・演じる",
+    "explanation": "perform = 実行する・演じる。例：perform an experiment",
+    "exampleSentence": "The company plans to perform the new system next year.",
+    "exampleJa": "その会社は来年、新しいシステムを実行する・演じるする予定だ。",
+    "pos": "v"
+  },
+  {
+    "id": "v-curated-3084",
+    "type": "vocab",
+    "level": "standard",
+    "word": "periodic",
+    "meaning": "周期的な",
+    "pos": "adj",
+    "question": "periodic",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "周期的な",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The team chose a periodic approach to the problem.",
+    "exampleJa": "チームはその問題に対して周期的な方法を選んだ。"
+  },
+  {
+    "id": "v-developed-03-persist",
+    "type": "vocab",
+    "level": "standard",
+    "word": "persist",
+    "meaning": "持続する・固執する",
+    "pos": "v",
+    "explanation": "",
+    "family": "persistence;persistent",
+    "synonyms": [
+      "continue",
+      "remain"
+    ],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "developed",
+      "v",
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "question": "persist",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "持続する・固執する",
+    "exampleSentence": "The team worked together to persist the issue.",
+    "exampleJa": "チームはその問題を持続する・固執するために協力した。",
+    "note": "重要語。意味だけでなく文脈で覚える。persist の派生語: persistence;persistent.",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1897-0512",
+    "type": "vocab",
+    "level": "standard",
+    "word": "personally",
+    "meaning": "個人的に",
+    "pos": "adv",
+    "question": "personally",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "個人的に",
+    "explanation": "",
+    "definitionEn": "done by you and not someone else",
+    "frequencyRank": 1897,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The researchers personally reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは個人的にして、研究結果を公表する前に証拠を再検討した。"
+  },
+  {
+    "id": "ngsl-2499",
+    "type": "vocab",
+    "word": "personnel",
+    "meaning": "職員",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2499,
+    "definition": "the people who work for an organization",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The report describes the personnel in detail.",
+    "exampleJa": "その報告書は職員について詳しく説明している。"
+  },
+  {
+    "id": "v-mega-standard-0354",
+    "type": "vocab",
+    "level": "standard",
+    "word": "persuade",
+    "meaning": "説得する",
+    "pos": "v",
+    "explanation": "persuade：説得する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "The team worked together to persuade the issue.",
+    "exampleJa": "チームはその問題を説得するために協力した。"
+  },
+  {
+    "id": "v-standard-ngsl-1695-0377",
+    "type": "vocab",
+    "level": "standard",
+    "word": "phase",
+    "meaning": "段階",
+    "pos": "n",
+    "question": "phase",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "段階",
+    "explanation": "",
+    "definitionEn": "a distinct part or step in a process",
+    "frequencyRank": 1695,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The phase played an important role in the discussion.",
+    "exampleJa": "段階は、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "v-mega-hard-0088",
+    "type": "vocab",
+    "level": "standard",
+    "word": "philosophy",
+    "meaning": "哲学",
+    "pos": "n",
+    "exampleSentence": "The report describes the philosophy in detail.",
+    "exampleJa": "その報告書は哲学について詳しく説明している。",
+    "explanation": "philosophy：哲学",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1206-0068",
+    "type": "vocab",
+    "level": "standard",
+    "word": "photo",
+    "meaning": "写真",
+    "pos": "n",
+    "question": "photo",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "写真",
+    "explanation": "",
+    "definitionEn": "a picture made by a camera",
+    "frequencyRank": 1206,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The committee considered the photo before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、写真を検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1793-0446",
+    "type": "vocab",
+    "level": "standard",
+    "word": "phrase",
+    "meaning": "フレーズ",
+    "pos": "n",
+    "question": "phrase",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "フレーズ",
+    "explanation": "",
+    "definitionEn": "a group of words which are often used together and have a particular meaning",
+    "frequencyRank": 1793,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The phrase played an important role in the discussion.",
+    "exampleJa": "フレーズは、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "v-curated-4047",
+    "type": "vocab",
+    "level": "standard",
+    "word": "physicist",
+    "meaning": "物理学者",
+    "pos": "n",
+    "question": "physicist",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "物理学者",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The report describes the physicist in detail.",
+    "exampleJa": "その報告書は物理学者について詳しく説明している。"
+  },
+  {
+    "id": "ngsl-2588",
+    "type": "vocab",
+    "word": "piano",
+    "meaning": "ピアノ",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2588,
+    "definition": "a large wooden musical instrument with strings inside and black and white bars that produce sounds when you press them",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The committee considered the piano before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、ピアノを検討した。"
+  },
+  {
+    "id": "ngsl-2516",
+    "type": "vocab",
+    "word": "pig",
+    "meaning": "豚",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2516,
+    "definition": "an animal that has a fat body with short legs, a small tail, and a wide nose and that is raised on a farm or lives in the wild",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The pig played an important role in the discussion.",
+    "exampleJa": "豚は、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "ngsl-2515",
+    "type": "vocab",
+    "word": "pile",
+    "meaning": "山（積み重ね）",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2515,
+    "definition": "a group of things that are put one on top of another",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The report describes the pile in detail.",
+    "exampleJa": "その報告書は山（積み重ね）について詳しく説明している。"
+  },
+  {
+    "id": "v-standard-ngsl-1794-0447",
+    "type": "vocab",
+    "level": "standard",
+    "word": "pilot",
+    "meaning": "パイロット",
+    "pos": "n",
+    "question": "pilot",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "パイロット",
+    "explanation": "",
+    "definitionEn": "someone who flies an aircraft",
+    "frequencyRank": 1794,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The committee considered the pilot before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、パイロットを検討した。"
+  },
+  {
+    "id": "ngsl-2236",
+    "type": "vocab",
+    "word": "pink",
+    "meaning": "ピンク",
+    "pos": "adj",
+    "level": "standard",
+    "rank": 2236,
+    "definition": "a pale red color : a color that is a mixture of red and white",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The researchers considered the pink option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、ピンクという選択肢を検討した。"
+  },
+  {
+    "id": "ngsl-2584",
+    "type": "vocab",
+    "word": "pipe",
+    "meaning": "パイプ",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2584,
+    "definition": "a long, hollow tube for carrying water, steam, gas, etc.",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The report describes the pipe in detail.",
+    "exampleJa": "その報告書はパイプについて詳しく説明している。"
+  },
+  {
+    "id": "v-standard-ngsl-2055-0617",
+    "type": "vocab",
+    "level": "standard",
+    "word": "pitch",
+    "meaning": "投げる、売り込む",
+    "pos": "n",
+    "question": "pitch",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "投げる、売り込む",
+    "explanation": "",
+    "definitionEn": "in baseball, to throw the ball towards the hitter; to try to persuade someone to buy or decide something",
+    "frequencyRank": 2055,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The committee considered the pitch before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、投げる、売り込むを検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1959-0550",
+    "type": "vocab",
+    "level": "standard",
+    "word": "plain",
+    "meaning": "無地の、平易な",
+    "pos": "adj",
+    "question": "plain",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "無地の、平易な",
+    "explanation": "",
+    "definitionEn": "having no pattern or decoration, easy to see or understand",
+    "frequencyRank": 1959,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The researchers considered the plain option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、無地の、平易なという選択肢を検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1257-0098",
+    "type": "vocab",
+    "level": "standard",
+    "word": "plane",
+    "meaning": "飛行機",
+    "pos": "n",
+    "question": "plane",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "飛行機",
+    "explanation": "",
+    "definitionEn": "a vehicle that flies and has an engine and wings",
+    "frequencyRank": 1257,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the plane in detail.",
+    "exampleJa": "その報告書は飛行機について詳しく説明している。"
+  },
+  {
+    "id": "v-standard-ngsl-1848-0480",
+    "type": "vocab",
+    "level": "standard",
+    "word": "plastic",
+    "meaning": "プラスチック",
+    "pos": "n",
+    "question": "plastic",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "プラスチック",
+    "explanation": "",
+    "definitionEn": "a light, artificial substance that can be made into different shapes when it is soft and is used in a lot of different ways",
+    "frequencyRank": 1848,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The committee considered the plastic before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、プラスチックを検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1703-0383",
+    "type": "vocab",
+    "level": "standard",
+    "word": "plate",
+    "meaning": "皿",
+    "pos": "n",
+    "question": "plate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "皿",
+    "explanation": "",
+    "definitionEn": "a flat and usually round dish that is used for eating or serving food",
+    "frequencyRank": 1703,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The plate played an important role in the discussion.",
+    "exampleJa": "皿は、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "v-mega-standard-0078",
+    "type": "vocab",
+    "level": "standard",
+    "word": "plausible",
+    "meaning": "もっともらしい",
+    "pos": "adj",
+    "explanation": "plausible：もっともらしい",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "hard"
+    ],
+    "exampleSentence": "The team chose a plausible approach to the problem.",
+    "exampleJa": "チームはその問題に対してもっともらしい方法を選んだ。"
+  },
+  {
+    "id": "v-standard-ngsl-1281-0112",
+    "type": "vocab",
+    "level": "standard",
+    "word": "pleasure",
+    "meaning": "喜び",
+    "pos": "n",
+    "question": "pleasure",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "喜び",
+    "explanation": "",
+    "definitionEn": "a feeling of happiness, enjoyment, or satisfaction : a pleasant or pleasing feeling",
+    "frequencyRank": 1281,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The committee considered the pleasure before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、喜びを検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1540-0275",
+    "type": "vocab",
+    "level": "standard",
+    "word": "plenty",
+    "meaning": "たくさんの",
+    "pos": "adj",
+    "question": "plenty",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "たくさんの",
+    "explanation": "",
+    "definitionEn": "a large number or amount of something;  a number or amount of something that is enough for a particular purpose",
+    "frequencyRank": 1540,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The researchers considered the plenty option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、たくさんのという選択肢を検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1949-0544",
+    "type": "vocab",
+    "level": "standard",
+    "word": "plot",
+    "meaning": "構想、陰謀",
+    "pos": "n",
+    "question": "plot",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "構想、陰謀",
+    "explanation": "",
+    "definitionEn": "the things that happen in a story; a plan to do something bad",
+    "frequencyRank": 1949,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the plot in detail.",
+    "exampleJa": "その報告書は構想、陰謀について詳しく説明している。"
+  },
+  {
+    "id": "v-standard-ngsl-1254-0095",
+    "type": "vocab",
+    "level": "standard",
+    "word": "plus",
+    "meaning": "プラス",
+    "pos": "prep",
+    "question": "plus",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "プラス",
+    "explanation": "",
+    "definitionEn": "having a value that is above zero",
+    "frequencyRank": 1254,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The meaning of plus depends on the words that follow it.",
+    "exampleJa": "プラスの意味は、その後に続く語によって決まる。"
+  },
+  {
+    "id": "v-standard-ngsl-1863-0492",
+    "type": "vocab",
+    "level": "standard",
+    "word": "pocket",
+    "meaning": "ポケット",
+    "pos": "n",
+    "question": "pocket",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "ポケット",
+    "explanation": "",
+    "definitionEn": "a usually small cloth bag that is sewn into a piece of clothing, a larger bag, etc., and that is open at the top or side so that you can put things into it",
+    "frequencyRank": 1863,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The pocket played an important role in the discussion.",
+    "exampleJa": "ポケットは、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "ngsl-2209",
+    "type": "vocab",
+    "word": "poem",
+    "meaning": "詩",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2209,
+    "definition": "a piece of writing that usually has figurative language and that is written in separate lines that often have a repeated rhythm and sometimes rhyme",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The report describes the poem in detail.",
+    "exampleJa": "その報告書は詩について詳しく説明している。"
+  },
+  {
+    "id": "ngsl-2512",
+    "type": "vocab",
+    "word": "poet",
+    "meaning": "詩人",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2512,
+    "definition": "a person who writes poems",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "A poet was invited to speak at the event.",
+    "exampleJa": "詩人がその行事で話すよう招かれた。"
+  },
+  {
+    "id": "ngsl-2530",
+    "type": "vocab",
+    "word": "poetry",
+    "meaning": "詩",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2530,
+    "definition": "poems in general, or the writing of poetry",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The poetry played an important role in the discussion.",
+    "exampleJa": "詩は、その議論で重要な役割を果たした。"
+  },
+  {
+    "id": "v-standard-ngsl-1682-0368",
+    "type": "vocab",
+    "level": "standard",
+    "word": "poll",
+    "meaning": "世論調査",
+    "pos": "n",
+    "question": "poll",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "世論調査",
+    "explanation": "",
+    "definitionEn": "when people are asked questions to discover what they think about a subject; a survey",
+    "frequencyRank": 1682,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report presents new poll from the latest study.",
+    "exampleJa": "その報告書は、世論調査について詳しく説明している。"
+  },
+  {
+    "id": "v-standard-ngsl-2162-0693",
+    "type": "vocab",
+    "level": "standard",
+    "word": "pollution",
+    "meaning": "汚染",
+    "pos": "n",
+    "question": "pollution",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "汚染",
+    "explanation": "",
+    "definitionEn": "damage caused to water, air, etc. by harmful substances or waste",
+    "frequencyRank": 2162,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The committee considered the pollution before making its decision.",
+    "exampleJa": "委員会は決定を下す前に、汚染を検討した。"
+  }
+]

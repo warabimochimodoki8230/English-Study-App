@@ -1,0 +1,2701 @@
+{
+  "groups": [
+    {
+      "word": "adversity",
+      "pos": "n",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-curated-2293",
+      "sources": [
+        "advanced-01.json:v-curated-2293",
+        "advanced-expansion-01.json:v-curated-advanced-0002-adversity"
+      ]
+    },
+    {
+      "word": "affluent",
+      "pos": "adj",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-curated-1464",
+      "sources": [
+        "advanced-01.json:v-curated-1464",
+        "advanced-expansion-01.json:v-curated-advanced-0125-affluent"
+      ]
+    },
+    {
+      "word": "alleviate",
+      "pos": "v",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-curated-1097",
+      "sources": [
+        "advanced-01.json:v-curated-1097",
+        "advanced-expansion-01.json:v-curated-advanced-0003-alleviate"
+      ]
+    },
+    {
+      "word": "anomaly",
+      "pos": "n",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-curated-0832",
+      "sources": [
+        "advanced-01.json:v-curated-0832",
+        "advanced-expansion-01.json:v-curated-advanced-0006-anomaly"
+      ]
+    },
+    {
+      "word": "assertive",
+      "pos": "adj",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-curated-2300",
+      "sources": [
+        "advanced-01.json:v-curated-2300",
+        "advanced-expansion-01.json:v-curated-advanced-0008-assertive"
+      ]
+    },
+    {
+      "word": "augment",
+      "pos": "v",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-max2-augment",
+      "sources": [
+        "advanced-01.json:v-max2-augment",
+        "advanced-expansion-01.json:v-curated-advanced-0011-augment"
+      ]
+    },
+    {
+      "word": "autonomous",
+      "pos": "adj",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-max2-autonomous",
+      "sources": [
+        "advanced-01.json:v-max2-autonomous",
+        "advanced-expansion-01.json:v-curated-advanced-0013-autonomous"
+      ]
+    },
+    {
+      "word": "bewilder",
+      "pos": "v",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-curated-1470",
+      "sources": [
+        "advanced-01.json:v-curated-1470",
+        "advanced-expansion-01.json:v-curated-advanced-0014-bewilder"
+      ]
+    },
+    {
+      "word": "breach",
+      "pos": "n",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-curated-2038",
+      "sources": [
+        "advanced-01.json:v-curated-2038",
+        "advanced-expansion-01.json:v-curated-advanced-0016-breach"
+      ]
+    },
+    {
+      "word": "candid",
+      "pos": "adj",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-hard-03-candid",
+      "sources": [
+        "advanced-01.json:v-hard-03-candid",
+        "advanced-expansion-01.json:v-curated-advanced-0017-candid"
+      ]
+    },
+    {
+      "word": "cease",
+      "pos": "v",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-advanced-153",
+      "sources": [
+        "advanced-01.json:v-advanced-153",
+        "advanced-02.json:v-mega-basic-0006"
+      ]
+    },
+    {
+      "word": "collaborative",
+      "pos": "adj",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-curated-2052",
+      "sources": [
+        "advanced-01.json:v-curated-2052",
+        "advanced-expansion-01.json:v-curated-advanced-0137-collaborative"
+      ]
+    },
+    {
+      "word": "compassion",
+      "pos": "n",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-curated-1325",
+      "sources": [
+        "advanced-01.json:v-curated-1325",
+        "advanced-expansion-01.json:v-curated-advanced-0021-compassion"
+      ]
+    },
+    {
+      "word": "concession",
+      "pos": "n",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-advanced-03-concession",
+      "sources": [
+        "advanced-01.json:v-advanced-03-concession",
+        "advanced-expansion-01.json:v-curated-advanced-0024-concession"
+      ]
+    },
+    {
+      "word": "contemplate",
+      "pos": "v",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-mega-hard-0072",
+      "sources": [
+        "advanced-01.json:v-mega-hard-0072",
+        "advanced-expansion-01.json:v-curated-advanced-0026-contemplate"
+      ]
+    },
+    {
+      "word": "convergence",
+      "pos": "n",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-curated-0643",
+      "sources": [
+        "advanced-01.json:v-curated-0643",
+        "advanced-expansion-01.json:v-curated-advanced-0141-convergence"
+      ]
+    },
+    {
+      "word": "correlate",
+      "pos": "v",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-curated-0990",
+      "sources": [
+        "advanced-01.json:v-curated-0990",
+        "advanced-expansion-01.json:v-curated-advanced-0142-correlate"
+      ]
+    },
+    {
+      "word": "correspond",
+      "pos": "v",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-advanced-112",
+      "sources": [
+        "advanced-01.json:v-advanced-112",
+        "advanced-02.json:v-basic-core-0074-correspond"
+      ]
+    },
+    {
+      "word": "defer",
+      "pos": "v",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-curated-1479",
+      "sources": [
+        "advanced-01.json:v-curated-1479",
+        "advanced-expansion-01.json:v-curated-advanced-0033-defer"
+      ]
+    },
+    {
+      "word": "defy",
+      "pos": "v",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-curated-2081",
+      "sources": [
+        "advanced-01.json:v-curated-2081",
+        "advanced-expansion-01.json:v-curated-advanced-0143-defy"
+      ]
+    },
+    {
+      "word": "deliberation",
+      "pos": "n",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-advanced-04-deliberation",
+      "sources": [
+        "advanced-01.json:v-advanced-04-deliberation",
+        "advanced-expansion-01.json:v-curated-advanced-0145-deliberation"
+      ]
+    },
+    {
+      "word": "deteriorate",
+      "pos": "v",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-advanced-008",
+      "sources": [
+        "advanced-01.json:v-advanced-008",
+        "advanced-expansion-01.json:v-curated-advanced-0035-deteriorate"
+      ]
+    },
+    {
+      "word": "deterrent",
+      "pos": "n",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-curated-2089",
+      "sources": [
+        "advanced-01.json:v-curated-2089",
+        "advanced-expansion-01.json:v-curated-advanced-0149-deterrent"
+      ]
+    },
+    {
+      "word": "disclose",
+      "pos": "v",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-max2-disclose",
+      "sources": [
+        "advanced-01.json:v-max2-disclose",
+        "advanced-expansion-01.json:v-curated-advanced-0151-disclose"
+      ]
+    },
+    {
+      "word": "distort",
+      "pos": "v",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-advanced-115",
+      "sources": [
+        "advanced-01.json:v-advanced-115",
+        "advanced-expansion-01.json:v-curated-advanced-0041-distort"
+      ]
+    },
+    {
+      "word": "elevate",
+      "pos": "v",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-curated-1484",
+      "sources": [
+        "advanced-01.json:v-curated-1484",
+        "advanced-expansion-01.json:v-curated-advanced-0156-elevate"
+      ]
+    },
+    {
+      "word": "encompass",
+      "pos": "v",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-curated-1181",
+      "sources": [
+        "advanced-01.json:v-curated-1181",
+        "advanced-expansion-01.json:v-curated-advanced-0157-encompass"
+      ]
+    },
+    {
+      "word": "evade",
+      "pos": "v",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-curated-2136",
+      "sources": [
+        "advanced-01.json:v-curated-2136",
+        "advanced-expansion-01.json:v-curated-advanced-0049-evade"
+      ]
+    },
+    {
+      "word": "exemplify",
+      "pos": "v",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-curated-3072",
+      "sources": [
+        "advanced-01.json:v-curated-3072",
+        "advanced-expansion-01.json:v-curated-advanced-0051-exemplify"
+      ]
+    },
+    {
+      "word": "exert",
+      "pos": "v",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-curated-1696",
+      "sources": [
+        "advanced-01.json:v-curated-1696",
+        "advanced-expansion-01.json:v-curated-advanced-0052-exert"
+      ]
+    },
+    {
+      "word": "flawed",
+      "pos": "adj",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-curated-2150",
+      "sources": [
+        "advanced-02.json:v-curated-2150",
+        "advanced-expansion-01.json:v-curated-advanced-0055-flawed"
+      ]
+    },
+    {
+      "word": "friction",
+      "pos": "n",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-curated-1493",
+      "sources": [
+        "advanced-02.json:v-curated-1493",
+        "advanced-expansion-01.json:v-curated-advanced-0057-friction"
+      ]
+    },
+    {
+      "word": "futile",
+      "pos": "adj",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-curated-1372",
+      "sources": [
+        "advanced-02.json:v-curated-1372",
+        "advanced-expansion-01.json:v-curated-advanced-0058-futile"
+      ]
+    },
+    {
+      "word": "hamper",
+      "pos": "v",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-curated-1495",
+      "sources": [
+        "advanced-02.json:v-curated-1495",
+        "advanced-expansion-01.json:v-curated-advanced-0059-hamper"
+      ]
+    },
+    {
+      "word": "imperative",
+      "pos": "adj",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-curated-2173",
+      "sources": [
+        "advanced-02.json:v-curated-2173",
+        "advanced-expansion-01.json:v-curated-advanced-0063-imperative"
+      ]
+    },
+    {
+      "word": "implicit",
+      "pos": "adj",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-max2-implicit",
+      "sources": [
+        "advanced-02.json:v-max2-implicit",
+        "advanced-expansion-01.json:v-curated-advanced-0064-implicit"
+      ]
+    },
+    {
+      "word": "indispensable",
+      "pos": "adj",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-mega-hard-0062",
+      "sources": [
+        "advanced-02.json:v-mega-hard-0062",
+        "advanced-expansion-01.json:v-curated-advanced-0068-indispensable"
+      ]
+    },
+    {
+      "word": "insulate",
+      "pos": "v",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-curated-1736",
+      "sources": [
+        "advanced-02.json:v-curated-1736",
+        "advanced-expansion-01.json:v-curated-advanced-0073-insulate"
+      ]
+    },
+    {
+      "word": "integrity",
+      "pos": "n",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-max2-integrity",
+      "sources": [
+        "advanced-02.json:v-max2-integrity",
+        "advanced-expansion-01.json:v-curated-advanced-0168-integrity"
+      ]
+    },
+    {
+      "word": "notwithstanding",
+      "pos": "prep",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-advanced-03-notwithstanding",
+      "sources": [
+        "advanced-02.json:v-advanced-03-notwithstanding",
+        "advanced-expansion-01.json:v-curated-advanced-0083-notwithstanding"
+      ]
+    },
+    {
+      "word": "obsolete",
+      "pos": "adj",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-curated-2212",
+      "sources": [
+        "advanced-02.json:v-curated-2212",
+        "advanced-expansion-01.json:v-curated-advanced-0084-obsolete"
+      ]
+    },
+    {
+      "word": "optimal",
+      "pos": "adj",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-curated-2787",
+      "sources": [
+        "advanced-02.json:v-curated-2787",
+        "advanced-expansion-01.json:v-curated-advanced-0086-optimal"
+      ]
+    },
+    {
+      "word": "plausible",
+      "pos": "adj",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-advanced-019",
+      "sources": [
+        "advanced-02.json:v-advanced-019",
+        "advanced-expansion-01.json:v-curated-advanced-0089-plausible"
+      ]
+    },
+    {
+      "word": "precedent",
+      "pos": "n",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-curated-0918",
+      "sources": [
+        "advanced-02.json:v-curated-0918",
+        "advanced-expansion-01.json:v-curated-advanced-0090-precedent"
+      ]
+    },
+    {
+      "word": "profoundly",
+      "pos": "adv",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-curated-1510",
+      "sources": [
+        "advanced-02.json:v-curated-1510",
+        "advanced-expansion-01.json:v-curated-advanced-0093-profoundly"
+      ]
+    },
+    {
+      "word": "proponent",
+      "pos": "n",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-curated-2233",
+      "sources": [
+        "advanced-02.json:v-curated-2233",
+        "advanced-expansion-01.json:v-curated-advanced-0178-proponent"
+      ]
+    },
+    {
+      "word": "proposition",
+      "pos": "n",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-curated-0747",
+      "sources": [
+        "advanced-02.json:v-curated-0747",
+        "advanced-expansion-01.json:v-curated-advanced-0179-proposition"
+      ]
+    },
+    {
+      "word": "reassess",
+      "pos": "v",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-curated-1056",
+      "sources": [
+        "advanced-02.json:v-curated-1056",
+        "advanced-expansion-01.json:v-curated-advanced-0097-reassess"
+      ]
+    },
+    {
+      "word": "reluctantly",
+      "pos": "adv",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "bulk-vocab-00518",
+      "sources": [
+        "advanced-02.json:bulk-vocab-00518",
+        "advanced-expansion-01.json:v-curated-advanced-0100-reluctantly"
+      ]
+    },
+    {
+      "word": "skeptical",
+      "pos": "adj",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-curated-2254",
+      "sources": [
+        "advanced-02.json:v-curated-2254",
+        "advanced-expansion-01.json:v-curated-advanced-0105-skeptical"
+      ]
+    },
+    {
+      "word": "spontaneous",
+      "pos": "adj",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-curated-1439",
+      "sources": [
+        "advanced-02.json:v-curated-1439",
+        "advanced-expansion-01.json:v-curated-advanced-0107-spontaneous"
+      ]
+    },
+    {
+      "word": "subtle",
+      "pos": "adj",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-advanced-160",
+      "sources": [
+        "advanced-02.json:v-advanced-160",
+        "advanced-expansion-01.json:v-curated-advanced-0110-subtle"
+      ]
+    },
+    {
+      "word": "superficial",
+      "pos": "adj",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-curated-2263",
+      "sources": [
+        "advanced-02.json:v-curated-2263",
+        "advanced-expansion-01.json:v-curated-advanced-0192-superficial"
+      ]
+    },
+    {
+      "word": "tangible",
+      "pos": "adj",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-curated-1273",
+      "sources": [
+        "advanced-02.json:v-curated-1273",
+        "advanced-expansion-01.json:v-curated-advanced-0195-tangible"
+      ]
+    },
+    {
+      "word": "tentative",
+      "pos": "adj",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-curated-2530",
+      "sources": [
+        "advanced-02.json:v-curated-2530",
+        "advanced-expansion-01.json:v-curated-advanced-0111-tentative"
+      ]
+    },
+    {
+      "word": "transparent",
+      "pos": "adj",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-advanced-146",
+      "sources": [
+        "advanced-02.json:v-advanced-146",
+        "advanced-expansion-01.json:v-curated-advanced-0113-transparent"
+      ]
+    },
+    {
+      "word": "undermine",
+      "pos": "v",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-advanced-023",
+      "sources": [
+        "advanced-02.json:v-advanced-023",
+        "advanced-expansion-01.json:v-curated-advanced-0114-undermine"
+      ]
+    },
+    {
+      "word": "validate",
+      "pos": "v",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-curated-0387",
+      "sources": [
+        "advanced-02.json:v-curated-0387",
+        "advanced-expansion-01.json:v-curated-advanced-0116-validate"
+      ]
+    },
+    {
+      "word": "viable",
+      "pos": "adj",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-db-000554",
+      "sources": [
+        "advanced-02.json:v-db-000554",
+        "advanced-expansion-01.json:v-curated-advanced-0199-viable"
+      ]
+    },
+    {
+      "word": "vulnerable",
+      "pos": "adj",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-hard-018",
+      "sources": [
+        "advanced-02.json:v-hard-018",
+        "advanced-expansion-01.json:v-curated-advanced-0118-vulnerable"
+      ]
+    },
+    {
+      "word": "withstand",
+      "pos": "v",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-hard-03-withstand",
+      "sources": [
+        "advanced-02.json:v-hard-03-withstand",
+        "advanced-expansion-01.json:v-curated-advanced-0201-withstand"
+      ]
+    },
+    {
+      "word": "yield",
+      "pos": "v",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-mega-basic-0017",
+      "sources": [
+        "advanced-02.json:v-mega-basic-0017",
+        "advanced-expansion-01.json:v-curated-advanced-0122-yield"
+      ]
+    },
+    {
+      "word": "subsequently",
+      "pos": "adv",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-basic-core-0296-subsequently",
+      "sources": [
+        "advanced-02.json:v-basic-core-0296-subsequently",
+        "advanced-expansion-01.json:v-curated-advanced-0108-subsequently"
+      ]
+    },
+    {
+      "word": "assertion",
+      "pos": "n",
+      "level": "advanced",
+      "removed": 1,
+      "kept": "v-basic-core-0250-assertion",
+      "sources": [
+        "advanced-02.json:v-basic-core-0250-assertion",
+        "advanced-expansion-01.json:v-curated-advanced-0129-assertion"
+      ]
+    },
+    {
+      "word": "abolition",
+      "pos": "n",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-curated-1084",
+      "sources": [
+        "developed-01.json:v-curated-1084",
+        "developed-expansion-01.json:v-curated-developed-0196-abolition"
+      ]
+    },
+    {
+      "word": "acceleration",
+      "pos": "n",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-curated-1893",
+      "sources": [
+        "developed-01.json:v-curated-1893",
+        "developed-expansion-01.json:v-curated-developed-0197-acceleration"
+      ]
+    },
+    {
+      "word": "accumulation",
+      "pos": "n",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-mega-developed-0069",
+      "sources": [
+        "developed-01.json:v-mega-developed-0069",
+        "developed-expansion-01.json:v-curated-developed-0199-accumulation"
+      ]
+    },
+    {
+      "word": "acquire",
+      "pos": "v",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-001",
+      "sources": [
+        "developed-01.json:v-developed-001",
+        "developed-expansion-01.json:v-curated-developed-0012-acquire"
+      ]
+    },
+    {
+      "word": "adapt",
+      "pos": "v",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-145",
+      "sources": [
+        "developed-01.json:v-developed-145",
+        "developed-expansion-01.json:v-curated-developed-0200-adapt"
+      ]
+    },
+    {
+      "word": "adequate",
+      "pos": "adj",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-146",
+      "sources": [
+        "developed-01.json:v-developed-146",
+        "developed-expansion-01.json:v-curated-developed-0014-adequate"
+      ]
+    },
+    {
+      "word": "adjacent",
+      "pos": "adj",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-147",
+      "sources": [
+        "developed-01.json:v-developed-147",
+        "developed-expansion-01.json:v-curated-developed-0015-adjacent"
+      ]
+    },
+    {
+      "word": "allocate",
+      "pos": "v",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-advanced-152",
+      "sources": [
+        "developed-01.json:v-advanced-152",
+        "developed-expansion-01.json:v-curated-developed-0019-allocate"
+      ]
+    },
+    {
+      "word": "alter",
+      "pos": "v",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-101",
+      "sources": [
+        "developed-01.json:v-developed-101",
+        "developed-expansion-01.json:v-curated-developed-0020-alter"
+      ]
+    },
+    {
+      "word": "assess",
+      "pos": "v",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-102",
+      "sources": [
+        "developed-01.json:v-developed-102",
+        "developed-expansion-01.json:v-curated-developed-0032-assess"
+      ]
+    },
+    {
+      "word": "attainment",
+      "pos": "n",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-curated-1116",
+      "sources": [
+        "developed-01.json:v-curated-1116",
+        "developed-expansion-01.json:v-curated-developed-0212-attainment"
+      ]
+    },
+    {
+      "word": "bias",
+      "pos": "n",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-advanced-104",
+      "sources": [
+        "developed-01.json:v-advanced-104",
+        "developed-expansion-01.json:v-curated-developed-0039-bias"
+      ]
+    },
+    {
+      "word": "coexist",
+      "pos": "v",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-curated-0974",
+      "sources": [
+        "developed-01.json:v-curated-0974",
+        "developed-expansion-01.json:v-curated-developed-0215-coexist"
+      ]
+    },
+    {
+      "word": "coherent",
+      "pos": "adj",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-advanced-105",
+      "sources": [
+        "developed-01.json:v-advanced-105",
+        "developed-expansion-01.json:v-curated-developed-0045-coherent"
+      ]
+    },
+    {
+      "word": "commence",
+      "pos": "v",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-curated-0033",
+      "sources": [
+        "developed-01.json:v-curated-0033",
+        "developed-expansion-01.json:v-curated-developed-0048-commence"
+      ]
+    },
+    {
+      "word": "compatible",
+      "pos": "adj",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-mega-hard-0027",
+      "sources": [
+        "developed-01.json:v-mega-hard-0027",
+        "developed-expansion-01.json:v-curated-developed-0049-compatible"
+      ]
+    },
+    {
+      "word": "complement",
+      "pos": "v",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-04-complement",
+      "sources": [
+        "developed-01.json:v-developed-04-complement",
+        "developed-expansion-01.json:v-curated-developed-0053-complement"
+      ]
+    },
+    {
+      "word": "comprise",
+      "pos": "v",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-03-comprise",
+      "sources": [
+        "developed-01.json:v-developed-03-comprise",
+        "developed-expansion-01.json:v-curated-developed-0219-comprise"
+      ]
+    },
+    {
+      "word": "conceive",
+      "pos": "v",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-mega-developed-0123",
+      "sources": [
+        "developed-01.json:v-mega-developed-0123",
+        "developed-expansion-01.json:v-curated-developed-0055-conceive"
+      ]
+    },
+    {
+      "word": "consensus",
+      "pos": "n",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-03-consensus",
+      "sources": [
+        "developed-01.json:v-developed-03-consensus",
+        "developed-expansion-01.json:v-curated-developed-0221-consensus"
+      ]
+    },
+    {
+      "word": "considerable",
+      "pos": "adj",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-150",
+      "sources": [
+        "developed-01.json:v-developed-150",
+        "developed-expansion-01.json:v-curated-developed-0063-considerable"
+      ]
+    },
+    {
+      "word": "constraint",
+      "pos": "n",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-03-constraint",
+      "sources": [
+        "developed-01.json:v-developed-03-constraint",
+        "developed-expansion-01.json:v-curated-developed-0065-constraint"
+      ]
+    },
+    {
+      "word": "consultation",
+      "pos": "n",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-mega-developed-0137",
+      "sources": [
+        "developed-01.json:v-mega-developed-0137",
+        "developed-expansion-01.json:v-curated-developed-0224-consultation"
+      ]
+    },
+    {
+      "word": "consume",
+      "pos": "v",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-104",
+      "sources": [
+        "developed-01.json:v-developed-104",
+        "developed-expansion-01.json:v-curated-developed-0067-consume"
+      ]
+    },
+    {
+      "word": "contrary",
+      "pos": "adj",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-curated-0420",
+      "sources": [
+        "developed-01.json:v-curated-0420",
+        "developed-expansion-01.json:v-curated-developed-0226-contrary"
+      ]
+    },
+    {
+      "word": "conversion",
+      "pos": "n",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-mega-developed-0075",
+      "sources": [
+        "developed-01.json:v-mega-developed-0075",
+        "developed-expansion-01.json:v-curated-developed-0228-conversion"
+      ]
+    },
+    {
+      "word": "crucial",
+      "pos": "adj",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-152",
+      "sources": [
+        "developed-01.json:v-developed-152",
+        "developed-expansion-01.json:v-curated-developed-0075-crucial"
+      ]
+    },
+    {
+      "word": "decline",
+      "pos": "v",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-009",
+      "sources": [
+        "developed-01.json:v-developed-009",
+        "developed-expansion-01.json:v-curated-developed-0078-decline"
+      ]
+    },
+    {
+      "word": "deprive",
+      "pos": "v",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-max2-deprive",
+      "sources": [
+        "developed-01.json:v-max2-deprive",
+        "developed-expansion-01.json:v-curated-developed-0237-deprive"
+      ]
+    },
+    {
+      "word": "diverse",
+      "pos": "adj",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-011",
+      "sources": [
+        "developed-01.json:v-developed-011",
+        "developed-expansion-01.json:v-curated-developed-0244-diverse"
+      ]
+    },
+    {
+      "word": "emerge",
+      "pos": "v",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-012",
+      "sources": [
+        "developed-01.json:v-developed-012",
+        "developed-expansion-01.json:v-curated-developed-0250-emerge"
+      ]
+    },
+    {
+      "word": "encounter",
+      "pos": "v",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-112",
+      "sources": [
+        "developed-01.json:v-developed-112",
+        "developed-expansion-01.json:v-curated-developed-0252-encounter"
+      ]
+    },
+    {
+      "word": "enhance",
+      "pos": "v",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-advanced-118",
+      "sources": [
+        "developed-01.json:v-advanced-118",
+        "developed-expansion-01.json:v-curated-developed-0083-enhance"
+      ]
+    },
+    {
+      "word": "ethical",
+      "pos": "adj",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-153",
+      "sources": [
+        "developed-01.json:v-developed-153",
+        "developed-expansion-01.json:v-curated-developed-0088-ethical"
+      ]
+    },
+    {
+      "word": "expand",
+      "pos": "v",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-015",
+      "sources": [
+        "developed-01.json:v-developed-015",
+        "developed-expansion-01.json:v-curated-developed-0258-expand"
+      ]
+    },
+    {
+      "word": "fluctuation",
+      "pos": "n",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-04-fluctuation",
+      "sources": [
+        "developed-01.json:v-developed-04-fluctuation",
+        "developed-expansion-01.json:v-curated-developed-0263-fluctuation"
+      ]
+    },
+    {
+      "word": "fundamentally",
+      "pos": "adv",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-curated-0805",
+      "sources": [
+        "developed-01.json:v-curated-0805",
+        "developed-expansion-01.json:v-curated-developed-0265-fundamentally"
+      ]
+    },
+    {
+      "word": "grant",
+      "pos": "v",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-117",
+      "sources": [
+        "developed-01.json:v-developed-117",
+        "developed-expansion-01.json:v-curated-developed-0103-grant"
+      ]
+    },
+    {
+      "word": "incentive",
+      "pos": "n",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-mega-developed-0011",
+      "sources": [
+        "developed-01.json:v-mega-developed-0011",
+        "developed-expansion-01.json:v-curated-developed-0109-incentive"
+      ]
+    },
+    {
+      "word": "incidence",
+      "pos": "n",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-mega-developed-0050",
+      "sources": [
+        "developed-01.json:v-mega-developed-0050",
+        "developed-expansion-01.json:v-curated-developed-0110-incidence"
+      ]
+    },
+    {
+      "word": "inevitable",
+      "pos": "adj",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-018",
+      "sources": [
+        "developed-01.json:v-developed-018",
+        "developed-expansion-01.json:v-curated-developed-0113-inevitable"
+      ]
+    },
+    {
+      "word": "interpret",
+      "pos": "v",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-019",
+      "sources": [
+        "developed-01.json:v-developed-019",
+        "developed-expansion-01.json:v-curated-developed-0121-interpret"
+      ]
+    },
+    {
+      "word": "isolate",
+      "pos": "v",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-020",
+      "sources": [
+        "developed-01.json:v-developed-020",
+        "developed-expansion-01.json:v-curated-developed-0124-isolate"
+      ]
+    },
+    {
+      "word": "justify",
+      "pos": "v",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-021",
+      "sources": [
+        "developed-01.json:v-developed-021",
+        "developed-expansion-01.json:v-curated-developed-0125-justify"
+      ]
+    },
+    {
+      "word": "marginal",
+      "pos": "adj",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-advanced-04-marginal",
+      "sources": [
+        "developed-01.json:v-advanced-04-marginal",
+        "developed-expansion-01.json:v-curated-developed-0275-marginal"
+      ]
+    },
+    {
+      "word": "modify",
+      "pos": "v",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-022",
+      "sources": [
+        "developed-01.json:v-developed-022",
+        "developed-expansion-01.json:v-curated-developed-0131-modify"
+      ]
+    },
+    {
+      "word": "notion",
+      "pos": "n",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-advanced-132",
+      "sources": [
+        "developed-01.json:v-advanced-132",
+        "developed-expansion-01.json:v-curated-developed-0134-notion"
+      ]
+    },
+    {
+      "word": "obtain",
+      "pos": "v",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-125",
+      "sources": [
+        "developed-01.json:v-developed-125",
+        "developed-expansion-01.json:v-curated-developed-0136-obtain"
+      ]
+    },
+    {
+      "word": "offset",
+      "pos": "v",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-advanced-04-offset",
+      "sources": [
+        "developed-01.json:v-advanced-04-offset",
+        "developed-expansion-01.json:v-curated-developed-0279-offset"
+      ]
+    },
+    {
+      "word": "outcome",
+      "pos": "n",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-126",
+      "sources": [
+        "developed-01.json:v-developed-126",
+        "developed-expansion-01.json:v-curated-developed-0139-outcome"
+      ]
+    },
+    {
+      "word": "prioritize",
+      "pos": "v",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-03-prioritize",
+      "sources": [
+        "developed-01.json:v-developed-03-prioritize",
+        "developed-expansion-01.json:v-curated-developed-0148-prioritize"
+      ]
+    },
+    {
+      "word": "promote",
+      "pos": "v",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-025",
+      "sources": [
+        "developed-01.json:v-developed-025",
+        "developed-expansion-01.json:v-curated-developed-0150-promote"
+      ]
+    },
+    {
+      "word": "prospective",
+      "pos": "adj",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-mega-developed-0027",
+      "sources": [
+        "developed-01.json:v-mega-developed-0027",
+        "developed-expansion-01.json:v-curated-developed-0152-prospective"
+      ]
+    },
+    {
+      "word": "pursue",
+      "pos": "v",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-129",
+      "sources": [
+        "developed-01.json:v-developed-129",
+        "developed-expansion-01.json:v-curated-developed-0153-pursue"
+      ]
+    },
+    {
+      "word": "restrict",
+      "pos": "v",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-026",
+      "sources": [
+        "developed-01.json:v-developed-026",
+        "developed-expansion-01.json:v-curated-developed-0295-restrict"
+      ]
+    },
+    {
+      "word": "retain",
+      "pos": "v",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-027",
+      "sources": [
+        "developed-01.json:v-developed-027",
+        "developed-expansion-01.json:v-curated-developed-0160-retain"
+      ]
+    },
+    {
+      "word": "reveal",
+      "pos": "v",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-133",
+      "sources": [
+        "developed-01.json:v-developed-133",
+        "developed-expansion-01.json:v-curated-developed-0161-reveal"
+      ]
+    },
+    {
+      "word": "simultaneous",
+      "pos": "adj",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-advanced-03-simultaneous",
+      "sources": [
+        "developed-01.json:v-advanced-03-simultaneous",
+        "developed-expansion-01.json:v-curated-developed-0166-simultaneous"
+      ]
+    },
+    {
+      "word": "sustain",
+      "pos": "v",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-137",
+      "sources": [
+        "developed-01.json:v-developed-137",
+        "developed-expansion-01.json:v-curated-developed-0176-sustain"
+      ]
+    },
+    {
+      "word": "undergo",
+      "pos": "v",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-029",
+      "sources": [
+        "developed-01.json:v-developed-029",
+        "developed-expansion-01.json:v-curated-developed-0184-undergo"
+      ]
+    },
+    {
+      "word": "valid",
+      "pos": "adj",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-141",
+      "sources": [
+        "developed-01.json:v-developed-141",
+        "developed-expansion-01.json:v-curated-developed-0188-valid"
+      ]
+    },
+    {
+      "word": "whereas",
+      "pos": "conj",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-143",
+      "sources": [
+        "developed-01.json:v-developed-143",
+        "developed-expansion-01.json:v-curated-developed-0194-whereas"
+      ]
+    },
+    {
+      "word": "comprehensive",
+      "pos": "adj",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-mega-developed-0006",
+      "sources": [
+        "developed-01.json:v-mega-developed-0006",
+        "developed-expansion-01.json:v-curated-developed-0054-comprehensive"
+      ]
+    },
+    {
+      "word": "consent",
+      "pos": "n",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-04-consent",
+      "sources": [
+        "developed-01.json:v-developed-04-consent",
+        "developed-expansion-01.json:v-curated-developed-0061-consent"
+      ]
+    },
+    {
+      "word": "constitute",
+      "pos": "v",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-04-constitute",
+      "sources": [
+        "developed-01.json:v-developed-04-constitute",
+        "developed-expansion-01.json:v-curated-developed-0064-constitute"
+      ]
+    },
+    {
+      "word": "controversial",
+      "pos": "adj",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-mega-developed-0007",
+      "sources": [
+        "developed-01.json:v-mega-developed-0007",
+        "developed-expansion-01.json:v-curated-developed-0070-controversial"
+      ]
+    },
+    {
+      "word": "crucially",
+      "pos": "adv",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-04-crucially",
+      "sources": [
+        "developed-01.json:v-developed-04-crucially",
+        "developed-expansion-01.json:v-curated-developed-0232-crucially"
+      ]
+    },
+    {
+      "word": "empirical",
+      "pos": "adj",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-mega-developed-0008",
+      "sources": [
+        "developed-01.json:v-mega-developed-0008",
+        "developed-expansion-01.json:v-curated-developed-0081-empirical"
+      ]
+    },
+    {
+      "word": "fundamental",
+      "pos": "adj",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-mega-developed-0009",
+      "sources": [
+        "developed-01.json:v-mega-developed-0009",
+        "developed-expansion-01.json:v-curated-developed-0100-fundamental"
+      ]
+    },
+    {
+      "word": "hypothesis",
+      "pos": "n",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-03-hypothesis",
+      "sources": [
+        "developed-01.json:v-developed-03-hypothesis",
+        "developed-expansion-01.json:v-curated-developed-0106-hypothesis"
+      ]
+    },
+    {
+      "word": "identical",
+      "pos": "adj",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-mega-developed-0010",
+      "sources": [
+        "developed-01.json:v-mega-developed-0010",
+        "developed-expansion-01.json:v-curated-developed-0266-identical"
+      ]
+    },
+    {
+      "word": "implement",
+      "pos": "v",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-mega-developed-0124",
+      "sources": [
+        "developed-01.json:v-mega-developed-0124",
+        "developed-expansion-01.json:v-curated-developed-0107-implement"
+      ]
+    },
+    {
+      "word": "inhibit",
+      "pos": "v",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-03-inhibit",
+      "sources": [
+        "developed-01.json:v-developed-03-inhibit",
+        "developed-expansion-01.json:v-curated-developed-0115-inhibit"
+      ]
+    },
+    {
+      "word": "innovation",
+      "pos": "n",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-mega-developed-0147",
+      "sources": [
+        "developed-01.json:v-mega-developed-0147",
+        "developed-expansion-01.json:v-curated-developed-0268-innovation"
+      ]
+    },
+    {
+      "word": "innovative",
+      "pos": "adj",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-mega-developed-0012",
+      "sources": [
+        "developed-01.json:v-mega-developed-0012",
+        "developed-expansion-01.json:v-curated-developed-0117-innovative"
+      ]
+    },
+    {
+      "word": "integral",
+      "pos": "adj",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-mega-developed-0116",
+      "sources": [
+        "developed-01.json:v-mega-developed-0116",
+        "developed-expansion-01.json:v-curated-developed-0119-integral"
+      ]
+    },
+    {
+      "word": "validity",
+      "pos": "n",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-mega-developed-0029",
+      "sources": [
+        "developed-01.json:v-mega-developed-0029",
+        "developed-expansion-01.json:v-curated-developed-0313-validity"
+      ]
+    },
+    {
+      "word": "proportion",
+      "pos": "n",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-mega-developed-0062",
+      "sources": [
+        "developed-01.json:v-mega-developed-0062",
+        "developed-expansion-01.json:v-curated-developed-0151-proportion"
+      ]
+    },
+    {
+      "word": "rational",
+      "pos": "adj",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-mega-developed-0020",
+      "sources": [
+        "developed-01.json:v-mega-developed-0020",
+        "developed-expansion-01.json:v-curated-developed-0154-rational"
+      ]
+    },
+    {
+      "word": "substantial",
+      "pos": "adj",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-mega-developed-0021",
+      "sources": [
+        "developed-01.json:v-mega-developed-0021",
+        "developed-expansion-01.json:v-curated-developed-0304-substantial"
+      ]
+    },
+    {
+      "word": "supplement",
+      "pos": "v",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-mega-developed-0125",
+      "sources": [
+        "developed-01.json:v-mega-developed-0125",
+        "developed-expansion-01.json:v-curated-developed-0306-supplement"
+      ]
+    },
+    {
+      "word": "accelerate",
+      "pos": "v",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-03-accelerate",
+      "sources": [
+        "developed-01.json:v-developed-03-accelerate",
+        "developed-expansion-01.json:v-curated-developed-0006-accelerate"
+      ]
+    },
+    {
+      "word": "accumulate",
+      "pos": "v",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-03-accumulate",
+      "sources": [
+        "developed-01.json:v-developed-03-accumulate",
+        "developed-expansion-01.json:v-curated-developed-0009-accumulate"
+      ]
+    },
+    {
+      "word": "acknowledge",
+      "pos": "v",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-03-acknowledge",
+      "sources": [
+        "developed-01.json:v-developed-03-acknowledge",
+        "developed-expansion-01.json:v-curated-developed-0011-acknowledge"
+      ]
+    },
+    {
+      "word": "adaptation",
+      "pos": "n",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-mega-developed-0127",
+      "sources": [
+        "developed-01.json:v-mega-developed-0127",
+        "developed-expansion-01.json:v-curated-developed-0013-adaptation"
+      ]
+    },
+    {
+      "word": "administrative",
+      "pos": "adj",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-mega-developed-0022",
+      "sources": [
+        "developed-01.json:v-mega-developed-0022",
+        "developed-expansion-01.json:v-curated-developed-0201-administrative"
+      ]
+    },
+    {
+      "word": "advantageous",
+      "pos": "adj",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-mega-developed-0109",
+      "sources": [
+        "developed-01.json:v-mega-developed-0109",
+        "developed-expansion-01.json:v-curated-developed-0202-advantageous"
+      ]
+    },
+    {
+      "word": "anticipate",
+      "pos": "v",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-developed-03-anticipate",
+      "sources": [
+        "developed-01.json:v-developed-03-anticipate",
+        "developed-expansion-01.json:v-curated-developed-0025-anticipate"
+      ]
+    },
+    {
+      "word": "assumption",
+      "pos": "n",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-mega-developed-0033",
+      "sources": [
+        "developed-01.json:v-mega-developed-0033",
+        "developed-expansion-01.json:v-curated-developed-0034-assumption"
+      ]
+    },
+    {
+      "word": "beneficial",
+      "pos": "adj",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-mega-developed-0004",
+      "sources": [
+        "developed-01.json:v-mega-developed-0004",
+        "developed-expansion-01.json:v-curated-developed-0214-beneficial"
+      ]
+    },
+    {
+      "word": "boundary",
+      "pos": "n",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-basic-core-0307-boundary",
+      "sources": [
+        "developed-01.json:v-basic-core-0307-boundary",
+        "developed-expansion-01.json:v-curated-developed-0040-boundary"
+      ]
+    },
+    {
+      "word": "perspective",
+      "pos": "n",
+      "level": "developed",
+      "removed": 1,
+      "kept": "v-mega-developed-0017",
+      "sources": [
+        "developed-01.json:v-mega-developed-0017",
+        "developed-expansion-01.json:v-curated-developed-0144-perspective"
+      ]
+    },
+    {
+      "word": "acquiesce",
+      "pos": "v",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-curated-2291",
+      "sources": [
+        "hard-01.json:v-curated-2291",
+        "hard-expansion-01.json:v-curated-hard-0002-acquiesce"
+      ]
+    },
+    {
+      "word": "apathy",
+      "pos": "n",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-curated-2017",
+      "sources": [
+        "hard-01.json:v-curated-2017",
+        "hard-expansion-01.json:v-curated-hard-0007-apathy"
+      ]
+    },
+    {
+      "word": "ascertain",
+      "pos": "v",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-hard-105",
+      "sources": [
+        "hard-01.json:v-hard-105",
+        "hard-v13-expansion.json:v-v13-hard-0268"
+      ]
+    },
+    {
+      "word": "belligerent",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-hard-03-belligerent",
+      "sources": [
+        "hard-01.json:v-hard-03-belligerent",
+        "hard-expansion-01.json:v-curated-hard-0092-belligerent"
+      ]
+    },
+    {
+      "word": "circumspect",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-hard-03-circumspect",
+      "sources": [
+        "hard-01.json:v-hard-03-circumspect",
+        "hard-expansion-01.json:v-curated-hard-0018-circumspect"
+      ]
+    },
+    {
+      "word": "conundrum",
+      "pos": "n",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-hard-03-conundrum",
+      "sources": [
+        "hard-01.json:v-hard-03-conundrum",
+        "hard-expansion-01.json:v-curated-hard-0020-conundrum"
+      ]
+    },
+    {
+      "word": "deference",
+      "pos": "n",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-hard-03-deference",
+      "sources": [
+        "hard-01.json:v-hard-03-deference",
+        "hard-expansion-01.json:v-curated-hard-0024-deference"
+      ]
+    },
+    {
+      "word": "deleterious",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-hard-04-deleterious",
+      "sources": [
+        "hard-01.json:v-hard-04-deleterious",
+        "hard-expansion-01.json:v-curated-hard-0094-deleterious"
+      ]
+    },
+    {
+      "word": "egregious",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-hard-03-egregious",
+      "sources": [
+        "hard-01.json:v-hard-03-egregious",
+        "hard-expansion-01.json:v-curated-hard-0032-egregious"
+      ]
+    },
+    {
+      "word": "elusive",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-curated-2112",
+      "sources": [
+        "hard-01.json:v-curated-2112",
+        "hard-expansion-01.json:v-curated-hard-0033-elusive"
+      ]
+    },
+    {
+      "word": "enigmatic",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-hard-04-enigmatic",
+      "sources": [
+        "hard-01.json:v-hard-04-enigmatic",
+        "hard-expansion-01.json:v-curated-hard-0034-enigmatic"
+      ]
+    },
+    {
+      "word": "fastidious",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-hard-04-fastidious",
+      "sources": [
+        "hard-01.json:v-hard-04-fastidious",
+        "hard-expansion-01.json:v-curated-hard-0037-fastidious"
+      ]
+    },
+    {
+      "word": "inadvertent",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-hard-145",
+      "sources": [
+        "hard-01.json:v-hard-145",
+        "hard-v13-expansion.json:v-v13-hard-0099"
+      ]
+    },
+    {
+      "word": "inimical",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-hard-04-inimical",
+      "sources": [
+        "hard-01.json:v-hard-04-inimical",
+        "hard-expansion-01.json:v-curated-hard-0044-inimical"
+      ]
+    },
+    {
+      "word": "intransigent",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-hard-03-intransigent",
+      "sources": [
+        "hard-01.json:v-hard-03-intransigent",
+        "hard-expansion-01.json:v-curated-hard-0046-intransigent"
+      ]
+    },
+    {
+      "word": "laconic",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-hard-03-laconic",
+      "sources": [
+        "hard-01.json:v-hard-03-laconic",
+        "hard-expansion-01.json:v-curated-hard-0048-laconic"
+      ]
+    },
+    {
+      "word": "magnanimous",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-hard-04-magnanimous",
+      "sources": [
+        "hard-01.json:v-hard-04-magnanimous",
+        "hard-expansion-01.json:v-curated-hard-0049-magnanimous"
+      ]
+    },
+    {
+      "word": "mercurial",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-hard-03-mercurial",
+      "sources": [
+        "hard-01.json:v-hard-03-mercurial",
+        "hard-expansion-01.json:v-curated-hard-0051-mercurial"
+      ]
+    },
+    {
+      "word": "perfunctory",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-hard-03-perfunctory",
+      "sources": [
+        "hard-01.json:v-hard-03-perfunctory",
+        "hard-expansion-01.json:v-curated-hard-0059-perfunctory"
+      ]
+    },
+    {
+      "word": "pragmatic",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-hard-122",
+      "sources": [
+        "hard-01.json:v-hard-122",
+        "hard-v13-expansion.json:v-v13-hard-0297"
+      ]
+    },
+    {
+      "word": "precarious",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-hard-04-precarious",
+      "sources": [
+        "hard-01.json:v-hard-04-precarious",
+        "hard-expansion-01.json:v-curated-hard-0062-precarious"
+      ]
+    },
+    {
+      "word": "preclude",
+      "pos": "v",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-hard-03-preclude",
+      "sources": [
+        "hard-01.json:v-hard-03-preclude",
+        "hard-expansion-01.json:v-curated-hard-0109-preclude"
+      ]
+    },
+    {
+      "word": "prolific",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-hard-04-prolific",
+      "sources": [
+        "hard-01.json:v-hard-04-prolific",
+        "hard-expansion-01.json:v-curated-hard-0065-prolific"
+      ]
+    },
+    {
+      "word": "propensity",
+      "pos": "n",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-curated-0835",
+      "sources": [
+        "hard-01.json:v-curated-0835",
+        "hard-expansion-01.json:v-curated-hard-0066-propensity"
+      ]
+    },
+    {
+      "word": "recalcitrant",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-hard-04-recalcitrant",
+      "sources": [
+        "hard-01.json:v-hard-04-recalcitrant",
+        "hard-expansion-01.json:v-curated-hard-0067-recalcitrant"
+      ]
+    },
+    {
+      "word": "reticent",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-hard-04-reticent",
+      "sources": [
+        "hard-02.json:v-hard-04-reticent",
+        "hard-expansion-01.json:v-curated-hard-0069-reticent"
+      ]
+    },
+    {
+      "word": "retrospective",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-curated-2805",
+      "sources": [
+        "hard-02.json:v-curated-2805",
+        "hard-expansion-01.json:v-curated-hard-0111-retrospective"
+      ]
+    },
+    {
+      "word": "stagnant",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-curated-2257",
+      "sources": [
+        "hard-02.json:v-curated-2257",
+        "hard-expansion-01.json:v-curated-hard-0074-stagnant"
+      ]
+    },
+    {
+      "word": "superfluous",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-hard-03-superfluous",
+      "sources": [
+        "hard-02.json:v-hard-03-superfluous",
+        "hard-expansion-01.json:v-curated-hard-0078-superfluous"
+      ]
+    },
+    {
+      "word": "surreptitious",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-hard-04-surreptitious",
+      "sources": [
+        "hard-02.json:v-hard-04-surreptitious",
+        "hard-expansion-01.json:v-curated-hard-0079-surreptitious"
+      ]
+    },
+    {
+      "word": "truculent",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-hard-04-truculent",
+      "sources": [
+        "hard-02.json:v-hard-04-truculent",
+        "hard-expansion-01.json:v-curated-hard-0082-truculent"
+      ]
+    },
+    {
+      "word": "ubiquitous",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-hard-03-ubiquitous",
+      "sources": [
+        "hard-02.json:v-hard-03-ubiquitous",
+        "hard-expansion-01.json:v-curated-hard-0083-ubiquitous"
+      ]
+    },
+    {
+      "word": "untenable",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-hard-03-untenable",
+      "sources": [
+        "hard-02.json:v-hard-03-untenable",
+        "hard-expansion-01.json:v-curated-hard-0115-untenable"
+      ]
+    },
+    {
+      "word": "adroit",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-v13-hard-0007",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0003-adroit",
+        "hard-v13-expansion.json:v-v13-hard-0007"
+      ]
+    },
+    {
+      "word": "alacrity",
+      "pos": "n",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-massive-hard-0002",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0004-alacrity",
+        "hard-massive-03.json:v-massive-hard-0002"
+      ]
+    },
+    {
+      "word": "apprise",
+      "pos": "v",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-v13-hard-0170",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0008-apprise",
+        "hard-v13-expansion.json:v-v13-hard-0170"
+      ]
+    },
+    {
+      "word": "artifice",
+      "pos": "n",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-v13-hard-0024",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0010-artifice",
+        "hard-v13-expansion.json:v-v13-hard-0024"
+      ]
+    },
+    {
+      "word": "assiduous",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-v13-hard-0027",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0011-assiduous",
+        "hard-v13-expansion.json:v-v13-hard-0027"
+      ]
+    },
+    {
+      "word": "avarice",
+      "pos": "n",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-v13-hard-0031",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0012-avarice",
+        "hard-v13-expansion.json:v-v13-hard-0031"
+      ]
+    },
+    {
+      "word": "bellicose",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-v13-hard-0035",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0013-bellicose",
+        "hard-v13-expansion.json:v-v13-hard-0035"
+      ]
+    },
+    {
+      "word": "clandestine",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-massive-hard-0046",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0019-clandestine",
+        "hard-massive-03.json:v-massive-hard-0046"
+      ]
+    },
+    {
+      "word": "corollary",
+      "pos": "n",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-massive-hard-0052",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0021-corollary",
+        "hard-massive-03.json:v-massive-hard-0052"
+      ]
+    },
+    {
+      "word": "deride",
+      "pos": "v",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-v13-hard-0066",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0025-deride",
+        "hard-v13-expansion.json:v-v13-hard-0066"
+      ]
+    },
+    {
+      "word": "diatribe",
+      "pos": "n",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-massive-hard-0057",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0027-diatribe",
+        "hard-massive-03.json:v-massive-hard-0057"
+      ]
+    },
+    {
+      "word": "diffident",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-v13-hard-0069",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0028-diffident",
+        "hard-v13-expansion.json:v-v13-hard-0069"
+      ]
+    },
+    {
+      "word": "dilatory",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-v13-hard-0070",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0029-dilatory",
+        "hard-v13-expansion.json:v-v13-hard-0070"
+      ]
+    },
+    {
+      "word": "disparage",
+      "pos": "v",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-massive-hard-0059",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0030-disparage",
+        "hard-massive-03.json:v-massive-hard-0059"
+      ]
+    },
+    {
+      "word": "dogmatic",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-v13-hard-0072",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0031-dogmatic",
+        "hard-v13-expansion.json:v-v13-hard-0072"
+      ]
+    },
+    {
+      "word": "epitome",
+      "pos": "n",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-massive-hard-0068",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0035-epitome",
+        "hard-massive-03.json:v-massive-hard-0068"
+      ]
+    },
+    {
+      "word": "furtive",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-v13-hard-0202",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0038-furtive",
+        "hard-v13-expansion.json:v-v13-hard-0202"
+      ]
+    },
+    {
+      "word": "gregarious",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-massive-hard-0087",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0039-gregarious",
+        "hard-massive-03.json:v-massive-hard-0087"
+      ]
+    },
+    {
+      "word": "hackneyed",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-v13-hard-0090",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0040-hackneyed",
+        "hard-v13-expansion.json:v-v13-hard-0090"
+      ]
+    },
+    {
+      "word": "impetuous",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-v13-hard-0097",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0041-impetuous",
+        "hard-v13-expansion.json:v-v13-hard-0097"
+      ]
+    },
+    {
+      "word": "implacable",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-v13-hard-0098",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0042-implacable",
+        "hard-v13-expansion.json:v-v13-hard-0098"
+      ]
+    },
+    {
+      "word": "inscrutable",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-massive-hard-0100",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0045-inscrutable",
+        "hard-massive-03.json:v-massive-hard-0100"
+      ]
+    },
+    {
+      "word": "inveterate",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-v13-hard-0110",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0047-inveterate",
+        "hard-v13-expansion.json:v-v13-hard-0110"
+      ]
+    },
+    {
+      "word": "mendacious",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-v13-hard-0116",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0050-mendacious",
+        "hard-v13-expansion.json:v-v13-hard-0116"
+      ]
+    },
+    {
+      "word": "nefarious",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-v13-hard-0119",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0052-nefarious",
+        "hard-v13-expansion.json:v-v13-hard-0119"
+      ]
+    },
+    {
+      "word": "obdurate",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-v13-hard-0121",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0053-obdurate",
+        "hard-v13-expansion.json:v-v13-hard-0121"
+      ]
+    },
+    {
+      "word": "obfuscate",
+      "pos": "v",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-v13-hard-0122",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0054-obfuscate",
+        "hard-v13-expansion.json:v-v13-hard-0122"
+      ]
+    },
+    {
+      "word": "obsequious",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-v13-hard-0123",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0055-obsequious",
+        "hard-v13-expansion.json:v-v13-hard-0123"
+      ]
+    },
+    {
+      "word": "ostensible",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-v13-hard-0125",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0057-ostensible",
+        "hard-v13-expansion.json:v-v13-hard-0125"
+      ]
+    },
+    {
+      "word": "pertinent",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-v13-hard-0130",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0061-pertinent",
+        "hard-v13-expansion.json:v-v13-hard-0130"
+      ]
+    },
+    {
+      "word": "precipitate",
+      "pos": "v",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-massive-hard-0133",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0063-precipitate",
+        "hard-massive-03.json:v-massive-hard-0133"
+      ]
+    },
+    {
+      "word": "prodigal",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-v13-hard-0138",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0064-prodigal",
+        "hard-v13-expansion.json:v-v13-hard-0138"
+      ]
+    },
+    {
+      "word": "reprehensible",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-massive-hard-0015",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0068-reprehensible",
+        "hard-massive-03.json:v-massive-hard-0015"
+      ]
+    },
+    {
+      "word": "sagacious",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-massive-hard-0142",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0070-sagacious",
+        "hard-massive-03.json:v-massive-hard-0142"
+      ]
+    },
+    {
+      "word": "solicitous",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-massive-hard-0020",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0072-solicitous",
+        "hard-massive-03.json:v-massive-hard-0020"
+      ]
+    },
+    {
+      "word": "spurious",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-v13-hard-0148",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0073-spurious",
+        "hard-v13-expansion.json:v-v13-hard-0148"
+      ]
+    },
+    {
+      "word": "staid",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-v13-hard-0149",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0075-staid",
+        "hard-v13-expansion.json:v-v13-hard-0149"
+      ]
+    },
+    {
+      "word": "stolid",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-massive-hard-0149",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0076-stolid",
+        "hard-massive-03.json:v-massive-hard-0149"
+      ]
+    },
+    {
+      "word": "strident",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-v13-hard-0150",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0077-strident",
+        "hard-v13-expansion.json:v-v13-hard-0150"
+      ]
+    },
+    {
+      "word": "tenuous",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-v13-hard-0153",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0080-tenuous",
+        "hard-v13-expansion.json:v-v13-hard-0153"
+      ]
+    },
+    {
+      "word": "trenchant",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-massive-hard-0157",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0081-trenchant",
+        "hard-massive-03.json:v-massive-hard-0157"
+      ]
+    },
+    {
+      "word": "vacillate",
+      "pos": "v",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-massive-hard-0161",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0084-vacillate",
+        "hard-massive-03.json:v-massive-hard-0161"
+      ]
+    },
+    {
+      "word": "venerate",
+      "pos": "v",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-v13-hard-0162",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0085-venerate",
+        "hard-v13-expansion.json:v-v13-hard-0162"
+      ]
+    },
+    {
+      "word": "vitriolic",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-massive-hard-0165",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0086-vitriolic",
+        "hard-massive-03.json:v-massive-hard-0165"
+      ]
+    },
+    {
+      "word": "abrogate",
+      "pos": "v",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-v13-hard-0002",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0089-abrogate",
+        "hard-v13-expansion.json:v-v13-hard-0002"
+      ]
+    },
+    {
+      "word": "apocryphal",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-v13-hard-0020",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0091-apocryphal",
+        "hard-v13-expansion.json:v-v13-hard-0020"
+      ]
+    },
+    {
+      "word": "execrable",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-v13-hard-0193",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0096-execrable",
+        "hard-v13-expansion.json:v-v13-hard-0193"
+      ]
+    },
+    {
+      "word": "hapless",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-v13-hard-0207",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0098-hapless",
+        "hard-v13-expansion.json:v-v13-hard-0207"
+      ]
+    },
+    {
+      "word": "ignominious",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-massive-hard-0092",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0099-ignominious",
+        "hard-massive-03.json:v-massive-hard-0092"
+      ]
+    },
+    {
+      "word": "inchoate",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-massive-hard-0096",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0100-inchoate",
+        "hard-massive-03.json:v-massive-hard-0096"
+      ]
+    },
+    {
+      "word": "inexorable",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-v13-hard-0214",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0101-inexorable",
+        "hard-v13-expansion.json:v-v13-hard-0214"
+      ]
+    },
+    {
+      "word": "lethargic",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-v13-hard-0114",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0105-lethargic",
+        "hard-v13-expansion.json:v-v13-hard-0114"
+      ]
+    },
+    {
+      "word": "misanthropic",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-massive-hard-0010",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0106-misanthropic",
+        "hard-massive-03.json:v-massive-hard-0010"
+      ]
+    },
+    {
+      "word": "nonchalant",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-v13-hard-0120",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0107-nonchalant",
+        "hard-v13-expansion.json:v-v13-hard-0120"
+      ]
+    },
+    {
+      "word": "perfidious",
+      "pos": "adj",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-massive-hard-0127",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0108-perfidious",
+        "hard-massive-03.json:v-massive-hard-0127"
+      ]
+    },
+    {
+      "word": "surfeit",
+      "pos": "n",
+      "level": "hard",
+      "removed": 1,
+      "kept": "v-v13-hard-0250",
+      "sources": [
+        "hard-expansion-01.json:v-curated-hard-0114-surfeit",
+        "hard-v13-expansion.json:v-v13-hard-0250"
+      ]
+    }
+  ],
+  "removed": 245,
+  "after": 5737
+}
