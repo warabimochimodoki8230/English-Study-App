@@ -1,0 +1,162 @@
+[
+  {
+    "id": "v-curated-developed-0001-adjoin",
+    "type": "vocab",
+    "level": "developed",
+    "word": "adjoin",
+    "meaning": "隣接する",
+    "pos": "動",
+    "exampleSentence": "Researchers often adjoin the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「隣接する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0002-compulsory",
+    "type": "vocab",
+    "level": "developed",
+    "word": "compulsory",
+    "meaning": "義務的な",
+    "pos": "形",
+    "exampleSentence": "The report presents a compulsory explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「義務的な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0003-decent",
+    "type": "vocab",
+    "level": "developed",
+    "word": "decent",
+    "meaning": "まともな、適切な",
+    "pos": "形",
+    "exampleSentence": "The report presents a decent explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「まともな」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0004-designate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "designate",
+    "meaning": "指定する",
+    "pos": "動",
+    "exampleSentence": "Researchers often designate the factors behind the change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「指定する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0005-ineffective",
+    "type": "vocab",
+    "level": "developed",
+    "word": "ineffective",
+    "meaning": "効果のない",
+    "pos": "形",
+    "exampleSentence": "The report presents a ineffective explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「効果のない」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0006-monetary",
+    "type": "vocab",
+    "level": "developed",
+    "word": "monetary",
+    "meaning": "金銭の、金融の",
+    "pos": "形",
+    "exampleSentence": "The report presents a monetary explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「金銭の」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0007-outdated",
+    "type": "vocab",
+    "level": "developed",
+    "word": "outdated",
+    "meaning": "時代遅れの",
+    "pos": "形",
+    "exampleSentence": "The report presents a outdated explanation of the issue.",
+    "exampleJa": "その報告書はその問題について「時代遅れの」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0008-credibly",
+    "type": "vocab",
+    "level": "developed",
+    "word": "credibly",
+    "meaning": "信頼できる形で",
+    "pos": "副",
+    "exampleSentence": "The researchers credibly examined the available evidence.",
+    "exampleJa": "研究者たちは利用可能な証拠を「信頼できる形で」調べた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0009-deployment",
+    "type": "vocab",
+    "level": "developed",
+    "word": "deployment",
+    "meaning": "展開、配置",
+    "pos": "名",
+    "exampleSentence": "The study examines the role of deployment in modern society.",
+    "exampleJa": "その研究は現代社会における「展開」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0010-prevention",
+    "type": "vocab",
+    "level": "developed",
+    "word": "prevention",
+    "meaning": "予防",
+    "pos": "名",
+    "exampleSentence": "The study examines the role of prevention in modern society.",
+    "exampleJa": "その研究は現代社会における「予防」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  }
+]

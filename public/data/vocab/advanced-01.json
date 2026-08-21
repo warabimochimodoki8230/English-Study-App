@@ -1,0 +1,6329 @@
+[
+  {
+    "id": "v-curated-1862",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "academically",
+    "meaning": "学問的に",
+    "pos": "adv",
+    "question": "academically",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "学問的に",
+    "explanation": "academically = 学問的に。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The team responded academically to the situation."
+  },
+  {
+    "id": "v-curated-2002",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "acclaim",
+    "meaning": "称賛・絶賛する",
+    "pos": "v",
+    "question": "acclaim",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "称賛・絶賛する",
+    "explanation": "acclaim = 称賛・絶賛する。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to acclaim the plan."
+  },
+  {
+    "id": "v-curated-3191",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "acclaim",
+    "meaning": "称賛する・称賛",
+    "pos": "n",
+    "question": "acclaim",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "称賛する・称賛",
+    "explanation": "acclaim = 称賛する・称賛。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the acclaim carefully."
+  },
+  {
+    "id": "v-curated-1897",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "accountability",
+    "meaning": "説明責任",
+    "pos": "n",
+    "question": "accountability",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "説明責任",
+    "explanation": "accountability = 説明責任。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the accountability carefully."
+  },
+  {
+    "id": "v-curated-1526",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "accountable",
+    "meaning": "説明責任のある",
+    "pos": "adj",
+    "question": "accountable",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "説明責任のある",
+    "explanation": "accountable = 説明責任のある。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The result was accountable for everyone involved."
+  },
+  {
+    "id": "v-curated-3506",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "accounting",
+    "meaning": "会計",
+    "pos": "n",
+    "question": "accounting",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "会計",
+    "explanation": "accounting = 会計。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the accounting carefully."
+  },
+  {
+    "id": "v-curated-3192",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "accustom",
+    "meaning": "慣れさせる",
+    "pos": "v",
+    "question": "accustom",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "慣れさせる",
+    "explanation": "accustom = 慣れさせる。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to accustom the plan."
+  },
+  {
+    "id": "v-curated-1530",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "acquaint",
+    "meaning": "知らせる・習熟させる",
+    "pos": "v",
+    "question": "acquaint",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "知らせる・習熟させる",
+    "explanation": "acquaint = 知らせる・習熟させる。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to acquaint the plan."
+  },
+  {
+    "id": "v-advanced-04-acumen",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "acumen",
+    "meaning": "洞察力・手腕",
+    "pos": "n",
+    "question": "acumen",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "洞察力・手腕",
+    "explanation": "acumen = 洞察力・手腕。品詞: n。",
+    "exampleSentence": "business acumen.",
+    "exampleJa": "この文脈では「洞察力」という意味。",
+    "family": "acumen;acumens",
+    "synonyms": [],
+    "tags": [
+      "advanced",
+      "n"
+    ],
+    "note": "入試・読解で見かけやすい重要語。"
+  },
+  {
+    "id": "v-curated-1298",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "acute",
+    "meaning": "鋭い・急性の",
+    "pos": "adj",
+    "question": "acute",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "鋭い・急性の",
+    "explanation": "acute = 鋭い・急性の。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was acute for everyone involved."
+  },
+  {
+    "id": "v-curated-1898",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "adaptability",
+    "meaning": "適応性",
+    "pos": "n",
+    "question": "adaptability",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "適応性",
+    "explanation": "adaptability = 適応性。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the adaptability carefully."
+  },
+  {
+    "id": "v-curated-2706",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "adaptive",
+    "meaning": "適応性のある",
+    "pos": "adj",
+    "question": "adaptive",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "適応性のある",
+    "explanation": "adaptive = 適応性のある。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was adaptive for everyone involved."
+  },
+  {
+    "id": "v-curated-3203",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "addiction",
+    "meaning": "依存症・中毒",
+    "pos": "n",
+    "question": "addiction",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "依存症・中毒",
+    "explanation": "addiction = 依存症・中毒。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the addiction carefully."
+  },
+  {
+    "id": "v-curated-1532",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "adequacy",
+    "meaning": "十分さ・適切さ",
+    "pos": "n",
+    "question": "adequacy",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "十分さ・適切さ",
+    "explanation": "adequacy = 十分さ・適切さ。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the adequacy carefully."
+  },
+  {
+    "id": "v-curated-2552",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "adhere",
+    "meaning": "固く守る・付着する",
+    "pos": "v",
+    "question": "adhere",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "固く守る・付着する",
+    "explanation": "adhere = 固く守る・付着する。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to adhere the plan."
+  },
+  {
+    "id": "v-curated-3099",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "adjacency",
+    "meaning": "隣接",
+    "pos": "n",
+    "question": "adjacency",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "隣接",
+    "explanation": "adjacency = 隣接。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the adjacency carefully."
+  },
+  {
+    "id": "v-mega-hard-0069",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "administer",
+    "meaning": "管理する・施行する",
+    "pos": "v",
+    "exampleSentence": "We need to administer the problem carefully.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "administer：管理する・施行する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ]
+  },
+  {
+    "id": "v-curated-1534",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "administrator",
+    "meaning": "管理者",
+    "pos": "n",
+    "question": "administrator",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "管理者",
+    "explanation": "administrator = 管理者。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the administrator carefully."
+  },
+  {
+    "id": "v-curated-1536",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "admittedly",
+    "meaning": "認めざるを得ないことに",
+    "pos": "adv",
+    "question": "admittedly",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "認めざるを得ないことに",
+    "explanation": "admittedly = 認めざるを得ないことに。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The team responded admittedly to the situation."
+  },
+  {
+    "id": "v-curated-4024",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "adoptive",
+    "meaning": "養子の・採用した",
+    "pos": "adj",
+    "question": "adoptive",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "養子の・採用した",
+    "explanation": "adoptive = 養子の・採用した。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The result was adoptive for everyone involved."
+  },
+  {
+    "id": "v-curated-2292",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "adorn",
+    "meaning": "飾る",
+    "pos": "v",
+    "question": "adorn",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "飾る",
+    "explanation": "adorn = 飾る。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to adorn the plan."
+  },
+  {
+    "id": "v-advanced-04-adversarial",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "adversarial",
+    "meaning": "敵対的な",
+    "pos": "adj",
+    "question": "adversarial",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "敵対的な",
+    "explanation": "adversarial = 敵対的な。品詞: adj。",
+    "exampleSentence": "an adversarial relationship.",
+    "exampleJa": "この文脈では「敵対的な」という意味。",
+    "family": "adversarial;adversarially",
+    "synonyms": [],
+    "tags": [
+      "advanced",
+      "adj"
+    ],
+    "note": "入試・読解で見かけやすい重要語。"
+  },
+  {
+    "id": "v-curated-0393",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "adverse",
+    "meaning": "不利な・有害な",
+    "pos": "adj",
+    "question": "adverse",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "不利な・有害な",
+    "explanation": "adverse = 不利な・有害な。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was adverse for everyone involved."
+  },
+  {
+    "id": "v-curated-1828",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "adversely",
+    "meaning": "不利に",
+    "pos": "adv",
+    "question": "adversely",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "不利に",
+    "explanation": "adversely = 不利に。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The team responded adversely to the situation."
+  },
+  {
+    "id": "v-curated-2293",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "adversity",
+    "meaning": "逆境",
+    "pos": "n",
+    "question": "adversity",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "逆境",
+    "explanation": "adversity = 逆境。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the adversity carefully."
+  },
+  {
+    "id": "v-curated-1539",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "advisable",
+    "meaning": "望ましい",
+    "pos": "adj",
+    "question": "advisable",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "望ましい",
+    "explanation": "advisable = 望ましい。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was advisable for everyone involved."
+  },
+  {
+    "id": "v-advanced-001",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "advocate",
+    "meaning": "主張する・支持者",
+    "question": "advocate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "主張する・支持者",
+        "correct": true
+      },
+      {
+        "text": "反対する",
+        "correct": false
+      },
+      {
+        "text": "隠す",
+        "correct": false
+      },
+      {
+        "text": "延期する",
+        "correct": false
+      }
+    ],
+    "answer": "主張する・支持者",
+    "explanation": "advocate = 主張する・支持者。例：advocate reform",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The teacher explained how \"advocate\" is used in context."
+  },
+  {
+    "id": "v-curated-0332",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "advocate",
+    "meaning": "支持者",
+    "pos": "n",
+    "question": "advocate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "支持者",
+    "explanation": "advocate = 支持者。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the advocate carefully."
+  },
+  {
+    "id": "v-curated-1300",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "aesthetic",
+    "meaning": "美的な",
+    "pos": "adj",
+    "question": "aesthetic",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "美的な",
+    "explanation": "aesthetic = 美的な。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The result was aesthetic for everyone involved."
+  },
+  {
+    "id": "v-curated-2294",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "affirm",
+    "meaning": "断言する",
+    "pos": "v",
+    "question": "affirm",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "断言する",
+    "explanation": "affirm = 断言する。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to affirm the plan."
+  },
+  {
+    "id": "v-curated-1464",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "affluent",
+    "meaning": "裕福な",
+    "pos": "adj",
+    "question": "affluent",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "裕福な",
+    "explanation": "affluent = 裕福な。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was affluent for everyone involved."
+  },
+  {
+    "id": "v-curated-1541",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "affordability",
+    "meaning": "手頃な価格であること",
+    "pos": "n",
+    "question": "affordability",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "手頃な価格であること",
+    "explanation": "affordability = 手頃な価格であること。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the affordability carefully."
+  },
+  {
+    "id": "v-advanced-002",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "aggregate",
+    "meaning": "総計・集計する",
+    "question": "aggregate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "総計・集計する",
+        "correct": true
+      },
+      {
+        "text": "部分",
+        "correct": false
+      },
+      {
+        "text": "例外",
+        "correct": false
+      },
+      {
+        "text": "誤り",
+        "correct": false
+      }
+    ],
+    "answer": "総計・集計する",
+    "explanation": "aggregate = 総計・集計する。例：aggregate demand",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The teacher explained how \"aggregate\" is used in context."
+  },
+  {
+    "id": "v-curated-0957",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "aggregate",
+    "meaning": "集計する・総計する",
+    "pos": "v",
+    "question": "aggregate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "集計する・総計する",
+    "explanation": "aggregate = 集計する・総計する。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to aggregate the plan."
+  },
+  {
+    "id": "v-curated-1094",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "aggregate",
+    "meaning": "総計・集計する",
+    "pos": "n",
+    "question": "aggregate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "総計・集計する",
+    "explanation": "aggregate = 総計・集計する。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the aggregate carefully."
+  },
+  {
+    "id": "v-curated-0753",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "aggregation",
+    "meaning": "集計",
+    "pos": "n",
+    "question": "aggregation",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "集計",
+    "explanation": "aggregation = 集計。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The study examined the aggregation carefully."
+  },
+  {
+    "id": "v-curated-1829",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "aggressively",
+    "meaning": "積極的に・攻撃的に",
+    "pos": "adv",
+    "question": "aggressively",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "積極的に・攻撃的に",
+    "explanation": "aggressively = 積極的に・攻撃的に。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The team responded aggressively to the situation."
+  },
+  {
+    "id": "v-advanced-04-albeit",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "albeit",
+    "meaning": "〜ではあるが",
+    "pos": "conj",
+    "question": "albeit",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "〜ではあるが",
+    "explanation": "albeit = 〜ではあるが。品詞: conj。",
+    "exampleSentence": "albeit briefly.",
+    "exampleJa": "この文脈では「〜ではあるが」という意味。",
+    "family": "albeit;albeits",
+    "synonyms": [],
+    "tags": [
+      "advanced",
+      "conj"
+    ],
+    "note": "入試・読解で見かけやすい重要語。",
+    "levelTags": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-curated-3518",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "alien",
+    "meaning": "外国人・異質な",
+    "pos": "adj",
+    "question": "alien",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "外国人・異質な",
+    "explanation": "alien = 外国人・異質な。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was alien for everyone involved."
+  },
+  {
+    "id": "v-curated-1544",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "alignment",
+    "meaning": "整列・一致",
+    "pos": "n",
+    "question": "alignment",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "整列・一致",
+    "explanation": "alignment = 整列・一致。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the alignment carefully."
+  },
+  {
+    "id": "v-curated-1903",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "allegation",
+    "meaning": "申し立て・主張",
+    "pos": "n",
+    "question": "allegation",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "申し立て・主張",
+    "explanation": "allegation = 申し立て・主張。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the allegation carefully."
+  },
+  {
+    "id": "v-curated-1545",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "allegedly",
+    "meaning": "申し立てによれば",
+    "pos": "adv",
+    "question": "allegedly",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "申し立てによれば",
+    "explanation": "allegedly = 申し立てによれば。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The team responded allegedly to the situation."
+  },
+  {
+    "id": "v-curated-1097",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "alleviate",
+    "meaning": "軽減する",
+    "pos": "v",
+    "question": "alleviate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "軽減する",
+    "explanation": "alleviate = 軽減する。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "They decided to alleviate the plan."
+  },
+  {
+    "id": "v-curated-3102",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "allocation",
+    "meaning": "割り当て",
+    "pos": "n",
+    "question": "allocation",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "割り当て",
+    "explanation": "allocation = 割り当て。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the allocation carefully."
+  },
+  {
+    "id": "bulk-vocab-00451",
+    "type": "vocab",
+    "word": "alternate",
+    "meaning": "交互の・代替する",
+    "pos": "adj",
+    "level": "advanced",
+    "tags": [
+      "bulk-expansion-v9"
+    ],
+    "source": "original-curated-v9",
+    "explanation": "alternate は「交互の・代替する」の意味。",
+    "exampleSentence": "The result was alternate for everyone involved."
+  },
+  {
+    "id": "v-curated-2295",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "amass",
+    "meaning": "蓄える",
+    "pos": "v",
+    "question": "amass",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "蓄える",
+    "explanation": "amass = 蓄える。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to amass the plan."
+  },
+  {
+    "id": "v-curated-3220",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "amateur",
+    "meaning": "素人・素人の",
+    "pos": "n",
+    "question": "amateur",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "素人・素人の",
+    "explanation": "amateur = 素人・素人の。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the amateur carefully."
+  },
+  {
+    "id": "v-curated-1551",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "ambiguity",
+    "meaning": "曖昧さ",
+    "pos": "n",
+    "question": "ambiguity",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "曖昧さ",
+    "explanation": "ambiguity = 曖昧さ。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The study examined the ambiguity carefully."
+  },
+  {
+    "id": "v-advanced-101",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "ambiguous",
+    "meaning": "曖昧な",
+    "question": "ambiguous",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "傷つきやすい",
+        "correct": false
+      },
+      {
+        "text": "曖昧な",
+        "correct": true
+      },
+      {
+        "text": "持続する・執拗な",
+        "correct": false
+      },
+      {
+        "text": "その後の",
+        "correct": false
+      }
+    ],
+    "answer": "曖昧な",
+    "explanation": "ambiguous = 曖昧な。例：an ambiguous statement",
+    "exampleSentence": "The teacher explained how \"ambiguous\" is used in context."
+  },
+  {
+    "id": "v-curated-0278",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "amplify",
+    "meaning": "増幅する",
+    "pos": "v",
+    "question": "amplify",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "増幅する",
+    "explanation": "amplify = 増幅する。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "They decided to amplify the plan."
+  },
+  {
+    "id": "v-curated-1553",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "analogous",
+    "meaning": "類似した",
+    "pos": "adj",
+    "question": "analogous",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "類似した",
+    "explanation": "analogous = 類似した。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was analogous for everyone involved."
+  },
+  {
+    "id": "v-curated-1554",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "analytically",
+    "meaning": "分析的に",
+    "pos": "adv",
+    "question": "analytically",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "分析的に",
+    "explanation": "analytically = 分析的に。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The team responded analytically to the situation."
+  },
+  {
+    "id": "v-curated-0613",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "anecdote",
+    "meaning": "逸話",
+    "pos": "n",
+    "question": "anecdote",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "逸話",
+    "explanation": "anecdote = 逸話。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the anecdote carefully."
+  },
+  {
+    "id": "v-curated-0832",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "anomaly",
+    "meaning": "異常・例外",
+    "pos": "n",
+    "question": "anomaly",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "異常・例外",
+    "explanation": "anomaly = 異常・例外。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The study examined the anomaly carefully."
+  },
+  {
+    "id": "v-curated-1557",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "anonymous",
+    "meaning": "匿名の",
+    "pos": "adj",
+    "question": "anonymous",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "匿名の",
+    "explanation": "anonymous = 匿名の。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was anonymous for everyone involved."
+  },
+  {
+    "id": "v-curated-1105",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "apparatus",
+    "meaning": "器具・装置",
+    "pos": "n",
+    "question": "apparatus",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "器具・装置",
+    "explanation": "apparatus = 器具・装置。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the apparatus carefully."
+  },
+  {
+    "id": "v-curated-3104",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "applicability",
+    "meaning": "適用可能性",
+    "pos": "n",
+    "question": "applicability",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "適用可能性",
+    "explanation": "applicability = 適用可能性。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the applicability carefully."
+  },
+  {
+    "id": "v-curated-0616",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "appraisal",
+    "meaning": "評価・査定",
+    "pos": "n",
+    "question": "appraisal",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "評価・査定",
+    "explanation": "appraisal = 評価・査定。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the appraisal carefully."
+  },
+  {
+    "id": "v-curated-2711",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "appreciable",
+    "meaning": "かなりの・評価できる",
+    "pos": "adj",
+    "question": "appreciable",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "かなりの・評価できる",
+    "explanation": "appreciable = かなりの・評価できる。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was appreciable for everyone involved."
+  },
+  {
+    "id": "v-curated-0834",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "apprehension",
+    "meaning": "不安・理解",
+    "pos": "n",
+    "question": "apprehension",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "不安・理解",
+    "explanation": "apprehension = 不安・理解。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The study examined the apprehension carefully."
+  },
+  {
+    "id": "v-curated-2929",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "approximation",
+    "meaning": "近似・概算",
+    "pos": "n",
+    "question": "approximation",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "近似・概算",
+    "explanation": "approximation = 近似・概算。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the approximation carefully."
+  },
+  {
+    "id": "v-curated-2019",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "aptitude",
+    "meaning": "適性",
+    "pos": "n",
+    "question": "aptitude",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "適性",
+    "explanation": "aptitude = 適性。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the aptitude carefully."
+  },
+  {
+    "id": "v-advanced-102",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "arbitrary",
+    "meaning": "恣意的な・任意の",
+    "question": "arbitrary",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "不可欠な",
+        "correct": false
+      },
+      {
+        "text": "考案する",
+        "correct": false
+      },
+      {
+        "text": "傷つきやすい",
+        "correct": false
+      },
+      {
+        "text": "恣意的な・任意の",
+        "correct": true
+      }
+    ],
+    "answer": "恣意的な・任意の",
+    "explanation": "arbitrary = 恣意的な・任意の。例：an arbitrary decision",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The teacher explained how \"arbitrary\" is used in context."
+  },
+  {
+    "id": "v-curated-3693",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "architectural",
+    "meaning": "建築上の",
+    "pos": "adj",
+    "question": "architectural",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "建築上の",
+    "explanation": "architectural = 建築上の。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The result was architectural for everyone involved."
+  },
+  {
+    "id": "v-curated-2298",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "arouse",
+    "meaning": "呼び起こす",
+    "pos": "v",
+    "question": "arouse",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "呼び起こす",
+    "explanation": "arouse = 呼び起こす。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to arouse the plan."
+  },
+  {
+    "id": "v-curated-3236",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "array",
+    "meaning": "配列・一式",
+    "pos": "n",
+    "question": "array",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "配列・一式",
+    "explanation": "array = 配列・一式。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the array carefully."
+  },
+  {
+    "id": "v-curated-2020",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "arrogance",
+    "meaning": "傲慢",
+    "pos": "n",
+    "question": "arrogance",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "傲慢",
+    "explanation": "arrogance = 傲慢。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the arrogance carefully."
+  },
+  {
+    "id": "v-advanced-103",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "articulate",
+    "meaning": "明確に表現する",
+    "question": "articulate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "相互の",
+        "correct": false
+      },
+      {
+        "text": "明確に表現する",
+        "correct": true
+      },
+      {
+        "text": "一貫した",
+        "correct": false
+      },
+      {
+        "text": "矛盾する・反論する",
+        "correct": false
+      }
+    ],
+    "answer": "明確に表現する",
+    "explanation": "articulate = 明確に表現する。例：articulate an argument",
+    "exampleSentence": "The teacher explained how \"articulate\" is used in context."
+  },
+  {
+    "id": "v-curated-1110",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "articulate",
+    "meaning": "明瞭に表現する・明瞭な",
+    "pos": "v",
+    "question": "articulate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "明瞭に表現する・明瞭な",
+    "explanation": "articulate = 明瞭に表現する・明瞭な。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "They decided to articulate the plan."
+  },
+  {
+    "id": "v-curated-2564",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "artifact",
+    "meaning": "人工物・工芸品",
+    "pos": "n",
+    "question": "artifact",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "人工物・工芸品",
+    "explanation": "artifact = 人工物・工芸品。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the artifact carefully."
+  },
+  {
+    "id": "v-curated-1566",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "artificially",
+    "meaning": "人工的に",
+    "pos": "adv",
+    "question": "artificially",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "人工的に",
+    "explanation": "artificially = 人工的に。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The team responded artificially to the situation."
+  },
+  {
+    "id": "v-curated-0962",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "ascend",
+    "meaning": "上昇する",
+    "pos": "v",
+    "question": "ascend",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "上昇する",
+    "explanation": "ascend = 上昇する。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to ascend the plan."
+  },
+  {
+    "id": "bulk-vocab-00460",
+    "type": "vocab",
+    "word": "aspire",
+    "meaning": "熱望する",
+    "pos": "v",
+    "level": "advanced",
+    "tags": [
+      "bulk-expansion-v9"
+    ],
+    "source": "original-curated-v9",
+    "explanation": "aspire は「熱望する」の意味。",
+    "exampleSentence": "They decided to aspire the plan."
+  },
+  {
+    "id": "v-curated-2300",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "assertive",
+    "meaning": "自己主張の強い",
+    "pos": "adj",
+    "question": "assertive",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "自己主張の強い",
+    "explanation": "assertive = 自己主張の強い。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was assertive for everyone involved."
+  },
+  {
+    "id": "bulk-vocab-00168",
+    "type": "vocab",
+    "word": "attorney",
+    "meaning": "弁護士",
+    "pos": "n",
+    "level": "advanced",
+    "tags": [
+      "bulk-expansion-v9"
+    ],
+    "source": "original-curated-v9",
+    "explanation": "attorney は「弁護士」の意味。",
+    "exampleSentence": "The study examined the attorney carefully."
+  },
+  {
+    "id": "v-curated-2301",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "attributable",
+    "meaning": "起因すると考えられる",
+    "pos": "adj",
+    "question": "attributable",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "起因すると考えられる",
+    "explanation": "attributable = 起因すると考えられる。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was attributable for everyone involved."
+  },
+  {
+    "id": "v-curated-1573",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "attribute",
+    "meaning": "属性・～のせいにする",
+    "pos": "n",
+    "question": "attribute",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "属性・～のせいにする",
+    "explanation": "attribute = 属性・～のせいにする。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the attribute carefully."
+  },
+  {
+    "id": "v-curated-3242",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "auction",
+    "meaning": "競売・競売にかける",
+    "pos": "n",
+    "question": "auction",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "競売・競売にかける",
+    "explanation": "auction = 競売・競売にかける。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the auction carefully."
+  },
+  {
+    "id": "v-max2-augment",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "augment",
+    "meaning": "増加させる",
+    "pos": "v",
+    "exampleSentence": "We need to augment the problem carefully.",
+    "exampleJa": "私たちはその問題を注意深く増加させる必要がある。",
+    "explanation": "augment：増加させる。",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-max2",
+      "入試発展"
+    ],
+    "source": "curated-vocab-max2-2026",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ]
+  },
+  {
+    "id": "bulk-vocab-00463",
+    "type": "vocab",
+    "word": "authenticate",
+    "meaning": "認証する",
+    "pos": "v",
+    "level": "advanced",
+    "tags": [
+      "bulk-expansion-v9"
+    ],
+    "source": "original-curated-v9",
+    "explanation": "authenticate は「認証する」の意味。",
+    "exampleSentence": "They decided to authenticate the plan."
+  },
+  {
+    "id": "v-curated-3107",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "authorization",
+    "meaning": "許可・認可",
+    "pos": "n",
+    "question": "authorization",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "許可・認可",
+    "explanation": "authorization = 許可・認可。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the authorization carefully."
+  },
+  {
+    "id": "v-curated-3541",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "automated",
+    "meaning": "自動化された",
+    "pos": "adj",
+    "question": "automated",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "自動化された",
+    "explanation": "automated = 自動化された。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was automated for everyone involved."
+  },
+  {
+    "id": "v-max2-autonomous",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "autonomous",
+    "meaning": "自治の；自律的な",
+    "pos": "adj",
+    "exampleSentence": "The report gives a autonomous explanation.",
+    "exampleJa": "その報告書は自治の説明を示している。",
+    "explanation": "autonomous：自治の；自律的な。",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-max2",
+      "入試発展"
+    ],
+    "source": "curated-vocab-max2-2026",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ]
+  },
+  {
+    "id": "v-curated-1119",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "autonomy",
+    "meaning": "自律性",
+    "pos": "n",
+    "question": "autonomy",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "自律性",
+    "explanation": "autonomy = 自律性。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the autonomy carefully."
+  },
+  {
+    "id": "v-curated-2028",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "backlash",
+    "meaning": "反発",
+    "pos": "n",
+    "question": "backlash",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "反発",
+    "explanation": "backlash = 反発。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the backlash carefully."
+  },
+  {
+    "id": "v-curated-2029",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "ballot",
+    "meaning": "投票・投票用紙",
+    "pos": "n",
+    "question": "ballot",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "投票・投票用紙",
+    "explanation": "ballot = 投票・投票用紙。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the ballot carefully."
+  },
+  {
+    "id": "v-curated-2030",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "banish",
+    "meaning": "追放する",
+    "pos": "v",
+    "question": "banish",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "追放する",
+    "explanation": "banish = 追放する。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to banish the plan."
+  },
+  {
+    "id": "v-curated-2031",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "barbaric",
+    "meaning": "野蛮な",
+    "pos": "adj",
+    "question": "barbaric",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "野蛮な",
+    "explanation": "barbaric = 野蛮な。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was barbaric for everyone involved."
+  },
+  {
+    "id": "v-curated-3715",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "battlefield",
+    "meaning": "戦場",
+    "pos": "n",
+    "question": "battlefield",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "戦場",
+    "explanation": "battlefield = 戦場。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The study examined the battlefield carefully."
+  },
+  {
+    "id": "v-curated-1120",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "benchmark",
+    "meaning": "基準・指標",
+    "pos": "n",
+    "question": "benchmark",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "基準・指標",
+    "explanation": "benchmark = 基準・指標。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the benchmark carefully."
+  },
+  {
+    "id": "v-curated-1313",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "betray",
+    "meaning": "裏切る・漏らす",
+    "pos": "v",
+    "question": "betray",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "裏切る・漏らす",
+    "explanation": "betray = 裏切る・漏らす。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to betray the plan."
+  },
+  {
+    "id": "v-curated-2303",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "betrayal",
+    "meaning": "裏切り",
+    "pos": "n",
+    "question": "betrayal",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "裏切り",
+    "explanation": "betrayal = 裏切り。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the betrayal carefully."
+  },
+  {
+    "id": "v-curated-1470",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "bewilder",
+    "meaning": "困惑させる",
+    "pos": "v",
+    "question": "bewilder",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "困惑させる",
+    "explanation": "bewilder = 困惑させる。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to bewilder the plan."
+  },
+  {
+    "id": "v-curated-2033",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "bewilderment",
+    "meaning": "困惑",
+    "pos": "n",
+    "question": "bewilderment",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "困惑",
+    "explanation": "bewilderment = 困惑。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the bewilderment carefully."
+  },
+  {
+    "id": "v-curated-0226",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "bias",
+    "meaning": "偏らせる",
+    "pos": "v",
+    "question": "bias",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "偏らせる",
+    "explanation": "bias = 偏らせる。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to bias the plan."
+  },
+  {
+    "id": "v-curated-1122",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "bizarre",
+    "meaning": "奇妙な",
+    "pos": "adj",
+    "question": "bizarre",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "奇妙な",
+    "explanation": "bizarre = 奇妙な。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The result was bizarre for everyone involved."
+  },
+  {
+    "id": "v-curated-2035",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "blatant",
+    "meaning": "露骨な",
+    "pos": "adj",
+    "question": "blatant",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "露骨な",
+    "explanation": "blatant = 露骨な。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was blatant for everyone involved."
+  },
+  {
+    "id": "v-curated-2036",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "blunder",
+    "meaning": "大失敗・へま",
+    "pos": "n",
+    "question": "blunder",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "大失敗・へま",
+    "explanation": "blunder = 大失敗・へま。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the blunder carefully."
+  },
+  {
+    "id": "v-curated-1123",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "blunt",
+    "meaning": "鈍い・率直な",
+    "pos": "adj",
+    "question": "blunt",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "鈍い・率直な",
+    "explanation": "blunt = 鈍い・率直な。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was blunt for everyone involved."
+  },
+  {
+    "id": "v-curated-2038",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "breach",
+    "meaning": "違反・破る",
+    "pos": "n",
+    "question": "breach",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "違反・破る",
+    "explanation": "breach = 違反・破る。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The study examined the breach carefully."
+  },
+  {
+    "id": "v-curated-1586",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "breathless",
+    "meaning": "息を切らした",
+    "pos": "adj",
+    "question": "breathless",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "息を切らした",
+    "explanation": "breathless = 息を切らした。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was breathless for everyone involved."
+  },
+  {
+    "id": "v-curated-2039",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "brisk",
+    "meaning": "活発な・きびきびした",
+    "pos": "adj",
+    "question": "brisk",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "活発な・きびきびした",
+    "explanation": "brisk = 活発な・きびきびした。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was brisk for everyone involved."
+  },
+  {
+    "id": "v-curated-4095",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "budgetary",
+    "meaning": "予算上の",
+    "pos": "adj",
+    "question": "budgetary",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "予算上の",
+    "explanation": "budgetary = 予算上の。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The result was budgetary for everyone involved."
+  },
+  {
+    "id": "v-curated-1126",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "bureaucracy",
+    "meaning": "官僚制度",
+    "pos": "n",
+    "question": "bureaucracy",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "官僚制度",
+    "explanation": "bureaucracy = 官僚制度。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The study examined the bureaucracy carefully."
+  },
+  {
+    "id": "v-hard-03-candid",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "candid",
+    "meaning": "率直な",
+    "pos": "adj",
+    "question": "candid",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "率直な",
+    "explanation": "candid = 率直な。品詞: adj。語群: candor。",
+    "exampleSentence": "The report provides a candid explanation of the issue.",
+    "exampleJa": "その報告書はその問題について率直な説明をしている。",
+    "family": "candor",
+    "synonyms": [
+      "frank",
+      "honest"
+    ],
+    "tags": [
+      "hard",
+      "adj"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。candid の派生語: candor.",
+    "levelTags": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-curated-2043",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "capitalize",
+    "meaning": "活用する・大文字にする",
+    "pos": "v",
+    "question": "capitalize",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "活用する・大文字にする",
+    "explanation": "capitalize = 活用する・大文字にする。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to capitalize the plan."
+  },
+  {
+    "id": "v-curated-0625",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "casualty",
+    "meaning": "死傷者・犠牲者",
+    "pos": "n",
+    "question": "casualty",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "死傷者・犠牲者",
+    "explanation": "casualty = 死傷者・犠牲者。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the casualty carefully."
+  },
+  {
+    "id": "v-curated-2960",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "causal",
+    "meaning": "因果関係の",
+    "pos": "adj",
+    "question": "causal",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "因果関係の",
+    "explanation": "causal = 因果関係の。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was causal for everyone involved."
+  },
+  {
+    "id": "v-advanced-153",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "cease",
+    "meaning": "やめる・終える",
+    "question": "cease",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "やめる・終える",
+        "correct": true
+      },
+      {
+        "text": "深い・重大な",
+        "correct": false
+      },
+      {
+        "text": "協力する",
+        "correct": false
+      },
+      {
+        "text": "集計する・総計",
+        "correct": false
+      }
+    ],
+    "answer": "やめる・終える",
+    "explanation": "cease = やめる・終える。例：cease operations",
+    "exampleSentence": "The teacher explained how \"cease\" is used in context."
+  },
+  {
+    "id": "v-curated-2044",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "ceasefire",
+    "meaning": "停戦",
+    "pos": "n",
+    "question": "ceasefire",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "停戦",
+    "explanation": "ceasefire = 停戦。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the ceasefire carefully."
+  },
+  {
+    "id": "v-curated-1590",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "chaotic",
+    "meaning": "混沌とした",
+    "pos": "adj",
+    "question": "chaotic",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "混沌とした",
+    "explanation": "chaotic = 混沌とした。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was chaotic for everyone involved."
+  },
+  {
+    "id": "v-curated-0407",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "chronic",
+    "meaning": "慢性的な",
+    "pos": "adj",
+    "question": "chronic",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "慢性的な",
+    "explanation": "chronic = 慢性的な。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was chronic for everyone involved."
+  },
+  {
+    "id": "v-curated-1318",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "chronological",
+    "meaning": "年代順の",
+    "pos": "adj",
+    "question": "chronological",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "年代順の",
+    "explanation": "chronological = 年代順の。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was chronological for everyone involved."
+  },
+  {
+    "id": "v-curated-1319",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "civic",
+    "meaning": "市民の",
+    "pos": "adj",
+    "question": "civic",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "市民の",
+    "explanation": "civic = 市民の。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was civic for everyone involved."
+  },
+  {
+    "id": "v-curated-1594",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "clarification",
+    "meaning": "明確化",
+    "pos": "n",
+    "question": "clarification",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "明確化",
+    "explanation": "clarification = 明確化。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the clarification carefully."
+  },
+  {
+    "id": "v-curated-0629",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "coalition",
+    "meaning": "連合",
+    "pos": "n",
+    "question": "coalition",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "連合",
+    "explanation": "coalition = 連合。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the coalition carefully."
+  },
+  {
+    "id": "v-curated-1320",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "coarse",
+    "meaning": "粗い",
+    "pos": "adj",
+    "question": "coarse",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "粗い",
+    "explanation": "coarse = 粗い。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was coarse for everyone involved."
+  },
+  {
+    "id": "v-curated-2052",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "collaborative",
+    "meaning": "協働の",
+    "pos": "adj",
+    "question": "collaborative",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "協働の",
+    "explanation": "collaborative = 協働の。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was collaborative for everyone involved."
+  },
+  {
+    "id": "bulk-vocab-00033",
+    "type": "vocab",
+    "word": "collapse",
+    "meaning": "崩壊する・崩壊",
+    "pos": "n",
+    "level": "advanced",
+    "tags": [
+      "bulk-expansion-v9"
+    ],
+    "source": "original-curated-v9",
+    "explanation": "collapse は「崩壊する・崩壊」の意味。",
+    "exampleSentence": "The study examined the collapse carefully."
+  },
+  {
+    "id": "v-curated-0631",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "colonial",
+    "meaning": "植民地の",
+    "pos": "adj",
+    "question": "colonial",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "植民地の",
+    "explanation": "colonial = 植民地の。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was colonial for everyone involved."
+  },
+  {
+    "id": "v-curated-3760",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "colony",
+    "meaning": "植民地・群生地",
+    "pos": "n",
+    "question": "colony",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "植民地・群生地",
+    "explanation": "colony = 植民地・群生地。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The study examined the colony carefully."
+  },
+  {
+    "id": "v-curated-2053",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "communal",
+    "meaning": "共同の",
+    "pos": "adj",
+    "question": "communal",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "共同の",
+    "explanation": "communal = 共同の。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was communal for everyone involved."
+  },
+  {
+    "id": "v-curated-1603",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "comparable",
+    "meaning": "比較できる・同等の",
+    "pos": "adj",
+    "question": "comparable",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "比較できる・同等の",
+    "explanation": "comparable = 比較できる・同等の。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was comparable for everyone involved."
+  },
+  {
+    "id": "v-curated-1866",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "comparably",
+    "meaning": "同程度に",
+    "pos": "adv",
+    "question": "comparably",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "同程度に",
+    "explanation": "comparably = 同程度に。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The team responded comparably to the situation."
+  },
+  {
+    "id": "v-curated-1325",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "compassion",
+    "meaning": "思いやり",
+    "pos": "n",
+    "question": "compassion",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "思いやり",
+    "explanation": "compassion = 思いやり。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the compassion carefully."
+  },
+  {
+    "id": "v-curated-2054",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "compassionate",
+    "meaning": "思いやりのある",
+    "pos": "adj",
+    "question": "compassionate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "思いやりのある",
+    "explanation": "compassionate = 思いやりのある。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was compassionate for everyone involved."
+  },
+  {
+    "id": "v-advanced-106",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "compatible",
+    "meaning": "両立できる・互換性のある",
+    "question": "compatible",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "微妙な・巧妙な",
+        "correct": false
+      },
+      {
+        "text": "一貫した",
+        "correct": false
+      },
+      {
+        "text": "その後の",
+        "correct": false
+      },
+      {
+        "text": "両立できる・互換性のある",
+        "correct": true
+      }
+    ],
+    "answer": "両立できる・互換性のある",
+    "explanation": "compatible = 両立できる・互換性のある。例：compatible systems",
+    "exampleSentence": "The teacher explained how \"compatible\" is used in context."
+  },
+  {
+    "id": "v-advanced-107",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "compel",
+    "meaning": "強いる",
+    "question": "compel",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "強いる",
+        "correct": true
+      },
+      {
+        "text": "進行中の",
+        "correct": false
+      },
+      {
+        "text": "革新的な",
+        "correct": false
+      },
+      {
+        "text": "枠組み",
+        "correct": false
+      }
+    ],
+    "answer": "強いる",
+    "explanation": "compel = 強いる。例：compel him to act",
+    "exampleSentence": "The teacher explained how \"compel\" is used in context."
+  },
+  {
+    "id": "v-advanced-003",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "compelling",
+    "meaning": "説得力のある",
+    "question": "compelling",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "説得力のある",
+        "correct": true
+      },
+      {
+        "text": "弱い",
+        "correct": false
+      },
+      {
+        "text": "無関係な",
+        "correct": false
+      },
+      {
+        "text": "偶然の",
+        "correct": false
+      }
+    ],
+    "answer": "説得力のある",
+    "explanation": "compelling = 説得力のある。例：compelling evidence",
+    "exampleSentence": "The teacher explained how \"compelling\" is used in context."
+  },
+  {
+    "id": "v-mega-hard-0059",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "compelling",
+    "meaning": "説得力のある",
+    "pos": "adj",
+    "exampleSentence": "This is a compelling issue.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "compelling：説得力のある",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-curated-3113",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "competitiveness",
+    "meaning": "競争力",
+    "pos": "n",
+    "question": "competitiveness",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "競争力",
+    "explanation": "competitiveness = 競争力。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the competitiveness carefully."
+  },
+  {
+    "id": "v-curated-1607",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "complementary",
+    "meaning": "補完的な",
+    "pos": "adj",
+    "question": "complementary",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "補完的な",
+    "explanation": "complementary = 補完的な。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was complementary for everyone involved."
+  },
+  {
+    "id": "v-curated-0634",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "compliance",
+    "meaning": "順守",
+    "pos": "n",
+    "question": "compliance",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "順守",
+    "explanation": "compliance = 順守。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the compliance carefully."
+  },
+  {
+    "id": "v-curated-2576",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "comply",
+    "meaning": "従う",
+    "pos": "v",
+    "question": "comply",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "従う",
+    "explanation": "comply = 従う。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to comply the plan."
+  },
+  {
+    "id": "v-curated-0776",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "conceivable",
+    "meaning": "考えられる",
+    "pos": "adj",
+    "question": "conceivable",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "考えられる",
+    "explanation": "conceivable = 考えられる。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The result was conceivable for everyone involved."
+  },
+  {
+    "id": "v-curated-2411",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "conceivably",
+    "meaning": "考えられる範囲では",
+    "pos": "adv",
+    "question": "conceivably",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "考えられる範囲では",
+    "explanation": "conceivably = 考えられる範囲では。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The team responded conceivably to the situation."
+  },
+  {
+    "id": "v-advanced-108",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "conceive",
+    "meaning": "考えつく・認識する",
+    "question": "conceive",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "曖昧な",
+        "correct": false
+      },
+      {
+        "text": "恣意的な・任意の",
+        "correct": false
+      },
+      {
+        "text": "考えつく・認識する",
+        "correct": true
+      },
+      {
+        "text": "観点",
+        "correct": false
+      }
+    ],
+    "answer": "考えつく・認識する",
+    "explanation": "conceive = 考えつく・認識する。例：conceive a new idea",
+    "exampleSentence": "The teacher explained how \"conceive\" is used in context."
+  },
+  {
+    "id": "v-curated-3771",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "concentrated",
+    "meaning": "濃縮された・集中した",
+    "pos": "adj",
+    "question": "concentrated",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "濃縮された・集中した",
+    "explanation": "concentrated = 濃縮された・集中した。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The result was concentrated for everyone involved."
+  },
+  {
+    "id": "v-curated-0851",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "conception",
+    "meaning": "概念・構想",
+    "pos": "n",
+    "question": "conception",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "概念・構想",
+    "explanation": "conception = 概念・構想。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the conception carefully."
+  },
+  {
+    "id": "v-curated-2724",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "conceptual",
+    "meaning": "概念的な",
+    "pos": "adj",
+    "question": "conceptual",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "概念的な",
+    "explanation": "conceptual = 概念的な。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was conceptual for everyone involved."
+  },
+  {
+    "id": "v-advanced-03-concession",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "concession",
+    "meaning": "譲歩",
+    "pos": "n",
+    "question": "concession",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "譲歩",
+    "explanation": "concession = 譲歩。品詞: n。語群: concede。",
+    "exampleSentence": "The study examines concession in modern society.",
+    "exampleJa": "その研究は現代社会における譲歩を検討している。",
+    "family": "concede",
+    "synonyms": [
+      "compromise",
+      "allowance"
+    ],
+    "tags": [
+      "advanced",
+      "n"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。concession の派生語: concede.",
+    "levelTags": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-curated-1867",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "concisely",
+    "meaning": "簡潔に",
+    "pos": "adv",
+    "question": "concisely",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "簡潔に",
+    "explanation": "concisely = 簡潔に。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The team responded concisely to the situation."
+  },
+  {
+    "id": "v-advanced-03-concurrent",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "concurrent",
+    "meaning": "同時に起こる",
+    "pos": "adj",
+    "question": "concurrent",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "同時に起こる",
+    "explanation": "concurrent = 同時に起こる。品詞: adj。語群: concurrently。",
+    "exampleSentence": "The report provides a concurrent explanation of the issue.",
+    "exampleJa": "その報告書はその問題について同時に起こる説明をしている。",
+    "family": "concurrently",
+    "synonyms": [
+      "simultaneous",
+      "parallel"
+    ],
+    "tags": [
+      "advanced",
+      "adj"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。concurrent の派生語: concurrently.",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ]
+  },
+  {
+    "id": "v-curated-0249",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "concurrently",
+    "meaning": "同時に",
+    "pos": "adv",
+    "question": "concurrently",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "同時に",
+    "explanation": "concurrently = 同時に。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The team responded concurrently to the situation."
+  },
+  {
+    "id": "v-curated-0981",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "condemn",
+    "meaning": "非難する",
+    "pos": "v",
+    "question": "condemn",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "非難する",
+    "explanation": "condemn = 非難する。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to condemn the plan."
+  },
+  {
+    "id": "v-curated-2061",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "confide",
+    "meaning": "打ち明ける",
+    "pos": "v",
+    "question": "confide",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "打ち明ける",
+    "explanation": "confide = 打ち明ける。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to confide the plan."
+  },
+  {
+    "id": "v-curated-1616",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "confidential",
+    "meaning": "機密の",
+    "pos": "adj",
+    "question": "confidential",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "機密の",
+    "explanation": "confidential = 機密の。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was confidential for everyone involved."
+  },
+  {
+    "id": "v-curated-0636",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "configuration",
+    "meaning": "構成・設定",
+    "pos": "n",
+    "question": "configuration",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "構成・設定",
+    "explanation": "configuration = 構成・設定。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the configuration carefully."
+  },
+  {
+    "id": "v-curated-0781",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "confinement",
+    "meaning": "拘束",
+    "pos": "n",
+    "question": "confinement",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "拘束",
+    "explanation": "confinement = 拘束。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The study examined the confinement carefully."
+  },
+  {
+    "id": "v-curated-0637",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "conformity",
+    "meaning": "一致・適合",
+    "pos": "n",
+    "question": "conformity",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "一致・適合",
+    "explanation": "conformity = 一致・適合。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the conformity carefully."
+  },
+  {
+    "id": "v-curated-1619",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "confrontation",
+    "meaning": "対立・直面",
+    "pos": "n",
+    "question": "confrontation",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "対立・直面",
+    "explanation": "confrontation = 対立・直面。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the confrontation carefully."
+  },
+  {
+    "id": "v-advanced-004",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "consecutive",
+    "meaning": "連続した",
+    "question": "consecutive",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "連続した",
+        "correct": true
+      },
+      {
+        "text": "断続的な",
+        "correct": false
+      },
+      {
+        "text": "異常な",
+        "correct": false
+      },
+      {
+        "text": "一時的な",
+        "correct": false
+      }
+    ],
+    "answer": "連続した",
+    "explanation": "consecutive = 連続した。例：three consecutive days",
+    "exampleSentence": "The teacher explained how \"consecutive\" is used in context."
+  },
+  {
+    "id": "v-curated-0305",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "consolidate",
+    "meaning": "統合する・強化する",
+    "pos": "v",
+    "question": "consolidate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "統合する・強化する",
+    "explanation": "consolidate = 統合する・強化する。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "They decided to consolidate the plan."
+  },
+  {
+    "id": "v-curated-4135",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "constitution",
+    "meaning": "憲法・構成",
+    "pos": "n",
+    "question": "constitution",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "憲法・構成",
+    "explanation": "constitution = 憲法・構成。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The study examined the constitution carefully."
+  },
+  {
+    "id": "v-advanced-005",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "constrain",
+    "meaning": "制約する",
+    "question": "constrain",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "制約する",
+        "correct": true
+      },
+      {
+        "text": "解放する",
+        "correct": false
+      },
+      {
+        "text": "説明する",
+        "correct": false
+      },
+      {
+        "text": "発見する",
+        "correct": false
+      }
+    ],
+    "answer": "制約する",
+    "explanation": "constrain = 制約する。例：constrain freedom",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The teacher explained how \"constrain\" is used in context."
+  },
+  {
+    "id": "v-curated-4105",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "consumerism",
+    "meaning": "消費主義",
+    "pos": "n",
+    "question": "consumerism",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "消費主義",
+    "explanation": "consumerism = 消費主義。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The study examined the consumerism carefully."
+  },
+  {
+    "id": "v-curated-1628",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "contaminate",
+    "meaning": "汚染する",
+    "pos": "v",
+    "question": "contaminate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "汚染する",
+    "explanation": "contaminate = 汚染する。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to contaminate the plan."
+  },
+  {
+    "id": "v-mega-hard-0072",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "contemplate",
+    "meaning": "熟考する",
+    "pos": "v",
+    "exampleSentence": "We need to contemplate the problem carefully.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "contemplate：熟考する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ]
+  },
+  {
+    "id": "v-advanced-109",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "contradict",
+    "meaning": "矛盾する・反論する",
+    "question": "contradict",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "考えつく・認識する",
+        "correct": false
+      },
+      {
+        "text": "成熟した・成熟する",
+        "correct": false
+      },
+      {
+        "text": "矛盾する・反論する",
+        "correct": true
+      },
+      {
+        "text": "ゆがめる",
+        "correct": false
+      }
+    ],
+    "answer": "矛盾する・反論する",
+    "explanation": "contradict = 矛盾する・反論する。例：contradict the evidence",
+    "exampleSentence": "The teacher explained how \"contradict\" is used in context."
+  },
+  {
+    "id": "v-curated-2067",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "contradictory",
+    "meaning": "矛盾した",
+    "pos": "adj",
+    "question": "contradictory",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "矛盾した",
+    "explanation": "contradictory = 矛盾した。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was contradictory for everyone involved."
+  },
+  {
+    "id": "v-advanced-110",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "controversial",
+    "meaning": "論争を呼ぶ",
+    "question": "controversial",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "微妙な・巧妙な",
+        "correct": false
+      },
+      {
+        "text": "論争を呼ぶ",
+        "correct": true
+      },
+      {
+        "text": "矛盾する・反論する",
+        "correct": false
+      },
+      {
+        "text": "規範",
+        "correct": false
+      }
+    ],
+    "answer": "論争を呼ぶ",
+    "explanation": "controversial = 論争を呼ぶ。例：a controversial issue",
+    "exampleSentence": "The teacher explained how \"controversial\" is used in context."
+  },
+  {
+    "id": "v-curated-1840",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "conventionally",
+    "meaning": "慣習的に",
+    "pos": "adv",
+    "question": "conventionally",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "慣習的に",
+    "explanation": "conventionally = 慣習的に。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The team responded conventionally to the situation."
+  },
+  {
+    "id": "v-curated-0643",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "convergence",
+    "meaning": "収束・集中",
+    "pos": "n",
+    "question": "convergence",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "収束・集中",
+    "explanation": "convergence = 収束・集中。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The study examined the convergence carefully."
+  },
+  {
+    "id": "v-curated-3316",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "converse",
+    "meaning": "逆の・会話する",
+    "pos": "adj",
+    "question": "converse",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "逆の・会話する",
+    "explanation": "converse = 逆の・会話する。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was converse for everyone involved."
+  },
+  {
+    "id": "v-curated-0250",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "conversely",
+    "meaning": "逆に",
+    "pos": "adv",
+    "question": "conversely",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "逆に",
+    "explanation": "conversely = 逆に。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The team responded conversely to the situation."
+  },
+  {
+    "id": "v-advanced-006",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "convey",
+    "meaning": "伝える・運ぶ",
+    "question": "convey",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "伝える・運ぶ",
+        "correct": true
+      },
+      {
+        "text": "隠す",
+        "correct": false
+      },
+      {
+        "text": "拒否する",
+        "correct": false
+      },
+      {
+        "text": "減らす",
+        "correct": false
+      }
+    ],
+    "answer": "伝える・運ぶ",
+    "explanation": "convey = 伝える・運ぶ。例：convey an idea",
+    "exampleSentence": "The teacher explained how \"convey\" is used in context."
+  },
+  {
+    "id": "v-curated-2313",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "conveyance",
+    "meaning": "輸送・伝達",
+    "pos": "n",
+    "question": "conveyance",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "輸送・伝達",
+    "explanation": "conveyance = 輸送・伝達。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the conveyance carefully."
+  },
+  {
+    "id": "v-curated-3319",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "convict",
+    "meaning": "有罪判決を下す・囚人",
+    "pos": "v",
+    "question": "convict",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "有罪判決を下す・囚人",
+    "explanation": "convict = 有罪判決を下す・囚人。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to convict the plan."
+  },
+  {
+    "id": "v-curated-0644",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "conviction",
+    "meaning": "確信・有罪判決",
+    "pos": "n",
+    "question": "conviction",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "確信・有罪判決",
+    "explanation": "conviction = 確信・有罪判決。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the conviction carefully."
+  },
+  {
+    "id": "v-advanced-111",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "cooperate",
+    "meaning": "協力する",
+    "question": "cooperate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "調和させる・和解させる",
+        "correct": false
+      },
+      {
+        "text": "持続する・執拗な",
+        "correct": false
+      },
+      {
+        "text": "制約する",
+        "correct": false
+      },
+      {
+        "text": "協力する",
+        "correct": true
+      }
+    ],
+    "answer": "協力する",
+    "explanation": "cooperate = 協力する。例：cooperate with others",
+    "exampleSentence": "The teacher explained how \"cooperate\" is used in context."
+  },
+  {
+    "id": "v-curated-2850",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "coordinator",
+    "meaning": "調整役",
+    "pos": "n",
+    "question": "coordinator",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "調整役",
+    "explanation": "coordinator = 調整役。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the coordinator carefully."
+  },
+  {
+    "id": "v-curated-0990",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "correlate",
+    "meaning": "相関する",
+    "pos": "v",
+    "question": "correlate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "相関する",
+    "explanation": "correlate = 相関する。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "They decided to correlate the plan."
+  },
+  {
+    "id": "v-curated-0858",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "correlation",
+    "meaning": "相関",
+    "pos": "n",
+    "question": "correlation",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "相関",
+    "explanation": "correlation = 相関。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the correlation carefully."
+  },
+  {
+    "id": "v-advanced-112",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "correspond",
+    "meaning": "一致する・文通する",
+    "question": "correspond",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "根底にある",
+        "correct": false
+      },
+      {
+        "text": "一致する・文通する",
+        "correct": true
+      },
+      {
+        "text": "観点",
+        "correct": false
+      },
+      {
+        "text": "論争を呼ぶ",
+        "correct": false
+      }
+    ],
+    "answer": "一致する・文通する",
+    "explanation": "correspond = 一致する・文通する。例：correspond to the data",
+    "exampleSentence": "The teacher explained how \"correspond\" is used in context."
+  },
+  {
+    "id": "v-curated-1342",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "corrupt",
+    "meaning": "腐敗した・堕落させる",
+    "pos": "adj",
+    "question": "corrupt",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "腐敗した・堕落させる",
+    "explanation": "corrupt = 腐敗した・堕落させる。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was corrupt for everyone involved."
+  },
+  {
+    "id": "v-curated-3123",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "corruption",
+    "meaning": "腐敗",
+    "pos": "n",
+    "question": "corruption",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "腐敗",
+    "explanation": "corruption = 腐敗。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the corruption carefully."
+  },
+  {
+    "id": "v-curated-1639",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "counteract",
+    "meaning": "対抗する・打ち消す",
+    "pos": "v",
+    "question": "counteract",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "対抗する・打ち消す",
+    "explanation": "counteract = 対抗する・打ち消す。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to counteract the plan."
+  },
+  {
+    "id": "v-curated-1152",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "counterpart",
+    "meaning": "対応するもの・相手方",
+    "pos": "n",
+    "question": "counterpart",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "対応するもの・相手方",
+    "explanation": "counterpart = 対応するもの・相手方。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the counterpart carefully."
+  },
+  {
+    "id": "v-curated-2072",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "courteous",
+    "meaning": "礼儀正しい",
+    "pos": "adj",
+    "question": "courteous",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "礼儀正しい",
+    "explanation": "courteous = 礼儀正しい。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was courteous for everyone involved."
+  },
+  {
+    "id": "v-curated-3325",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "courtesy",
+    "meaning": "礼儀",
+    "pos": "n",
+    "question": "courtesy",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "礼儀",
+    "explanation": "courtesy = 礼儀。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the courtesy carefully."
+  },
+  {
+    "id": "v-mega-hard-0039",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "critically",
+    "meaning": "批判的に・決定的に",
+    "pos": "adv",
+    "exampleSentence": "The situation changed critically.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "critically：批判的に・決定的に",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-curated-0111",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "crude",
+    "meaning": "粗末な",
+    "pos": "adj",
+    "question": "crude",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "粗末な",
+    "explanation": "crude = 粗末な。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was crude for everyone involved."
+  },
+  {
+    "id": "v-curated-1643",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "cultivation",
+    "meaning": "栽培・育成",
+    "pos": "n",
+    "question": "cultivation",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "栽培・育成",
+    "explanation": "cultivation = 栽培・育成。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the cultivation carefully."
+  },
+  {
+    "id": "v-curated-1343",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "cumulative",
+    "meaning": "累積的な",
+    "pos": "adj",
+    "question": "cumulative",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "累積的な",
+    "explanation": "cumulative = 累積的な。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The result was cumulative for everyone involved."
+  },
+  {
+    "id": "v-curated-2075",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "curb",
+    "meaning": "抑制する・抑制",
+    "pos": "v",
+    "question": "curb",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "抑制する・抑制",
+    "explanation": "curb = 抑制する・抑制。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "They decided to curb the plan."
+  },
+  {
+    "id": "v-curated-0793",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "custodian",
+    "meaning": "管理人",
+    "pos": "n",
+    "question": "custodian",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "管理人",
+    "explanation": "custodian = 管理人。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The study examined the custodian carefully."
+  },
+  {
+    "id": "v-curated-0647",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "custody",
+    "meaning": "保護・拘留",
+    "pos": "n",
+    "question": "custody",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "保護・拘留",
+    "explanation": "custody = 保護・拘留。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the custody carefully."
+  },
+  {
+    "id": "v-curated-1645",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "customary",
+    "meaning": "習慣的な",
+    "pos": "adj",
+    "question": "customary",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "習慣的な",
+    "explanation": "customary = 習慣的な。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was customary for everyone involved."
+  },
+  {
+    "id": "v-curated-2076",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "daunting",
+    "meaning": "気後れさせる",
+    "pos": "adj",
+    "question": "daunting",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "気後れさせる",
+    "explanation": "daunting = 気後れさせる。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was daunting for everyone involved."
+  },
+  {
+    "id": "v-curated-3330",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "dazzle",
+    "meaning": "まばゆくさせる",
+    "pos": "v",
+    "question": "dazzle",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "まばゆくさせる",
+    "explanation": "dazzle = まばゆくさせる。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to dazzle the plan."
+  },
+  {
+    "id": "v-curated-0248",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "decay",
+    "meaning": "腐敗する",
+    "pos": "v",
+    "question": "decay",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "腐敗する",
+    "explanation": "decay = 腐敗する。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to decay the plan."
+  },
+  {
+    "id": "v-curated-2078",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "decisively",
+    "meaning": "決定的に",
+    "pos": "adv",
+    "question": "decisively",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "決定的に",
+    "explanation": "decisively = 決定的に。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The team responded decisively to the situation."
+  },
+  {
+    "id": "bulk-vocab-00190",
+    "type": "vocab",
+    "word": "dedicated",
+    "meaning": "献身的な・専用の",
+    "pos": "adj",
+    "level": "advanced",
+    "tags": [
+      "bulk-expansion-v9"
+    ],
+    "source": "original-curated-v9",
+    "explanation": "dedicated は「献身的な・専用の」の意味。",
+    "exampleSentence": "The result was dedicated for everyone involved."
+  },
+  {
+    "id": "v-advanced-007",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "deduce",
+    "meaning": "推論する",
+    "question": "deduce",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "推論する",
+        "correct": true
+      },
+      {
+        "text": "推測なしに断定する",
+        "correct": false
+      },
+      {
+        "text": "忘れる",
+        "correct": false
+      },
+      {
+        "text": "借りる",
+        "correct": false
+      }
+    ],
+    "answer": "推論する",
+    "explanation": "deduce = 推論する。例：deduce the answer",
+    "exampleSentence": "The teacher explained how \"deduce\" is used in context."
+  },
+  {
+    "id": "v-max2-deem",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "deem",
+    "meaning": "～とみなす",
+    "pos": "v",
+    "exampleSentence": "We need to deem the problem carefully.",
+    "exampleJa": "私たちはその問題を注意深く～とみなす必要がある。",
+    "explanation": "deem：～とみなす。",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-max2",
+      "入試発展"
+    ],
+    "source": "curated-vocab-max2-2026",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ]
+  },
+  {
+    "id": "v-curated-2855",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "defensive",
+    "meaning": "防御的な",
+    "pos": "adj",
+    "question": "defensive",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "防御的な",
+    "explanation": "defensive = 防御的な。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was defensive for everyone involved."
+  },
+  {
+    "id": "v-curated-1479",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "defer",
+    "meaning": "延期する・従う",
+    "pos": "v",
+    "question": "defer",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "延期する・従う",
+    "explanation": "defer = 延期する・従う。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "They decided to defer the plan."
+  },
+  {
+    "id": "v-curated-0182",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "deficiency",
+    "meaning": "不足",
+    "pos": "n",
+    "question": "deficiency",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "不足",
+    "explanation": "deficiency = 不足。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the deficiency carefully."
+  },
+  {
+    "id": "v-max2-deficient",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "deficient",
+    "meaning": "不足している",
+    "pos": "adj",
+    "exampleSentence": "The report gives a deficient explanation.",
+    "exampleJa": "その報告書は不足している説明を示している。",
+    "explanation": "deficient：不足している。",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-max2",
+      "入試発展"
+    ],
+    "source": "curated-vocab-max2-2026",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ]
+  },
+  {
+    "id": "v-curated-2081",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "defy",
+    "meaning": "逆らう",
+    "pos": "v",
+    "question": "defy",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "逆らう",
+    "explanation": "defy = 逆らう。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to defy the plan."
+  },
+  {
+    "id": "v-curated-1480",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "degrade",
+    "meaning": "悪化させる・格下げする",
+    "pos": "v",
+    "question": "degrade",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "悪化させる・格下げする",
+    "explanation": "degrade = 悪化させる・格下げする。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to degrade the plan."
+  },
+  {
+    "id": "v-curated-2082",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "delegation",
+    "meaning": "代表団・委任",
+    "pos": "n",
+    "question": "delegation",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "代表団・委任",
+    "explanation": "delegation = 代表団・委任。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the delegation carefully."
+  },
+  {
+    "id": "v-advanced-04-deliberation",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "deliberation",
+    "meaning": "熟考・審議",
+    "pos": "n",
+    "question": "deliberation",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "熟考・審議",
+    "explanation": "deliberation = 熟考・審議。品詞: n。",
+    "exampleSentence": "after careful deliberation.",
+    "exampleJa": "この文脈では「熟考」という意味。",
+    "family": "deliberation;deliberations",
+    "synonyms": [],
+    "tags": [
+      "advanced",
+      "n"
+    ],
+    "note": "入試・読解で見かけやすい重要語。",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ]
+  },
+  {
+    "id": "v-curated-2427",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "demographic",
+    "meaning": "人口統計の",
+    "pos": "adj",
+    "question": "demographic",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "人口統計の",
+    "explanation": "demographic = 人口統計の。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was demographic for everyone involved."
+  },
+  {
+    "id": "v-curated-0653",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "dependency",
+    "meaning": "依存",
+    "pos": "n",
+    "question": "dependency",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "依存",
+    "explanation": "dependency = 依存。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the dependency carefully."
+  },
+  {
+    "id": "v-curated-1346",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "deploy",
+    "meaning": "配置する・展開する",
+    "pos": "v",
+    "question": "deploy",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "配置する・展開する",
+    "explanation": "deploy = 配置する・展開する。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "They decided to deploy the plan."
+  },
+  {
+    "id": "v-curated-1654",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "deprivation",
+    "meaning": "剥奪・欠乏",
+    "pos": "n",
+    "question": "deprivation",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "剥奪・欠乏",
+    "explanation": "deprivation = 剥奪・欠乏。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the deprivation carefully."
+  },
+  {
+    "id": "v-curated-0482",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "deprived",
+    "meaning": "奪われた",
+    "pos": "adj",
+    "question": "deprived",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "奪われた",
+    "explanation": "deprived = 奪われた。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was deprived for everyone involved."
+  },
+  {
+    "id": "v-curated-3576",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "derivation",
+    "meaning": "導出・派生",
+    "pos": "n",
+    "question": "derivation",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "導出・派生",
+    "explanation": "derivation = 導出・派生。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the derivation carefully."
+  },
+  {
+    "id": "v-curated-2318",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "descent",
+    "meaning": "下降・家系",
+    "pos": "n",
+    "question": "descent",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "下降・家系",
+    "explanation": "descent = 下降・家系。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the descent carefully."
+  },
+  {
+    "id": "v-curated-3127",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "designation",
+    "meaning": "指定・名称",
+    "pos": "n",
+    "question": "designation",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "指定・名称",
+    "explanation": "designation = 指定・名称。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the designation carefully."
+  },
+  {
+    "id": "v-curated-2087",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "despise",
+    "meaning": "軽蔑する",
+    "pos": "v",
+    "question": "despise",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "軽蔑する",
+    "explanation": "despise = 軽蔑する。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to despise the plan."
+  },
+  {
+    "id": "v-curated-1656",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "detain",
+    "meaning": "拘留する・引き留める",
+    "pos": "v",
+    "question": "detain",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "拘留する・引き留める",
+    "explanation": "detain = 拘留する・引き留める。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to detain the plan."
+  },
+  {
+    "id": "v-curated-2088",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "deter",
+    "meaning": "思いとどまらせる",
+    "pos": "v",
+    "question": "deter",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "思いとどまらせる",
+    "explanation": "deter = 思いとどまらせる。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "They decided to deter the plan."
+  },
+  {
+    "id": "v-advanced-008",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "deteriorate",
+    "meaning": "悪化する",
+    "question": "deteriorate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "悪化する",
+        "correct": true
+      },
+      {
+        "text": "改善する",
+        "correct": false
+      },
+      {
+        "text": "急増する",
+        "correct": false
+      },
+      {
+        "text": "固定する",
+        "correct": false
+      }
+    ],
+    "answer": "悪化する",
+    "explanation": "deteriorate = 悪化する。例：conditions deteriorated",
+    "exampleSentence": "The teacher explained how \"deteriorate\" is used in context."
+  },
+  {
+    "id": "v-mega-hard-0102",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "deteriorate",
+    "meaning": "悪化する",
+    "pos": "v",
+    "exampleSentence": "We need to deteriorate the problem carefully.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "deteriorate：悪化する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-curated-2089",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "deterrent",
+    "meaning": "抑止力",
+    "pos": "n",
+    "question": "deterrent",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "抑止力",
+    "explanation": "deterrent = 抑止力。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the deterrent carefully."
+  },
+  {
+    "id": "v-curated-2090",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "devastate",
+    "meaning": "壊滅させる",
+    "pos": "v",
+    "question": "devastate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "壊滅させる",
+    "explanation": "devastate = 壊滅させる。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to devastate the plan."
+  },
+  {
+    "id": "v-curated-2973",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "devastating",
+    "meaning": "壊滅的な",
+    "pos": "adj",
+    "question": "devastating",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "壊滅的な",
+    "explanation": "devastating = 壊滅的な。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was devastating for everyone involved."
+  },
+  {
+    "id": "v-curated-1659",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "developmental",
+    "meaning": "発達上の",
+    "pos": "adj",
+    "question": "developmental",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "発達上の",
+    "explanation": "developmental = 発達上の。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was developmental for everyone involved."
+  },
+  {
+    "id": "v-curated-1163",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "deviation",
+    "meaning": "逸脱・偏差",
+    "pos": "n",
+    "question": "deviation",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "逸脱・偏差",
+    "explanation": "deviation = 逸脱・偏差。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The study examined the deviation carefully."
+  },
+  {
+    "id": "v-advanced-009",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "devise",
+    "meaning": "考案する",
+    "question": "devise",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "考案する",
+        "correct": true
+      },
+      {
+        "text": "破壊する",
+        "correct": false
+      },
+      {
+        "text": "延期する",
+        "correct": false
+      },
+      {
+        "text": "模倣する",
+        "correct": false
+      }
+    ],
+    "answer": "考案する",
+    "explanation": "devise = 考案する。例：devise a strategy",
+    "exampleSentence": "The teacher explained how \"devise\" is used in context."
+  },
+  {
+    "id": "v-curated-0997",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "diagnose",
+    "meaning": "診断する",
+    "pos": "v",
+    "question": "diagnose",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "診断する",
+    "explanation": "diagnose = 診断する。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to diagnose the plan."
+  },
+  {
+    "id": "v-curated-1661",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "diagnostic",
+    "meaning": "診断の",
+    "pos": "adj",
+    "question": "diagnostic",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "診断の",
+    "explanation": "diagnostic = 診断の。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was diagnostic for everyone involved."
+  },
+  {
+    "id": "v-curated-0998",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "differentiate",
+    "meaning": "区別する",
+    "pos": "v",
+    "question": "differentiate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "区別する",
+    "explanation": "differentiate = 区別する。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to differentiate the plan."
+  },
+  {
+    "id": "v-curated-2091",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "diligent",
+    "meaning": "勤勉な",
+    "pos": "adj",
+    "question": "diligent",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "勤勉な",
+    "explanation": "diligent = 勤勉な。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was diligent for everyone involved."
+  },
+  {
+    "id": "v-advanced-113",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "diminish",
+    "meaning": "減少する",
+    "question": "diminish",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "階層・序列",
+        "correct": false
+      },
+      {
+        "text": "減少する",
+        "correct": true
+      },
+      {
+        "text": "明示的な",
+        "correct": false
+      },
+      {
+        "text": "調和させる・和解させる",
+        "correct": false
+      }
+    ],
+    "answer": "減少する",
+    "explanation": "diminish = 減少する。例：diminish the effect",
+    "exampleSentence": "The teacher explained how \"diminish\" is used in context."
+  },
+  {
+    "id": "v-curated-1663",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "diplomatic",
+    "meaning": "外交上の",
+    "pos": "adj",
+    "question": "diplomatic",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "外交上の",
+    "explanation": "diplomatic = 外交上の。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was diplomatic for everyone involved."
+  },
+  {
+    "id": "v-max2-disclose",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "disclose",
+    "meaning": "公表する",
+    "pos": "v",
+    "exampleSentence": "We need to disclose the problem carefully.",
+    "exampleJa": "私たちはその問題を注意深く公表する必要がある。",
+    "explanation": "disclose：公表する。",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-max2",
+      "入試発展"
+    ],
+    "source": "curated-vocab-max2-2026",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ]
+  },
+  {
+    "id": "v-curated-0654",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "disclosure",
+    "meaning": "開示",
+    "pos": "n",
+    "question": "disclosure",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "開示",
+    "explanation": "disclosure = 開示。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The study examined the disclosure carefully."
+  },
+  {
+    "id": "v-curated-2093",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "discourse",
+    "meaning": "言説・講演",
+    "pos": "n",
+    "question": "discourse",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "言説・講演",
+    "explanation": "discourse = 言説・講演。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the discourse carefully."
+  },
+  {
+    "id": "v-advanced-010",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "discrete",
+    "meaning": "別個の",
+    "question": "discrete",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "別個の",
+        "correct": true
+      },
+      {
+        "text": "連続した",
+        "correct": false
+      },
+      {
+        "text": "曖昧な",
+        "correct": false
+      },
+      {
+        "text": "重要な",
+        "correct": false
+      }
+    ],
+    "answer": "別個の",
+    "explanation": "discrete = 別個の。例：discrete units",
+    "exampleSentence": "The teacher explained how \"discrete\" is used in context."
+  },
+  {
+    "id": "v-advanced-04-discretion",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "discretion",
+    "meaning": "裁量・慎重さ",
+    "pos": "n",
+    "question": "discretion",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "裁量・慎重さ",
+    "explanation": "discretion = 裁量・慎重さ。品詞: n。",
+    "exampleSentence": "use discretion.",
+    "exampleJa": "この文脈では「裁量」という意味。",
+    "family": "discretion;discretions",
+    "synonyms": [],
+    "tags": [
+      "advanced",
+      "n"
+    ],
+    "note": "入試・読解で見かけやすい重要語。",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ]
+  },
+  {
+    "id": "v-mega-hard-0014",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "discriminate",
+    "meaning": "差別する・識別する",
+    "pos": "v",
+    "exampleSentence": "We need to discriminate the problem carefully.",
+    "exampleJa": "（学習用例文）",
+    "explanation": "discriminate：差別する・識別する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ]
+  },
+  {
+    "id": "v-curated-2096",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "disperse",
+    "meaning": "分散させる",
+    "pos": "v",
+    "question": "disperse",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "分散させる",
+    "explanation": "disperse = 分散させる。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to disperse the plan."
+  },
+  {
+    "id": "v-curated-1665",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "displace",
+    "meaning": "取って代わる・移動させる",
+    "pos": "v",
+    "question": "displace",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "取って代わる・移動させる",
+    "explanation": "displace = 取って代わる・移動させる。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to displace the plan."
+  },
+  {
+    "id": "v-advanced-04-displacement",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "displacement",
+    "meaning": "置換・移住",
+    "pos": "n",
+    "question": "displacement",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "置換・移住",
+    "explanation": "displacement = 置換・移住。品詞: n。",
+    "exampleSentence": "population displacement.",
+    "exampleJa": "この文脈では「置換」という意味。",
+    "family": "displacement;displacements",
+    "synonyms": [],
+    "tags": [
+      "advanced",
+      "n"
+    ],
+    "note": "入試・読解で見かけやすい重要語。",
+    "levelTags": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-curated-0656",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "disposal",
+    "meaning": "処分",
+    "pos": "n",
+    "question": "disposal",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "処分",
+    "explanation": "disposal = 処分。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the disposal carefully."
+  },
+  {
+    "id": "v-curated-1482",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "disregard",
+    "meaning": "無視する・無視",
+    "pos": "v",
+    "question": "disregard",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "無視する・無視",
+    "explanation": "disregard = 無視する・無視。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to disregard the plan."
+  },
+  {
+    "id": "v-curated-3129",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "disruption",
+    "meaning": "混乱・中断",
+    "pos": "n",
+    "question": "disruption",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "混乱・中断",
+    "explanation": "disruption = 混乱・中断。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the disruption carefully."
+  },
+  {
+    "id": "v-curated-2320",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "disruptive",
+    "meaning": "混乱を招く",
+    "pos": "adj",
+    "question": "disruptive",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "混乱を招く",
+    "explanation": "disruptive = 混乱を招く。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was disruptive for everyone involved."
+  },
+  {
+    "id": "v-curated-2100",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "distinctive",
+    "meaning": "特徴的な",
+    "pos": "adj",
+    "question": "distinctive",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "特徴的な",
+    "explanation": "distinctive = 特徴的な。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was distinctive for everyone involved."
+  },
+  {
+    "id": "v-advanced-115",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "distort",
+    "meaning": "ゆがめる",
+    "question": "distort",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "論争を呼ぶ",
+        "correct": false
+      },
+      {
+        "text": "客観的な・目的",
+        "correct": false
+      },
+      {
+        "text": "補う・補足資料",
+        "correct": false
+      },
+      {
+        "text": "ゆがめる",
+        "correct": true
+      }
+    ],
+    "answer": "ゆがめる",
+    "explanation": "distort = ゆがめる。例：distort the facts",
+    "exampleSentence": "The teacher explained how \"distort\" is used in context."
+  },
+  {
+    "id": "v-curated-0658",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "distortion",
+    "meaning": "歪み",
+    "pos": "n",
+    "question": "distortion",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "歪み",
+    "explanation": "distortion = 歪み。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the distortion carefully."
+  },
+  {
+    "id": "v-curated-3344",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "distress",
+    "meaning": "苦悩・苦しめる",
+    "pos": "n",
+    "question": "distress",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "苦悩・苦しめる",
+    "explanation": "distress = 苦悩・苦しめる。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the distress carefully."
+  },
+  {
+    "id": "bulk-vocab-00317",
+    "type": "vocab",
+    "word": "distributed",
+    "meaning": "分散した",
+    "pos": "adj",
+    "level": "advanced",
+    "tags": [
+      "bulk-expansion-v9"
+    ],
+    "source": "original-curated-v9",
+    "explanation": "distributed は「分散した」の意味。",
+    "exampleSentence": "The result was distributed for everyone involved."
+  },
+  {
+    "id": "v-curated-4081",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "distributor",
+    "meaning": "販売業者・配布者",
+    "pos": "n",
+    "question": "distributor",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "販売業者・配布者",
+    "explanation": "distributor = 販売業者・配布者。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The study examined the distributor carefully."
+  },
+  {
+    "id": "v-curated-2101",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "diversify",
+    "meaning": "多様化する",
+    "pos": "v",
+    "question": "diversify",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "多様化する",
+    "explanation": "diversify = 多様化する。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "They decided to diversify the plan."
+  },
+  {
+    "id": "v-curated-0172",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "documented",
+    "meaning": "文書化された",
+    "pos": "adj",
+    "question": "documented",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "文書化された",
+    "explanation": "documented = 文書化された。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was documented for everyone involved."
+  },
+  {
+    "id": "v-curated-0804",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "domesticate",
+    "meaning": "飼いならす",
+    "pos": "v",
+    "question": "domesticate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "飼いならす",
+    "explanation": "domesticate = 飼いならす。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "They decided to domesticate the plan."
+  },
+  {
+    "id": "v-curated-2105",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "dramatize",
+    "meaning": "劇的に描く",
+    "pos": "v",
+    "question": "dramatize",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "劇的に描く",
+    "explanation": "dramatize = 劇的に描く。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to dramatize the plan."
+  },
+  {
+    "id": "v-curated-0115",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "drastic",
+    "meaning": "抜本的な",
+    "pos": "adj",
+    "question": "drastic",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "抜本的な",
+    "explanation": "drastic = 抜本的な。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was drastic for everyone involved."
+  },
+  {
+    "id": "v-curated-0491",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "dual",
+    "meaning": "二重の",
+    "pos": "adj",
+    "question": "dual",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "二重の",
+    "explanation": "dual = 二重の。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was dual for everyone involved."
+  },
+  {
+    "id": "v-curated-2106",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "dubious",
+    "meaning": "疑わしい",
+    "pos": "adj",
+    "question": "dubious",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "疑わしい",
+    "explanation": "dubious = 疑わしい。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was dubious for everyone involved."
+  },
+  {
+    "id": "v-curated-1672",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "durable",
+    "meaning": "耐久性のある",
+    "pos": "adj",
+    "question": "durable",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "耐久性のある",
+    "explanation": "durable = 耐久性のある。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was durable for everyone involved."
+  },
+  {
+    "id": "v-curated-3131",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "dynamics",
+    "meaning": "力学・動向",
+    "pos": "n",
+    "question": "dynamics",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "力学・動向",
+    "explanation": "dynamics = 力学・動向。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the dynamics carefully."
+  },
+  {
+    "id": "v-curated-1928",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "effectiveness",
+    "meaning": "有効性",
+    "pos": "n",
+    "question": "effectiveness",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "有効性",
+    "explanation": "effectiveness = 有効性。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the effectiveness carefully."
+  },
+  {
+    "id": "v-curated-1676",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "elaborately",
+    "meaning": "詳しく",
+    "pos": "adv",
+    "question": "elaborately",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "詳しく",
+    "explanation": "elaborately = 詳しく。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The team responded elaborately to the situation."
+  },
+  {
+    "id": "v-curated-3349",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "elective",
+    "meaning": "選択の・選挙の",
+    "pos": "adj",
+    "question": "elective",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "選択の・選挙の",
+    "explanation": "elective = 選択の・選挙の。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The result was elective for everyone involved."
+  },
+  {
+    "id": "v-curated-1484",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "elevate",
+    "meaning": "高める",
+    "pos": "v",
+    "question": "elevate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "高める",
+    "explanation": "elevate = 高める。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to elevate the plan."
+  },
+  {
+    "id": "v-curated-2440",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "elevate",
+    "meaning": "高める",
+    "pos": "n",
+    "question": "elevate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "高める",
+    "explanation": "elevate = 高める。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the elevate carefully."
+  },
+  {
+    "id": "v-curated-0662",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "eligibility",
+    "meaning": "資格・適格性",
+    "pos": "n",
+    "question": "eligibility",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "資格・適格性",
+    "explanation": "eligibility = 資格・適格性。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the eligibility carefully."
+  },
+  {
+    "id": "v-curated-1354",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "eligible",
+    "meaning": "資格のある",
+    "pos": "adj",
+    "question": "eligible",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "資格のある",
+    "explanation": "eligible = 資格のある。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was eligible for everyone involved."
+  },
+  {
+    "id": "v-advanced-116",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "eliminate",
+    "meaning": "排除する",
+    "question": "eliminate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "階層・序列",
+        "correct": false
+      },
+      {
+        "text": "明確に表現する",
+        "correct": false
+      },
+      {
+        "text": "排除する",
+        "correct": true
+      },
+      {
+        "text": "組み込む",
+        "correct": false
+      }
+    ],
+    "answer": "排除する",
+    "explanation": "eliminate = 排除する。例：eliminate unnecessary steps",
+    "exampleSentence": "The teacher explained how \"eliminate\" is used in context."
+  },
+  {
+    "id": "v-curated-2113",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "embark",
+    "meaning": "乗り出す・乗船する",
+    "pos": "v",
+    "question": "embark",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "乗り出す・乗船する",
+    "explanation": "embark = 乗り出す・乗船する。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to embark the plan."
+  },
+  {
+    "id": "v-curated-1004",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "embody",
+    "meaning": "具体化する",
+    "pos": "v",
+    "question": "embody",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "具体化する",
+    "explanation": "embody = 具体化する。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to embody the plan."
+  },
+  {
+    "id": "v-curated-2863",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "emerging",
+    "meaning": "新興の",
+    "pos": "adj",
+    "question": "emerging",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "新興の",
+    "explanation": "emerging = 新興の。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was emerging for everyone involved."
+  },
+  {
+    "id": "v-curated-2324",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "empathy",
+    "meaning": "共感",
+    "pos": "n",
+    "question": "empathy",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "共感",
+    "explanation": "empathy = 共感。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the empathy carefully."
+  },
+  {
+    "id": "v-advanced-011",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "empirical",
+    "meaning": "経験的な",
+    "question": "empirical",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "経験的な",
+        "correct": true
+      },
+      {
+        "text": "理論だけの",
+        "correct": false
+      },
+      {
+        "text": "感情的な",
+        "correct": false
+      },
+      {
+        "text": "伝統的な",
+        "correct": false
+      }
+    ],
+    "answer": "経験的な",
+    "explanation": "empirical = 経験的な。例：empirical evidence",
+    "exampleSentence": "The teacher explained how \"empirical\" is used in context."
+  },
+  {
+    "id": "v-curated-2116",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "empowerment",
+    "meaning": "権限付与・能力向上",
+    "pos": "n",
+    "question": "empowerment",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "権限付与・能力向上",
+    "explanation": "empowerment = 権限付与・能力向上。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the empowerment carefully."
+  },
+  {
+    "id": "v-curated-1007",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "enact",
+    "meaning": "制定する・演じる",
+    "pos": "v",
+    "question": "enact",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "制定する・演じる",
+    "explanation": "enact = 制定する・演じる。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to enact the plan."
+  },
+  {
+    "id": "v-curated-2325",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "enactment",
+    "meaning": "制定・演技",
+    "pos": "n",
+    "question": "enactment",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "制定・演技",
+    "explanation": "enactment = 制定・演技。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the enactment carefully."
+  },
+  {
+    "id": "v-curated-1181",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "encompass",
+    "meaning": "含む・取り囲む",
+    "pos": "v",
+    "question": "encompass",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "含む・取り囲む",
+    "explanation": "encompass = 含む・取り囲む。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to encompass the plan."
+  },
+  {
+    "id": "v-curated-1487",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "endeavor",
+    "meaning": "努力・努力する",
+    "pos": "v",
+    "question": "endeavor",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "努力・努力する",
+    "explanation": "endeavor = 努力・努力する。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to endeavor the plan."
+  },
+  {
+    "id": "v-curated-1488",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "endorse",
+    "meaning": "支持する",
+    "pos": "v",
+    "question": "endorse",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "支持する",
+    "explanation": "endorse = 支持する。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to endorse the plan."
+  },
+  {
+    "id": "v-curated-2120",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "endorsement",
+    "meaning": "支持・承認",
+    "pos": "n",
+    "question": "endorsement",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "支持・承認",
+    "explanation": "endorsement = 支持・承認。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the endorsement carefully."
+  },
+  {
+    "id": "v-curated-1681",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "endure",
+    "meaning": "耐える",
+    "pos": "v",
+    "question": "endure",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "耐える",
+    "explanation": "endure = 耐える。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to endure the plan."
+  },
+  {
+    "id": "v-curated-0189",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "enforcement",
+    "meaning": "施行・強制",
+    "pos": "n",
+    "question": "enforcement",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "施行・強制",
+    "explanation": "enforcement = 施行・強制。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the enforcement carefully."
+  },
+  {
+    "id": "v-curated-0809",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "enrichment",
+    "meaning": "豊かさの付与",
+    "pos": "n",
+    "question": "enrichment",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "豊かさの付与",
+    "explanation": "enrichment = 豊かさの付与。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The study examined the enrichment carefully."
+  },
+  {
+    "id": "v-curated-4026",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "entrepreneur",
+    "meaning": "起業家",
+    "pos": "n",
+    "question": "entrepreneur",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "起業家",
+    "explanation": "entrepreneur = 起業家。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The study examined the entrepreneur carefully."
+  },
+  {
+    "id": "v-curated-0877",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "environmentalism",
+    "meaning": "環境保護主義",
+    "pos": "n",
+    "question": "environmentalism",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "環境保護主義",
+    "explanation": "environmentalism = 環境保護主義。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the environmentalism carefully."
+  },
+  {
+    "id": "v-curated-1012",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "envision",
+    "meaning": "思い描く",
+    "pos": "v",
+    "question": "envision",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "思い描く",
+    "explanation": "envision = 思い描く。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "They decided to envision the plan."
+  },
+  {
+    "id": "v-curated-1013",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "equate",
+    "meaning": "同等とみなす",
+    "pos": "v",
+    "question": "equate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "同等とみなす",
+    "explanation": "equate = 同等とみなす。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to equate the plan."
+  },
+  {
+    "id": "v-curated-0536",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "equity",
+    "meaning": "公平・公正",
+    "pos": "n",
+    "question": "equity",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "公平・公正",
+    "explanation": "equity = 公平・公正。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The study examined the equity carefully."
+  },
+  {
+    "id": "v-curated-2132",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "escalate",
+    "meaning": "拡大する・激化する",
+    "pos": "v",
+    "question": "escalate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "拡大する・激化する",
+    "explanation": "escalate = 拡大する・激化する。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to escalate the plan."
+  },
+  {
+    "id": "v-curated-2133",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "esteemed",
+    "meaning": "尊敬される",
+    "pos": "adj",
+    "question": "esteemed",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "尊敬される",
+    "explanation": "esteemed = 尊敬される。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was esteemed for everyone involved."
+  },
+  {
+    "id": "v-curated-2136",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "evade",
+    "meaning": "逃れる・回避する",
+    "pos": "v",
+    "question": "evade",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "逃れる・回避する",
+    "explanation": "evade = 逃れる・回避する。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to evade the plan."
+  },
+  {
+    "id": "v-max2-evoke",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "evoke",
+    "meaning": "呼び起こす",
+    "pos": "v",
+    "exampleSentence": "We need to evoke the problem carefully.",
+    "exampleJa": "私たちはその問題を注意深く呼び起こす必要がある。",
+    "explanation": "evoke：呼び起こす。",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-max2",
+      "入試発展"
+    ],
+    "source": "curated-vocab-max2-2026",
+    "levelTags": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-curated-2451",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "evoked",
+    "meaning": "呼び起こした",
+    "pos": "adj",
+    "question": "evoked",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "呼び起こした",
+    "explanation": "evoked = 呼び起こした。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was evoked for everyone involved."
+  },
+  {
+    "id": "v-advanced-03-exaggerate",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "exaggerate",
+    "meaning": "誇張する",
+    "pos": "v",
+    "question": "exaggerate",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "誇張する",
+    "explanation": "exaggerate = 誇張する。品詞: v。語群: exaggeration。",
+    "exampleSentence": "Researchers exaggerate the evidence before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を誇張する。",
+    "family": "exaggeration",
+    "synonyms": [
+      "overstate",
+      "inflate"
+    ],
+    "tags": [
+      "advanced",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。exaggerate の派生語: exaggeration.",
+    "levelTags": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-advanced-012",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "exceed",
+    "meaning": "超える",
+    "question": "exceed",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "超える",
+        "correct": true
+      },
+      {
+        "text": "下回る",
+        "correct": false
+      },
+      {
+        "text": "拒否する",
+        "correct": false
+      },
+      {
+        "text": "隠す",
+        "correct": false
+      }
+    ],
+    "answer": "超える",
+    "explanation": "exceed = 超える。例：exceed expectations",
+    "exampleSentence": "The teacher explained how \"exceed\" is used in context."
+  },
+  {
+    "id": "v-curated-2756",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "exclusive",
+    "meaning": "独占的な・唯一の",
+    "pos": "adj",
+    "question": "exclusive",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "独占的な・唯一の",
+    "explanation": "exclusive = 独占的な・唯一の。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The result was exclusive for everyone involved."
+  },
+  {
+    "id": "v-curated-1695",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "exclusively",
+    "meaning": "もっぱら・独占的に",
+    "pos": "adv",
+    "question": "exclusively",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "もっぱら・独占的に",
+    "explanation": "exclusively = もっぱら・独占的に。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The team responded exclusively to the situation."
+  },
+  {
+    "id": "v-curated-3369",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "execute",
+    "meaning": "実行する・執行する",
+    "pos": "v",
+    "question": "execute",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "実行する・執行する",
+    "explanation": "execute = 実行する・執行する。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to execute the plan."
+  },
+  {
+    "id": "v-curated-0676",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "execution",
+    "meaning": "実行・処刑",
+    "pos": "n",
+    "question": "execution",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "実行・処刑",
+    "explanation": "execution = 実行・処刑。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the execution carefully."
+  },
+  {
+    "id": "v-curated-3072",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "exemplify",
+    "meaning": "例証する",
+    "pos": "v",
+    "question": "exemplify",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "例証する",
+    "explanation": "exemplify = 例証する。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to exemplify the plan."
+  },
+  {
+    "id": "v-curated-2139",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "exempt",
+    "meaning": "免除する・免除された",
+    "pos": "v",
+    "question": "exempt",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "免除する・免除された",
+    "explanation": "exempt = 免除する・免除された。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to exempt the plan."
+  },
+  {
+    "id": "v-curated-1696",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "exert",
+    "meaning": "行使する・努力する",
+    "pos": "v",
+    "question": "exert",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "行使する・努力する",
+    "explanation": "exert = 行使する・努力する。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "They decided to exert the plan."
+  },
+  {
+    "id": "v-curated-2140",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "exertion",
+    "meaning": "努力・発揮",
+    "pos": "n",
+    "question": "exertion",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "努力・発揮",
+    "explanation": "exertion = 努力・発揮。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the exertion carefully."
+  },
+  {
+    "id": "v-curated-2141",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "exile",
+    "meaning": "亡命・追放する",
+    "pos": "n",
+    "question": "exile",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "亡命・追放する",
+    "explanation": "exile = 亡命・追放する。",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The study examined the exile carefully."
+  }
+]
