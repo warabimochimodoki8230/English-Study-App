@@ -1,0 +1,626 @@
+[
+  {
+    "id": "r-v12-common-01",
+    "type": "reading",
+    "level": "common",
+    "title": "The Politics of Indicators",
+    "passage": "Institutions often govern through indicators because indicators make complex conditions easier to compare. Yet indicators can change behavior. Once a school is rewarded for a particular score, teachers may devote more time to activities that raise the score and less to activities that are harder to measure. This is not necessarily intentional gaming; people naturally respond to incentives. Consequently, a metric should be treated as a tool rather than a complete definition of success.",
+    "questions": [
+      {
+        "id": "r-v12-common-01-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "Indicators make complex conditions easier to compare.",
+          "Indicators can change behavior.",
+          "The passage argues that one simple solution always works.",
+          "The writer says evidence is unnecessary."
+        ],
+        "answer": "Indicators make complex conditions easier to compare.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-common-01-q02",
+        "type": "reading",
+        "question": "According to the passage, which statement is true?",
+        "choices": [
+          "Indicators can change behavior.",
+          "Indicators make complex conditions easier to compare.",
+          "The passage says this never happens.",
+          "The writer rejects the issue entirely."
+        ],
+        "answer": "Indicators can change behavior.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-common-01-q03",
+        "type": "reading",
+        "question": "What can reasonably be inferred from the passage?",
+        "choices": [
+          "A metric is not a complete definition of success.",
+          "The topic has only one possible explanation.",
+          "Every case must produce the same result.",
+          "The author claims further evidence is impossible."
+        ],
+        "answer": "A metric is not a complete definition of success.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-common-01-q04",
+        "type": "reading",
+        "question": "In this passage, which option best expresses the meaning of 'rather'?",
+        "choices": [
+          "instead / more accurately",
+          "because",
+          "afterward",
+          "without exception"
+        ],
+        "answer": "instead / more accurately",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-common-01-q05",
+        "type": "reading",
+        "question": "What is the writer's main purpose?",
+        "choices": [
+          "to explain a balanced idea and its practical implication",
+          "to prove that one method is always correct",
+          "to tell a fictional personal story",
+          "to argue that evidence is unnecessary"
+        ],
+        "answer": "to explain a balanced idea and its practical implication",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      }
+    ],
+    "tags": [
+      "reading-v12",
+      "common"
+    ]
+  },
+  {
+    "id": "r-v12-common-02",
+    "type": "reading",
+    "level": "common",
+    "title": "Cooperation Without Agreement",
+    "passage": "Cooperation does not always require agreement about long-term goals. Two groups may disagree about priorities while sharing an immediate interest in preventing a flood or restoring a damaged bridge. Shared projects can therefore be built around limited common ground. This kind of cooperation becomes more durable when participants state precisely what they agree to do, what they do not agree about, and how disagreements will be handled later.",
+    "questions": [
+      {
+        "id": "r-v12-common-02-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "Limited common ground can support cooperation.",
+          "Long-term agreement is not always necessary.",
+          "The passage argues that one simple solution always works.",
+          "The writer says evidence is unnecessary."
+        ],
+        "answer": "Limited common ground can support cooperation.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-common-02-q02",
+        "type": "reading",
+        "question": "According to the passage, which statement is true?",
+        "choices": [
+          "Long-term agreement is not always necessary.",
+          "Limited common ground can support cooperation.",
+          "The passage says this never happens.",
+          "The writer rejects the issue entirely."
+        ],
+        "answer": "Long-term agreement is not always necessary.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-common-02-q03",
+        "type": "reading",
+        "question": "What can reasonably be inferred from the passage?",
+        "choices": [
+          "Clear procedures can make cooperation more durable.",
+          "The topic has only one possible explanation.",
+          "Every case must produce the same result.",
+          "The author claims further evidence is impossible."
+        ],
+        "answer": "Clear procedures can make cooperation more durable.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-common-02-q04",
+        "type": "reading",
+        "question": "In this passage, which option best expresses the meaning of 'rather'?",
+        "choices": [
+          "instead / more accurately",
+          "because",
+          "afterward",
+          "without exception"
+        ],
+        "answer": "instead / more accurately",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-common-02-q05",
+        "type": "reading",
+        "question": "What is the writer's main purpose?",
+        "choices": [
+          "to explain a balanced idea and its practical implication",
+          "to prove that one method is always correct",
+          "to tell a fictional personal story",
+          "to argue that evidence is unnecessary"
+        ],
+        "answer": "to explain a balanced idea and its practical implication",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      }
+    ],
+    "tags": [
+      "reading-v12",
+      "common"
+    ]
+  },
+  {
+    "id": "r-v12-common-03",
+    "type": "reading",
+    "level": "common",
+    "title": "Urban Gardens and Heat",
+    "passage": "Urban gardens can reduce local heat by providing shade and allowing water to move through soil. Their effect depends on size, location, vegetation, and maintenance. A small garden cannot transform an entire city, but a network of green spaces may create useful local effects. Researchers therefore evaluate both individual sites and their distribution across neighborhoods.",
+    "questions": [
+      {
+        "id": "r-v12-common-03-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "Gardens can have local cooling effects.",
+          "Size and location affect the result.",
+          "The passage argues that one simple solution always works.",
+          "The writer says evidence is unnecessary."
+        ],
+        "answer": "Gardens can have local cooling effects.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-common-03-q02",
+        "type": "reading",
+        "question": "According to the passage, which statement is true?",
+        "choices": [
+          "Size and location affect the result.",
+          "Gardens can have local cooling effects.",
+          "The passage says this never happens.",
+          "The writer rejects the issue entirely."
+        ],
+        "answer": "Size and location affect the result.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-common-03-q03",
+        "type": "reading",
+        "question": "What can reasonably be inferred from the passage?",
+        "choices": [
+          "Networks of green spaces may matter.",
+          "The topic has only one possible explanation.",
+          "Every case must produce the same result.",
+          "The author claims further evidence is impossible."
+        ],
+        "answer": "Networks of green spaces may matter.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-common-03-q04",
+        "type": "reading",
+        "question": "In this passage, which option best expresses the meaning of 'rather'?",
+        "choices": [
+          "instead / more accurately",
+          "because",
+          "afterward",
+          "without exception"
+        ],
+        "answer": "instead / more accurately",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-common-03-q05",
+        "type": "reading",
+        "question": "What is the writer's main purpose?",
+        "choices": [
+          "to explain a balanced idea and its practical implication",
+          "to prove that one method is always correct",
+          "to tell a fictional personal story",
+          "to argue that evidence is unnecessary"
+        ],
+        "answer": "to explain a balanced idea and its practical implication",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      }
+    ],
+    "tags": [
+      "reading-v12",
+      "common"
+    ]
+  },
+  {
+    "id": "r-v12-common-04",
+    "type": "reading",
+    "level": "common",
+    "title": "Museum Labels",
+    "passage": "Museum labels do more than name objects. The choice of dates, terminology, and context can shape how visitors interpret an artifact. A short label cannot include every fact, so curators must decide which information is most relevant. Good labels make those choices clear without pretending that one sentence can settle every historical question.",
+    "questions": [
+      {
+        "id": "r-v12-common-04-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "Labels influence interpretation.",
+          "Curators must choose limited information.",
+          "The passage argues that one simple solution always works.",
+          "The writer says evidence is unnecessary."
+        ],
+        "answer": "Labels influence interpretation.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-common-04-q02",
+        "type": "reading",
+        "question": "According to the passage, which statement is true?",
+        "choices": [
+          "Curators must choose limited information.",
+          "Labels influence interpretation.",
+          "The passage says this never happens.",
+          "The writer rejects the issue entirely."
+        ],
+        "answer": "Curators must choose limited information.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-common-04-q03",
+        "type": "reading",
+        "question": "What can reasonably be inferred from the passage?",
+        "choices": [
+          "A short label cannot answer every historical question.",
+          "The topic has only one possible explanation.",
+          "Every case must produce the same result.",
+          "The author claims further evidence is impossible."
+        ],
+        "answer": "A short label cannot answer every historical question.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-common-04-q04",
+        "type": "reading",
+        "question": "In this passage, which option best expresses the meaning of 'rather'?",
+        "choices": [
+          "instead / more accurately",
+          "because",
+          "afterward",
+          "without exception"
+        ],
+        "answer": "instead / more accurately",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-common-04-q05",
+        "type": "reading",
+        "question": "What is the writer's main purpose?",
+        "choices": [
+          "to explain a balanced idea and its practical implication",
+          "to prove that one method is always correct",
+          "to tell a fictional personal story",
+          "to argue that evidence is unnecessary"
+        ],
+        "answer": "to explain a balanced idea and its practical implication",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      }
+    ],
+    "tags": [
+      "reading-v12",
+      "common"
+    ]
+  },
+  {
+    "id": "r-v12-common-05",
+    "type": "reading",
+    "level": "common",
+    "title": "Repairing Rivers",
+    "passage": "River restoration is often described as returning a river to a natural state, but rivers are dynamic systems and rarely have one fixed form. Projects may reconnect floodplains, remove barriers, or restore vegetation. The appropriate action depends on local ecology and human needs. A successful restoration therefore aims at a functioning system rather than a frozen picture of the past.",
+    "questions": [
+      {
+        "id": "r-v12-common-05-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "Rivers are dynamic systems.",
+          "Restoration methods vary by location.",
+          "The passage argues that one simple solution always works.",
+          "The writer says evidence is unnecessary."
+        ],
+        "answer": "Rivers are dynamic systems.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-common-05-q02",
+        "type": "reading",
+        "question": "According to the passage, which statement is true?",
+        "choices": [
+          "Restoration methods vary by location.",
+          "Rivers are dynamic systems.",
+          "The passage says this never happens.",
+          "The writer rejects the issue entirely."
+        ],
+        "answer": "Restoration methods vary by location.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-common-05-q03",
+        "type": "reading",
+        "question": "What can reasonably be inferred from the passage?",
+        "choices": [
+          "A functioning system matters more than one fixed historical image.",
+          "The topic has only one possible explanation.",
+          "Every case must produce the same result.",
+          "The author claims further evidence is impossible."
+        ],
+        "answer": "A functioning system matters more than one fixed historical image.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-common-05-q04",
+        "type": "reading",
+        "question": "In this passage, which option best expresses the meaning of 'rather'?",
+        "choices": [
+          "instead / more accurately",
+          "because",
+          "afterward",
+          "without exception"
+        ],
+        "answer": "instead / more accurately",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-common-05-q05",
+        "type": "reading",
+        "question": "What is the writer's main purpose?",
+        "choices": [
+          "to explain a balanced idea and its practical implication",
+          "to prove that one method is always correct",
+          "to tell a fictional personal story",
+          "to argue that evidence is unnecessary"
+        ],
+        "answer": "to explain a balanced idea and its practical implication",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      }
+    ],
+    "tags": [
+      "reading-v12",
+      "common"
+    ]
+  },
+  {
+    "id": "r-v12-common-06",
+    "type": "reading",
+    "level": "common",
+    "title": "Language Change",
+    "passage": "Languages change as speakers create new expressions, borrow words, and shift meanings. Such change is not necessarily a sign that a language is becoming worse. It can reflect changes in technology, social relationships, and cultural priorities. At the same time, older forms may remain important in formal writing or historical documents.",
+    "questions": [
+      {
+        "id": "r-v12-common-06-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "Languages change naturally.",
+          "Change can reflect social and technological shifts.",
+          "The passage argues that one simple solution always works.",
+          "The writer says evidence is unnecessary."
+        ],
+        "answer": "Languages change naturally.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-common-06-q02",
+        "type": "reading",
+        "question": "According to the passage, which statement is true?",
+        "choices": [
+          "Change can reflect social and technological shifts.",
+          "Languages change naturally.",
+          "The passage says this never happens.",
+          "The writer rejects the issue entirely."
+        ],
+        "answer": "Change can reflect social and technological shifts.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-common-06-q03",
+        "type": "reading",
+        "question": "What can reasonably be inferred from the passage?",
+        "choices": [
+          "Older forms may remain useful in some contexts.",
+          "The topic has only one possible explanation.",
+          "Every case must produce the same result.",
+          "The author claims further evidence is impossible."
+        ],
+        "answer": "Older forms may remain useful in some contexts.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-common-06-q04",
+        "type": "reading",
+        "question": "In this passage, which option best expresses the meaning of 'rather'?",
+        "choices": [
+          "instead / more accurately",
+          "because",
+          "afterward",
+          "without exception"
+        ],
+        "answer": "instead / more accurately",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-common-06-q05",
+        "type": "reading",
+        "question": "What is the writer's main purpose?",
+        "choices": [
+          "to explain a balanced idea and its practical implication",
+          "to prove that one method is always correct",
+          "to tell a fictional personal story",
+          "to argue that evidence is unnecessary"
+        ],
+        "answer": "to explain a balanced idea and its practical implication",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      }
+    ],
+    "tags": [
+      "reading-v12",
+      "common"
+    ]
+  },
+  {
+    "id": "r-v12-common-07",
+    "type": "reading",
+    "level": "common",
+    "title": "Forecasting Uncertainty",
+    "passage": "A weather forecast is not simply a prediction of one certain future. Modern forecasts often describe probabilities because small differences in atmospheric conditions can produce different outcomes. A probability does not mean that forecasters know nothing; it summarizes uncertainty based on models and observations. Good decisions use the forecast together with the consequences of being wrong.",
+    "questions": [
+      {
+        "id": "r-v12-common-07-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "Forecasts often include probabilities.",
+          "Atmospheric conditions can lead to different outcomes.",
+          "The passage argues that one simple solution always works.",
+          "The writer says evidence is unnecessary."
+        ],
+        "answer": "Forecasts often include probabilities.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-common-07-q02",
+        "type": "reading",
+        "question": "According to the passage, which statement is true?",
+        "choices": [
+          "Atmospheric conditions can lead to different outcomes.",
+          "Forecasts often include probabilities.",
+          "The passage says this never happens.",
+          "The writer rejects the issue entirely."
+        ],
+        "answer": "Atmospheric conditions can lead to different outcomes.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-common-07-q03",
+        "type": "reading",
+        "question": "What can reasonably be inferred from the passage?",
+        "choices": [
+          "Decisions should consider the cost of being wrong.",
+          "The topic has only one possible explanation.",
+          "Every case must produce the same result.",
+          "The author claims further evidence is impossible."
+        ],
+        "answer": "Decisions should consider the cost of being wrong.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-common-07-q04",
+        "type": "reading",
+        "question": "In this passage, which option best expresses the meaning of 'rather'?",
+        "choices": [
+          "instead / more accurately",
+          "because",
+          "afterward",
+          "without exception"
+        ],
+        "answer": "instead / more accurately",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-common-07-q05",
+        "type": "reading",
+        "question": "What is the writer's main purpose?",
+        "choices": [
+          "to explain a balanced idea and its practical implication",
+          "to prove that one method is always correct",
+          "to tell a fictional personal story",
+          "to argue that evidence is unnecessary"
+        ],
+        "answer": "to explain a balanced idea and its practical implication",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      }
+    ],
+    "tags": [
+      "reading-v12",
+      "common"
+    ]
+  },
+  {
+    "id": "r-v12-common-08",
+    "type": "reading",
+    "level": "common",
+    "title": "Learning from Failed Designs",
+    "passage": "A failed design can be informative when the failure is observed carefully. Engineers may test where and when a component stopped working, compare that behavior with their assumptions, and revise the design. Failure is not automatically useful, however. If no one records what happened, the same error may simply recur. The value of failure therefore depends on whether it produces usable information.",
+    "questions": [
+      {
+        "id": "r-v12-common-08-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "Failure can provide information.",
+          "Testing assumptions helps revision.",
+          "The passage argues that one simple solution always works.",
+          "The writer says evidence is unnecessary."
+        ],
+        "answer": "Failure can provide information.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-common-08-q02",
+        "type": "reading",
+        "question": "According to the passage, which statement is true?",
+        "choices": [
+          "Testing assumptions helps revision.",
+          "Failure can provide information.",
+          "The passage says this never happens.",
+          "The writer rejects the issue entirely."
+        ],
+        "answer": "Testing assumptions helps revision.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-common-08-q03",
+        "type": "reading",
+        "question": "What can reasonably be inferred from the passage?",
+        "choices": [
+          "Failure is useful only when lessons are captured.",
+          "The topic has only one possible explanation.",
+          "Every case must produce the same result.",
+          "The author claims further evidence is impossible."
+        ],
+        "answer": "Failure is useful only when lessons are captured.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-common-08-q04",
+        "type": "reading",
+        "question": "In this passage, which option best expresses the meaning of 'rather'?",
+        "choices": [
+          "instead / more accurately",
+          "because",
+          "afterward",
+          "without exception"
+        ],
+        "answer": "instead / more accurately",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-common-08-q05",
+        "type": "reading",
+        "question": "What is the writer's main purpose?",
+        "choices": [
+          "to explain a balanced idea and its practical implication",
+          "to prove that one method is always correct",
+          "to tell a fictional personal story",
+          "to argue that evidence is unnecessary"
+        ],
+        "answer": "to explain a balanced idea and its practical implication",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      }
+    ],
+    "tags": [
+      "reading-v12",
+      "common"
+    ]
+  }
+]

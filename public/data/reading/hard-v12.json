@@ -1,0 +1,626 @@
+[
+  {
+    "id": "r-v12-hard-01",
+    "type": "reading",
+    "level": "hard",
+    "title": "The Value of Early Tests 25",
+    "passage": "A group of students compared two ways of designing school projects. One group tried to produce a polished result immediately. The other built a rough model, tested it, recorded problems, and revised it several times. The second group spent more time during the first week, but its final project required fewer major changes. The students concluded that early experiments were useful because they exposed hidden problems before those problems became expensive to fix. The experiment did not show that slow work is always better. Rather, it suggested that when a task is uncertain, a small test early in the process can reduce the risk of a large mistake later.",
+    "questions": [
+      {
+        "id": "r-v12-hard-01-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "Early small tests can reveal hidden problems.",
+          "The second group spent more time in the first week.",
+          "The passage argues that one simple solution always works.",
+          "The writer says evidence is unnecessary."
+        ],
+        "answer": "Early small tests can reveal hidden problems.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-hard-01-q02",
+        "type": "reading",
+        "question": "According to the passage, which statement is true?",
+        "choices": [
+          "The second group spent more time in the first week.",
+          "Early small tests can reveal hidden problems.",
+          "The passage says this never happens.",
+          "The writer rejects the issue entirely."
+        ],
+        "answer": "The second group spent more time in the first week.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-hard-01-q03",
+        "type": "reading",
+        "question": "What can reasonably be inferred from the passage?",
+        "choices": [
+          "The study did not prove that slow work is always better.",
+          "The topic has only one possible explanation.",
+          "Every case must produce the same result.",
+          "The author claims further evidence is impossible."
+        ],
+        "answer": "The study did not prove that slow work is always better.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-hard-01-q04",
+        "type": "reading",
+        "question": "In this passage, which option best expresses the meaning of 'rather'?",
+        "choices": [
+          "instead / more accurately",
+          "because",
+          "afterward",
+          "without exception"
+        ],
+        "answer": "instead / more accurately",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-hard-01-q05",
+        "type": "reading",
+        "question": "What is the writer's main purpose?",
+        "choices": [
+          "to explain a balanced idea and its practical implication",
+          "to prove that one method is always correct",
+          "to tell a fictional personal story",
+          "to argue that evidence is unnecessary"
+        ],
+        "answer": "to explain a balanced idea and its practical implication",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      }
+    ],
+    "tags": [
+      "reading-v12",
+      "hard"
+    ]
+  },
+  {
+    "id": "r-v12-hard-02",
+    "type": "reading",
+    "level": "hard",
+    "title": "The Value of Early Tests 26",
+    "passage": "A group of students compared two ways of designing school projects. One group tried to produce a polished result immediately. The other built a rough model, tested it, recorded problems, and revised it several times. The second group spent more time during the first week, but its final project required fewer major changes. The students concluded that early experiments were useful because they exposed hidden problems before those problems became expensive to fix. The experiment did not show that slow work is always better. Rather, it suggested that when a task is uncertain, a small test early in the process can reduce the risk of a large mistake later.",
+    "questions": [
+      {
+        "id": "r-v12-hard-02-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "Early small tests can reveal hidden problems.",
+          "The second group spent more time in the first week.",
+          "The passage argues that one simple solution always works.",
+          "The writer says evidence is unnecessary."
+        ],
+        "answer": "Early small tests can reveal hidden problems.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-hard-02-q02",
+        "type": "reading",
+        "question": "According to the passage, which statement is true?",
+        "choices": [
+          "The second group spent more time in the first week.",
+          "Early small tests can reveal hidden problems.",
+          "The passage says this never happens.",
+          "The writer rejects the issue entirely."
+        ],
+        "answer": "The second group spent more time in the first week.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-hard-02-q03",
+        "type": "reading",
+        "question": "What can reasonably be inferred from the passage?",
+        "choices": [
+          "The study did not prove that slow work is always better.",
+          "The topic has only one possible explanation.",
+          "Every case must produce the same result.",
+          "The author claims further evidence is impossible."
+        ],
+        "answer": "The study did not prove that slow work is always better.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-hard-02-q04",
+        "type": "reading",
+        "question": "In this passage, which option best expresses the meaning of 'rather'?",
+        "choices": [
+          "instead / more accurately",
+          "because",
+          "afterward",
+          "without exception"
+        ],
+        "answer": "instead / more accurately",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-hard-02-q05",
+        "type": "reading",
+        "question": "What is the writer's main purpose?",
+        "choices": [
+          "to explain a balanced idea and its practical implication",
+          "to prove that one method is always correct",
+          "to tell a fictional personal story",
+          "to argue that evidence is unnecessary"
+        ],
+        "answer": "to explain a balanced idea and its practical implication",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      }
+    ],
+    "tags": [
+      "reading-v12",
+      "hard"
+    ]
+  },
+  {
+    "id": "r-v12-hard-03",
+    "type": "reading",
+    "level": "hard",
+    "title": "The Value of Early Tests 27",
+    "passage": "A group of students compared two ways of designing school projects. One group tried to produce a polished result immediately. The other built a rough model, tested it, recorded problems, and revised it several times. The second group spent more time during the first week, but its final project required fewer major changes. The students concluded that early experiments were useful because they exposed hidden problems before those problems became expensive to fix. The experiment did not show that slow work is always better. Rather, it suggested that when a task is uncertain, a small test early in the process can reduce the risk of a large mistake later.",
+    "questions": [
+      {
+        "id": "r-v12-hard-03-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "Early small tests can reveal hidden problems.",
+          "The second group spent more time in the first week.",
+          "The passage argues that one simple solution always works.",
+          "The writer says evidence is unnecessary."
+        ],
+        "answer": "Early small tests can reveal hidden problems.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-hard-03-q02",
+        "type": "reading",
+        "question": "According to the passage, which statement is true?",
+        "choices": [
+          "The second group spent more time in the first week.",
+          "Early small tests can reveal hidden problems.",
+          "The passage says this never happens.",
+          "The writer rejects the issue entirely."
+        ],
+        "answer": "The second group spent more time in the first week.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-hard-03-q03",
+        "type": "reading",
+        "question": "What can reasonably be inferred from the passage?",
+        "choices": [
+          "The study did not prove that slow work is always better.",
+          "The topic has only one possible explanation.",
+          "Every case must produce the same result.",
+          "The author claims further evidence is impossible."
+        ],
+        "answer": "The study did not prove that slow work is always better.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-hard-03-q04",
+        "type": "reading",
+        "question": "In this passage, which option best expresses the meaning of 'rather'?",
+        "choices": [
+          "instead / more accurately",
+          "because",
+          "afterward",
+          "without exception"
+        ],
+        "answer": "instead / more accurately",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-hard-03-q05",
+        "type": "reading",
+        "question": "What is the writer's main purpose?",
+        "choices": [
+          "to explain a balanced idea and its practical implication",
+          "to prove that one method is always correct",
+          "to tell a fictional personal story",
+          "to argue that evidence is unnecessary"
+        ],
+        "answer": "to explain a balanced idea and its practical implication",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      }
+    ],
+    "tags": [
+      "reading-v12",
+      "hard"
+    ]
+  },
+  {
+    "id": "r-v12-hard-04",
+    "type": "reading",
+    "level": "hard",
+    "title": "The Value of Early Tests 28",
+    "passage": "A group of students compared two ways of designing school projects. One group tried to produce a polished result immediately. The other built a rough model, tested it, recorded problems, and revised it several times. The second group spent more time during the first week, but its final project required fewer major changes. The students concluded that early experiments were useful because they exposed hidden problems before those problems became expensive to fix. The experiment did not show that slow work is always better. Rather, it suggested that when a task is uncertain, a small test early in the process can reduce the risk of a large mistake later.",
+    "questions": [
+      {
+        "id": "r-v12-hard-04-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "Early small tests can reveal hidden problems.",
+          "The second group spent more time in the first week.",
+          "The passage argues that one simple solution always works.",
+          "The writer says evidence is unnecessary."
+        ],
+        "answer": "Early small tests can reveal hidden problems.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-hard-04-q02",
+        "type": "reading",
+        "question": "According to the passage, which statement is true?",
+        "choices": [
+          "The second group spent more time in the first week.",
+          "Early small tests can reveal hidden problems.",
+          "The passage says this never happens.",
+          "The writer rejects the issue entirely."
+        ],
+        "answer": "The second group spent more time in the first week.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-hard-04-q03",
+        "type": "reading",
+        "question": "What can reasonably be inferred from the passage?",
+        "choices": [
+          "The study did not prove that slow work is always better.",
+          "The topic has only one possible explanation.",
+          "Every case must produce the same result.",
+          "The author claims further evidence is impossible."
+        ],
+        "answer": "The study did not prove that slow work is always better.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-hard-04-q04",
+        "type": "reading",
+        "question": "In this passage, which option best expresses the meaning of 'rather'?",
+        "choices": [
+          "instead / more accurately",
+          "because",
+          "afterward",
+          "without exception"
+        ],
+        "answer": "instead / more accurately",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-hard-04-q05",
+        "type": "reading",
+        "question": "What is the writer's main purpose?",
+        "choices": [
+          "to explain a balanced idea and its practical implication",
+          "to prove that one method is always correct",
+          "to tell a fictional personal story",
+          "to argue that evidence is unnecessary"
+        ],
+        "answer": "to explain a balanced idea and its practical implication",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      }
+    ],
+    "tags": [
+      "reading-v12",
+      "hard"
+    ]
+  },
+  {
+    "id": "r-v12-hard-05",
+    "type": "reading",
+    "level": "hard",
+    "title": "The Value of Early Tests 29",
+    "passage": "A group of students compared two ways of designing school projects. One group tried to produce a polished result immediately. The other built a rough model, tested it, recorded problems, and revised it several times. The second group spent more time during the first week, but its final project required fewer major changes. The students concluded that early experiments were useful because they exposed hidden problems before those problems became expensive to fix. The experiment did not show that slow work is always better. Rather, it suggested that when a task is uncertain, a small test early in the process can reduce the risk of a large mistake later.",
+    "questions": [
+      {
+        "id": "r-v12-hard-05-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "Early small tests can reveal hidden problems.",
+          "The second group spent more time in the first week.",
+          "The passage argues that one simple solution always works.",
+          "The writer says evidence is unnecessary."
+        ],
+        "answer": "Early small tests can reveal hidden problems.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-hard-05-q02",
+        "type": "reading",
+        "question": "According to the passage, which statement is true?",
+        "choices": [
+          "The second group spent more time in the first week.",
+          "Early small tests can reveal hidden problems.",
+          "The passage says this never happens.",
+          "The writer rejects the issue entirely."
+        ],
+        "answer": "The second group spent more time in the first week.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-hard-05-q03",
+        "type": "reading",
+        "question": "What can reasonably be inferred from the passage?",
+        "choices": [
+          "The study did not prove that slow work is always better.",
+          "The topic has only one possible explanation.",
+          "Every case must produce the same result.",
+          "The author claims further evidence is impossible."
+        ],
+        "answer": "The study did not prove that slow work is always better.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-hard-05-q04",
+        "type": "reading",
+        "question": "In this passage, which option best expresses the meaning of 'rather'?",
+        "choices": [
+          "instead / more accurately",
+          "because",
+          "afterward",
+          "without exception"
+        ],
+        "answer": "instead / more accurately",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-hard-05-q05",
+        "type": "reading",
+        "question": "What is the writer's main purpose?",
+        "choices": [
+          "to explain a balanced idea and its practical implication",
+          "to prove that one method is always correct",
+          "to tell a fictional personal story",
+          "to argue that evidence is unnecessary"
+        ],
+        "answer": "to explain a balanced idea and its practical implication",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      }
+    ],
+    "tags": [
+      "reading-v12",
+      "hard"
+    ]
+  },
+  {
+    "id": "r-v12-hard-06",
+    "type": "reading",
+    "level": "hard",
+    "title": "The Value of Early Tests 30",
+    "passage": "A group of students compared two ways of designing school projects. One group tried to produce a polished result immediately. The other built a rough model, tested it, recorded problems, and revised it several times. The second group spent more time during the first week, but its final project required fewer major changes. The students concluded that early experiments were useful because they exposed hidden problems before those problems became expensive to fix. The experiment did not show that slow work is always better. Rather, it suggested that when a task is uncertain, a small test early in the process can reduce the risk of a large mistake later.",
+    "questions": [
+      {
+        "id": "r-v12-hard-06-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "Early small tests can reveal hidden problems.",
+          "The second group spent more time in the first week.",
+          "The passage argues that one simple solution always works.",
+          "The writer says evidence is unnecessary."
+        ],
+        "answer": "Early small tests can reveal hidden problems.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-hard-06-q02",
+        "type": "reading",
+        "question": "According to the passage, which statement is true?",
+        "choices": [
+          "The second group spent more time in the first week.",
+          "Early small tests can reveal hidden problems.",
+          "The passage says this never happens.",
+          "The writer rejects the issue entirely."
+        ],
+        "answer": "The second group spent more time in the first week.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-hard-06-q03",
+        "type": "reading",
+        "question": "What can reasonably be inferred from the passage?",
+        "choices": [
+          "The study did not prove that slow work is always better.",
+          "The topic has only one possible explanation.",
+          "Every case must produce the same result.",
+          "The author claims further evidence is impossible."
+        ],
+        "answer": "The study did not prove that slow work is always better.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-hard-06-q04",
+        "type": "reading",
+        "question": "In this passage, which option best expresses the meaning of 'rather'?",
+        "choices": [
+          "instead / more accurately",
+          "because",
+          "afterward",
+          "without exception"
+        ],
+        "answer": "instead / more accurately",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-hard-06-q05",
+        "type": "reading",
+        "question": "What is the writer's main purpose?",
+        "choices": [
+          "to explain a balanced idea and its practical implication",
+          "to prove that one method is always correct",
+          "to tell a fictional personal story",
+          "to argue that evidence is unnecessary"
+        ],
+        "answer": "to explain a balanced idea and its practical implication",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      }
+    ],
+    "tags": [
+      "reading-v12",
+      "hard"
+    ]
+  },
+  {
+    "id": "r-v12-hard-07",
+    "type": "reading",
+    "level": "hard",
+    "title": "The Value of Early Tests 31",
+    "passage": "A group of students compared two ways of designing school projects. One group tried to produce a polished result immediately. The other built a rough model, tested it, recorded problems, and revised it several times. The second group spent more time during the first week, but its final project required fewer major changes. The students concluded that early experiments were useful because they exposed hidden problems before those problems became expensive to fix. The experiment did not show that slow work is always better. Rather, it suggested that when a task is uncertain, a small test early in the process can reduce the risk of a large mistake later.",
+    "questions": [
+      {
+        "id": "r-v12-hard-07-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "Early small tests can reveal hidden problems.",
+          "The second group spent more time in the first week.",
+          "The passage argues that one simple solution always works.",
+          "The writer says evidence is unnecessary."
+        ],
+        "answer": "Early small tests can reveal hidden problems.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-hard-07-q02",
+        "type": "reading",
+        "question": "According to the passage, which statement is true?",
+        "choices": [
+          "The second group spent more time in the first week.",
+          "Early small tests can reveal hidden problems.",
+          "The passage says this never happens.",
+          "The writer rejects the issue entirely."
+        ],
+        "answer": "The second group spent more time in the first week.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-hard-07-q03",
+        "type": "reading",
+        "question": "What can reasonably be inferred from the passage?",
+        "choices": [
+          "The study did not prove that slow work is always better.",
+          "The topic has only one possible explanation.",
+          "Every case must produce the same result.",
+          "The author claims further evidence is impossible."
+        ],
+        "answer": "The study did not prove that slow work is always better.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-hard-07-q04",
+        "type": "reading",
+        "question": "In this passage, which option best expresses the meaning of 'rather'?",
+        "choices": [
+          "instead / more accurately",
+          "because",
+          "afterward",
+          "without exception"
+        ],
+        "answer": "instead / more accurately",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-hard-07-q05",
+        "type": "reading",
+        "question": "What is the writer's main purpose?",
+        "choices": [
+          "to explain a balanced idea and its practical implication",
+          "to prove that one method is always correct",
+          "to tell a fictional personal story",
+          "to argue that evidence is unnecessary"
+        ],
+        "answer": "to explain a balanced idea and its practical implication",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      }
+    ],
+    "tags": [
+      "reading-v12",
+      "hard"
+    ]
+  },
+  {
+    "id": "r-v12-hard-08",
+    "type": "reading",
+    "level": "hard",
+    "title": "The Value of Early Tests 32",
+    "passage": "A group of students compared two ways of designing school projects. One group tried to produce a polished result immediately. The other built a rough model, tested it, recorded problems, and revised it several times. The second group spent more time during the first week, but its final project required fewer major changes. The students concluded that early experiments were useful because they exposed hidden problems before those problems became expensive to fix. The experiment did not show that slow work is always better. Rather, it suggested that when a task is uncertain, a small test early in the process can reduce the risk of a large mistake later.",
+    "questions": [
+      {
+        "id": "r-v12-hard-08-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "Early small tests can reveal hidden problems.",
+          "The second group spent more time in the first week.",
+          "The passage argues that one simple solution always works.",
+          "The writer says evidence is unnecessary."
+        ],
+        "answer": "Early small tests can reveal hidden problems.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-hard-08-q02",
+        "type": "reading",
+        "question": "According to the passage, which statement is true?",
+        "choices": [
+          "The second group spent more time in the first week.",
+          "Early small tests can reveal hidden problems.",
+          "The passage says this never happens.",
+          "The writer rejects the issue entirely."
+        ],
+        "answer": "The second group spent more time in the first week.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-hard-08-q03",
+        "type": "reading",
+        "question": "What can reasonably be inferred from the passage?",
+        "choices": [
+          "The study did not prove that slow work is always better.",
+          "The topic has only one possible explanation.",
+          "Every case must produce the same result.",
+          "The author claims further evidence is impossible."
+        ],
+        "answer": "The study did not prove that slow work is always better.",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-hard-08-q04",
+        "type": "reading",
+        "question": "In this passage, which option best expresses the meaning of 'rather'?",
+        "choices": [
+          "instead / more accurately",
+          "because",
+          "afterward",
+          "without exception"
+        ],
+        "answer": "instead / more accurately",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      },
+      {
+        "id": "r-v12-hard-08-q05",
+        "type": "reading",
+        "question": "What is the writer's main purpose?",
+        "choices": [
+          "to explain a balanced idea and its practical implication",
+          "to prove that one method is always correct",
+          "to tell a fictional personal story",
+          "to argue that evidence is unnecessary"
+        ],
+        "answer": "to explain a balanced idea and its practical implication",
+        "explanation": "本文の明示された内容・推論条件に基づく。"
+      }
+    ],
+    "tags": [
+      "reading-v12",
+      "hard"
+    ]
+  }
+]

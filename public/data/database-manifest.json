@@ -1,0 +1,14 @@
+{
+  "generated": "2026-08-21",
+  "productVersion": "v12-long-reading",
+  "vocabTotal": 4859,
+  "idiomTotal": 808,
+  "grammarOverviewTotal": 25,
+  "grammarQuizTotal": 1975,
+  "readingPassageTotal": 32,
+  "readingQuestionTotal": 160,
+  "totalRecords": 7859,
+  "source": "existing validated database + original curated expansions and original reading passages",
+  "deduped": true,
+  "static": true
+}
