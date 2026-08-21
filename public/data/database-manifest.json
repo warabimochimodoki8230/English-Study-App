@@ -1,0 +1,30 @@
+{
+  "generated": "2026-08-21",
+  "productVersion": "v23-stable-merge",
+  "vocabTotal": 6034,
+  "idiomTotal": 839,
+  "grammarOverviewTotal": 25,
+  "grammarQuizTotal": 1683,
+  "readingPassageTotal": 80,
+  "readingQuestionTotal": 400,
+  "totalRecords": 9061,
+  "source": "v14 validated database, global grammar stem deduplication, original v15 grammar polish set",
+  "deduped": true,
+  "static": true,
+  "version": "20260822-v23",
+  "features": {
+    "grammarDedup": "Globally normalized question stems; retained one best-complete record per stem.",
+    "readingTranslation": "Full passage translation appears only after answering the final question of a passage.",
+    "readingTimer": "Each passage has a target reading time and a pauseable count-up stopwatch.",
+    "learningAnalytics": "Local progress analytics show actual mistakes, level accuracy, coverage, and review-risk candidates.",
+    "examples": "Each vocabulary word and idiom has a semantically tailored one-sentence usage example.",
+    "smartChoices": "Same-part-of-speech distractors, nearby difficulty preference, all-level access to context/synonym/family formats, and family target-part-of-speech filtering.",
+    "mobileUX": "Sticky disabled-next button, mobile progress reset, compact responsive controls, tag search removed.",
+    "baseline": "v20-8 runtime preserved; v21/v22 features merged without deleting vocabulary records."
+  },
+  "expansion": {
+    "grammarAdded": 330,
+    "grammarRemovedAsDuplicates": 1422,
+    "familyDerivedAdded": 58
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "version": "2026.08.21-v14",
+  "kind": "reading",
+  "levels": {
+    "normal": {
+      "count": 20,
+      "files": [
+        "normal-v12.json",
+        "normal-v14.json"
+      ]
+    },
+    "common": {
+      "count": 20,
+      "files": [
+        "common-v12.json",
+        "common-v14.json"
+      ]
+    },
+    "national": {
+      "count": 20,
+      "files": [
+        "national-v12.json",
+        "national-v14.json"
+      ]
+    },
+    "hard": {
+      "count": 20,
+      "files": [
+        "hard-v12.json",
+        "hard-v14.json"
+      ]
+    }
+  },
+  "schema": {
+    "required": [
+      "id",
+      "type",
+      "level",
+      "title",
+      "passage",
+      "questions"
+    ],
+    "question_required": [
+      "id",
+      "type",
+      "question",
+      "choices",
+      "answer",
+      "explanation"
+    ]
+  }
+}

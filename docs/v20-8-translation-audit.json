@@ -1,0 +1,309 @@
+{
+  "version": "v20-8",
+  "total_example_sentences": 6815,
+  "translations_updated": 1440,
+  "missing_translations": 0,
+  "notes": "Every non-empty exampleSentence in vocab/idioms has a non-empty exampleJa. Weak meaning-only / meta translations were replaced with sentence-level Japanese.",
+  "sample_changes": [
+    {
+      "id": "v-basic-core-0473-sure",
+      "word": "sure",
+      "before": "研究者たちは決定を下す前に確かなという選択肢を検討した。",
+      "after": "研究者たちは決定を下す前に、確かなな選択肢を検討した。"
+    },
+    {
+      "id": "v-basic-ngsl-0103-0101",
+      "word": "tell",
+      "before": "話す。",
+      "after": "この文では「話す」という動作を表している。"
+    },
+    {
+      "id": "v-mega-standard-0095",
+      "word": "temporary",
+      "before": "研究者たちは決定を下す前に一時的なという選択肢を検討した。",
+      "after": "研究者たちは決定を下す前に、一時的なな選択肢を検討した。"
+    },
+    {
+      "id": "v-basic-ngsl-0244-0207",
+      "word": "thank",
+      "before": "その会社は来年、新しいシステムを感謝するする予定だ。",
+      "after": "その会社は来年、新しいシステムを感謝する予定だ。"
+    },
+    {
+      "id": "v-basic-ngsl-0001-0001",
+      "word": "the",
+      "before": "その。",
+      "after": "この文では「その」という意味・用法で使われている。"
+    },
+    {
+      "id": "v-basic-ngsl-0480-0344",
+      "word": "themselves",
+      "before": "彼ら自身。",
+      "after": "この文では「彼ら自身」という意味・用法で使われている。"
+    },
+    {
+      "id": "v-basic-ngsl-0013-0013",
+      "word": "they",
+      "before": "彼ら。",
+      "after": "この文では「彼ら」という意味・用法で使われている。"
+    },
+    {
+      "id": "v-basic-ngsl-0047-0047",
+      "word": "think",
+      "before": "思う。",
+      "after": "この文では「思う」という動作を表している。"
+    },
+    {
+      "id": "v-basic-ngsl-0108-0106",
+      "word": "through",
+      "before": "～を通ってという語の意味は、その後に続く語によって決まる。",
+      "after": "を通っての意味は、その後に続く語によって決まる。"
+    },
+    {
+      "id": "v-basic-ngsl-0896-0576",
+      "word": "throughout",
+      "before": "～にわたって、～を通じてという語の意味は、その後に続く語によって決まる。",
+      "after": "にわたって、を通じての意味は、その後に続く語によって決まる。"
+    },
+    {
+      "id": "v-basic-ngsl-0852-0552",
+      "word": "throw",
+      "before": "投げる。",
+      "after": "この文では「投げる」という動作を表している。"
+    },
+    {
+      "id": "v-basic-ngsl-0049-0049",
+      "word": "time",
+      "before": "時間。",
+      "after": "この文は「時間」という内容を表している。"
+    },
+    {
+      "id": "v-basic-ngsl-0005-0005",
+      "word": "to",
+      "before": "～へという語の意味は、その後に続く語によって決まる。",
+      "after": "への意味は、その後に続く語によって決まる。"
+    },
+    {
+      "id": "v-basic-core-0513-totally",
+      "word": "totally",
+      "before": "完全に。",
+      "after": "この例文では、完全にという意味で使われている。"
+    },
+    {
+      "id": "v-basic-ngsl-0406-0303",
+      "word": "toward",
+      "before": "向かってという語の意味は、その後に続く語によって決まる。",
+      "after": "向かっての意味は、その後に続く語によって決まる。"
+    },
+    {
+      "id": "v-basic-ngsl-0364-0279",
+      "word": "town",
+      "before": "町。",
+      "after": "この文は「町」という内容を表している。"
+    },
+    {
+      "id": "v-basic-141",
+      "word": "travel",
+      "before": "研究者たちは結論を出す前に、その問題を旅行するする必要がある。",
+      "after": "研究者たちは結論を出す前に、その問題を旅行する必要がある。"
+    },
+    {
+      "id": "v-basic-03-treat",
+      "word": "treat",
+      "before": "その会社は来年、新しいシステムを扱う・治療するする予定だ。",
+      "after": "その会社は来年、新しいシステムを扱う・治療する予定だ。"
+    },
+    {
+      "id": "v-basic-ngsl-0811-0532",
+      "word": "treatment",
+      "before": "治療。",
+      "after": "この文は「治療」という内容を表している。"
+    },
+    {
+      "id": "v-basic-ngsl-0831-0541",
+      "word": "trouble",
+      "before": "困難。",
+      "after": "この文は「困難」という内容を表している。"
+    },
+    {
+      "id": "v-basic-ngsl-0886-0568",
+      "word": "unclear",
+      "before": "研究者たちは決定を下す前に明確でないという選択肢を検討した。",
+      "after": "研究者たちは決定を下す前に、明確でないな選択肢を検討した。"
+    },
+    {
+      "id": "v-basic-ngsl-0193-0175",
+      "word": "under",
+      "before": "下にという語の意味は、その後に続く語によって決まる。",
+      "after": "下にの意味は、その後に続く語によって決まる。"
+    },
+    {
+      "id": "v-mega-standard-0101",
+      "word": "unique",
+      "before": "研究者たちは決定を下す前に独特のという選択肢を検討した。",
+      "after": "研究者たちは決定を下す前に、独特のな選択肢を検討した。"
+    },
+    {
+      "id": "v-standard-ngsl-1931-0532",
+      "word": "update",
+      "before": "その会社は来年、新しいシステムを更新するする予定だ。",
+      "after": "その会社は来年、新しいシステムを更新する予定だ。"
+    },
+    {
+      "id": "v-basic-ngsl-0579-0400",
+      "word": "upon",
+      "before": "～の上にという語の意味は、その後に続く語によって決まる。",
+      "after": "の上にの意味は、その後に続く語によって決まる。"
+    },
+    {
+      "id": "v-basic-151",
+      "word": "useful",
+      "before": "研究者たちは決定を下す前に役に立つという選択肢を検討した。",
+      "after": "研究者たちは決定を下す前に、役に立つな選択肢を検討した。"
+    },
+    {
+      "id": "v-basic-04-value",
+      "word": "value",
+      "before": "価値。",
+      "after": "この文は「価値」という内容を表している。"
+    },
+    {
+      "id": "v-mega-basic-0016",
+      "word": "via",
+      "before": "～を経てという語の意味は、その後に続く語によって決まる。",
+      "after": "を経ての意味は、その後に続く語によって決まる。"
+    },
+    {
+      "id": "v-basic-143",
+      "word": "visit",
+      "before": "研究者たちは決定を下す前に訪れるという選択肢を検討した。",
+      "after": "研究者たちは決定を下す前に、訪れるな選択肢を検討した。"
+    },
+    {
+      "id": "v-basic-ngsl-0548-0387",
+      "word": "vote",
+      "before": "研究者たちは結論を出す前に、その問題を投票するする必要がある。",
+      "after": "研究者たちは結論を出す前に、その問題を投票する必要がある。"
+    },
+    {
+      "id": "v-basic-144",
+      "word": "wait",
+      "before": "研究者たちは決定を下す前に待つという選択肢を検討した。",
+      "after": "研究者たちは決定を下す前に、待つな選択肢を検討した。"
+    },
+    {
+      "id": "v-basic-ngsl-0080-0080",
+      "word": "way",
+      "before": "方法。",
+      "after": "この文は「方法」という内容を表している。"
+    },
+    {
+      "id": "v-basic-ngsl-0016-0016",
+      "word": "we",
+      "before": "私たち。",
+      "after": "この文では「私たち」という意味・用法で使われている。"
+    },
+    {
+      "id": "v-basic-ngsl-0933-0598",
+      "word": "weekend",
+      "before": "週末。",
+      "after": "この文は「週末」という内容を表している。"
+    },
+    {
+      "id": "v-basic-ngsl-0987-0630",
+      "word": "welcome",
+      "before": "ようこそ。",
+      "after": "この文は「ようこそ」という内容を表している。"
+    },
+    {
+      "id": "v-basic-ngsl-0051-0051",
+      "word": "what",
+      "before": "なに。",
+      "after": "この文では「なに」という意味・用法で使われている。"
+    },
+    {
+      "id": "v-basic-core-0172-whatever",
+      "word": "whatever",
+      "before": "何でも。",
+      "after": "この文では「何でも」という意味・用法で使われている。"
+    },
+    {
+      "id": "v-basic-ngsl-0039-0039",
+      "word": "which",
+      "before": "どちらか。",
+      "after": "この文では「どちらか」という意味・用法で使われている。"
+    },
+    {
+      "id": "v-basic-ngsl-0044-0044",
+      "word": "who",
+      "before": "誰。",
+      "after": "この文では「誰」という意味・用法で使われている。"
+    },
+    {
+      "id": "v-basic-core-0171-whoever",
+      "word": "whoever",
+      "before": "誰でも。",
+      "after": "この文では「誰でも」という意味・用法で使われている。"
+    },
+    {
+      "id": "v-basic-core-0475-wide",
+      "word": "wide",
+      "before": "研究者たちは決定を下す前に幅広いという選択肢を検討した。",
+      "after": "研究者たちは決定を下す前に、幅広いな選択肢を検討した。"
+    },
+    {
+      "id": "v-basic-ngsl-0018-0018",
+      "word": "with",
+      "before": "～と一緒という語の意味は、その後に続く語によって決まる。",
+      "after": "と一緒の意味は、その後に続く語によって決まる。"
+    },
+    {
+      "id": "v-basic-core-0168-within",
+      "word": "within",
+      "before": "～以内にという語の意味は、その後に続く語によって決まる。",
+      "after": "以内にの意味は、その後に続く語によって決まる。"
+    },
+    {
+      "id": "v-basic-ngsl-0212-0190",
+      "word": "without",
+      "before": "～なしにという語の意味は、その後に続く語によって決まる。",
+      "after": "なしにの意味は、その後に続く語によって決まる。"
+    },
+    {
+      "id": "v-basic-core-0167-witness",
+      "word": "witness",
+      "before": "その会社は来年、新しいシステムを目撃するする予定だ。",
+      "after": "その会社は来年、新しいシステムを目撃する予定だ。"
+    },
+    {
+      "id": "v-basic-core-0476-wonderful",
+      "word": "wonderful",
+      "before": "研究者たちは決定を下す前にすばらしいという選択肢を検討した。",
+      "after": "研究者たちは決定を下す前に、すばらしいな選択肢を検討した。"
+    },
+    {
+      "id": "v-basic-146",
+      "word": "worry",
+      "before": "その会社は来年、新しいシステムを心配するする予定だ。",
+      "after": "その会社は来年、新しいシステムを心配する予定だ。"
+    },
+    {
+      "id": "v-basic-ngsl-0815-0534",
+      "word": "worth",
+      "before": "価値。",
+      "after": "この文は「価値」という内容を表している。"
+    },
+    {
+      "id": "v-basic-ngsl-0975-0622",
+      "word": "yeah",
+      "before": "ああ。",
+      "after": "この文は「ああ」という内容を表している。"
+    },
+    {
+      "id": "v-basic-ngsl-0228-0199",
+      "word": "yes",
+      "before": "はい。",
+      "after": "この文は「はい」という内容を表している。"
+    }
+  ]
+}
