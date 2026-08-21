@@ -1,0 +1,3122 @@
+[
+  {
+    "id": "g-bulk-021",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "If I ___ you, I would accept the offer.",
+    "prompt": "仮定法",
+    "choices": [
+      {
+        "text": "were",
+        "correct": true
+      },
+      {
+        "text": "am",
+        "correct": false
+      },
+      {
+        "text": "was",
+        "correct": false
+      },
+      {
+        "text": "be",
+        "correct": false
+      }
+    ],
+    "answer": "were",
+    "explanation": "現在の事実に反する仮定なので仮定法過去。be 動詞は were が基本。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-017",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "This is the book ___ I told you about.",
+    "prompt": "関係代名詞",
+    "choices": [
+      {
+        "text": "that",
+        "correct": true
+      },
+      {
+        "text": "who",
+        "correct": false
+      },
+      {
+        "text": "where",
+        "correct": false
+      },
+      {
+        "text": "what",
+        "correct": false
+      }
+    ],
+    "answer": "that",
+    "explanation": "先行詞が物で、about の目的語にあたるため that が使える。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-001",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "By the time we arrived, the movie ___.",
+    "prompt": "時制",
+    "choices": [
+      {
+        "text": "had started",
+        "correct": true
+      },
+      {
+        "text": "has started",
+        "correct": false
+      },
+      {
+        "text": "starts",
+        "correct": false
+      },
+      {
+        "text": "will start",
+        "correct": false
+      }
+    ],
+    "answer": "had started",
+    "explanation": "過去の時点より前に完了した出来事なので過去完了。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-002",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "I ___ this book twice already.",
+    "prompt": "時制",
+    "choices": [
+      {
+        "text": "have read",
+        "correct": true
+      },
+      {
+        "text": "read",
+        "correct": false
+      },
+      {
+        "text": "am reading",
+        "correct": false
+      },
+      {
+        "text": "had read",
+        "correct": false
+      }
+    ],
+    "answer": "have read",
+    "explanation": "already と現在までの経験・完了なので現在完了が自然。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-003",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "She ___ in Kyoto when she was a student.",
+    "prompt": "時制",
+    "choices": [
+      {
+        "text": "lived",
+        "correct": true
+      },
+      {
+        "text": "has lived",
+        "correct": false
+      },
+      {
+        "text": "lives",
+        "correct": false
+      },
+      {
+        "text": "will live",
+        "correct": false
+      }
+    ],
+    "answer": "lived",
+    "explanation": "when she was a student という過去の期間なので過去形。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-004",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "This time tomorrow, we ___ over the Pacific.",
+    "prompt": "時制",
+    "choices": [
+      {
+        "text": "will be flying",
+        "correct": true
+      },
+      {
+        "text": "fly",
+        "correct": false
+      },
+      {
+        "text": "have flown",
+        "correct": false
+      },
+      {
+        "text": "flew",
+        "correct": false
+      }
+    ],
+    "answer": "will be flying",
+    "explanation": "未来の特定時点で進行中の動作なので未来進行形。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-005",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "You ___ wear a helmet here. It is required.",
+    "prompt": "助動詞",
+    "choices": [
+      {
+        "text": "must",
+        "correct": true
+      },
+      {
+        "text": "may",
+        "correct": false
+      },
+      {
+        "text": "would",
+        "correct": false
+      },
+      {
+        "text": "used to",
+        "correct": false
+      }
+    ],
+    "answer": "must",
+    "explanation": "規則上の義務なので must。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-006",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "___ you mind opening the window?",
+    "prompt": "助動詞",
+    "choices": [
+      {
+        "text": "Would",
+        "correct": true
+      },
+      {
+        "text": "Must",
+        "correct": false
+      },
+      {
+        "text": "Need",
+        "correct": false
+      },
+      {
+        "text": "Shall not",
+        "correct": false
+      }
+    ],
+    "answer": "Would",
+    "explanation": "Would you mind ...? は丁寧な依頼の定型表現。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-007",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "The bridge ___ in 1980.",
+    "prompt": "受動態",
+    "choices": [
+      {
+        "text": "was built",
+        "correct": true
+      },
+      {
+        "text": "built",
+        "correct": false
+      },
+      {
+        "text": "has built",
+        "correct": false
+      },
+      {
+        "text": "was building",
+        "correct": false
+      }
+    ],
+    "answer": "was built",
+    "explanation": "橋は「建設された」ので受動態の過去形。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-008",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "English ___ in many countries.",
+    "prompt": "受動態",
+    "choices": [
+      {
+        "text": "is spoken",
+        "correct": true
+      },
+      {
+        "text": "speaks",
+        "correct": false
+      },
+      {
+        "text": "is speaking",
+        "correct": false
+      },
+      {
+        "text": "spoke",
+        "correct": false
+      }
+    ],
+    "answer": "is spoken",
+    "explanation": "現在の一般的事実で、English は話される側なので受動態。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-009",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "I decided ___ a new laptop.",
+    "prompt": "不定詞",
+    "choices": [
+      {
+        "text": "to buy",
+        "correct": true
+      },
+      {
+        "text": "buying",
+        "correct": false
+      },
+      {
+        "text": "bought",
+        "correct": false
+      },
+      {
+        "text": "buy",
+        "correct": false
+      }
+    ],
+    "answer": "to buy",
+    "explanation": "decide は to 不定詞を目的語に取る。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-010",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "She went to the library ___ some books.",
+    "prompt": "不定詞",
+    "choices": [
+      {
+        "text": "to borrow",
+        "correct": true
+      },
+      {
+        "text": "borrowing",
+        "correct": false
+      },
+      {
+        "text": "borrowed",
+        "correct": false
+      },
+      {
+        "text": "borrow",
+        "correct": false
+      }
+    ],
+    "answer": "to borrow",
+    "explanation": "目的「～するために」を表す副詞的用法の to 不定詞。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-011",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "He enjoys ___ in the morning.",
+    "prompt": "動名詞",
+    "choices": [
+      {
+        "text": "running",
+        "correct": true
+      },
+      {
+        "text": "to run",
+        "correct": false
+      },
+      {
+        "text": "run",
+        "correct": false
+      },
+      {
+        "text": "ran",
+        "correct": false
+      }
+    ],
+    "answer": "running",
+    "explanation": "enjoy は動名詞を目的語に取る。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-012",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "Thank you for ___ me.",
+    "prompt": "動名詞",
+    "choices": [
+      {
+        "text": "helping",
+        "correct": true
+      },
+      {
+        "text": "to help",
+        "correct": false
+      },
+      {
+        "text": "help",
+        "correct": false
+      },
+      {
+        "text": "helped",
+        "correct": false
+      }
+    ],
+    "answer": "helping",
+    "explanation": "前置詞 for の後ろなので動名詞。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-013",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "The movie was ___.",
+    "prompt": "分詞",
+    "choices": [
+      {
+        "text": "exciting",
+        "correct": true
+      },
+      {
+        "text": "excited",
+        "correct": false
+      },
+      {
+        "text": "excite",
+        "correct": false
+      },
+      {
+        "text": "excitedly",
+        "correct": false
+      }
+    ],
+    "answer": "exciting",
+    "explanation": "映画が人を「興奮させる」側なので exciting。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-014",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "I was ___ by the news.",
+    "prompt": "分詞",
+    "choices": [
+      {
+        "text": "surprised",
+        "correct": true
+      },
+      {
+        "text": "surprising",
+        "correct": false
+      },
+      {
+        "text": "surprise",
+        "correct": false
+      },
+      {
+        "text": "surprisingly",
+        "correct": false
+      }
+    ],
+    "answer": "surprised",
+    "explanation": "私はニュースによって「驚かされた」側なので surprised。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-015",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "___ the weather, we stayed home.",
+    "prompt": "分詞構文",
+    "choices": [
+      {
+        "text": "Considering",
+        "correct": true
+      },
+      {
+        "text": "Considered",
+        "correct": false
+      },
+      {
+        "text": "To consider",
+        "correct": false
+      },
+      {
+        "text": "Consider",
+        "correct": false
+      }
+    ],
+    "answer": "Considering",
+    "explanation": "Considering the weather は「天候を考慮して」を表す分詞構文。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-016",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "The woman ___ lives next door is a doctor.",
+    "prompt": "関係代名詞",
+    "choices": [
+      {
+        "text": "who",
+        "correct": true
+      },
+      {
+        "text": "which",
+        "correct": false
+      },
+      {
+        "text": "what",
+        "correct": false
+      },
+      {
+        "text": "whom",
+        "correct": false
+      }
+    ],
+    "answer": "who",
+    "explanation": "先行詞が人で、関係詞節内で主語を担うため who。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-018",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "I remember the day ___ we first met.",
+    "prompt": "関係副詞",
+    "choices": [
+      {
+        "text": "when",
+        "correct": true
+      },
+      {
+        "text": "which",
+        "correct": false
+      },
+      {
+        "text": "who",
+        "correct": false
+      },
+      {
+        "text": "what",
+        "correct": false
+      }
+    ],
+    "answer": "when",
+    "explanation": "先行詞が day で、関係詞節内では時を表すため when。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-019",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "This problem is ___ than I expected.",
+    "prompt": "比較",
+    "choices": [
+      {
+        "text": "more difficult",
+        "correct": true
+      },
+      {
+        "text": "most difficult",
+        "correct": false
+      },
+      {
+        "text": "difficult",
+        "correct": false
+      },
+      {
+        "text": "the more difficult",
+        "correct": false
+      }
+    ],
+    "answer": "more difficult",
+    "explanation": "than があり2者比較なので比較級。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-020",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "She is one of ___ students in the class.",
+    "prompt": "比較",
+    "choices": [
+      {
+        "text": "the most diligent",
+        "correct": true
+      },
+      {
+        "text": "more diligent",
+        "correct": false
+      },
+      {
+        "text": "most diligent",
+        "correct": false
+      },
+      {
+        "text": "the more diligent",
+        "correct": false
+      }
+    ],
+    "answer": "the most diligent",
+    "explanation": "one of + the 最上級 + 複数名詞の形。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-022",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "If he had studied harder, he ___ the exam.",
+    "prompt": "仮定法",
+    "choices": [
+      {
+        "text": "would have passed",
+        "correct": true
+      },
+      {
+        "text": "will pass",
+        "correct": false
+      },
+      {
+        "text": "would pass",
+        "correct": false
+      },
+      {
+        "text": "passed",
+        "correct": false
+      }
+    ],
+    "answer": "would have passed",
+    "explanation": "過去の事実に反する仮定なので仮定法過去完了。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-023",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "I wish I ___ more free time.",
+    "prompt": "仮定法",
+    "choices": [
+      {
+        "text": "had",
+        "correct": true
+      },
+      {
+        "text": "have",
+        "correct": false
+      },
+      {
+        "text": "will have",
+        "correct": false
+      },
+      {
+        "text": "had had",
+        "correct": false
+      }
+    ],
+    "answer": "had",
+    "explanation": "現在の事実に反する願望なので wish + 過去形。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-024",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "I stayed home ___ it was raining.",
+    "prompt": "接続詞",
+    "choices": [
+      {
+        "text": "because",
+        "correct": true
+      },
+      {
+        "text": "despite",
+        "correct": false
+      },
+      {
+        "text": "although",
+        "correct": false
+      },
+      {
+        "text": "during",
+        "correct": false
+      }
+    ],
+    "answer": "because",
+    "explanation": "雨だったことが家にいた理由なので because。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-025",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "___ he was tired, he kept working.",
+    "prompt": "接続詞",
+    "choices": [
+      {
+        "text": "Although",
+        "correct": true
+      },
+      {
+        "text": "Because",
+        "correct": false
+      },
+      {
+        "text": "Unless",
+        "correct": false
+      },
+      {
+        "text": "So that",
+        "correct": false
+      }
+    ],
+    "answer": "Although",
+    "explanation": "「疲れていたが働き続けた」という逆接。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-027",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "We waited ___ two hours.",
+    "prompt": "前置詞",
+    "choices": [
+      {
+        "text": "for",
+        "correct": true
+      },
+      {
+        "text": "since",
+        "correct": false
+      },
+      {
+        "text": "during",
+        "correct": false
+      },
+      {
+        "text": "until",
+        "correct": false
+      }
+    ],
+    "answer": "for",
+    "explanation": "two hours は期間なので for。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-028",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "The teacher suggested that he ___ earlier.",
+    "prompt": "語法",
+    "choices": [
+      {
+        "text": "leave",
+        "correct": true
+      },
+      {
+        "text": "left",
+        "correct": false
+      },
+      {
+        "text": "to leave",
+        "correct": false
+      },
+      {
+        "text": "leaving",
+        "correct": false
+      }
+    ],
+    "answer": "leave",
+    "explanation": "suggest that S (should) do の構文。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-029",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "She prevented me ___ going outside.",
+    "prompt": "語法",
+    "choices": [
+      {
+        "text": "from",
+        "correct": true
+      },
+      {
+        "text": "to",
+        "correct": false
+      },
+      {
+        "text": "for",
+        "correct": false
+      },
+      {
+        "text": "at",
+        "correct": false
+      }
+    ],
+    "answer": "from",
+    "explanation": "prevent A from doing の形。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-030",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "He is interested ___ learning Spanish.",
+    "prompt": "語法",
+    "choices": [
+      {
+        "text": "in",
+        "correct": true
+      },
+      {
+        "text": "on",
+        "correct": false
+      },
+      {
+        "text": "at",
+        "correct": false
+      },
+      {
+        "text": "for",
+        "correct": false
+      }
+    ],
+    "answer": "in",
+    "explanation": "be interested in doing の形。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-031",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "I am used to ___ early.",
+    "prompt": "語法",
+    "choices": [
+      {
+        "text": "getting up",
+        "correct": true
+      },
+      {
+        "text": "get up",
+        "correct": false
+      },
+      {
+        "text": "got up",
+        "correct": false
+      },
+      {
+        "text": "get",
+        "correct": false
+      }
+    ],
+    "answer": "getting up",
+    "explanation": "be used to の to は前置詞なので動名詞。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-032",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "I used to ___ here.",
+    "prompt": "語法",
+    "choices": [
+      {
+        "text": "live",
+        "correct": true
+      },
+      {
+        "text": "living",
+        "correct": false
+      },
+      {
+        "text": "lived",
+        "correct": false
+      },
+      {
+        "text": "to live",
+        "correct": false
+      }
+    ],
+    "answer": "live",
+    "explanation": "used to do は「以前は～したものだ」で後ろは動詞原形。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-033",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "He has ___ finished the work.",
+    "prompt": "否定",
+    "choices": [
+      {
+        "text": "not",
+        "correct": true
+      },
+      {
+        "text": "never to",
+        "correct": false
+      },
+      {
+        "text": "no",
+        "correct": false
+      },
+      {
+        "text": "nothing",
+        "correct": false
+      }
+    ],
+    "answer": "not",
+    "explanation": "has not finished で完了形の否定。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-034",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "Never ___ such a beautiful view.",
+    "prompt": "倒置",
+    "choices": [
+      {
+        "text": "have I seen",
+        "correct": true
+      },
+      {
+        "text": "I have seen",
+        "correct": false
+      },
+      {
+        "text": "did I saw",
+        "correct": false
+      },
+      {
+        "text": "I saw",
+        "correct": false
+      }
+    ],
+    "answer": "have I seen",
+    "explanation": "Never が文頭に出る否定の倒置で助動詞が主語の前に来る。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-035",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "It was Tom ___ broke the window.",
+    "prompt": "強調",
+    "choices": [
+      {
+        "text": "who",
+        "correct": true
+      },
+      {
+        "text": "which",
+        "correct": false
+      },
+      {
+        "text": "what",
+        "correct": false
+      },
+      {
+        "text": "whom",
+        "correct": false
+      }
+    ],
+    "answer": "who",
+    "explanation": "It was ... who ... の強調構文。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-036",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "When ___ in doubt, ask your teacher.",
+    "prompt": "省略",
+    "choices": [
+      {
+        "text": "in doubt",
+        "correct": true
+      },
+      {
+        "text": "you are in doubt",
+        "correct": false
+      },
+      {
+        "text": "are you in doubt",
+        "correct": false
+      },
+      {
+        "text": "to be in doubt",
+        "correct": false
+      }
+    ],
+    "answer": "in doubt",
+    "explanation": "When you are in doubt の主語と be 動詞を省略した慣用表現。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-037",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "The news made me ___.",
+    "prompt": "文型",
+    "choices": [
+      {
+        "text": "happy",
+        "correct": true
+      },
+      {
+        "text": "happily",
+        "correct": false
+      },
+      {
+        "text": "happiness",
+        "correct": false
+      },
+      {
+        "text": "to happy",
+        "correct": false
+      }
+    ],
+    "answer": "happy",
+    "explanation": "make O C の SVOC で O = me, C = happy。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-038",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "She gave me a book. The sentence pattern is ___.",
+    "prompt": "文型",
+    "choices": [
+      {
+        "text": "SVOO",
+        "correct": true
+      },
+      {
+        "text": "SVOC",
+        "correct": false
+      },
+      {
+        "text": "SVC",
+        "correct": false
+      },
+      {
+        "text": "SVO",
+        "correct": false
+      }
+    ],
+    "answer": "SVOO",
+    "explanation": "give は「人に物を与える」で SVOO を取る。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-039",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "Neither the teacher nor the students ___ ready.",
+    "prompt": "一致",
+    "choices": [
+      {
+        "text": "were",
+        "correct": true
+      },
+      {
+        "text": "was",
+        "correct": false
+      },
+      {
+        "text": "is",
+        "correct": false
+      },
+      {
+        "text": "be",
+        "correct": false
+      }
+    ],
+    "answer": "were",
+    "explanation": "neither A nor B では通常 B に近い主語 the students に一致させる。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-040",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "Each of the students ___ a dictionary.",
+    "prompt": "一致",
+    "choices": [
+      {
+        "text": "has",
+        "correct": true
+      },
+      {
+        "text": "have",
+        "correct": false
+      },
+      {
+        "text": "having",
+        "correct": false
+      },
+      {
+        "text": "are",
+        "correct": false
+      }
+    ],
+    "answer": "has",
+    "explanation": "Each は単数扱い。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-042",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "I saw ___ dog in the park. ___ dog was very friendly.",
+    "prompt": "冠詞",
+    "choices": [
+      {
+        "text": "a / The",
+        "correct": true
+      },
+      {
+        "text": "the / A",
+        "correct": false
+      },
+      {
+        "text": "a / A",
+        "correct": false
+      },
+      {
+        "text": "the / The",
+        "correct": false
+      }
+    ],
+    "answer": "a / The",
+    "explanation": "初出の単数可算名詞は a、2回目に特定されたものは the。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-043",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "How long ___ you lived here?",
+    "prompt": "疑問文",
+    "choices": [
+      {
+        "text": "have",
+        "correct": true
+      },
+      {
+        "text": "did",
+        "correct": false
+      },
+      {
+        "text": "are",
+        "correct": false
+      },
+      {
+        "text": "do",
+        "correct": false
+      }
+    ],
+    "answer": "have",
+    "explanation": "現在完了で期間を尋ねるので How long have you lived...?。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-044",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "Do you know where ___?",
+    "prompt": "間接疑問",
+    "choices": [
+      {
+        "text": "he lives",
+        "correct": true
+      },
+      {
+        "text": "does he live",
+        "correct": false
+      },
+      {
+        "text": "is he live",
+        "correct": false
+      },
+      {
+        "text": "he live",
+        "correct": false
+      }
+    ],
+    "answer": "he lives",
+    "explanation": "間接疑問では疑問詞の後ろは平叙文語順。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-045",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "Hardly ___ when the phone rang.",
+    "prompt": "否定語",
+    "choices": [
+      {
+        "text": "had I sat down",
+        "correct": true
+      },
+      {
+        "text": "I had sat down",
+        "correct": false
+      },
+      {
+        "text": "did I sat down",
+        "correct": false
+      },
+      {
+        "text": "I sat down",
+        "correct": false
+      }
+    ],
+    "answer": "had I sat down",
+    "explanation": "Hardly が文頭に出ると倒置し、Hardly had I ... when ... の形。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-046",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "By next month, she ___ the project.",
+    "prompt": "完了",
+    "choices": [
+      {
+        "text": "will have completed",
+        "correct": true
+      },
+      {
+        "text": "completes",
+        "correct": false
+      },
+      {
+        "text": "completed",
+        "correct": false
+      },
+      {
+        "text": "has completed",
+        "correct": false
+      }
+    ],
+    "answer": "will have completed",
+    "explanation": "未来のある時点までに完了しているので未来完了。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-047",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "Look at those clouds. It ___.",
+    "prompt": "未来",
+    "choices": [
+      {
+        "text": "is going to rain",
+        "correct": true
+      },
+      {
+        "text": "will raining",
+        "correct": false
+      },
+      {
+        "text": "rains",
+        "correct": false
+      },
+      {
+        "text": "has rained",
+        "correct": false
+      }
+    ],
+    "answer": "is going to rain",
+    "explanation": "現在の兆候から予測する未来なので be going to。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-048",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "You ___ have seen him yesterday; he was abroad.",
+    "prompt": "助動詞",
+    "choices": [
+      {
+        "text": "cannot",
+        "correct": true
+      },
+      {
+        "text": "must",
+        "correct": false
+      },
+      {
+        "text": "should",
+        "correct": false
+      },
+      {
+        "text": "may",
+        "correct": false
+      }
+    ],
+    "answer": "cannot",
+    "explanation": "過去の事実と両立しない推量なので cannot have seen。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-049",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "He ___ have forgotten the meeting. He looks surprised.",
+    "prompt": "助動詞",
+    "choices": [
+      {
+        "text": "may",
+        "correct": true
+      },
+      {
+        "text": "must not",
+        "correct": false
+      },
+      {
+        "text": "cannot",
+        "correct": false
+      },
+      {
+        "text": "should not",
+        "correct": false
+      }
+    ],
+    "answer": "may",
+    "explanation": "状況から可能性を述べるので may have forgotten。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-050",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "She made him ___ the report again.",
+    "prompt": "語法",
+    "choices": [
+      {
+        "text": "write",
+        "correct": true
+      },
+      {
+        "text": "to write",
+        "correct": false
+      },
+      {
+        "text": "writing",
+        "correct": false
+      },
+      {
+        "text": "wrote",
+        "correct": false
+      }
+    ],
+    "answer": "write",
+    "explanation": "make O do の使役構文では原形不定詞。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-051",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "I had my car ___.",
+    "prompt": "語法",
+    "choices": [
+      {
+        "text": "repaired",
+        "correct": true
+      },
+      {
+        "text": "repair",
+        "correct": false
+      },
+      {
+        "text": "repairing",
+        "correct": false
+      },
+      {
+        "text": "to repair",
+        "correct": false
+      }
+    ],
+    "answer": "repaired",
+    "explanation": "have O done の使役・依頼で過去分詞。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-053",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "This is the reason ___ I left early.",
+    "prompt": "関係詞",
+    "choices": [
+      {
+        "text": "why",
+        "correct": true
+      },
+      {
+        "text": "which",
+        "correct": false
+      },
+      {
+        "text": "who",
+        "correct": false
+      },
+      {
+        "text": "what",
+        "correct": false
+      }
+    ],
+    "answer": "why",
+    "explanation": "the reason + why の関係副詞。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-054",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "The sooner, the ___.",
+    "prompt": "比較",
+    "choices": [
+      {
+        "text": "better",
+        "correct": true
+      },
+      {
+        "text": "best",
+        "correct": false
+      },
+      {
+        "text": "good",
+        "correct": false
+      },
+      {
+        "text": "well",
+        "correct": false
+      }
+    ],
+    "answer": "better",
+    "explanation": "The + 比較級, the + 比較級 の構文。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-055",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "He is as tall ___ his brother.",
+    "prompt": "比較",
+    "choices": [
+      {
+        "text": "as",
+        "correct": true
+      },
+      {
+        "text": "than",
+        "correct": false
+      },
+      {
+        "text": "like",
+        "correct": false
+      },
+      {
+        "text": "so",
+        "correct": false
+      }
+    ],
+    "answer": "as",
+    "explanation": "as + 形容詞 + as の同等比較。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-056",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "Without your help, I ___ the job.",
+    "prompt": "仮定法",
+    "choices": [
+      {
+        "text": "could not have finished",
+        "correct": true
+      },
+      {
+        "text": "cannot finish",
+        "correct": false
+      },
+      {
+        "text": "will not finish",
+        "correct": false
+      },
+      {
+        "text": "did not finish",
+        "correct": false
+      }
+    ],
+    "answer": "could not have finished",
+    "explanation": "過去の事実への反実仮想なので could not have + 過去分詞。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-057",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "Take an umbrella ___ it rains.",
+    "prompt": "接続詞",
+    "choices": [
+      {
+        "text": "in case",
+        "correct": true
+      },
+      {
+        "text": "because of",
+        "correct": false
+      },
+      {
+        "text": "despite",
+        "correct": false
+      },
+      {
+        "text": "unless",
+        "correct": false
+      }
+    ],
+    "answer": "in case",
+    "explanation": "「雨が降る場合に備えて」という意味。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-058",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "He is good ___ mathematics.",
+    "prompt": "前置詞",
+    "choices": [
+      {
+        "text": "at",
+        "correct": true
+      },
+      {
+        "text": "in",
+        "correct": false
+      },
+      {
+        "text": "on",
+        "correct": false
+      },
+      {
+        "text": "for",
+        "correct": false
+      }
+    ],
+    "answer": "at",
+    "explanation": "be good at ～ の形。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-059",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "She is responsible ___ the project.",
+    "prompt": "前置詞",
+    "choices": [
+      {
+        "text": "for",
+        "correct": true
+      },
+      {
+        "text": "to",
+        "correct": false
+      },
+      {
+        "text": "at",
+        "correct": false
+      },
+      {
+        "text": "with",
+        "correct": false
+      }
+    ],
+    "answer": "for",
+    "explanation": "be responsible for ～ の形。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-060",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "We look forward to ___ from you.",
+    "prompt": "語法",
+    "choices": [
+      {
+        "text": "hearing",
+        "correct": true
+      },
+      {
+        "text": "hear",
+        "correct": false
+      },
+      {
+        "text": "heard",
+        "correct": false
+      },
+      {
+        "text": "have heard",
+        "correct": false
+      }
+    ],
+    "answer": "hearing",
+    "explanation": "look forward to の to は前置詞なので動名詞。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-062",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "She avoided ___ about the problem.",
+    "prompt": "語法",
+    "choices": [
+      {
+        "text": "talking",
+        "correct": true
+      },
+      {
+        "text": "to talk",
+        "correct": false
+      },
+      {
+        "text": "talk",
+        "correct": false
+      },
+      {
+        "text": "talked",
+        "correct": false
+      }
+    ],
+    "answer": "talking",
+    "explanation": "avoid は動名詞を目的語に取る。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-063",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "The man ___ over there is my uncle.",
+    "prompt": "分詞",
+    "choices": [
+      {
+        "text": "standing",
+        "correct": true
+      },
+      {
+        "text": "stands",
+        "correct": false
+      },
+      {
+        "text": "stood",
+        "correct": false
+      },
+      {
+        "text": "to stand",
+        "correct": false
+      }
+    ],
+    "answer": "standing",
+    "explanation": "現在分詞が名詞 the man を後置修飾。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-064",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "The books ___ on the desk are mine.",
+    "prompt": "分詞",
+    "choices": [
+      {
+        "text": "placed",
+        "correct": true
+      },
+      {
+        "text": "placing",
+        "correct": false
+      },
+      {
+        "text": "place",
+        "correct": false
+      },
+      {
+        "text": "to place",
+        "correct": false
+      }
+    ],
+    "answer": "placed",
+    "explanation": "本は「置かれている」側なので過去分詞による修飾。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-065",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "When I got home, my mother ___ dinner.",
+    "prompt": "時制",
+    "choices": [
+      {
+        "text": "was cooking",
+        "correct": true
+      },
+      {
+        "text": "cooked",
+        "correct": false
+      },
+      {
+        "text": "has cooked",
+        "correct": false
+      },
+      {
+        "text": "will cook",
+        "correct": false
+      }
+    ],
+    "answer": "was cooking",
+    "explanation": "過去のある時点で進行中だったので過去進行形。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-066",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "She ___ here for ten years before moving to Osaka.",
+    "prompt": "時制",
+    "choices": [
+      {
+        "text": "had lived",
+        "correct": true
+      },
+      {
+        "text": "has lived",
+        "correct": false
+      },
+      {
+        "text": "lives",
+        "correct": false
+      },
+      {
+        "text": "will live",
+        "correct": false
+      }
+    ],
+    "answer": "had lived",
+    "explanation": "引っ越すという過去時点より前からの継続なので過去完了。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-067",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "A number of students ___ absent today.",
+    "prompt": "一致",
+    "choices": [
+      {
+        "text": "are",
+        "correct": true
+      },
+      {
+        "text": "is",
+        "correct": false
+      },
+      {
+        "text": "was",
+        "correct": false
+      },
+      {
+        "text": "be",
+        "correct": false
+      }
+    ],
+    "answer": "are",
+    "explanation": "A number of + 複数名詞は複数扱い。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-068",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "The number of students ___ increasing.",
+    "prompt": "一致",
+    "choices": [
+      {
+        "text": "is",
+        "correct": true
+      },
+      {
+        "text": "are",
+        "correct": false
+      },
+      {
+        "text": "were",
+        "correct": false
+      },
+      {
+        "text": "be",
+        "correct": false
+      }
+    ],
+    "answer": "is",
+    "explanation": "The number of ～ は「～の数」で単数扱い。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-069",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "Mount Fuji is ___ highest mountain in Japan.",
+    "prompt": "冠詞",
+    "choices": [
+      {
+        "text": "the",
+        "correct": true
+      },
+      {
+        "text": "a",
+        "correct": false
+      },
+      {
+        "text": "an",
+        "correct": false
+      },
+      {
+        "text": "no article",
+        "correct": false
+      }
+    ],
+    "answer": "the",
+    "explanation": "最上級 highest には通常 the をつける。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-070",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "She plays ___ piano very well.",
+    "prompt": "冠詞",
+    "choices": [
+      {
+        "text": "the",
+        "correct": true
+      },
+      {
+        "text": "a",
+        "correct": false
+      },
+      {
+        "text": "an",
+        "correct": false
+      },
+      {
+        "text": "no article",
+        "correct": false
+      }
+    ],
+    "answer": "the",
+    "explanation": "楽器名を演奏する場合は the を用いるのが基本。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-071",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "I have never ___ such a thing.",
+    "prompt": "否定",
+    "choices": [
+      {
+        "text": "seen",
+        "correct": true
+      },
+      {
+        "text": "saw",
+        "correct": false
+      },
+      {
+        "text": "seeing",
+        "correct": false
+      },
+      {
+        "text": "see",
+        "correct": false
+      }
+    ],
+    "answer": "seen",
+    "explanation": "have + 過去分詞で現在完了。never は経験の否定。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-072",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "Only then ___ the truth.",
+    "prompt": "倒置",
+    "choices": [
+      {
+        "text": "did I realize",
+        "correct": true
+      },
+      {
+        "text": "I realized",
+        "correct": false
+      },
+      {
+        "text": "I did realize",
+        "correct": false
+      },
+      {
+        "text": "realized I",
+        "correct": false
+      }
+    ],
+    "answer": "did I realize",
+    "explanation": "Only が文頭に来ると倒置が起こる。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-073",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "It was yesterday ___ I met him.",
+    "prompt": "強調",
+    "choices": [
+      {
+        "text": "that",
+        "correct": true
+      },
+      {
+        "text": "when",
+        "correct": false
+      },
+      {
+        "text": "which",
+        "correct": false
+      },
+      {
+        "text": "what",
+        "correct": false
+      }
+    ],
+    "answer": "that",
+    "explanation": "時間を強調する It was ... that ... の構文。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-074",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "If necessary, you can call me. = If it ___ necessary.",
+    "prompt": "省略",
+    "choices": [
+      {
+        "text": "is",
+        "correct": true
+      },
+      {
+        "text": "was",
+        "correct": false
+      },
+      {
+        "text": "be",
+        "correct": false
+      },
+      {
+        "text": "to be",
+        "correct": false
+      }
+    ],
+    "answer": "is",
+    "explanation": "If necessary は If it is necessary の省略。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-075",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "The soup tastes ___.",
+    "prompt": "文型",
+    "choices": [
+      {
+        "text": "good",
+        "correct": true
+      },
+      {
+        "text": "well",
+        "correct": false
+      },
+      {
+        "text": "wonderfully",
+        "correct": false
+      },
+      {
+        "text": "goodness",
+        "correct": false
+      }
+    ],
+    "answer": "good",
+    "explanation": "taste は SVC を取り、補語に形容詞 good。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-076",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "She found the book ___.",
+    "prompt": "文型",
+    "choices": [
+      {
+        "text": "interesting",
+        "correct": true
+      },
+      {
+        "text": "interestingly",
+        "correct": false
+      },
+      {
+        "text": "interest",
+        "correct": false
+      },
+      {
+        "text": "to interesting",
+        "correct": false
+      }
+    ],
+    "answer": "interesting",
+    "explanation": "find O C の SVOC。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-077",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "The house, ___ was built in 1900, is still used.",
+    "prompt": "関係詞",
+    "choices": [
+      {
+        "text": "which",
+        "correct": true
+      },
+      {
+        "text": "that",
+        "correct": false
+      },
+      {
+        "text": "what",
+        "correct": false
+      },
+      {
+        "text": "where",
+        "correct": false
+      }
+    ],
+    "answer": "which",
+    "explanation": "非制限用法の関係代名詞で物を受けるので which。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-078",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "I would rather you ___ tomorrow.",
+    "prompt": "仮定法",
+    "choices": [
+      {
+        "text": "came",
+        "correct": true
+      },
+      {
+        "text": "come",
+        "correct": false
+      },
+      {
+        "text": "will come",
+        "correct": false
+      },
+      {
+        "text": "coming",
+        "correct": false
+      }
+    ],
+    "answer": "came",
+    "explanation": "would rather + S + 過去形 は現在・未来の希望。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-079",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "Nothing is ___ important than health.",
+    "prompt": "比較",
+    "choices": [
+      {
+        "text": "more",
+        "correct": true
+      },
+      {
+        "text": "most",
+        "correct": false
+      },
+      {
+        "text": "as",
+        "correct": false
+      },
+      {
+        "text": "very",
+        "correct": false
+      }
+    ],
+    "answer": "more",
+    "explanation": "Nothing is more important than ... の比較級。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-080",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "Unless you hurry, you ___ the train.",
+    "prompt": "接続詞",
+    "choices": [
+      {
+        "text": "will miss",
+        "correct": true
+      },
+      {
+        "text": "missed",
+        "correct": false
+      },
+      {
+        "text": "have missed",
+        "correct": false
+      },
+      {
+        "text": "would miss",
+        "correct": false
+      }
+    ],
+    "answer": "will miss",
+    "explanation": "Unless は if not の意味で、条件節に続く主節は未来表現が可能。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-081",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "He arrived ___ the airport at noon.",
+    "prompt": "前置詞",
+    "choices": [
+      {
+        "text": "at",
+        "correct": true
+      },
+      {
+        "text": "in",
+        "correct": false
+      },
+      {
+        "text": "on",
+        "correct": false
+      },
+      {
+        "text": "to",
+        "correct": false
+      }
+    ],
+    "answer": "at",
+    "explanation": "具体的な到着地点には arrive at。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-082",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "She apologized for ___ late.",
+    "prompt": "語法",
+    "choices": [
+      {
+        "text": "being",
+        "correct": true
+      },
+      {
+        "text": "be",
+        "correct": false
+      },
+      {
+        "text": "to be",
+        "correct": false
+      },
+      {
+        "text": "been",
+        "correct": false
+      }
+    ],
+    "answer": "being",
+    "explanation": "for は前置詞なので動名詞。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-083",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "It is no use ___ with him.",
+    "prompt": "語法",
+    "choices": [
+      {
+        "text": "arguing",
+        "correct": true
+      },
+      {
+        "text": "to argue",
+        "correct": false
+      },
+      {
+        "text": "argue",
+        "correct": false
+      },
+      {
+        "text": "argued",
+        "correct": false
+      }
+    ],
+    "answer": "arguing",
+    "explanation": "It is no use doing の定型。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-084",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "He had difficulty ___ the problem.",
+    "prompt": "語法",
+    "choices": [
+      {
+        "text": "solving",
+        "correct": true
+      },
+      {
+        "text": "to solve",
+        "correct": false
+      },
+      {
+        "text": "solve",
+        "correct": false
+      },
+      {
+        "text": "solved",
+        "correct": false
+      }
+    ],
+    "answer": "solving",
+    "explanation": "have difficulty in doing / have difficulty doing の形。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-085",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "You ___ not worry about it.",
+    "prompt": "助動詞",
+    "choices": [
+      {
+        "text": "need",
+        "correct": true
+      },
+      {
+        "text": "must",
+        "correct": false
+      },
+      {
+        "text": "should to",
+        "correct": false
+      },
+      {
+        "text": "may to",
+        "correct": false
+      }
+    ],
+    "answer": "need",
+    "explanation": "need not do で「～する必要はない」。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-086",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "We ___ have taken a taxi; the station was nearby.",
+    "prompt": "助動詞",
+    "choices": [
+      {
+        "text": "need not",
+        "correct": true
+      },
+      {
+        "text": "must not",
+        "correct": false
+      },
+      {
+        "text": "cannot",
+        "correct": false
+      },
+      {
+        "text": "should to",
+        "correct": false
+      }
+    ],
+    "answer": "need not",
+    "explanation": "過去の不要な行為は need not have + 過去分詞。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-087",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "She has just ___.",
+    "prompt": "完了",
+    "choices": [
+      {
+        "text": "arrived",
+        "correct": true
+      },
+      {
+        "text": "arrive",
+        "correct": false
+      },
+      {
+        "text": "arriving",
+        "correct": false
+      },
+      {
+        "text": "arrives",
+        "correct": false
+      }
+    ],
+    "answer": "arrived",
+    "explanation": "has + 過去分詞の現在完了で「たった今到着した」。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-088",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "I ___ him since Monday.",
+    "prompt": "時制",
+    "choices": [
+      {
+        "text": "have not seen",
+        "correct": true
+      },
+      {
+        "text": "did not see",
+        "correct": false
+      },
+      {
+        "text": "am not seeing",
+        "correct": false
+      },
+      {
+        "text": "had not seen",
+        "correct": false
+      }
+    ],
+    "answer": "have not seen",
+    "explanation": "since Monday から現在までの否定なので現在完了。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-089",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "If it were not for water, life ___ impossible.",
+    "prompt": "仮定法",
+    "choices": [
+      {
+        "text": "would be",
+        "correct": true
+      },
+      {
+        "text": "will be",
+        "correct": false
+      },
+      {
+        "text": "is",
+        "correct": false
+      },
+      {
+        "text": "was",
+        "correct": false
+      }
+    ],
+    "answer": "would be",
+    "explanation": "If it were not for ～ は現在の反実仮想。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-090",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "The book is worth ___.",
+    "prompt": "語法",
+    "choices": [
+      {
+        "text": "reading",
+        "correct": true
+      },
+      {
+        "text": "to read",
+        "correct": false
+      },
+      {
+        "text": "read",
+        "correct": false
+      },
+      {
+        "text": "to reading",
+        "correct": false
+      }
+    ],
+    "answer": "reading",
+    "explanation": "be worth doing の形。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-091",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "There is no point in ___ about it.",
+    "prompt": "語法",
+    "choices": [
+      {
+        "text": "complaining",
+        "correct": true
+      },
+      {
+        "text": "complain",
+        "correct": false
+      },
+      {
+        "text": "to complain",
+        "correct": false
+      },
+      {
+        "text": "complained",
+        "correct": false
+      }
+    ],
+    "answer": "complaining",
+    "explanation": "There is no point in doing の定型。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-092",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "I know a man ___ can speak five languages.",
+    "prompt": "関係詞",
+    "choices": [
+      {
+        "text": "who",
+        "correct": true
+      },
+      {
+        "text": "whom",
+        "correct": false
+      },
+      {
+        "text": "which",
+        "correct": false
+      },
+      {
+        "text": "what",
+        "correct": false
+      }
+    ],
+    "answer": "who",
+    "explanation": "人で関係詞節の主語なので who。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-093",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "___ by the noise, the baby started crying.",
+    "prompt": "分詞構文",
+    "choices": [
+      {
+        "text": "Startled",
+        "correct": true
+      },
+      {
+        "text": "Starting",
+        "correct": false
+      },
+      {
+        "text": "Startle",
+        "correct": false
+      },
+      {
+        "text": "To startle",
+        "correct": false
+      }
+    ],
+    "answer": "Startled",
+    "explanation": "赤ちゃんは「驚かされた」側なので過去分詞。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-095",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "So difficult ___ that nobody could solve it.",
+    "prompt": "倒置",
+    "choices": [
+      {
+        "text": "was the problem",
+        "correct": true
+      },
+      {
+        "text": "the problem was",
+        "correct": false
+      },
+      {
+        "text": "did the problem",
+        "correct": false
+      },
+      {
+        "text": "was it problem",
+        "correct": false
+      }
+    ],
+    "answer": "was the problem",
+    "explanation": "So + 形容詞を文頭に置く倒置で be 動詞が前に出る。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-096",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "He left early so that he ___ the last train.",
+    "prompt": "接続詞",
+    "choices": [
+      {
+        "text": "could catch",
+        "correct": true
+      },
+      {
+        "text": "can catch",
+        "correct": false
+      },
+      {
+        "text": "caught",
+        "correct": false
+      },
+      {
+        "text": "has caught",
+        "correct": false
+      }
+    ],
+    "answer": "could catch",
+    "explanation": "過去の目的なので so that + could。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-097",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "I would like you ___ quiet.",
+    "prompt": "語法",
+    "choices": [
+      {
+        "text": "to be",
+        "correct": true
+      },
+      {
+        "text": "be",
+        "correct": false
+      },
+      {
+        "text": "being",
+        "correct": false
+      },
+      {
+        "text": "been",
+        "correct": false
+      }
+    ],
+    "answer": "to be",
+    "explanation": "would like + O + to do の形。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-098",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "She let me ___ her computer.",
+    "prompt": "語法",
+    "choices": [
+      {
+        "text": "use",
+        "correct": true
+      },
+      {
+        "text": "to use",
+        "correct": false
+      },
+      {
+        "text": "using",
+        "correct": false
+      },
+      {
+        "text": "used",
+        "correct": false
+      }
+    ],
+    "answer": "use",
+    "explanation": "let O do の使役で原形。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-099",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "He is said ___ a genius.",
+    "prompt": "受動態",
+    "choices": [
+      {
+        "text": "to be",
+        "correct": true
+      },
+      {
+        "text": "be",
+        "correct": false
+      },
+      {
+        "text": "being",
+        "correct": false
+      },
+      {
+        "text": "been",
+        "correct": false
+      }
+    ],
+    "answer": "to be",
+    "explanation": "S is said to do の受動態表現。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-100",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "The suspect is believed ___ the country.",
+    "prompt": "受動態",
+    "choices": [
+      {
+        "text": "to have left",
+        "correct": true
+      },
+      {
+        "text": "leaving",
+        "correct": false
+      },
+      {
+        "text": "left",
+        "correct": false
+      },
+      {
+        "text": "have left",
+        "correct": false
+      }
+    ],
+    "answer": "to have left",
+    "explanation": "過去の行為を表すので to have + 過去分詞。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-101",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "She had her assistant ___ the document.",
+    "prompt": "語法",
+    "choices": [
+      {
+        "text": "check",
+        "correct": true
+      },
+      {
+        "text": "to check",
+        "correct": false
+      },
+      {
+        "text": "checking",
+        "correct": false
+      },
+      {
+        "text": "checked",
+        "correct": false
+      }
+    ],
+    "answer": "check",
+    "explanation": "have O do の使役。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-102",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "The manager had the report ___.",
+    "prompt": "語法",
+    "choices": [
+      {
+        "text": "revised",
+        "correct": true
+      },
+      {
+        "text": "revise",
+        "correct": false
+      },
+      {
+        "text": "revising",
+        "correct": false
+      },
+      {
+        "text": "to revise",
+        "correct": false
+      }
+    ],
+    "answer": "revised",
+    "explanation": "have O done の使役・依頼。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-103",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "This is by far ___ solution.",
+    "prompt": "比較",
+    "choices": [
+      {
+        "text": "the best",
+        "correct": true
+      },
+      {
+        "text": "better",
+        "correct": false
+      },
+      {
+        "text": "best",
+        "correct": false
+      },
+      {
+        "text": "the better",
+        "correct": false
+      }
+    ],
+    "answer": "the best",
+    "explanation": "by far とともに最上級を強調している。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-104",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "He runs twice as fast ___ I do.",
+    "prompt": "比較",
+    "choices": [
+      {
+        "text": "as",
+        "correct": true
+      },
+      {
+        "text": "than",
+        "correct": false
+      },
+      {
+        "text": "like",
+        "correct": false
+      },
+      {
+        "text": "so",
+        "correct": false
+      }
+    ],
+    "answer": "as",
+    "explanation": "twice as + 原級 + as の比較。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-105",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "She became ___ doctor.",
+    "prompt": "冠詞",
+    "choices": [
+      {
+        "text": "a",
+        "correct": true
+      },
+      {
+        "text": "an",
+        "correct": false
+      },
+      {
+        "text": "the",
+        "correct": false
+      },
+      {
+        "text": "no article",
+        "correct": false
+      }
+    ],
+    "answer": "a",
+    "explanation": "職業を表す単数可算名詞なので a doctor。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-106",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "___ rich should help the poor.",
+    "prompt": "冠詞",
+    "choices": [
+      {
+        "text": "The",
+        "correct": true
+      },
+      {
+        "text": "A",
+        "correct": false
+      },
+      {
+        "text": "An",
+        "correct": false
+      },
+      {
+        "text": "No article",
+        "correct": false
+      }
+    ],
+    "answer": "The",
+    "explanation": "the + 形容詞で「～な人々」という集合を表す。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-107",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "Who ___ you meet yesterday?",
+    "prompt": "疑問文",
+    "choices": [
+      {
+        "text": "did",
+        "correct": true
+      },
+      {
+        "text": "do",
+        "correct": false
+      },
+      {
+        "text": "have",
+        "correct": false
+      },
+      {
+        "text": "are",
+        "correct": false
+      }
+    ],
+    "answer": "did",
+    "explanation": "過去の疑問文で主語が who ではない場合は did を用いる。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-108",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "I wonder what he ___.",
+    "prompt": "間接疑問",
+    "choices": [
+      {
+        "text": "wants",
+        "correct": true
+      },
+      {
+        "text": "does he want",
+        "correct": false
+      },
+      {
+        "text": "wanting",
+        "correct": false
+      },
+      {
+        "text": "will wants",
+        "correct": false
+      }
+    ],
+    "answer": "wants",
+    "explanation": "間接疑問では平叙文語順。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  },
+  {
+    "id": "g-bulk-109",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "Little ___ that he would become famous.",
+    "prompt": "否定語",
+    "choices": [
+      {
+        "text": "did he know",
+        "correct": true
+      },
+      {
+        "text": "he knew",
+        "correct": false
+      },
+      {
+        "text": "does he know",
+        "correct": false
+      },
+      {
+        "text": "he knows",
+        "correct": false
+      }
+    ],
+    "answer": "did he know",
+    "explanation": "Little が文頭に出る否定的表現で倒置。",
+    "tags": [
+      "bulk-grammar-2026"
+    ]
+  }
+]
