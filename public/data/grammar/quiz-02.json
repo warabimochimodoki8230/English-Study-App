@@ -1,0 +1,1514 @@
+[
+  {
+    "id": "g-quiz-101",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "The train ___ before we arrived at the station.",
+    "prompt": "過去完了",
+    "choices": [
+      {
+        "text": "had left",
+        "correct": true
+      },
+      {
+        "text": "has left",
+        "correct": false
+      },
+      {
+        "text": "leaves",
+        "correct": false
+      },
+      {
+        "text": "will leave",
+        "correct": false
+      }
+    ],
+    "answer": "had left",
+    "explanation": "過去のある時点より前の出来事は had + 過去分詞。"
+  },
+  {
+    "id": "g-quiz-102",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "By the time I got home, my brother ___ dinner.",
+    "prompt": "時制",
+    "choices": [
+      {
+        "text": "had already eaten",
+        "correct": true
+      },
+      {
+        "text": "already eats",
+        "correct": false
+      },
+      {
+        "text": "has eaten",
+        "correct": false
+      },
+      {
+        "text": "will eat",
+        "correct": false
+      }
+    ],
+    "answer": "had already eaten",
+    "explanation": "got home より前なので過去完了。"
+  },
+  {
+    "id": "g-quiz-103",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "I have lived here ___ five years.",
+    "prompt": "現在完了",
+    "choices": [
+      {
+        "text": "for",
+        "correct": true
+      },
+      {
+        "text": "since",
+        "correct": false
+      },
+      {
+        "text": "during",
+        "correct": false
+      },
+      {
+        "text": "from",
+        "correct": false
+      }
+    ],
+    "answer": "for",
+    "explanation": "期間は for、起点は since。"
+  },
+  {
+    "id": "g-quiz-104",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "She has known him ___ high school.",
+    "prompt": "現在完了",
+    "choices": [
+      {
+        "text": "since",
+        "correct": true
+      },
+      {
+        "text": "for",
+        "correct": false
+      },
+      {
+        "text": "during",
+        "correct": false
+      },
+      {
+        "text": "by",
+        "correct": false
+      }
+    ],
+    "answer": "since",
+    "explanation": "high school は起点なので since。"
+  },
+  {
+    "id": "g-quiz-106",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "If he had left earlier, he ___ the train.",
+    "prompt": "仮定法",
+    "choices": [
+      {
+        "text": "would have caught",
+        "correct": true
+      },
+      {
+        "text": "will catch",
+        "correct": false
+      },
+      {
+        "text": "would catch",
+        "correct": false
+      },
+      {
+        "text": "caught",
+        "correct": false
+      }
+    ],
+    "answer": "would have caught",
+    "explanation": "過去の事実に反する仮定は would have + 過去分詞。"
+  },
+  {
+    "id": "g-quiz-107",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "You should avoid ___ too much at night.",
+    "prompt": "動名詞",
+    "choices": [
+      {
+        "text": "eating",
+        "correct": true
+      },
+      {
+        "text": "to eat",
+        "correct": false
+      },
+      {
+        "text": "eat",
+        "correct": false
+      },
+      {
+        "text": "ate",
+        "correct": false
+      }
+    ],
+    "answer": "eating",
+    "explanation": "avoid は動名詞を目的語に取る。"
+  },
+  {
+    "id": "g-quiz-108",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "I decided ___ abroad next year.",
+    "prompt": "不定詞",
+    "choices": [
+      {
+        "text": "to study",
+        "correct": true
+      },
+      {
+        "text": "studying",
+        "correct": false
+      },
+      {
+        "text": "study",
+        "correct": false
+      },
+      {
+        "text": "studied",
+        "correct": false
+      }
+    ],
+    "answer": "to study",
+    "explanation": "decide to do の形。"
+  },
+  {
+    "id": "g-quiz-110",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "I used to ___ here when I was a child.",
+    "prompt": "助動表現",
+    "choices": [
+      {
+        "text": "play",
+        "correct": true
+      },
+      {
+        "text": "playing",
+        "correct": false
+      },
+      {
+        "text": "played",
+        "correct": false
+      },
+      {
+        "text": "to playing",
+        "correct": false
+      }
+    ],
+    "answer": "play",
+    "explanation": "used to do は「以前は～したものだ」。"
+  },
+  {
+    "id": "g-quiz-111",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "The book ___ by thousands of students every year.",
+    "prompt": "受動態",
+    "choices": [
+      {
+        "text": "is read",
+        "correct": true
+      },
+      {
+        "text": "reads",
+        "correct": false
+      },
+      {
+        "text": "was read",
+        "correct": false
+      },
+      {
+        "text": "is reading",
+        "correct": false
+      }
+    ],
+    "answer": "is read",
+    "explanation": "現在の習慣的な受動なので is + 過去分詞。"
+  },
+  {
+    "id": "g-quiz-112",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "The window ___ yesterday.",
+    "prompt": "受動態",
+    "choices": [
+      {
+        "text": "was broken",
+        "correct": true
+      },
+      {
+        "text": "is broken",
+        "correct": false
+      },
+      {
+        "text": "has broken",
+        "correct": false
+      },
+      {
+        "text": "broke",
+        "correct": false
+      }
+    ],
+    "answer": "was broken",
+    "explanation": "yesterday なので過去の受動態 was broken。"
+  },
+  {
+    "id": "g-quiz-113",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "I had my hair ___ yesterday.",
+    "prompt": "使役",
+    "choices": [
+      {
+        "text": "cut",
+        "correct": true
+      },
+      {
+        "text": "cutting",
+        "correct": false
+      },
+      {
+        "text": "to cut",
+        "correct": false
+      },
+      {
+        "text": "cuts",
+        "correct": false
+      }
+    ],
+    "answer": "cut",
+    "explanation": "have + O + 過去分詞 で「Oを～してもらう」。"
+  },
+  {
+    "id": "g-quiz-115",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "My parents allowed me ___ out late.",
+    "prompt": "使役・知覚",
+    "choices": [
+      {
+        "text": "to stay",
+        "correct": true
+      },
+      {
+        "text": "stay",
+        "correct": false
+      },
+      {
+        "text": "staying",
+        "correct": false
+      },
+      {
+        "text": "stayed",
+        "correct": false
+      }
+    ],
+    "answer": "to stay",
+    "explanation": "allow + O + to do。"
+  },
+  {
+    "id": "g-quiz-116",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "I saw him ___ across the street.",
+    "prompt": "知覚動詞",
+    "choices": [
+      {
+        "text": "cross",
+        "correct": true
+      },
+      {
+        "text": "to cross",
+        "correct": false
+      },
+      {
+        "text": "crossed",
+        "correct": false
+      },
+      {
+        "text": "crossing only",
+        "correct": false
+      }
+    ],
+    "answer": "cross",
+    "explanation": "知覚動詞 + O + 原形で動作全体を見る。"
+  },
+  {
+    "id": "g-quiz-118",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "The man ___ car was stolen called the police.",
+    "prompt": "関係詞",
+    "choices": [
+      {
+        "text": "whose",
+        "correct": true
+      },
+      {
+        "text": "who",
+        "correct": false
+      },
+      {
+        "text": "which",
+        "correct": false
+      },
+      {
+        "text": "what",
+        "correct": false
+      }
+    ],
+    "answer": "whose",
+    "explanation": "所有は whose + 名詞。"
+  },
+  {
+    "id": "g-quiz-119",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "I visited the town ___ my father was born.",
+    "prompt": "関係副詞",
+    "choices": [
+      {
+        "text": "where",
+        "correct": true
+      },
+      {
+        "text": "which",
+        "correct": false
+      },
+      {
+        "text": "what",
+        "correct": false
+      },
+      {
+        "text": "who",
+        "correct": false
+      }
+    ],
+    "answer": "where",
+    "explanation": "場所を表す先行詞 + where。"
+  },
+  {
+    "id": "g-quiz-120",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "This is the reason ___ he left early.",
+    "prompt": "関係副詞",
+    "choices": [
+      {
+        "text": "why",
+        "correct": true
+      },
+      {
+        "text": "which",
+        "correct": false
+      },
+      {
+        "text": "where",
+        "correct": false
+      },
+      {
+        "text": "what",
+        "correct": false
+      }
+    ],
+    "answer": "why",
+    "explanation": "reason の理由を受ける why。"
+  },
+  {
+    "id": "g-quiz-121",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "The movie was ___ interesting that I watched it twice.",
+    "prompt": "so ... that",
+    "choices": [
+      {
+        "text": "so",
+        "correct": true
+      },
+      {
+        "text": "such",
+        "correct": false
+      },
+      {
+        "text": "too",
+        "correct": false
+      },
+      {
+        "text": "very",
+        "correct": false
+      }
+    ],
+    "answer": "so",
+    "explanation": "so + 形容詞/副詞 + that。"
+  },
+  {
+    "id": "g-quiz-122",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "It was such ___ interesting book that I read it twice.",
+    "prompt": "such ... that",
+    "choices": [
+      {
+        "text": "an",
+        "correct": true
+      },
+      {
+        "text": "a",
+        "correct": false
+      },
+      {
+        "text": "the",
+        "correct": false
+      },
+      {
+        "text": "—",
+        "correct": false
+      }
+    ],
+    "answer": "an",
+    "explanation": "such + a/an + 形容詞 + 名詞。"
+  },
+  {
+    "id": "g-quiz-123",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "The more you practice, ___ you become.",
+    "prompt": "比較",
+    "choices": [
+      {
+        "text": "the better",
+        "correct": true
+      },
+      {
+        "text": "better",
+        "correct": false
+      },
+      {
+        "text": "the best",
+        "correct": false
+      },
+      {
+        "text": "more better",
+        "correct": false
+      }
+    ],
+    "answer": "the better",
+    "explanation": "the + 比較級, the + 比較級。"
+  },
+  {
+    "id": "g-quiz-124",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "No other student in the class is ___ Ken.",
+    "prompt": "比較",
+    "choices": [
+      {
+        "text": "as tall as",
+        "correct": true
+      },
+      {
+        "text": "so tall than",
+        "correct": false
+      },
+      {
+        "text": "more tall as",
+        "correct": false
+      },
+      {
+        "text": "as taller as",
+        "correct": false
+      }
+    ],
+    "answer": "as tall as",
+    "explanation": "as + 原級 + as の同等比較。"
+  },
+  {
+    "id": "g-quiz-125",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "She is one of the students who ___ always on time.",
+    "prompt": "主語と動詞",
+    "choices": [
+      {
+        "text": "are",
+        "correct": true
+      },
+      {
+        "text": "is",
+        "correct": false
+      },
+      {
+        "text": "was",
+        "correct": false
+      },
+      {
+        "text": "be",
+        "correct": false
+      }
+    ],
+    "answer": "are",
+    "explanation": "who の先行詞 students は複数なので are。"
+  },
+  {
+    "id": "g-quiz-126",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "What he said ___ true.",
+    "prompt": "名詞節",
+    "choices": [
+      {
+        "text": "was",
+        "correct": true
+      },
+      {
+        "text": "were",
+        "correct": false
+      },
+      {
+        "text": "are",
+        "correct": false
+      },
+      {
+        "text": "be",
+        "correct": false
+      }
+    ],
+    "answer": "was",
+    "explanation": "What he said は一まとまりの単数主語。"
+  },
+  {
+    "id": "g-quiz-127",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "There ___ a lot of information on the website.",
+    "prompt": "主語と動詞",
+    "choices": [
+      {
+        "text": "is",
+        "correct": true
+      },
+      {
+        "text": "are",
+        "correct": false
+      },
+      {
+        "text": "have",
+        "correct": false
+      },
+      {
+        "text": "has",
+        "correct": false
+      }
+    ],
+    "answer": "is",
+    "explanation": "information は不可算名詞なので単数扱い。"
+  },
+  {
+    "id": "g-quiz-128",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "Neither Tom nor his parents ___ available today.",
+    "prompt": "主語と動詞",
+    "choices": [
+      {
+        "text": "are",
+        "correct": true
+      },
+      {
+        "text": "is",
+        "correct": false
+      },
+      {
+        "text": "was",
+        "correct": false
+      },
+      {
+        "text": "be",
+        "correct": false
+      }
+    ],
+    "answer": "are",
+    "explanation": "neither A nor B は B に動詞を一致させる。parents が複数。"
+  },
+  {
+    "id": "g-quiz-129",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "Not only ___ English, but he also speaks French.",
+    "prompt": "倒置",
+    "choices": [
+      {
+        "text": "does he speak",
+        "correct": true
+      },
+      {
+        "text": "he speaks",
+        "correct": false
+      },
+      {
+        "text": "speaks he",
+        "correct": false
+      },
+      {
+        "text": "he does speak",
+        "correct": false
+      }
+    ],
+    "answer": "does he speak",
+    "explanation": "Not only が文頭に出ると助動詞を前置する。"
+  },
+  {
+    "id": "g-quiz-130",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "Rarely ___ such a difficult question.",
+    "prompt": "倒置",
+    "choices": [
+      {
+        "text": "have I seen",
+        "correct": true
+      },
+      {
+        "text": "I have seen",
+        "correct": false
+      },
+      {
+        "text": "did I seeing",
+        "correct": false
+      },
+      {
+        "text": "I saw",
+        "correct": false
+      }
+    ],
+    "answer": "have I seen",
+    "explanation": "否定・半否定語が文頭に来ると倒置。"
+  },
+  {
+    "id": "g-quiz-131",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "It was not until midnight ___ he finished the work.",
+    "prompt": "強調構文",
+    "choices": [
+      {
+        "text": "that",
+        "correct": true
+      },
+      {
+        "text": "when",
+        "correct": false
+      },
+      {
+        "text": "which",
+        "correct": false
+      },
+      {
+        "text": "what",
+        "correct": false
+      }
+    ],
+    "answer": "that",
+    "explanation": "It was not until ... that ～。"
+  },
+  {
+    "id": "g-quiz-132",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "It is important that every student ___ on time.",
+    "prompt": "仮定法・要求",
+    "choices": [
+      {
+        "text": "be",
+        "correct": true
+      },
+      {
+        "text": "is",
+        "correct": false
+      },
+      {
+        "text": "was",
+        "correct": false
+      },
+      {
+        "text": "being",
+        "correct": false
+      }
+    ],
+    "answer": "be",
+    "explanation": "重要・要求を表す that 節では原形を用いる。"
+  },
+  {
+    "id": "g-quiz-133",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "The teacher suggested that we ___ the plan.",
+    "prompt": "仮定法・要求",
+    "choices": [
+      {
+        "text": "revise",
+        "correct": true
+      },
+      {
+        "text": "revised",
+        "correct": false
+      },
+      {
+        "text": "revising",
+        "correct": false
+      },
+      {
+        "text": "to revise",
+        "correct": false
+      }
+    ],
+    "answer": "revise",
+    "explanation": "suggest that S (should) do。"
+  },
+  {
+    "id": "g-quiz-134",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "He insisted on ___ the bill himself.",
+    "prompt": "動名詞",
+    "choices": [
+      {
+        "text": "paying",
+        "correct": true
+      },
+      {
+        "text": "to pay",
+        "correct": false
+      },
+      {
+        "text": "pay",
+        "correct": false
+      },
+      {
+        "text": "paid",
+        "correct": false
+      }
+    ],
+    "answer": "paying",
+    "explanation": "insist on の on は前置詞。"
+  },
+  {
+    "id": "g-quiz-135",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "She is looking forward to ___ you again.",
+    "prompt": "動名詞",
+    "choices": [
+      {
+        "text": "seeing",
+        "correct": true
+      },
+      {
+        "text": "see",
+        "correct": false
+      },
+      {
+        "text": "saw",
+        "correct": false
+      },
+      {
+        "text": "to see",
+        "correct": false
+      }
+    ],
+    "answer": "seeing",
+    "explanation": "look forward to の to は前置詞。"
+  },
+  {
+    "id": "g-quiz-136",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "I remember ___ him at the party last year.",
+    "prompt": "動名詞",
+    "choices": [
+      {
+        "text": "meeting",
+        "correct": true
+      },
+      {
+        "text": "to meet",
+        "correct": false
+      },
+      {
+        "text": "meet",
+        "correct": false
+      },
+      {
+        "text": "met",
+        "correct": false
+      }
+    ],
+    "answer": "meeting",
+    "explanation": "remember doing は「～したことを覚えている」。"
+  },
+  {
+    "id": "g-quiz-137",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "Remember ___ the door before you leave.",
+    "prompt": "不定詞",
+    "choices": [
+      {
+        "text": "to lock",
+        "correct": true
+      },
+      {
+        "text": "locking",
+        "correct": false
+      },
+      {
+        "text": "lock",
+        "correct": false
+      },
+      {
+        "text": "locked",
+        "correct": false
+      }
+    ],
+    "answer": "to lock",
+    "explanation": "remember to do は「忘れずに～する」。"
+  },
+  {
+    "id": "g-quiz-138",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "He stopped ___ because his doctor told him to.",
+    "prompt": "動名詞",
+    "choices": [
+      {
+        "text": "smoking",
+        "correct": true
+      },
+      {
+        "text": "to smoke",
+        "correct": false
+      },
+      {
+        "text": "smoke",
+        "correct": false
+      },
+      {
+        "text": "smoked",
+        "correct": false
+      }
+    ],
+    "answer": "smoking",
+    "explanation": "stop doing は「～するのをやめる」。"
+  },
+  {
+    "id": "g-quiz-139",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "He stopped ___ some coffee on the way home.",
+    "prompt": "不定詞",
+    "choices": [
+      {
+        "text": "to buy",
+        "correct": true
+      },
+      {
+        "text": "buying",
+        "correct": false
+      },
+      {
+        "text": "buy",
+        "correct": false
+      },
+      {
+        "text": "bought",
+        "correct": false
+      }
+    ],
+    "answer": "to buy",
+    "explanation": "stop to do は「～するために立ち止まる」。"
+  },
+  {
+    "id": "g-quiz-140",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "The problem is worth ___.",
+    "prompt": "動名詞",
+    "choices": [
+      {
+        "text": "considering",
+        "correct": true
+      },
+      {
+        "text": "to consider",
+        "correct": false
+      },
+      {
+        "text": "consider",
+        "correct": false
+      },
+      {
+        "text": "considered",
+        "correct": false
+      }
+    ],
+    "answer": "considering",
+    "explanation": "be worth doing の形。"
+  },
+  {
+    "id": "g-quiz-141",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "She had difficulty ___ the instructions.",
+    "prompt": "動名詞",
+    "choices": [
+      {
+        "text": "understanding",
+        "correct": true
+      },
+      {
+        "text": "to understand",
+        "correct": false
+      },
+      {
+        "text": "understand",
+        "correct": false
+      },
+      {
+        "text": "understood",
+        "correct": false
+      }
+    ],
+    "answer": "understanding",
+    "explanation": "have difficulty (in) doing。"
+  },
+  {
+    "id": "g-quiz-142",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "The question is easy ___.",
+    "prompt": "不定詞",
+    "choices": [
+      {
+        "text": "to answer",
+        "correct": true
+      },
+      {
+        "text": "answering",
+        "correct": false
+      },
+      {
+        "text": "answered",
+        "correct": false
+      },
+      {
+        "text": "answer",
+        "correct": false
+      }
+    ],
+    "answer": "to answer",
+    "explanation": "形容詞 + to do。"
+  },
+  {
+    "id": "g-quiz-143",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "He is too tired ___ any further.",
+    "prompt": "不定詞",
+    "choices": [
+      {
+        "text": "to walk",
+        "correct": true
+      },
+      {
+        "text": "walking",
+        "correct": false
+      },
+      {
+        "text": "walk",
+        "correct": false
+      },
+      {
+        "text": "walked",
+        "correct": false
+      }
+    ],
+    "answer": "to walk",
+    "explanation": "too ... to do。"
+  },
+  {
+    "id": "g-quiz-144",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "He is old enough ___ by himself.",
+    "prompt": "不定詞",
+    "choices": [
+      {
+        "text": "to decide",
+        "correct": true
+      },
+      {
+        "text": "deciding",
+        "correct": false
+      },
+      {
+        "text": "decide",
+        "correct": false
+      },
+      {
+        "text": "decided",
+        "correct": false
+      }
+    ],
+    "answer": "to decide",
+    "explanation": "enough to do。"
+  },
+  {
+    "id": "g-quiz-145",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "I had no choice but ___ the plan.",
+    "prompt": "慣用構文",
+    "choices": [
+      {
+        "text": "to accept",
+        "correct": true
+      },
+      {
+        "text": "accepting",
+        "correct": false
+      },
+      {
+        "text": "accepted",
+        "correct": false
+      },
+      {
+        "text": "accept",
+        "correct": false
+      }
+    ],
+    "answer": "to accept",
+    "explanation": "have no choice but to do。"
+  },
+  {
+    "id": "g-quiz-146",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "She insisted that he ___ at once.",
+    "prompt": "仮定法・要求",
+    "choices": [
+      {
+        "text": "leave",
+        "correct": true
+      },
+      {
+        "text": "left",
+        "correct": false
+      },
+      {
+        "text": "leaving",
+        "correct": false
+      },
+      {
+        "text": "to leave",
+        "correct": false
+      }
+    ],
+    "answer": "leave",
+    "explanation": "insist that S (should) do。"
+  },
+  {
+    "id": "g-quiz-147",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "The fact ___ he lied surprised everyone.",
+    "prompt": "同格のthat",
+    "choices": [
+      {
+        "text": "that",
+        "correct": true
+      },
+      {
+        "text": "what",
+        "correct": false
+      },
+      {
+        "text": "which",
+        "correct": false
+      },
+      {
+        "text": "where",
+        "correct": false
+      }
+    ],
+    "answer": "that",
+    "explanation": "fact の内容を説明する同格の that 節。"
+  },
+  {
+    "id": "g-quiz-148",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "I wonder ___ he will come tomorrow.",
+    "prompt": "名詞節",
+    "choices": [
+      {
+        "text": "whether",
+        "correct": true
+      },
+      {
+        "text": "that",
+        "correct": false
+      },
+      {
+        "text": "what",
+        "correct": false
+      },
+      {
+        "text": "which",
+        "correct": false
+      }
+    ],
+    "answer": "whether",
+    "explanation": "wonder + whether/if で「～かどうか」。"
+  },
+  {
+    "id": "g-quiz-149",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "The question is ___ we can solve the problem.",
+    "prompt": "名詞節",
+    "choices": [
+      {
+        "text": "whether",
+        "correct": true
+      },
+      {
+        "text": "that",
+        "correct": false
+      },
+      {
+        "text": "what",
+        "correct": false
+      },
+      {
+        "text": "who",
+        "correct": false
+      }
+    ],
+    "answer": "whether",
+    "explanation": "be動詞の補語として whether 節。"
+  },
+  {
+    "id": "g-quiz-150",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "___ tired, he continued working.",
+    "prompt": "分詞構文・前置詞",
+    "choices": [
+      {
+        "text": "Although",
+        "correct": true
+      },
+      {
+        "text": "Despite being",
+        "correct": false
+      },
+      {
+        "text": "Even",
+        "correct": false
+      },
+      {
+        "text": "Because",
+        "correct": false
+      }
+    ],
+    "answer": "Although",
+    "explanation": "Despite は前置詞なので後ろに動名詞/名詞。"
+  },
+  {
+    "id": "g-quiz-151",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "___ the rain, the game was held as scheduled.",
+    "prompt": "前置詞",
+    "choices": [
+      {
+        "text": "Despite",
+        "correct": true
+      },
+      {
+        "text": "Although",
+        "correct": false
+      },
+      {
+        "text": "Because",
+        "correct": false
+      },
+      {
+        "text": "Since",
+        "correct": false
+      }
+    ],
+    "answer": "Despite",
+    "explanation": "Despite + 名詞。"
+  },
+  {
+    "id": "g-quiz-152",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "He left early ___ he could catch the first train.",
+    "prompt": "目的",
+    "choices": [
+      {
+        "text": "so that",
+        "correct": true
+      },
+      {
+        "text": "because of",
+        "correct": false
+      },
+      {
+        "text": "despite",
+        "correct": false
+      },
+      {
+        "text": "although",
+        "correct": false
+      }
+    ],
+    "answer": "so that",
+    "explanation": "so that S can/could で目的。"
+  },
+  {
+    "id": "g-quiz-153",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "She speaks as if she ___ everything.",
+    "prompt": "仮定法",
+    "choices": [
+      {
+        "text": "knew",
+        "correct": true
+      },
+      {
+        "text": "knows",
+        "correct": false
+      },
+      {
+        "text": "has known",
+        "correct": false
+      },
+      {
+        "text": "will know",
+        "correct": false
+      }
+    ],
+    "answer": "knew",
+    "explanation": "as if + 過去形で現在の事実に反するような内容。"
+  },
+  {
+    "id": "g-quiz-154",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "If I had known the truth, I ___ you.",
+    "prompt": "仮定法",
+    "choices": [
+      {
+        "text": "would have told",
+        "correct": true
+      },
+      {
+        "text": "would tell",
+        "correct": false
+      },
+      {
+        "text": "will tell",
+        "correct": false
+      },
+      {
+        "text": "told",
+        "correct": false
+      }
+    ],
+    "answer": "would have told",
+    "explanation": "過去完了 if + would have + 過去分詞。"
+  },
+  {
+    "id": "g-quiz-155",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "By next year, I ___ here for ten years.",
+    "prompt": "未来完了",
+    "choices": [
+      {
+        "text": "will have worked",
+        "correct": true
+      },
+      {
+        "text": "work",
+        "correct": false
+      },
+      {
+        "text": "have worked",
+        "correct": false
+      },
+      {
+        "text": "worked",
+        "correct": false
+      }
+    ],
+    "answer": "will have worked",
+    "explanation": "未来のある時点までの継続は will have + 過去分詞。"
+  },
+  {
+    "id": "g-quiz-156",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "When I entered the room, they ___ a meeting.",
+    "prompt": "過去進行形",
+    "choices": [
+      {
+        "text": "were having",
+        "correct": true
+      },
+      {
+        "text": "have",
+        "correct": false
+      },
+      {
+        "text": "had",
+        "correct": false
+      },
+      {
+        "text": "will have",
+        "correct": false
+      }
+    ],
+    "answer": "were having",
+    "explanation": "過去のある時点で進行中だったので were having。"
+  },
+  {
+    "id": "g-quiz-157",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "The man was kind enough ___ me to the station.",
+    "prompt": "enough to",
+    "choices": [
+      {
+        "text": "to drive",
+        "correct": true
+      },
+      {
+        "text": "driving",
+        "correct": false
+      },
+      {
+        "text": "drive",
+        "correct": false
+      },
+      {
+        "text": "drove",
+        "correct": false
+      }
+    ],
+    "answer": "to drive",
+    "explanation": "kind enough to do。"
+  },
+  {
+    "id": "g-quiz-158",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "He denied ___ the money.",
+    "prompt": "動名詞",
+    "choices": [
+      {
+        "text": "taking",
+        "correct": true
+      },
+      {
+        "text": "to take",
+        "correct": false
+      },
+      {
+        "text": "take",
+        "correct": false
+      },
+      {
+        "text": "taken",
+        "correct": false
+      }
+    ],
+    "answer": "taking",
+    "explanation": "deny は動名詞を目的語に取る。"
+  },
+  {
+    "id": "g-quiz-159",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "She is responsible for ___ the project.",
+    "prompt": "動名詞",
+    "choices": [
+      {
+        "text": "managing",
+        "correct": true
+      },
+      {
+        "text": "to manage",
+        "correct": false
+      },
+      {
+        "text": "manage",
+        "correct": false
+      },
+      {
+        "text": "managed",
+        "correct": false
+      }
+    ],
+    "answer": "managing",
+    "explanation": "for は前置詞なので動名詞。"
+  },
+  {
+    "id": "g-quiz-160",
+    "type": "grammar",
+    "level": "quiz",
+    "question": "I would rather ___ at home tonight.",
+    "prompt": "would rather",
+    "choices": [
+      {
+        "text": "stay",
+        "correct": true
+      },
+      {
+        "text": "to stay",
+        "correct": false
+      },
+      {
+        "text": "staying",
+        "correct": false
+      },
+      {
+        "text": "stayed",
+        "correct": false
+      }
+    ],
+    "answer": "stay",
+    "explanation": "would rather + 原形。"
+  }
+]
