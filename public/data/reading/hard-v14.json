@@ -1,0 +1,986 @@
+[
+  {
+    "id": "r-v14-hard-37",
+    "type": "reading",
+    "level": "hard",
+    "title": "The Ethics of Designed Attention",
+    "passage": "Institutions often behave as though categories merely describe reality, but categories can also shape what an institution notices. Once a classification becomes routine, observations that do not fit it may be treated as exceptions rather than as evidence that the classification itself is incomplete.\n\nThis creates a subtle problem. An institution can become more efficient at processing familiar cases while simultaneously becoming less sensitive to unfamiliar ones. Correcting the problem requires more than adding another category. It may require examining the assumptions that determined which distinctions were considered important in the first place.\n\nThe argument is not that categories are useless. On the contrary, categories make coordination possible. The difficulty arises when a useful tool is mistaken for a complete description and the unclassified remainder disappears from view.\n\nThe title, then, points to a question of method rather than a single answer. The most reliable approach is to distinguish observation from interpretation and to state the limits of the evidence alongside the conclusion.",
+    "questions": [
+      {
+        "id": "r-v14-hard-37-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "The passage argues for careful attention to conditions and evidence.",
+          "The passage claims one rule explains every case.",
+          "The passage rejects observation as unnecessary.",
+          "The passage says measurement never helps."
+        ],
+        "answer": "The passage argues for careful attention to conditions and evidence.",
+        "explanation": "本文中の根拠と正解「The passage argues for careful attention to conditions and evidence.」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-37-q02",
+        "type": "reading",
+        "question": "Which statement is supported by the passage?",
+        "choices": [
+          "Categories can shape what institutions notice.",
+          "Categories always provide a complete description.",
+          "Unfamiliar cases should be discarded.",
+          "Efficiency and awareness are always identical."
+        ],
+        "answer": "Categories can shape what institutions notice.",
+        "explanation": "本文中の根拠と正解「Categories can shape what institutions notice.」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-37-q03",
+        "type": "reading",
+        "question": "What distinction does the author emphasize?",
+        "choices": [
+          "A useful classification can become misleading when treated as complete.",
+          "Institutions should eliminate all categories.",
+          "Efficiency always reduces the need for judgment.",
+          "Exceptions have no analytical value."
+        ],
+        "answer": "A useful classification can become misleading when treated as complete.",
+        "explanation": "本文中の根拠と正解「A useful classification can become misleading when treated as complete.」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-37-q04",
+        "type": "reading",
+        "question": "In context, which word is closest in meaning to “reliable” in the passage?",
+        "choices": [
+          "reliable",
+          "visible",
+          "unrelated",
+          "complete"
+        ],
+        "answer": "reliable",
+        "explanation": "本文中の根拠と正解「reliable」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-37-q05",
+        "type": "reading",
+        "question": "What is the main purpose of the passage?",
+        "choices": [
+          "To encourage analysis that keeps assumptions and limits visible.",
+          "To prove that a single method is always correct.",
+          "To argue that evidence should be ignored.",
+          "To describe a fictional event without making a general point."
+        ],
+        "answer": "To encourage analysis that keeps assumptions and limits visible.",
+        "explanation": "本文中の根拠と正解「To encourage analysis that keeps assumptions and limits visible.」が一致する箇所を確認する。",
+        "isLastInPassage": true,
+        "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。"
+      }
+    ],
+    "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。",
+    "targetMinutes": 10,
+    "tags": [
+      "reading-v14",
+      "hard"
+    ]
+  },
+  {
+    "id": "r-v14-hard-38",
+    "type": "reading",
+    "level": "hard",
+    "title": "When Algorithms Disagree",
+    "passage": "Institutions often behave as though categories merely describe reality, but categories can also shape what an institution notices. Once a classification becomes routine, observations that do not fit it may be treated as exceptions rather than as evidence that the classification itself is incomplete.\n\nThis creates a subtle problem. An institution can become more efficient at processing familiar cases while simultaneously becoming less sensitive to unfamiliar ones. Correcting the problem requires more than adding another category. It may require examining the assumptions that determined which distinctions were considered important in the first place.\n\nThe argument is not that categories are useless. On the contrary, categories make coordination possible. The difficulty arises when a useful tool is mistaken for a complete description and the unclassified remainder disappears from view.\n\nThe title, then, points to a question of method rather than a single answer. The most reliable approach is to distinguish observation from interpretation and to state the limits of the evidence alongside the conclusion.",
+    "questions": [
+      {
+        "id": "r-v14-hard-38-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "The passage argues for careful attention to conditions and evidence.",
+          "The passage claims one rule explains every case.",
+          "The passage rejects observation as unnecessary.",
+          "The passage says measurement never helps."
+        ],
+        "answer": "The passage argues for careful attention to conditions and evidence.",
+        "explanation": "本文中の根拠と正解「The passage argues for careful attention to conditions and evidence.」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-38-q02",
+        "type": "reading",
+        "question": "Which statement is supported by the passage?",
+        "choices": [
+          "Categories can shape what institutions notice.",
+          "Categories always provide a complete description.",
+          "Unfamiliar cases should be discarded.",
+          "Efficiency and awareness are always identical."
+        ],
+        "answer": "Categories can shape what institutions notice.",
+        "explanation": "本文中の根拠と正解「Categories can shape what institutions notice.」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-38-q03",
+        "type": "reading",
+        "question": "What distinction does the author emphasize?",
+        "choices": [
+          "A useful classification can become misleading when treated as complete.",
+          "Institutions should eliminate all categories.",
+          "Efficiency always reduces the need for judgment.",
+          "Exceptions have no analytical value."
+        ],
+        "answer": "A useful classification can become misleading when treated as complete.",
+        "explanation": "本文中の根拠と正解「A useful classification can become misleading when treated as complete.」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-38-q04",
+        "type": "reading",
+        "question": "In context, which word is closest in meaning to “reliable” in the passage?",
+        "choices": [
+          "reliable",
+          "visible",
+          "unrelated",
+          "complete"
+        ],
+        "answer": "reliable",
+        "explanation": "本文中の根拠と正解「reliable」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-38-q05",
+        "type": "reading",
+        "question": "Which conclusion is most consistent with the passage?",
+        "choices": [
+          "To encourage analysis that keeps assumptions and limits visible.",
+          "To prove that a single method is always correct.",
+          "To argue that evidence should be ignored.",
+          "To describe a fictional event without making a general point."
+        ],
+        "answer": "To encourage analysis that keeps assumptions and limits visible.",
+        "explanation": "本文中の根拠と正解「To encourage analysis that keeps assumptions and limits visible.」が一致する箇所を確認する。",
+        "isLastInPassage": true,
+        "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。"
+      }
+    ],
+    "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。",
+    "targetMinutes": 10,
+    "tags": [
+      "reading-v14",
+      "hard"
+    ]
+  },
+  {
+    "id": "r-v14-hard-39",
+    "type": "reading",
+    "level": "hard",
+    "title": "Why Categories Create Blind Spots",
+    "passage": "Institutions often behave as though categories merely describe reality, but categories can also shape what an institution notices. Once a classification becomes routine, observations that do not fit it may be treated as exceptions rather than as evidence that the classification itself is incomplete.\n\nThis creates a subtle problem. An institution can become more efficient at processing familiar cases while simultaneously becoming less sensitive to unfamiliar ones. Correcting the problem requires more than adding another category. It may require examining the assumptions that determined which distinctions were considered important in the first place.\n\nThe argument is not that categories are useless. On the contrary, categories make coordination possible. The difficulty arises when a useful tool is mistaken for a complete description and the unclassified remainder disappears from view.\n\nThe title, then, points to a question of method rather than a single answer. The most reliable approach is to distinguish observation from interpretation and to state the limits of the evidence alongside the conclusion.",
+    "questions": [
+      {
+        "id": "r-v14-hard-39-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "The passage argues for careful attention to conditions and evidence.",
+          "The passage claims one rule explains every case.",
+          "The passage rejects observation as unnecessary.",
+          "The passage says measurement never helps."
+        ],
+        "answer": "The passage argues for careful attention to conditions and evidence.",
+        "explanation": "本文中の根拠と正解「The passage argues for careful attention to conditions and evidence.」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-39-q02",
+        "type": "reading",
+        "question": "Which statement is supported by the passage?",
+        "choices": [
+          "Categories can shape what institutions notice.",
+          "Categories always provide a complete description.",
+          "Unfamiliar cases should be discarded.",
+          "Efficiency and awareness are always identical."
+        ],
+        "answer": "Categories can shape what institutions notice.",
+        "explanation": "本文中の根拠と正解「Categories can shape what institutions notice.」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-39-q03",
+        "type": "reading",
+        "question": "What distinction does the author emphasize?",
+        "choices": [
+          "A useful classification can become misleading when treated as complete.",
+          "Institutions should eliminate all categories.",
+          "Efficiency always reduces the need for judgment.",
+          "Exceptions have no analytical value."
+        ],
+        "answer": "A useful classification can become misleading when treated as complete.",
+        "explanation": "本文中の根拠と正解「A useful classification can become misleading when treated as complete.」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-39-q04",
+        "type": "reading",
+        "question": "In context, which word is closest in meaning to “reliable” in the passage?",
+        "choices": [
+          "reliable",
+          "visible",
+          "unrelated",
+          "complete"
+        ],
+        "answer": "reliable",
+        "explanation": "本文中の根拠と正解「reliable」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-39-q05",
+        "type": "reading",
+        "question": "What is the main purpose of the passage?",
+        "choices": [
+          "To encourage analysis that keeps assumptions and limits visible.",
+          "To prove that a single method is always correct.",
+          "To argue that evidence should be ignored.",
+          "To describe a fictional event without making a general point."
+        ],
+        "answer": "To encourage analysis that keeps assumptions and limits visible.",
+        "explanation": "本文中の根拠と正解「To encourage analysis that keeps assumptions and limits visible.」が一致する箇所を確認する。",
+        "isLastInPassage": true,
+        "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。"
+      }
+    ],
+    "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。",
+    "targetMinutes": 10,
+    "tags": [
+      "reading-v14",
+      "hard"
+    ]
+  },
+  {
+    "id": "r-v14-hard-40",
+    "type": "reading",
+    "level": "hard",
+    "title": "The Geography of Scientific Ideas",
+    "passage": "Institutions often behave as though categories merely describe reality, but categories can also shape what an institution notices. Once a classification becomes routine, observations that do not fit it may be treated as exceptions rather than as evidence that the classification itself is incomplete.\n\nThis creates a subtle problem. An institution can become more efficient at processing familiar cases while simultaneously becoming less sensitive to unfamiliar ones. Correcting the problem requires more than adding another category. It may require examining the assumptions that determined which distinctions were considered important in the first place.\n\nThe argument is not that categories are useless. On the contrary, categories make coordination possible. The difficulty arises when a useful tool is mistaken for a complete description and the unclassified remainder disappears from view.\n\nThe title, then, points to a question of method rather than a single answer. The most reliable approach is to distinguish observation from interpretation and to state the limits of the evidence alongside the conclusion.",
+    "questions": [
+      {
+        "id": "r-v14-hard-40-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "The passage argues for careful attention to conditions and evidence.",
+          "The passage claims one rule explains every case.",
+          "The passage rejects observation as unnecessary.",
+          "The passage says measurement never helps."
+        ],
+        "answer": "The passage argues for careful attention to conditions and evidence.",
+        "explanation": "本文中の根拠と正解「The passage argues for careful attention to conditions and evidence.」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-40-q02",
+        "type": "reading",
+        "question": "Which statement is supported by the passage?",
+        "choices": [
+          "Categories can shape what institutions notice.",
+          "Categories always provide a complete description.",
+          "Unfamiliar cases should be discarded.",
+          "Efficiency and awareness are always identical."
+        ],
+        "answer": "Categories can shape what institutions notice.",
+        "explanation": "本文中の根拠と正解「Categories can shape what institutions notice.」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-40-q03",
+        "type": "reading",
+        "question": "What distinction does the author emphasize?",
+        "choices": [
+          "A useful classification can become misleading when treated as complete.",
+          "Institutions should eliminate all categories.",
+          "Efficiency always reduces the need for judgment.",
+          "Exceptions have no analytical value."
+        ],
+        "answer": "A useful classification can become misleading when treated as complete.",
+        "explanation": "本文中の根拠と正解「A useful classification can become misleading when treated as complete.」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-40-q04",
+        "type": "reading",
+        "question": "In context, which word is closest in meaning to “reliable” in the passage?",
+        "choices": [
+          "reliable",
+          "visible",
+          "unrelated",
+          "complete"
+        ],
+        "answer": "reliable",
+        "explanation": "本文中の根拠と正解「reliable」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-40-q05",
+        "type": "reading",
+        "question": "Which conclusion is most consistent with the passage?",
+        "choices": [
+          "To encourage analysis that keeps assumptions and limits visible.",
+          "To prove that a single method is always correct.",
+          "To argue that evidence should be ignored.",
+          "To describe a fictional event without making a general point."
+        ],
+        "answer": "To encourage analysis that keeps assumptions and limits visible.",
+        "explanation": "本文中の根拠と正解「To encourage analysis that keeps assumptions and limits visible.」が一致する箇所を確認する。",
+        "isLastInPassage": true,
+        "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。"
+      }
+    ],
+    "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。",
+    "targetMinutes": 10,
+    "tags": [
+      "reading-v14",
+      "hard"
+    ]
+  },
+  {
+    "id": "r-v14-hard-41",
+    "type": "reading",
+    "level": "hard",
+    "title": "The Politics of Measurement",
+    "passage": "Institutions often behave as though categories merely describe reality, but categories can also shape what an institution notices. Once a classification becomes routine, observations that do not fit it may be treated as exceptions rather than as evidence that the classification itself is incomplete.\n\nThis creates a subtle problem. An institution can become more efficient at processing familiar cases while simultaneously becoming less sensitive to unfamiliar ones. Correcting the problem requires more than adding another category. It may require examining the assumptions that determined which distinctions were considered important in the first place.\n\nThe argument is not that categories are useless. On the contrary, categories make coordination possible. The difficulty arises when a useful tool is mistaken for a complete description and the unclassified remainder disappears from view.\n\nThe title, then, points to a question of method rather than a single answer. The most reliable approach is to distinguish observation from interpretation and to state the limits of the evidence alongside the conclusion.",
+    "questions": [
+      {
+        "id": "r-v14-hard-41-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "The passage argues for careful attention to conditions and evidence.",
+          "The passage claims one rule explains every case.",
+          "The passage rejects observation as unnecessary.",
+          "The passage says measurement never helps."
+        ],
+        "answer": "The passage argues for careful attention to conditions and evidence.",
+        "explanation": "本文中の根拠と正解「The passage argues for careful attention to conditions and evidence.」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-41-q02",
+        "type": "reading",
+        "question": "Which statement is supported by the passage?",
+        "choices": [
+          "Categories can shape what institutions notice.",
+          "Categories always provide a complete description.",
+          "Unfamiliar cases should be discarded.",
+          "Efficiency and awareness are always identical."
+        ],
+        "answer": "Categories can shape what institutions notice.",
+        "explanation": "本文中の根拠と正解「Categories can shape what institutions notice.」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-41-q03",
+        "type": "reading",
+        "question": "What distinction does the author emphasize?",
+        "choices": [
+          "A useful classification can become misleading when treated as complete.",
+          "Institutions should eliminate all categories.",
+          "Efficiency always reduces the need for judgment.",
+          "Exceptions have no analytical value."
+        ],
+        "answer": "A useful classification can become misleading when treated as complete.",
+        "explanation": "本文中の根拠と正解「A useful classification can become misleading when treated as complete.」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-41-q04",
+        "type": "reading",
+        "question": "In context, which word is closest in meaning to “reliable” in the passage?",
+        "choices": [
+          "reliable",
+          "visible",
+          "unrelated",
+          "complete"
+        ],
+        "answer": "reliable",
+        "explanation": "本文中の根拠と正解「reliable」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-41-q05",
+        "type": "reading",
+        "question": "What is the main purpose of the passage?",
+        "choices": [
+          "To encourage analysis that keeps assumptions and limits visible.",
+          "To prove that a single method is always correct.",
+          "To argue that evidence should be ignored.",
+          "To describe a fictional event without making a general point."
+        ],
+        "answer": "To encourage analysis that keeps assumptions and limits visible.",
+        "explanation": "本文中の根拠と正解「To encourage analysis that keeps assumptions and limits visible.」が一致する箇所を確認する。",
+        "isLastInPassage": true,
+        "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。"
+      }
+    ],
+    "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。",
+    "targetMinutes": 10,
+    "tags": [
+      "reading-v14",
+      "hard"
+    ]
+  },
+  {
+    "id": "r-v14-hard-42",
+    "type": "reading",
+    "level": "hard",
+    "title": "Complexity and Institutional Memory",
+    "passage": "Institutions often behave as though categories merely describe reality, but categories can also shape what an institution notices. Once a classification becomes routine, observations that do not fit it may be treated as exceptions rather than as evidence that the classification itself is incomplete.\n\nThis creates a subtle problem. An institution can become more efficient at processing familiar cases while simultaneously becoming less sensitive to unfamiliar ones. Correcting the problem requires more than adding another category. It may require examining the assumptions that determined which distinctions were considered important in the first place.\n\nThe argument is not that categories are useless. On the contrary, categories make coordination possible. The difficulty arises when a useful tool is mistaken for a complete description and the unclassified remainder disappears from view.\n\nThe title, then, points to a question of method rather than a single answer. The most reliable approach is to distinguish observation from interpretation and to state the limits of the evidence alongside the conclusion.",
+    "questions": [
+      {
+        "id": "r-v14-hard-42-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "The passage argues for careful attention to conditions and evidence.",
+          "The passage claims one rule explains every case.",
+          "The passage rejects observation as unnecessary.",
+          "The passage says measurement never helps."
+        ],
+        "answer": "The passage argues for careful attention to conditions and evidence.",
+        "explanation": "本文中の根拠と正解「The passage argues for careful attention to conditions and evidence.」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-42-q02",
+        "type": "reading",
+        "question": "Which statement is supported by the passage?",
+        "choices": [
+          "Categories can shape what institutions notice.",
+          "Categories always provide a complete description.",
+          "Unfamiliar cases should be discarded.",
+          "Efficiency and awareness are always identical."
+        ],
+        "answer": "Categories can shape what institutions notice.",
+        "explanation": "本文中の根拠と正解「Categories can shape what institutions notice.」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-42-q03",
+        "type": "reading",
+        "question": "What distinction does the author emphasize?",
+        "choices": [
+          "A useful classification can become misleading when treated as complete.",
+          "Institutions should eliminate all categories.",
+          "Efficiency always reduces the need for judgment.",
+          "Exceptions have no analytical value."
+        ],
+        "answer": "A useful classification can become misleading when treated as complete.",
+        "explanation": "本文中の根拠と正解「A useful classification can become misleading when treated as complete.」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-42-q04",
+        "type": "reading",
+        "question": "In context, which word is closest in meaning to “reliable” in the passage?",
+        "choices": [
+          "reliable",
+          "visible",
+          "unrelated",
+          "complete"
+        ],
+        "answer": "reliable",
+        "explanation": "本文中の根拠と正解「reliable」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-42-q05",
+        "type": "reading",
+        "question": "Which conclusion is most consistent with the passage?",
+        "choices": [
+          "To encourage analysis that keeps assumptions and limits visible.",
+          "To prove that a single method is always correct.",
+          "To argue that evidence should be ignored.",
+          "To describe a fictional event without making a general point."
+        ],
+        "answer": "To encourage analysis that keeps assumptions and limits visible.",
+        "explanation": "本文中の根拠と正解「To encourage analysis that keeps assumptions and limits visible.」が一致する箇所を確認する。",
+        "isLastInPassage": true,
+        "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。"
+      }
+    ],
+    "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。",
+    "targetMinutes": 10,
+    "tags": [
+      "reading-v14",
+      "hard"
+    ]
+  },
+  {
+    "id": "r-v14-hard-43",
+    "type": "reading",
+    "level": "hard",
+    "title": "The Value of Redundancy",
+    "passage": "Institutions often behave as though categories merely describe reality, but categories can also shape what an institution notices. Once a classification becomes routine, observations that do not fit it may be treated as exceptions rather than as evidence that the classification itself is incomplete.\n\nThis creates a subtle problem. An institution can become more efficient at processing familiar cases while simultaneously becoming less sensitive to unfamiliar ones. Correcting the problem requires more than adding another category. It may require examining the assumptions that determined which distinctions were considered important in the first place.\n\nThe argument is not that categories are useless. On the contrary, categories make coordination possible. The difficulty arises when a useful tool is mistaken for a complete description and the unclassified remainder disappears from view.\n\nThe title, then, points to a question of method rather than a single answer. The most reliable approach is to distinguish observation from interpretation and to state the limits of the evidence alongside the conclusion.",
+    "questions": [
+      {
+        "id": "r-v14-hard-43-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "The passage argues for careful attention to conditions and evidence.",
+          "The passage claims one rule explains every case.",
+          "The passage rejects observation as unnecessary.",
+          "The passage says measurement never helps."
+        ],
+        "answer": "The passage argues for careful attention to conditions and evidence.",
+        "explanation": "本文中の根拠と正解「The passage argues for careful attention to conditions and evidence.」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-43-q02",
+        "type": "reading",
+        "question": "Which statement is supported by the passage?",
+        "choices": [
+          "Categories can shape what institutions notice.",
+          "Categories always provide a complete description.",
+          "Unfamiliar cases should be discarded.",
+          "Efficiency and awareness are always identical."
+        ],
+        "answer": "Categories can shape what institutions notice.",
+        "explanation": "本文中の根拠と正解「Categories can shape what institutions notice.」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-43-q03",
+        "type": "reading",
+        "question": "What distinction does the author emphasize?",
+        "choices": [
+          "A useful classification can become misleading when treated as complete.",
+          "Institutions should eliminate all categories.",
+          "Efficiency always reduces the need for judgment.",
+          "Exceptions have no analytical value."
+        ],
+        "answer": "A useful classification can become misleading when treated as complete.",
+        "explanation": "本文中の根拠と正解「A useful classification can become misleading when treated as complete.」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-43-q04",
+        "type": "reading",
+        "question": "In context, which word is closest in meaning to “reliable” in the passage?",
+        "choices": [
+          "reliable",
+          "visible",
+          "unrelated",
+          "complete"
+        ],
+        "answer": "reliable",
+        "explanation": "本文中の根拠と正解「reliable」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-43-q05",
+        "type": "reading",
+        "question": "What is the main purpose of the passage?",
+        "choices": [
+          "To encourage analysis that keeps assumptions and limits visible.",
+          "To prove that a single method is always correct.",
+          "To argue that evidence should be ignored.",
+          "To describe a fictional event without making a general point."
+        ],
+        "answer": "To encourage analysis that keeps assumptions and limits visible.",
+        "explanation": "本文中の根拠と正解「To encourage analysis that keeps assumptions and limits visible.」が一致する箇所を確認する。",
+        "isLastInPassage": true,
+        "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。"
+      }
+    ],
+    "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。",
+    "targetMinutes": 10,
+    "tags": [
+      "reading-v14",
+      "hard"
+    ]
+  },
+  {
+    "id": "r-v14-hard-44",
+    "type": "reading",
+    "level": "hard",
+    "title": "What Experiments Cannot Tell Us",
+    "passage": "Institutions often behave as though categories merely describe reality, but categories can also shape what an institution notices. Once a classification becomes routine, observations that do not fit it may be treated as exceptions rather than as evidence that the classification itself is incomplete.\n\nThis creates a subtle problem. An institution can become more efficient at processing familiar cases while simultaneously becoming less sensitive to unfamiliar ones. Correcting the problem requires more than adding another category. It may require examining the assumptions that determined which distinctions were considered important in the first place.\n\nThe argument is not that categories are useless. On the contrary, categories make coordination possible. The difficulty arises when a useful tool is mistaken for a complete description and the unclassified remainder disappears from view.\n\nThe title, then, points to a question of method rather than a single answer. The most reliable approach is to distinguish observation from interpretation and to state the limits of the evidence alongside the conclusion.",
+    "questions": [
+      {
+        "id": "r-v14-hard-44-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "The passage argues for careful attention to conditions and evidence.",
+          "The passage claims one rule explains every case.",
+          "The passage rejects observation as unnecessary.",
+          "The passage says measurement never helps."
+        ],
+        "answer": "The passage argues for careful attention to conditions and evidence.",
+        "explanation": "本文中の根拠と正解「The passage argues for careful attention to conditions and evidence.」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-44-q02",
+        "type": "reading",
+        "question": "Which statement is supported by the passage?",
+        "choices": [
+          "Categories can shape what institutions notice.",
+          "Categories always provide a complete description.",
+          "Unfamiliar cases should be discarded.",
+          "Efficiency and awareness are always identical."
+        ],
+        "answer": "Categories can shape what institutions notice.",
+        "explanation": "本文中の根拠と正解「Categories can shape what institutions notice.」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-44-q03",
+        "type": "reading",
+        "question": "What distinction does the author emphasize?",
+        "choices": [
+          "A useful classification can become misleading when treated as complete.",
+          "Institutions should eliminate all categories.",
+          "Efficiency always reduces the need for judgment.",
+          "Exceptions have no analytical value."
+        ],
+        "answer": "A useful classification can become misleading when treated as complete.",
+        "explanation": "本文中の根拠と正解「A useful classification can become misleading when treated as complete.」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-44-q04",
+        "type": "reading",
+        "question": "In context, which word is closest in meaning to “reliable” in the passage?",
+        "choices": [
+          "reliable",
+          "visible",
+          "unrelated",
+          "complete"
+        ],
+        "answer": "reliable",
+        "explanation": "本文中の根拠と正解「reliable」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-44-q05",
+        "type": "reading",
+        "question": "Which conclusion is most consistent with the passage?",
+        "choices": [
+          "To encourage analysis that keeps assumptions and limits visible.",
+          "To prove that a single method is always correct.",
+          "To argue that evidence should be ignored.",
+          "To describe a fictional event without making a general point."
+        ],
+        "answer": "To encourage analysis that keeps assumptions and limits visible.",
+        "explanation": "本文中の根拠と正解「To encourage analysis that keeps assumptions and limits visible.」が一致する箇所を確認する。",
+        "isLastInPassage": true,
+        "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。"
+      }
+    ],
+    "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。",
+    "targetMinutes": 10,
+    "tags": [
+      "reading-v14",
+      "hard"
+    ]
+  },
+  {
+    "id": "r-v14-hard-45",
+    "type": "reading",
+    "level": "hard",
+    "title": "Reasoning Under Conflicting Evidence",
+    "passage": "Institutions often behave as though categories merely describe reality, but categories can also shape what an institution notices. Once a classification becomes routine, observations that do not fit it may be treated as exceptions rather than as evidence that the classification itself is incomplete.\n\nThis creates a subtle problem. An institution can become more efficient at processing familiar cases while simultaneously becoming less sensitive to unfamiliar ones. Correcting the problem requires more than adding another category. It may require examining the assumptions that determined which distinctions were considered important in the first place.\n\nThe argument is not that categories are useless. On the contrary, categories make coordination possible. The difficulty arises when a useful tool is mistaken for a complete description and the unclassified remainder disappears from view.\n\nThe title, then, points to a question of method rather than a single answer. The most reliable approach is to distinguish observation from interpretation and to state the limits of the evidence alongside the conclusion.",
+    "questions": [
+      {
+        "id": "r-v14-hard-45-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "The passage argues for careful attention to conditions and evidence.",
+          "The passage claims one rule explains every case.",
+          "The passage rejects observation as unnecessary.",
+          "The passage says measurement never helps."
+        ],
+        "answer": "The passage argues for careful attention to conditions and evidence.",
+        "explanation": "本文中の根拠と正解「The passage argues for careful attention to conditions and evidence.」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-45-q02",
+        "type": "reading",
+        "question": "Which statement is supported by the passage?",
+        "choices": [
+          "Categories can shape what institutions notice.",
+          "Categories always provide a complete description.",
+          "Unfamiliar cases should be discarded.",
+          "Efficiency and awareness are always identical."
+        ],
+        "answer": "Categories can shape what institutions notice.",
+        "explanation": "本文中の根拠と正解「Categories can shape what institutions notice.」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-45-q03",
+        "type": "reading",
+        "question": "What distinction does the author emphasize?",
+        "choices": [
+          "A useful classification can become misleading when treated as complete.",
+          "Institutions should eliminate all categories.",
+          "Efficiency always reduces the need for judgment.",
+          "Exceptions have no analytical value."
+        ],
+        "answer": "A useful classification can become misleading when treated as complete.",
+        "explanation": "本文中の根拠と正解「A useful classification can become misleading when treated as complete.」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-45-q04",
+        "type": "reading",
+        "question": "In context, which word is closest in meaning to “reliable” in the passage?",
+        "choices": [
+          "reliable",
+          "visible",
+          "unrelated",
+          "complete"
+        ],
+        "answer": "reliable",
+        "explanation": "本文中の根拠と正解「reliable」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-45-q05",
+        "type": "reading",
+        "question": "What is the main purpose of the passage?",
+        "choices": [
+          "To encourage analysis that keeps assumptions and limits visible.",
+          "To prove that a single method is always correct.",
+          "To argue that evidence should be ignored.",
+          "To describe a fictional event without making a general point."
+        ],
+        "answer": "To encourage analysis that keeps assumptions and limits visible.",
+        "explanation": "本文中の根拠と正解「To encourage analysis that keeps assumptions and limits visible.」が一致する箇所を確認する。",
+        "isLastInPassage": true,
+        "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。"
+      }
+    ],
+    "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。",
+    "targetMinutes": 10,
+    "tags": [
+      "reading-v14",
+      "hard"
+    ]
+  },
+  {
+    "id": "r-v14-hard-46",
+    "type": "reading",
+    "level": "hard",
+    "title": "The Architecture of Public Knowledge",
+    "passage": "Institutions often behave as though categories merely describe reality, but categories can also shape what an institution notices. Once a classification becomes routine, observations that do not fit it may be treated as exceptions rather than as evidence that the classification itself is incomplete.\n\nThis creates a subtle problem. An institution can become more efficient at processing familiar cases while simultaneously becoming less sensitive to unfamiliar ones. Correcting the problem requires more than adding another category. It may require examining the assumptions that determined which distinctions were considered important in the first place.\n\nThe argument is not that categories are useless. On the contrary, categories make coordination possible. The difficulty arises when a useful tool is mistaken for a complete description and the unclassified remainder disappears from view.\n\nThe title, then, points to a question of method rather than a single answer. The most reliable approach is to distinguish observation from interpretation and to state the limits of the evidence alongside the conclusion.",
+    "questions": [
+      {
+        "id": "r-v14-hard-46-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "The passage argues for careful attention to conditions and evidence.",
+          "The passage claims one rule explains every case.",
+          "The passage rejects observation as unnecessary.",
+          "The passage says measurement never helps."
+        ],
+        "answer": "The passage argues for careful attention to conditions and evidence.",
+        "explanation": "本文中の根拠と正解「The passage argues for careful attention to conditions and evidence.」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-46-q02",
+        "type": "reading",
+        "question": "Which statement is supported by the passage?",
+        "choices": [
+          "Categories can shape what institutions notice.",
+          "Categories always provide a complete description.",
+          "Unfamiliar cases should be discarded.",
+          "Efficiency and awareness are always identical."
+        ],
+        "answer": "Categories can shape what institutions notice.",
+        "explanation": "本文中の根拠と正解「Categories can shape what institutions notice.」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-46-q03",
+        "type": "reading",
+        "question": "What distinction does the author emphasize?",
+        "choices": [
+          "A useful classification can become misleading when treated as complete.",
+          "Institutions should eliminate all categories.",
+          "Efficiency always reduces the need for judgment.",
+          "Exceptions have no analytical value."
+        ],
+        "answer": "A useful classification can become misleading when treated as complete.",
+        "explanation": "本文中の根拠と正解「A useful classification can become misleading when treated as complete.」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-46-q04",
+        "type": "reading",
+        "question": "In context, which word is closest in meaning to “reliable” in the passage?",
+        "choices": [
+          "reliable",
+          "visible",
+          "unrelated",
+          "complete"
+        ],
+        "answer": "reliable",
+        "explanation": "本文中の根拠と正解「reliable」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-46-q05",
+        "type": "reading",
+        "question": "Which conclusion is most consistent with the passage?",
+        "choices": [
+          "To encourage analysis that keeps assumptions and limits visible.",
+          "To prove that a single method is always correct.",
+          "To argue that evidence should be ignored.",
+          "To describe a fictional event without making a general point."
+        ],
+        "answer": "To encourage analysis that keeps assumptions and limits visible.",
+        "explanation": "本文中の根拠と正解「To encourage analysis that keeps assumptions and limits visible.」が一致する箇所を確認する。",
+        "isLastInPassage": true,
+        "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。"
+      }
+    ],
+    "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。",
+    "targetMinutes": 10,
+    "tags": [
+      "reading-v14",
+      "hard"
+    ]
+  },
+  {
+    "id": "r-v14-hard-47",
+    "type": "reading",
+    "level": "hard",
+    "title": "Why Rare Events Shape Systems",
+    "passage": "Institutions often behave as though categories merely describe reality, but categories can also shape what an institution notices. Once a classification becomes routine, observations that do not fit it may be treated as exceptions rather than as evidence that the classification itself is incomplete.\n\nThis creates a subtle problem. An institution can become more efficient at processing familiar cases while simultaneously becoming less sensitive to unfamiliar ones. Correcting the problem requires more than adding another category. It may require examining the assumptions that determined which distinctions were considered important in the first place.\n\nThe argument is not that categories are useless. On the contrary, categories make coordination possible. The difficulty arises when a useful tool is mistaken for a complete description and the unclassified remainder disappears from view.\n\nThe title, then, points to a question of method rather than a single answer. The most reliable approach is to distinguish observation from interpretation and to state the limits of the evidence alongside the conclusion.",
+    "questions": [
+      {
+        "id": "r-v14-hard-47-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "The passage argues for careful attention to conditions and evidence.",
+          "The passage claims one rule explains every case.",
+          "The passage rejects observation as unnecessary.",
+          "The passage says measurement never helps."
+        ],
+        "answer": "The passage argues for careful attention to conditions and evidence.",
+        "explanation": "本文中の根拠と正解「The passage argues for careful attention to conditions and evidence.」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-47-q02",
+        "type": "reading",
+        "question": "Which statement is supported by the passage?",
+        "choices": [
+          "Categories can shape what institutions notice.",
+          "Categories always provide a complete description.",
+          "Unfamiliar cases should be discarded.",
+          "Efficiency and awareness are always identical."
+        ],
+        "answer": "Categories can shape what institutions notice.",
+        "explanation": "本文中の根拠と正解「Categories can shape what institutions notice.」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-47-q03",
+        "type": "reading",
+        "question": "What distinction does the author emphasize?",
+        "choices": [
+          "A useful classification can become misleading when treated as complete.",
+          "Institutions should eliminate all categories.",
+          "Efficiency always reduces the need for judgment.",
+          "Exceptions have no analytical value."
+        ],
+        "answer": "A useful classification can become misleading when treated as complete.",
+        "explanation": "本文中の根拠と正解「A useful classification can become misleading when treated as complete.」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-47-q04",
+        "type": "reading",
+        "question": "In context, which word is closest in meaning to “reliable” in the passage?",
+        "choices": [
+          "reliable",
+          "visible",
+          "unrelated",
+          "complete"
+        ],
+        "answer": "reliable",
+        "explanation": "本文中の根拠と正解「reliable」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-47-q05",
+        "type": "reading",
+        "question": "What is the main purpose of the passage?",
+        "choices": [
+          "To encourage analysis that keeps assumptions and limits visible.",
+          "To prove that a single method is always correct.",
+          "To argue that evidence should be ignored.",
+          "To describe a fictional event without making a general point."
+        ],
+        "answer": "To encourage analysis that keeps assumptions and limits visible.",
+        "explanation": "本文中の根拠と正解「To encourage analysis that keeps assumptions and limits visible.」が一致する箇所を確認する。",
+        "isLastInPassage": true,
+        "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。"
+      }
+    ],
+    "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。",
+    "targetMinutes": 10,
+    "tags": [
+      "reading-v14",
+      "hard"
+    ]
+  },
+  {
+    "id": "r-v14-hard-48",
+    "type": "reading",
+    "level": "hard",
+    "title": "The Uses of Strategic Ignorance",
+    "passage": "Institutions often behave as though categories merely describe reality, but categories can also shape what an institution notices. Once a classification becomes routine, observations that do not fit it may be treated as exceptions rather than as evidence that the classification itself is incomplete.\n\nThis creates a subtle problem. An institution can become more efficient at processing familiar cases while simultaneously becoming less sensitive to unfamiliar ones. Correcting the problem requires more than adding another category. It may require examining the assumptions that determined which distinctions were considered important in the first place.\n\nThe argument is not that categories are useless. On the contrary, categories make coordination possible. The difficulty arises when a useful tool is mistaken for a complete description and the unclassified remainder disappears from view.\n\nThe title, then, points to a question of method rather than a single answer. The most reliable approach is to distinguish observation from interpretation and to state the limits of the evidence alongside the conclusion.",
+    "questions": [
+      {
+        "id": "r-v14-hard-48-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "The passage argues for careful attention to conditions and evidence.",
+          "The passage claims one rule explains every case.",
+          "The passage rejects observation as unnecessary.",
+          "The passage says measurement never helps."
+        ],
+        "answer": "The passage argues for careful attention to conditions and evidence.",
+        "explanation": "本文中の根拠と正解「The passage argues for careful attention to conditions and evidence.」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-48-q02",
+        "type": "reading",
+        "question": "Which statement is supported by the passage?",
+        "choices": [
+          "Categories can shape what institutions notice.",
+          "Categories always provide a complete description.",
+          "Unfamiliar cases should be discarded.",
+          "Efficiency and awareness are always identical."
+        ],
+        "answer": "Categories can shape what institutions notice.",
+        "explanation": "本文中の根拠と正解「Categories can shape what institutions notice.」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-48-q03",
+        "type": "reading",
+        "question": "What distinction does the author emphasize?",
+        "choices": [
+          "A useful classification can become misleading when treated as complete.",
+          "Institutions should eliminate all categories.",
+          "Efficiency always reduces the need for judgment.",
+          "Exceptions have no analytical value."
+        ],
+        "answer": "A useful classification can become misleading when treated as complete.",
+        "explanation": "本文中の根拠と正解「A useful classification can become misleading when treated as complete.」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-48-q04",
+        "type": "reading",
+        "question": "In context, which word is closest in meaning to “reliable” in the passage?",
+        "choices": [
+          "reliable",
+          "visible",
+          "unrelated",
+          "complete"
+        ],
+        "answer": "reliable",
+        "explanation": "本文中の根拠と正解「reliable」が一致する箇所を確認する。"
+      },
+      {
+        "id": "r-v14-hard-48-q05",
+        "type": "reading",
+        "question": "Which conclusion is most consistent with the passage?",
+        "choices": [
+          "To encourage analysis that keeps assumptions and limits visible.",
+          "To prove that a single method is always correct.",
+          "To argue that evidence should be ignored.",
+          "To describe a fictional event without making a general point."
+        ],
+        "answer": "To encourage analysis that keeps assumptions and limits visible.",
+        "explanation": "本文中の根拠と正解「To encourage analysis that keeps assumptions and limits visible.」が一致する箇所を確認する。",
+        "isLastInPassage": true,
+        "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。"
+      }
+    ],
+    "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。",
+    "targetMinutes": 10,
+    "tags": [
+      "reading-v14",
+      "hard"
+    ]
+  }
+]

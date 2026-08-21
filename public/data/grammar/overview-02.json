@@ -1,0 +1,242 @@
+[
+  {
+    "id": "g-overview-101",
+    "type": "grammar_overview",
+    "level": "overview",
+    "topic": "文型",
+    "question": "文型",
+    "prompt": "要点",
+    "choices": [
+      {
+        "text": "SV / SVC / SVO / SVOO / SVOC を見抜き、まず文の骨格を確定する。",
+        "correct": true
+      }
+    ],
+    "answer": "SV / SVC / SVO / SVOO / SVOC を見抜き、まず文の骨格を確定する。",
+    "explanation": "SV / SVC / SVO / SVOO / SVOC を見抜き、まず文の骨格を確定する。"
+  },
+  {
+    "id": "g-overview-102",
+    "type": "grammar_overview",
+    "level": "overview",
+    "topic": "時制",
+    "question": "時制",
+    "prompt": "要点",
+    "choices": [
+      {
+        "text": "現在・過去・未来に加え、完了形と進行形の組み合わせを時間関係で判断する。",
+        "correct": true
+      }
+    ],
+    "answer": "現在・過去・未来に加え、完了形と進行形の組み合わせを時間関係で判断する。",
+    "explanation": "現在・過去・未来に加え、完了形と進行形の組み合わせを時間関係で判断する。"
+  },
+  {
+    "id": "g-overview-103",
+    "type": "grammar_overview",
+    "level": "overview",
+    "topic": "助動詞",
+    "question": "助動詞",
+    "prompt": "要点",
+    "choices": [
+      {
+        "text": "can, may, must, should, will などは話者の判断・許可・義務などの意味を持つ。",
+        "correct": true
+      }
+    ],
+    "answer": "can, may, must, should, will などは話者の判断・許可・義務などの意味を持つ。",
+    "explanation": "can, may, must, should, will などは話者の判断・許可・義務などの意味を持つ。"
+  },
+  {
+    "id": "g-overview-104",
+    "type": "grammar_overview",
+    "level": "overview",
+    "topic": "受動態",
+    "question": "受動態",
+    "prompt": "要点",
+    "choices": [
+      {
+        "text": "be + 過去分詞を基本に、進行形・完了形・助動詞との組み合わせも確認する。",
+        "correct": true
+      }
+    ],
+    "answer": "be + 過去分詞を基本に、進行形・完了形・助動詞との組み合わせも確認する。",
+    "explanation": "be + 過去分詞を基本に、進行形・完了形・助動詞との組み合わせも確認する。"
+  },
+  {
+    "id": "g-overview-105",
+    "type": "grammar_overview",
+    "level": "overview",
+    "topic": "不定詞",
+    "question": "不定詞",
+    "prompt": "要点",
+    "choices": [
+      {
+        "text": "名詞的・形容詞的・副詞的用法を区別し、to do の意味上の関係を考える。",
+        "correct": true
+      }
+    ],
+    "answer": "名詞的・形容詞的・副詞的用法を区別し、to do の意味上の関係を考える。",
+    "explanation": "名詞的・形容詞的・副詞的用法を区別し、to do の意味上の関係を考える。"
+  },
+  {
+    "id": "g-overview-106",
+    "type": "grammar_overview",
+    "level": "overview",
+    "topic": "動名詞",
+    "question": "動名詞",
+    "prompt": "要点",
+    "choices": [
+      {
+        "text": "動詞の性質を持つ名詞。前置詞の後や特定の動詞の目的語で重要。",
+        "correct": true
+      }
+    ],
+    "answer": "動詞の性質を持つ名詞。前置詞の後や特定の動詞の目的語で重要。",
+    "explanation": "動詞の性質を持つ名詞。前置詞の後や特定の動詞の目的語で重要。"
+  },
+  {
+    "id": "g-overview-107",
+    "type": "grammar_overview",
+    "level": "overview",
+    "topic": "分詞",
+    "question": "分詞",
+    "prompt": "要点",
+    "choices": [
+      {
+        "text": "現在分詞と過去分詞による修飾・補語・分詞構文を確認する。",
+        "correct": true
+      }
+    ],
+    "answer": "現在分詞と過去分詞による修飾・補語・分詞構文を確認する。",
+    "explanation": "現在分詞と過去分詞による修飾・補語・分詞構文を確認する。"
+  },
+  {
+    "id": "g-overview-108",
+    "type": "grammar_overview",
+    "level": "overview",
+    "topic": "関係詞",
+    "question": "関係詞",
+    "prompt": "要点",
+    "choices": [
+      {
+        "text": "先行詞と関係詞節の中での役割を確認し、関係代名詞と関係副詞を区別する。",
+        "correct": true
+      }
+    ],
+    "answer": "先行詞と関係詞節の中での役割を確認し、関係代名詞と関係副詞を区別する。",
+    "explanation": "先行詞と関係詞節の中での役割を確認し、関係代名詞と関係副詞を区別する。"
+  },
+  {
+    "id": "g-overview-109",
+    "type": "grammar_overview",
+    "level": "overview",
+    "topic": "比較",
+    "question": "比較",
+    "prompt": "要点",
+    "choices": [
+      {
+        "text": "原級・比較級・最上級に加えて、比較構文や慣用表現を処理する。",
+        "correct": true
+      }
+    ],
+    "answer": "原級・比較級・最上級に加えて、比較構文や慣用表現を処理する。",
+    "explanation": "原級・比較級・最上級に加えて、比較構文や慣用表現を処理する。"
+  },
+  {
+    "id": "g-overview-110",
+    "type": "grammar_overview",
+    "level": "overview",
+    "topic": "仮定法",
+    "question": "仮定法",
+    "prompt": "要点",
+    "choices": [
+      {
+        "text": "現在・過去の事実に反する仮定、wish、as if、要求・提案の that 節を整理する。",
+        "correct": true
+      }
+    ],
+    "answer": "現在・過去の事実に反する仮定、wish、as if、要求・提案の that 節を整理する。",
+    "explanation": "現在・過去の事実に反する仮定、wish、as if、要求・提案の that 節を整理する。"
+  },
+  {
+    "id": "g-overview-111",
+    "type": "grammar_overview",
+    "level": "overview",
+    "topic": "接続詞",
+    "question": "接続詞",
+    "prompt": "要点",
+    "choices": [
+      {
+        "text": "等位・従属の関係を把握し、節と節の論理関係を判断する。",
+        "correct": true
+      }
+    ],
+    "answer": "等位・従属の関係を把握し、節と節の論理関係を判断する。",
+    "explanation": "等位・従属の関係を把握し、節と節の論理関係を判断する。"
+  },
+  {
+    "id": "g-overview-112",
+    "type": "grammar_overview",
+    "level": "overview",
+    "topic": "前置詞",
+    "question": "前置詞",
+    "prompt": "要点",
+    "choices": [
+      {
+        "text": "後ろに名詞相当語句を取り、熟語・語法の一部として意味を取る。",
+        "correct": true
+      }
+    ],
+    "answer": "後ろに名詞相当語句を取り、熟語・語法の一部として意味を取る。",
+    "explanation": "後ろに名詞相当語句を取り、熟語・語法の一部として意味を取る。"
+  },
+  {
+    "id": "g-overview-113",
+    "type": "grammar_overview",
+    "level": "overview",
+    "topic": "倒置・強調",
+    "question": "倒置・強調",
+    "prompt": "要点",
+    "choices": [
+      {
+        "text": "否定・半否定語の文頭移動や It is/was ～ that/who を確実にする。",
+        "correct": true
+      }
+    ],
+    "answer": "否定・半否定語の文頭移動や It is/was ～ that/who を確実にする。",
+    "explanation": "否定・半否定語の文頭移動や It is/was ～ that/who を確実にする。"
+  },
+  {
+    "id": "g-overview-114",
+    "type": "grammar_overview",
+    "level": "overview",
+    "topic": "省略",
+    "question": "省略",
+    "prompt": "要点",
+    "choices": [
+      {
+        "text": "英語で省略されやすい要素を補って文構造を復元する。",
+        "correct": true
+      }
+    ],
+    "answer": "英語で省略されやすい要素を補って文構造を復元する。",
+    "explanation": "英語で省略されやすい要素を補って文構造を復元する。"
+  },
+  {
+    "id": "g-overview-115",
+    "type": "grammar_overview",
+    "level": "overview",
+    "topic": "同格",
+    "question": "同格",
+    "prompt": "要点",
+    "choices": [
+      {
+        "text": "名詞 + that 節などで、前の名詞の内容を後ろから説明する関係。",
+        "correct": true
+      }
+    ],
+    "answer": "名詞 + that 節などで、前の名詞の内容を後ろから説明する関係。",
+    "explanation": "名詞 + that 節などで、前の名詞の内容を後ろから説明する関係。"
+  }
+]

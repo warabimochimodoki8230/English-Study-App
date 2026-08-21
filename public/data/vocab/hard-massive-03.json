@@ -1,0 +1,3156 @@
+[
+  {
+    "id": "v-massive-hard-0001",
+    "type": "vocab",
+    "level": "hard",
+    "word": "abstruse",
+    "meaning": "難解な",
+    "pos": "adj",
+    "question": "abstruse",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "難解な",
+    "explanation": "",
+    "exampleSentence": "The researchers considered the abstruse option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、難解なな選択肢を検討した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0002",
+    "type": "vocab",
+    "level": "hard",
+    "word": "alacrity",
+    "meaning": "敏活・快活さ",
+    "pos": "n",
+    "question": "alacrity",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "敏活・快活さ",
+    "explanation": "",
+    "exampleSentence": "The report describes the alacrity in detail.",
+    "exampleJa": "その報告書は敏活・快活さについて詳しく説明している。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0003",
+    "type": "vocab",
+    "level": "hard",
+    "word": "belie",
+    "meaning": "～と矛盾する・偽る",
+    "pos": "v",
+    "question": "belie",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "～と矛盾する・偽る",
+    "explanation": "",
+    "exampleSentence": "The team worked together to belie the issue.",
+    "exampleJa": "チームはその問題を～と矛盾する・偽るするために協力した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0004",
+    "type": "vocab",
+    "level": "hard",
+    "word": "derivative",
+    "meaning": "派生的な・派生物",
+    "pos": "n",
+    "question": "derivative",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "派生的な・派生物",
+    "explanation": "",
+    "exampleSentence": "The derivative became an important part of the discussion.",
+    "exampleJa": "派生的な・派生物は議論の重要な一部となった。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0005",
+    "type": "vocab",
+    "level": "hard",
+    "word": "dispassionate",
+    "meaning": "冷静な・公平な",
+    "pos": "adj",
+    "question": "dispassionate",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "冷静な・公平な",
+    "explanation": "",
+    "exampleSentence": "The method is considered dispassionate for small experiments.",
+    "exampleJa": "その方法は小規模な実験に冷静な・公平なと考えられている。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0006",
+    "type": "vocab",
+    "level": "hard",
+    "word": "equivocate",
+    "meaning": "ごまかして答える",
+    "pos": "v",
+    "question": "equivocate",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "ごまかして答える",
+    "explanation": "",
+    "exampleSentence": "Many people equivocate differently when the situation changes.",
+    "exampleJa": "状況が変化すると、多くの人はそれぞれ異なるごまかして答える方をする。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0007",
+    "type": "vocab",
+    "level": "hard",
+    "word": "fledgling",
+    "meaning": "駆け出しの",
+    "pos": "adj",
+    "question": "fledgling",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "駆け出しの",
+    "explanation": "",
+    "exampleSentence": "The researchers considered the fledgling option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、駆け出しのな選択肢を検討した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0008",
+    "type": "vocab",
+    "level": "hard",
+    "word": "harrowing",
+    "meaning": "つらい・苦しい",
+    "pos": "adj",
+    "question": "harrowing",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "つらい・苦しい",
+    "explanation": "",
+    "exampleSentence": "The team chose a harrowing approach to the problem.",
+    "exampleJa": "チームはその問題に対してつらい・苦しいという方法を選んだ。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0009",
+    "type": "vocab",
+    "level": "hard",
+    "word": "malleable",
+    "meaning": "柔軟な・可鍛性の",
+    "pos": "adj",
+    "question": "malleable",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "柔軟な・可鍛性の",
+    "explanation": "",
+    "exampleSentence": "The report describes the malleable characteristics of the system.",
+    "exampleJa": "その報告書はシステムの柔軟な・可鍛性のという特徴を詳しく説明している。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0010",
+    "type": "vocab",
+    "level": "hard",
+    "word": "misanthropic",
+    "meaning": "人間嫌いの",
+    "pos": "adj",
+    "question": "misanthropic",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "人間嫌いの",
+    "explanation": "",
+    "exampleSentence": "The researchers considered the misanthropic option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、人間嫌いのな選択肢を検討した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0011",
+    "type": "vocab",
+    "level": "hard",
+    "word": "moot",
+    "meaning": "議論の余地のある・実際上無意味な",
+    "pos": "adj",
+    "question": "moot",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "議論の余地のある・実際上無意味な",
+    "explanation": "",
+    "exampleSentence": "The team chose a moot approach to the problem.",
+    "exampleJa": "チームはその問題に対して議論の余地のある・実際上無意味なという方法を選んだ。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0012",
+    "type": "vocab",
+    "level": "hard",
+    "word": "munificent",
+    "meaning": "気前のよい",
+    "pos": "adj",
+    "question": "munificent",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "気前のよい",
+    "explanation": "",
+    "exampleSentence": "The report describes the munificent characteristics of the system.",
+    "exampleJa": "その報告書はシステムの気前のよいという特徴を詳しく説明している。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0013",
+    "type": "vocab",
+    "level": "hard",
+    "word": "prodigality",
+    "meaning": "浪費",
+    "pos": "n",
+    "question": "prodigality",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "浪費",
+    "explanation": "",
+    "exampleSentence": "The prodigality became an important part of the discussion.",
+    "exampleJa": "浪費は議論の重要な一部となった。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0014",
+    "type": "vocab",
+    "level": "hard",
+    "word": "quell",
+    "meaning": "鎮める",
+    "pos": "v",
+    "question": "quell",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "鎮める",
+    "explanation": "",
+    "exampleSentence": "The process can quell under certain conditions.",
+    "exampleJa": "その過程は特定の条件下では鎮めることができる。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0015",
+    "type": "vocab",
+    "level": "hard",
+    "word": "reprehensible",
+    "meaning": "非難されるべき",
+    "pos": "adj",
+    "question": "reprehensible",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "非難されるべき",
+    "explanation": "",
+    "exampleSentence": "The report describes the reprehensible characteristics of the system.",
+    "exampleJa": "その報告書はシステムの非難されるべきという特徴を詳しく説明している。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0016",
+    "type": "vocab",
+    "level": "hard",
+    "word": "rescind",
+    "meaning": "撤回する・無効にする",
+    "pos": "v",
+    "question": "rescind",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "撤回する・無効にする",
+    "explanation": "",
+    "exampleSentence": "The company plans to rescind the new system next year.",
+    "exampleJa": "その会社は来年、新しいシステムを撤回する・無効にする予定だ。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0017",
+    "type": "vocab",
+    "level": "hard",
+    "word": "retaliate",
+    "meaning": "報復する",
+    "pos": "v",
+    "question": "retaliate",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "報復する",
+    "explanation": "",
+    "exampleSentence": "The researchers need to retaliate the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を報復する必要がある。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0018",
+    "type": "vocab",
+    "level": "hard",
+    "word": "salubrious",
+    "meaning": "健康によい",
+    "pos": "adj",
+    "question": "salubrious",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "健康によい",
+    "explanation": "",
+    "exampleSentence": "The report describes the salubrious characteristics of the system.",
+    "exampleJa": "その報告書はシステムの健康によいという特徴を詳しく説明している。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0019",
+    "type": "vocab",
+    "level": "hard",
+    "word": "sedentary",
+    "meaning": "座りがちな",
+    "pos": "adj",
+    "question": "sedentary",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "座りがちな",
+    "explanation": "",
+    "exampleSentence": "The researchers considered the sedentary option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、座りがちなな選択肢を検討した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0020",
+    "type": "vocab",
+    "level": "hard",
+    "word": "solicitous",
+    "meaning": "心配して・気を配って",
+    "pos": "adj",
+    "question": "solicitous",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "心配して・気を配って",
+    "explanation": "",
+    "exampleSentence": "The team chose a solicitous approach to the problem.",
+    "exampleJa": "チームはその問題に対して心配して・気を配ってという方法を選んだ。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0021",
+    "type": "vocab",
+    "level": "hard",
+    "word": "spartan",
+    "meaning": "質素な",
+    "pos": "adj",
+    "question": "spartan",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "質素な",
+    "explanation": "",
+    "exampleSentence": "The report describes the spartan characteristics of the system.",
+    "exampleJa": "その報告書はシステムの質素なという特徴を詳しく説明している。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0022",
+    "type": "vocab",
+    "level": "hard",
+    "word": "supercilious",
+    "meaning": "人を見下した",
+    "pos": "adj",
+    "question": "supercilious",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "人を見下した",
+    "explanation": "",
+    "exampleSentence": "The researchers considered the supercilious option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、人を見下したな選択肢を検討した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0023",
+    "type": "vocab",
+    "level": "hard",
+    "word": "taciturn",
+    "meaning": "無口な",
+    "pos": "adj",
+    "question": "taciturn",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "無口な",
+    "explanation": "",
+    "exampleSentence": "The team chose a taciturn approach to the problem.",
+    "exampleJa": "チームはその問題に対して無口なという方法を選んだ。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0024",
+    "type": "vocab",
+    "level": "hard",
+    "word": "unctuous",
+    "meaning": "お世辞たらたらの",
+    "pos": "adj",
+    "question": "unctuous",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "お世辞たらたらの",
+    "explanation": "",
+    "exampleSentence": "The report describes the unctuous characteristics of the system.",
+    "exampleJa": "その報告書はシステムのお世辞たらたらのという特徴を詳しく説明している。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0025",
+    "type": "vocab",
+    "level": "hard",
+    "word": "veracity",
+    "meaning": "真実性",
+    "pos": "n",
+    "question": "veracity",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "真実性",
+    "explanation": "",
+    "exampleSentence": "The veracity became an important part of the discussion.",
+    "exampleJa": "真実性は議論の重要な一部となった。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0026",
+    "type": "vocab",
+    "level": "hard",
+    "word": "winsome",
+    "meaning": "愛嬌のある",
+    "pos": "adj",
+    "question": "winsome",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "愛嬌のある",
+    "explanation": "",
+    "exampleSentence": "The team chose a winsome approach to the problem.",
+    "exampleJa": "チームはその問題に対して愛嬌のあるという方法を選んだ。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0027",
+    "type": "vocab",
+    "level": "hard",
+    "word": "abeyance",
+    "meaning": "保留",
+    "pos": "n",
+    "question": "abeyance",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "保留",
+    "explanation": "",
+    "exampleSentence": "The committee considered the abeyance before making its decision.",
+    "exampleJa": "委員会は決定を下す前に保留を検討した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0028",
+    "type": "vocab",
+    "level": "hard",
+    "word": "abjure",
+    "meaning": "放棄する",
+    "pos": "v",
+    "question": "abjure",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "放棄する",
+    "explanation": "",
+    "exampleSentence": "The company plans to abjure the new system next year.",
+    "exampleJa": "その会社は来年、新しいシステムを放棄する予定だ。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0029",
+    "type": "vocab",
+    "level": "hard",
+    "word": "abstemious",
+    "meaning": "節制した",
+    "pos": "adj",
+    "question": "abstemious",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "節制した",
+    "explanation": "",
+    "exampleSentence": "The team chose a abstemious approach to the problem.",
+    "exampleJa": "チームはその問題に対して節制したという方法を選んだ。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0030",
+    "type": "vocab",
+    "level": "hard",
+    "word": "acerbic",
+    "meaning": "辛辣な",
+    "pos": "adj",
+    "question": "acerbic",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "辛辣な",
+    "explanation": "",
+    "exampleSentence": "The report describes the acerbic characteristics of the system.",
+    "exampleJa": "その報告書はシステムの辛辣なという特徴を詳しく説明している。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0031",
+    "type": "vocab",
+    "level": "hard",
+    "word": "adulterate",
+    "meaning": "混ぜ物で質を落とす",
+    "pos": "v",
+    "question": "adulterate",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "混ぜ物で質を落とす",
+    "explanation": "",
+    "exampleSentence": "The researchers observed how the situation changed when they adulterate.",
+    "exampleJa": "研究者たちは、彼らが混ぜ物で質を落とすしたときに状況がどう変化したかを観察した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0032",
+    "type": "vocab",
+    "level": "hard",
+    "word": "affinity",
+    "meaning": "親和性・類似性",
+    "pos": "n",
+    "question": "affinity",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "親和性・類似性",
+    "explanation": "",
+    "exampleSentence": "The affinity explained the situation to the committee.",
+    "exampleJa": "親和性・類似性は委員会にその状況を説明した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0033",
+    "type": "vocab",
+    "level": "hard",
+    "word": "aggrandize",
+    "meaning": "増大させる",
+    "pos": "v",
+    "question": "aggrandize",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "増大させる",
+    "explanation": "",
+    "exampleSentence": "The team worked together to aggrandize the issue.",
+    "exampleJa": "チームはその問題を増大させるするために協力した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0034",
+    "type": "vocab",
+    "level": "hard",
+    "word": "altruistic",
+    "meaning": "利他的な",
+    "pos": "adj",
+    "question": "altruistic",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "利他的な",
+    "explanation": "",
+    "exampleSentence": "The researchers considered the altruistic option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、利他的なな選択肢を検討した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0035",
+    "type": "vocab",
+    "level": "hard",
+    "word": "amelioration",
+    "meaning": "改善",
+    "pos": "n",
+    "question": "amelioration",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "改善",
+    "explanation": "",
+    "exampleSentence": "The report describes the amelioration in detail.",
+    "exampleJa": "その報告書は改善について詳しく説明している。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0036",
+    "type": "vocab",
+    "level": "hard",
+    "word": "antithesis",
+    "meaning": "正反対・対照",
+    "pos": "n",
+    "question": "antithesis",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "正反対・対照",
+    "explanation": "",
+    "exampleSentence": "The committee considered the antithesis before making its decision.",
+    "exampleJa": "委員会は決定を下す前に正反対・対照を検討した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0037",
+    "type": "vocab",
+    "level": "hard",
+    "word": "arcane",
+    "meaning": "難解な",
+    "pos": "adj",
+    "question": "arcane",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "難解な",
+    "explanation": "",
+    "exampleSentence": "The researchers considered the arcane option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、難解なな選択肢を検討した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0038",
+    "type": "vocab",
+    "level": "hard",
+    "word": "assuage",
+    "meaning": "和らげる",
+    "pos": "v",
+    "question": "assuage",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "和らげる",
+    "explanation": "",
+    "exampleSentence": "The process can assuage under certain conditions.",
+    "exampleJa": "その過程は特定の条件下では和らげることができる。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0039",
+    "type": "vocab",
+    "level": "hard",
+    "word": "attenuate",
+    "meaning": "弱める",
+    "pos": "v",
+    "question": "attenuate",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "弱める",
+    "explanation": "",
+    "exampleSentence": "Better planning can attenuate unnecessary costs.",
+    "exampleJa": "より良い計画を立てれば、不必要な費用を弱めることができる。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0040",
+    "type": "vocab",
+    "level": "hard",
+    "word": "augury",
+    "meaning": "前兆",
+    "pos": "n",
+    "question": "augury",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "前兆",
+    "explanation": "",
+    "exampleSentence": "The augury became an important part of the discussion.",
+    "exampleJa": "前兆は議論の重要な一部となった。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0041",
+    "type": "vocab",
+    "level": "hard",
+    "word": "aver",
+    "meaning": "断言する",
+    "pos": "v",
+    "question": "aver",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "断言する",
+    "explanation": "",
+    "exampleSentence": "The researchers need to aver the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を断言する必要がある。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0042",
+    "type": "vocab",
+    "level": "hard",
+    "word": "bifurcate",
+    "meaning": "二分する",
+    "pos": "v",
+    "question": "bifurcate",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "二分する",
+    "explanation": "",
+    "exampleSentence": "The team worked together to bifurcate the issue.",
+    "exampleJa": "チームはその問題を二分するために協力した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0043",
+    "type": "vocab",
+    "level": "hard",
+    "word": "blithe",
+    "meaning": "軽率な・陽気な",
+    "pos": "adj",
+    "question": "blithe",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "軽率な・陽気な",
+    "explanation": "",
+    "exampleSentence": "The researchers considered the blithe option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、軽率な・陽気なな選択肢を検討した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0044",
+    "type": "vocab",
+    "level": "hard",
+    "word": "bombard",
+    "meaning": "浴びせる",
+    "pos": "v",
+    "question": "bombard",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "浴びせる",
+    "explanation": "",
+    "exampleSentence": "The process can bombard under certain conditions.",
+    "exampleJa": "その過程は特定の条件下では浴びせることができる。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0045",
+    "type": "vocab",
+    "level": "hard",
+    "word": "circumscribe",
+    "meaning": "制限する・囲む",
+    "pos": "v",
+    "question": "circumscribe",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "制限する・囲む",
+    "explanation": "",
+    "exampleSentence": "Better planning can circumscribe unnecessary costs.",
+    "exampleJa": "より良い計画を立てれば、不必要な費用を制限する・囲むことができる。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0046",
+    "type": "vocab",
+    "level": "hard",
+    "word": "clandestine",
+    "meaning": "秘密の",
+    "pos": "adj",
+    "question": "clandestine",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "秘密の",
+    "explanation": "",
+    "exampleSentence": "The researchers considered the clandestine option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、秘密のな選択肢を検討した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0047",
+    "type": "vocab",
+    "level": "hard",
+    "word": "coalesce",
+    "meaning": "合体する",
+    "pos": "v",
+    "question": "coalesce",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "合体する",
+    "explanation": "",
+    "exampleSentence": "The researchers need to coalesce the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を合体する必要がある。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0048",
+    "type": "vocab",
+    "level": "hard",
+    "word": "cogitate",
+    "meaning": "熟考する",
+    "pos": "v",
+    "question": "cogitate",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "熟考する",
+    "explanation": "",
+    "exampleSentence": "The team worked together to cogitate the issue.",
+    "exampleJa": "チームはその問題を熟考するために協力した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0049",
+    "type": "vocab",
+    "level": "hard",
+    "word": "concomitant",
+    "meaning": "付随する",
+    "pos": "adj",
+    "question": "concomitant",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "付随する",
+    "explanation": "",
+    "exampleSentence": "The researchers considered the concomitant option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、付随するな選択肢を検討した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0050",
+    "type": "vocab",
+    "level": "hard",
+    "word": "conflagration",
+    "meaning": "大火",
+    "pos": "n",
+    "question": "conflagration",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "大火",
+    "explanation": "",
+    "exampleSentence": "The report describes the conflagration in detail.",
+    "exampleJa": "その報告書は大火について詳しく説明している。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0051",
+    "type": "vocab",
+    "level": "hard",
+    "word": "convivial",
+    "meaning": "陽気で社交的な",
+    "pos": "adj",
+    "question": "convivial",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "陽気で社交的な",
+    "explanation": "",
+    "exampleSentence": "The report describes the convivial characteristics of the system.",
+    "exampleJa": "その報告書はシステムの陽気で社交的なという特徴を詳しく説明している。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0052",
+    "type": "vocab",
+    "level": "hard",
+    "word": "corollary",
+    "meaning": "当然の結果",
+    "pos": "n",
+    "question": "corollary",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "当然の結果",
+    "explanation": "",
+    "exampleSentence": "The committee discussed the corollary during the meeting.",
+    "exampleJa": "この文は「当然の結果」という内容を表している。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0053",
+    "type": "vocab",
+    "level": "hard",
+    "word": "culpable",
+    "meaning": "有罪の・非難されるべき",
+    "pos": "adj",
+    "question": "culpable",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "有罪の・非難されるべき",
+    "explanation": "",
+    "exampleSentence": "The team chose a culpable approach to the problem.",
+    "exampleJa": "チームはその問題に対して有罪の・非難されるべきという方法を選んだ。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0054",
+    "type": "vocab",
+    "level": "hard",
+    "word": "demur",
+    "meaning": "異議を唱える",
+    "pos": "v",
+    "question": "demur",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "異議を唱える",
+    "explanation": "",
+    "exampleSentence": "Many people demur differently when the situation changes.",
+    "exampleJa": "状況が変化すると、多くの人はそれぞれ異なる異議を唱える方をする。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0055",
+    "type": "vocab",
+    "level": "hard",
+    "word": "derogatory",
+    "meaning": "軽蔑的な",
+    "pos": "adj",
+    "question": "derogatory",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "軽蔑的な",
+    "explanation": "",
+    "exampleSentence": "The researchers considered the derogatory option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、軽蔑的なな選択肢を検討した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0056",
+    "type": "vocab",
+    "level": "hard",
+    "word": "desultory",
+    "meaning": "散漫な",
+    "pos": "adj",
+    "question": "desultory",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "散漫な",
+    "explanation": "",
+    "exampleSentence": "The team chose a desultory approach to the problem.",
+    "exampleJa": "チームはその問題に対して散漫なという方法を選んだ。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0057",
+    "type": "vocab",
+    "level": "hard",
+    "word": "diatribe",
+    "meaning": "激しい非難演説",
+    "pos": "n",
+    "question": "diatribe",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "激しい非難演説",
+    "explanation": "",
+    "exampleSentence": "The committee considered the diatribe before making its decision.",
+    "exampleJa": "委員会は決定を下す前に激しい非難演説を検討した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0058",
+    "type": "vocab",
+    "level": "hard",
+    "word": "disabuse",
+    "meaning": "誤解を解く",
+    "pos": "v",
+    "question": "disabuse",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "誤解を解く",
+    "explanation": "",
+    "exampleSentence": "The researchers observed how the situation changed when they disabuse.",
+    "exampleJa": "研究者たちは、彼らが誤解を解くしたときに状況がどう変化したかを観察した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0059",
+    "type": "vocab",
+    "level": "hard",
+    "word": "disparage",
+    "meaning": "軽蔑する",
+    "pos": "v",
+    "question": "disparage",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "軽蔑する",
+    "explanation": "",
+    "exampleSentence": "The researchers need to disparage the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を軽蔑する必要がある。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0060",
+    "type": "vocab",
+    "level": "hard",
+    "word": "dissipate",
+    "meaning": "散らす・浪費する",
+    "pos": "v",
+    "question": "dissipate",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "散らす・浪費する",
+    "explanation": "",
+    "exampleSentence": "The team worked together to dissipate the issue.",
+    "exampleJa": "チームはその問題を散らす・浪費するために協力した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0061",
+    "type": "vocab",
+    "level": "hard",
+    "word": "dissemble",
+    "meaning": "本心を隠す",
+    "pos": "v",
+    "question": "dissemble",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "本心を隠す",
+    "explanation": "",
+    "exampleSentence": "The researchers observed how the situation changed when they dissemble.",
+    "exampleJa": "研究者たちは、彼らが本心を隠すしたときに状況がどう変化したかを観察した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0063",
+    "type": "vocab",
+    "level": "hard",
+    "word": "efficacy",
+    "meaning": "有効性",
+    "pos": "n",
+    "question": "efficacy",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "有効性",
+    "explanation": "",
+    "exampleSentence": "The report describes the efficacy in detail.",
+    "exampleJa": "その報告書は有効性について詳しく説明している。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0064",
+    "type": "vocab",
+    "level": "hard",
+    "word": "effrontery",
+    "meaning": "厚かましさ",
+    "pos": "n",
+    "question": "effrontery",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "厚かましさ",
+    "explanation": "",
+    "exampleSentence": "The committee considered the effrontery before making its decision.",
+    "exampleJa": "委員会は決定を下す前に厚かましさを検討した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0065",
+    "type": "vocab",
+    "level": "hard",
+    "word": "enervate",
+    "meaning": "弱らせる",
+    "pos": "v",
+    "question": "enervate",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "弱らせる",
+    "explanation": "",
+    "exampleSentence": "The researchers observed how the situation changed when they enervate.",
+    "exampleJa": "研究者たちは、彼らが弱らせるしたときに状況がどう変化したかを観察した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0066",
+    "type": "vocab",
+    "level": "hard",
+    "word": "enfranchise",
+    "meaning": "選挙権を与える",
+    "pos": "v",
+    "question": "enfranchise",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "選挙権を与える",
+    "explanation": "",
+    "exampleSentence": "The process can enfranchise under certain conditions.",
+    "exampleJa": "その過程は特定の条件下では選挙権を与えることができる。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0067",
+    "type": "vocab",
+    "level": "hard",
+    "word": "entrench",
+    "meaning": "深く根付かせる",
+    "pos": "v",
+    "question": "entrench",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "深く根付かせる",
+    "explanation": "",
+    "exampleSentence": "Many people entrench differently when the situation changes.",
+    "exampleJa": "状況が変化すると、多くの人はそれぞれ異なる深く根付かせる方をする。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0068",
+    "type": "vocab",
+    "level": "hard",
+    "word": "epitome",
+    "meaning": "典型・縮図",
+    "pos": "n",
+    "question": "epitome",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "典型・縮図",
+    "explanation": "",
+    "exampleSentence": "The researchers identified a new type of epitome.",
+    "exampleJa": "研究者たちは、典型・縮図ことを検討した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0069",
+    "type": "vocab",
+    "level": "hard",
+    "word": "equanimity",
+    "meaning": "平静",
+    "pos": "n",
+    "question": "equanimity",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "平静",
+    "explanation": "",
+    "exampleSentence": "The report describes the equanimity in detail.",
+    "exampleJa": "その報告書は平静について詳しく説明している。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0070",
+    "type": "vocab",
+    "level": "hard",
+    "word": "eschew",
+    "meaning": "避ける",
+    "pos": "v",
+    "question": "eschew",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "避ける",
+    "explanation": "",
+    "exampleSentence": "Better planning can eschew unnecessary costs.",
+    "exampleJa": "より良い計画を立てれば、不必要な費用を避けることができる。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0071",
+    "type": "vocab",
+    "level": "hard",
+    "word": "excoriate",
+    "meaning": "厳しく非難する",
+    "pos": "v",
+    "question": "excoriate",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "厳しく非難する",
+    "explanation": "",
+    "exampleSentence": "The company plans to excoriate the new system next year.",
+    "exampleJa": "その会社は来年、新しいシステムを厳しく非難する予定だ。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0072",
+    "type": "vocab",
+    "level": "hard",
+    "word": "exigent",
+    "meaning": "差し迫った",
+    "pos": "adj",
+    "question": "exigent",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "差し迫った",
+    "explanation": "",
+    "exampleSentence": "The team chose a exigent approach to the problem.",
+    "exampleJa": "チームはその問題に対して差し迫ったという方法を選んだ。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0073",
+    "type": "vocab",
+    "level": "hard",
+    "word": "exonerate",
+    "meaning": "免罪する",
+    "pos": "v",
+    "question": "exonerate",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "免罪する",
+    "explanation": "",
+    "exampleSentence": "The team worked together to exonerate the issue.",
+    "exampleJa": "チームはその問題を免罪するために協力した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0074",
+    "type": "vocab",
+    "level": "hard",
+    "word": "expunge",
+    "meaning": "削除する・抹消する",
+    "pos": "v",
+    "question": "expunge",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "削除する・抹消する",
+    "explanation": "",
+    "exampleSentence": "The committee decided to expunge the new plan next month.",
+    "exampleJa": "この文では「削除する・抹消する」という動作を表している。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0075",
+    "type": "vocab",
+    "level": "hard",
+    "word": "extant",
+    "meaning": "現存する",
+    "pos": "adj",
+    "question": "extant",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "現存する",
+    "explanation": "",
+    "exampleSentence": "The team chose a extant approach to the problem.",
+    "exampleJa": "チームはその問題に対して現存という方法を選んだ。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0076",
+    "type": "vocab",
+    "level": "hard",
+    "word": "facile",
+    "meaning": "安易な・容易な",
+    "pos": "adj",
+    "question": "facile",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "安易な・容易な",
+    "explanation": "",
+    "exampleSentence": "The plan appears facile after the latest review.",
+    "exampleJa": "最新の検討後、その計画は安易な・容易なように見える。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0077",
+    "type": "vocab",
+    "level": "hard",
+    "word": "fallacious",
+    "meaning": "誤った・論理的に誤りのある",
+    "pos": "adj",
+    "question": "fallacious",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "誤った・論理的に誤りのある",
+    "explanation": "",
+    "exampleSentence": "The researchers considered the fallacious option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、誤った・論理的に誤りのあるな選択肢を検討した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0078",
+    "type": "vocab",
+    "level": "hard",
+    "word": "fathom",
+    "meaning": "理解する",
+    "pos": "v",
+    "question": "fathom",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "理解する",
+    "explanation": "",
+    "exampleSentence": "The researchers need to fathom the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を理解する必要がある。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0079",
+    "type": "vocab",
+    "level": "hard",
+    "word": "feckless",
+    "meaning": "無気力な",
+    "pos": "adj",
+    "question": "feckless",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "無気力な",
+    "explanation": "",
+    "exampleSentence": "The report describes the feckless characteristics of the system.",
+    "exampleJa": "その報告書はシステムの無気力なという特徴を詳しく説明している。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0080",
+    "type": "vocab",
+    "level": "hard",
+    "word": "felicitous",
+    "meaning": "適切な・うまい",
+    "pos": "adj",
+    "question": "felicitous",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "適切な・うまい",
+    "explanation": "",
+    "exampleSentence": "The proposed solution is felicitous under the current conditions.",
+    "exampleJa": "提案された解決策は、現在の条件では適切な・うまい。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0081",
+    "type": "vocab",
+    "level": "hard",
+    "word": "florid",
+    "meaning": "華美な・花のような",
+    "pos": "adj",
+    "question": "florid",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "華美な・花のような",
+    "explanation": "",
+    "exampleSentence": "The team chose a florid approach to the problem.",
+    "exampleJa": "チームはその問題に対して華美な・花のようなという方法を選んだ。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0082",
+    "type": "vocab",
+    "level": "hard",
+    "word": "foible",
+    "meaning": "弱点・癖",
+    "pos": "n",
+    "question": "foible",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "弱点・癖",
+    "explanation": "",
+    "exampleSentence": "The committee considered the foible before making its decision.",
+    "exampleJa": "委員会は決定を下す前に弱点・癖を検討した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0083",
+    "type": "vocab",
+    "level": "hard",
+    "word": "fractious",
+    "meaning": "扱いにくい・不機嫌な",
+    "pos": "adj",
+    "question": "fractious",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "扱いにくい・不機嫌な",
+    "explanation": "",
+    "exampleSentence": "The researchers considered the fractious option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、扱いにくい・不機嫌なな選択肢を検討した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0084",
+    "type": "vocab",
+    "level": "hard",
+    "word": "fulsome",
+    "meaning": "過度にへつらう",
+    "pos": "adj",
+    "question": "fulsome",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "過度にへつらう",
+    "explanation": "",
+    "exampleSentence": "The team chose a fulsome approach to the problem.",
+    "exampleJa": "チームはその問題に対して過度にへつらうという方法を選んだ。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0085",
+    "type": "vocab",
+    "level": "hard",
+    "word": "germane",
+    "meaning": "密接に関係する",
+    "pos": "adj",
+    "question": "germane",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "密接に関係する",
+    "explanation": "",
+    "exampleSentence": "The report describes the germane characteristics of the system.",
+    "exampleJa": "その報告書はシステムの密接に関係という特徴を詳しく説明している。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0086",
+    "type": "vocab",
+    "level": "hard",
+    "word": "glaciate",
+    "meaning": "氷河で覆う",
+    "pos": "v",
+    "question": "glaciate",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "氷河で覆う",
+    "explanation": "",
+    "exampleSentence": "The researchers observed how the situation changed when they glaciate.",
+    "exampleJa": "研究者たちは、彼らが氷河で覆うしたときに状況がどう変化したかを観察した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0087",
+    "type": "vocab",
+    "level": "hard",
+    "word": "gregarious",
+    "meaning": "社交的な",
+    "pos": "adj",
+    "question": "gregarious",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "社交的な",
+    "explanation": "",
+    "exampleSentence": "The team chose a gregarious approach to the problem.",
+    "exampleJa": "チームはその問題に対して社交的なという方法を選んだ。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0088",
+    "type": "vocab",
+    "level": "hard",
+    "word": "harangue",
+    "meaning": "長広舌・激しい演説",
+    "pos": "n",
+    "question": "harangue",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "長広舌・激しい演説",
+    "explanation": "",
+    "exampleSentence": "The committee considered the harangue before making its decision.",
+    "exampleJa": "委員会は決定を下す前に長広舌・激しい演説を検討した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0089",
+    "type": "vocab",
+    "level": "hard",
+    "word": "hegemony",
+    "meaning": "覇権",
+    "pos": "n",
+    "question": "hegemony",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "覇権",
+    "explanation": "",
+    "exampleSentence": "The hegemony became an important part of the discussion.",
+    "exampleJa": "覇権は議論の重要な一部となった。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0090",
+    "type": "vocab",
+    "level": "hard",
+    "word": "iconoclast",
+    "meaning": "因習打破主義者",
+    "pos": "n",
+    "question": "iconoclast",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "因習打破主義者",
+    "explanation": "",
+    "exampleSentence": "She expressed her iconoclast during the discussion.",
+    "exampleJa": "この文は「因習打破主義者」という内容を表している。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0091",
+    "type": "vocab",
+    "level": "hard",
+    "word": "idiosyncratic",
+    "meaning": "独特な",
+    "pos": "adj",
+    "question": "idiosyncratic",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "独特な",
+    "explanation": "",
+    "exampleSentence": "The report describes the idiosyncratic characteristics of the system.",
+    "exampleJa": "その報告書はシステムの独特なという特徴を詳しく説明している。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0092",
+    "type": "vocab",
+    "level": "hard",
+    "word": "ignominious",
+    "meaning": "不名誉な",
+    "pos": "adj",
+    "question": "ignominious",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "不名誉な",
+    "explanation": "",
+    "exampleSentence": "The researchers considered the ignominious option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、不名誉なな選択肢を検討した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0093",
+    "type": "vocab",
+    "level": "hard",
+    "word": "immutable",
+    "meaning": "不変の",
+    "pos": "adj",
+    "question": "immutable",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "不変の",
+    "explanation": "",
+    "exampleSentence": "The team chose a immutable approach to the problem.",
+    "exampleJa": "チームはその問題に対して不変のという方法を選んだ。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0094",
+    "type": "vocab",
+    "level": "hard",
+    "word": "impugn",
+    "meaning": "疑問視する",
+    "pos": "v",
+    "question": "impugn",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "疑問視する",
+    "explanation": "",
+    "exampleSentence": "The team worked together to impugn the issue.",
+    "exampleJa": "チームはその問題を疑問視するために協力した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0095",
+    "type": "vocab",
+    "level": "hard",
+    "word": "impute",
+    "meaning": "帰する",
+    "pos": "v",
+    "question": "impute",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "帰する",
+    "explanation": "",
+    "exampleSentence": "The company plans to impute the new system next year.",
+    "exampleJa": "その会社は来年、新しいシステムを帰する予定だ。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0096",
+    "type": "vocab",
+    "level": "hard",
+    "word": "inchoate",
+    "meaning": "未発達の",
+    "pos": "adj",
+    "question": "inchoate",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "未発達の",
+    "explanation": "",
+    "exampleSentence": "The team chose a inchoate approach to the problem.",
+    "exampleJa": "チームはその問題に対して未発達のという方法を選んだ。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0097",
+    "type": "vocab",
+    "level": "hard",
+    "word": "incorrigible",
+    "meaning": "矯正できない",
+    "pos": "adj",
+    "question": "incorrigible",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "矯正できない",
+    "explanation": "",
+    "exampleSentence": "The report describes the incorrigible characteristics of the system.",
+    "exampleJa": "その報告書はシステムの矯正できないという特徴を詳しく説明している。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0098",
+    "type": "vocab",
+    "level": "hard",
+    "word": "incredulous",
+    "meaning": "信用しない",
+    "pos": "adj",
+    "question": "incredulous",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "信用しない",
+    "explanation": "",
+    "exampleSentence": "The researchers considered the incredulous option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、信用しないな選択肢を検討した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0099",
+    "type": "vocab",
+    "level": "hard",
+    "word": "indefatigable",
+    "meaning": "疲れを知らない",
+    "pos": "adj",
+    "question": "indefatigable",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "疲れを知らない",
+    "explanation": "",
+    "exampleSentence": "The team chose a indefatigable approach to the problem.",
+    "exampleJa": "チームはその問題に対して疲れを知らないという方法を選んだ。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0100",
+    "type": "vocab",
+    "level": "hard",
+    "word": "inscrutable",
+    "meaning": "不可解な",
+    "pos": "adj",
+    "question": "inscrutable",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "不可解な",
+    "explanation": "",
+    "exampleSentence": "The report describes the inscrutable characteristics of the system.",
+    "exampleJa": "その報告書はシステムの不可解なという特徴を詳しく説明している。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0101",
+    "type": "vocab",
+    "level": "hard",
+    "word": "insuperable",
+    "meaning": "克服できない",
+    "pos": "adj",
+    "question": "insuperable",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "克服できない",
+    "explanation": "",
+    "exampleSentence": "The researchers considered the insuperable option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、克服できないな選択肢を検討した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0102",
+    "type": "vocab",
+    "level": "hard",
+    "word": "interpolate",
+    "meaning": "挿入する",
+    "pos": "v",
+    "question": "interpolate",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "挿入する",
+    "explanation": "",
+    "exampleSentence": "The researchers need to interpolate the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を挿入する必要がある。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0103",
+    "type": "vocab",
+    "level": "hard",
+    "word": "invective",
+    "meaning": "悪口・罵倒",
+    "pos": "n",
+    "question": "invective",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "悪口・罵倒",
+    "explanation": "",
+    "exampleSentence": "The committee considered the invective before making its decision.",
+    "exampleJa": "委員会は決定を下す前に悪口・罵倒を検討した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0104",
+    "type": "vocab",
+    "level": "hard",
+    "word": "invidious",
+    "meaning": "ねたましい・不公平な",
+    "pos": "adj",
+    "question": "invidious",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "ねたましい・不公平な",
+    "explanation": "",
+    "exampleSentence": "The proposed solution is invidious under the current conditions.",
+    "exampleJa": "提案された解決策は、現在の条件ではねたましい・不公平な。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0105",
+    "type": "vocab",
+    "level": "hard",
+    "word": "irresolute",
+    "meaning": "優柔不断な",
+    "pos": "adj",
+    "question": "irresolute",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "優柔不断な",
+    "explanation": "",
+    "exampleSentence": "The team chose a irresolute approach to the problem.",
+    "exampleJa": "チームはその問題に対して優柔不断なという方法を選んだ。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0106",
+    "type": "vocab",
+    "level": "hard",
+    "word": "juxtapose",
+    "meaning": "並べて比較する",
+    "pos": "v",
+    "question": "juxtapose",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "並べて比較する",
+    "explanation": "",
+    "exampleSentence": "The team worked together to juxtapose the issue.",
+    "exampleJa": "チームはその問題を並べて比較するために協力した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0107",
+    "type": "vocab",
+    "level": "hard",
+    "word": "legerdemain",
+    "meaning": "巧妙なごまかし",
+    "pos": "n",
+    "question": "legerdemain",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "巧妙なごまかし",
+    "explanation": "",
+    "exampleSentence": "The legerdemain became an important part of the discussion.",
+    "exampleJa": "巧妙なごまかしは議論の重要な一部となった。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0108",
+    "type": "vocab",
+    "level": "hard",
+    "word": "limpid",
+    "meaning": "澄んだ・明快な",
+    "pos": "adj",
+    "question": "limpid",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "澄んだ・明快な",
+    "explanation": "",
+    "exampleSentence": "The team chose a limpid approach to the problem.",
+    "exampleJa": "チームはその問題に対して澄んだ・明快なという方法を選んだ。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0109",
+    "type": "vocab",
+    "level": "hard",
+    "word": "loquacious",
+    "meaning": "多弁な",
+    "pos": "adj",
+    "question": "loquacious",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "多弁な",
+    "explanation": "",
+    "exampleSentence": "The report describes the loquacious characteristics of the system.",
+    "exampleJa": "その報告書はシステムの多弁なという特徴を詳しく説明している。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0110",
+    "type": "vocab",
+    "level": "hard",
+    "word": "lugubrious",
+    "meaning": "陰気な",
+    "pos": "adj",
+    "question": "lugubrious",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "陰気な",
+    "explanation": "",
+    "exampleSentence": "The researchers considered the lugubrious option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、陰気なな選択肢を検討した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0111",
+    "type": "vocab",
+    "level": "hard",
+    "word": "maladroit",
+    "meaning": "不器用な",
+    "pos": "adj",
+    "question": "maladroit",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "不器用な",
+    "explanation": "",
+    "exampleSentence": "The team chose a maladroit approach to the problem.",
+    "exampleJa": "チームはその問題に対して不器用なという方法を選んだ。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0112",
+    "type": "vocab",
+    "level": "hard",
+    "word": "malfeasance",
+    "meaning": "不正行為",
+    "pos": "n",
+    "question": "malfeasance",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "不正行為",
+    "explanation": "",
+    "exampleSentence": "The committee considered the malfeasance before making its decision.",
+    "exampleJa": "委員会は決定を下す前に不正行為を検討した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0113",
+    "type": "vocab",
+    "level": "hard",
+    "word": "mawkish",
+    "meaning": "感傷的すぎる",
+    "pos": "adj",
+    "question": "mawkish",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "感傷的すぎる",
+    "explanation": "",
+    "exampleSentence": "The researchers considered the mawkish option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、感傷的すぎるな選択肢を検討した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0114",
+    "type": "vocab",
+    "level": "hard",
+    "word": "mendicant",
+    "meaning": "物乞い",
+    "pos": "n",
+    "question": "mendicant",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "物乞い",
+    "explanation": "",
+    "exampleSentence": "The report describes the mendicant in detail.",
+    "exampleJa": "その報告書は物乞いについて詳しく説明している。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0115",
+    "type": "vocab",
+    "level": "hard",
+    "word": "misnomer",
+    "meaning": "誤った名称",
+    "pos": "n",
+    "question": "misnomer",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "誤った名称",
+    "explanation": "",
+    "exampleSentence": "The committee considered the misnomer before making its decision.",
+    "exampleJa": "委員会は決定を下す前に誤った名称を検討した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0116",
+    "type": "vocab",
+    "level": "hard",
+    "word": "mollify",
+    "meaning": "なだめる",
+    "pos": "v",
+    "question": "mollify",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "なだめる",
+    "explanation": "",
+    "exampleSentence": "The researchers observed how the situation changed when they mollify.",
+    "exampleJa": "研究者たちは、彼らがなだめるしたときに状況がどう変化したかを観察した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0117",
+    "type": "vocab",
+    "level": "hard",
+    "word": "moribund",
+    "meaning": "消滅寸前の",
+    "pos": "adj",
+    "question": "moribund",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "消滅寸前の",
+    "explanation": "",
+    "exampleSentence": "The team chose a moribund approach to the problem.",
+    "exampleJa": "チームはその問題に対して消滅寸前のという方法を選んだ。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0118",
+    "type": "vocab",
+    "level": "hard",
+    "word": "neologism",
+    "meaning": "新語",
+    "pos": "n",
+    "question": "neologism",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "新語",
+    "explanation": "",
+    "exampleSentence": "The committee considered the neologism before making its decision.",
+    "exampleJa": "委員会は決定を下す前に新語を検討した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0119",
+    "type": "vocab",
+    "level": "hard",
+    "word": "obviate",
+    "meaning": "不要にする・取り除く",
+    "pos": "v",
+    "question": "obviate",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "不要にする・取り除く",
+    "explanation": "",
+    "exampleSentence": "The company plans to obviate the new system next year.",
+    "exampleJa": "その会社は来年、新しいシステムを不要にする・取り除くする予定だ。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0120",
+    "type": "vocab",
+    "level": "hard",
+    "word": "occult",
+    "meaning": "隠された・神秘的な",
+    "pos": "adj",
+    "question": "occult",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "隠された・神秘的な",
+    "explanation": "",
+    "exampleSentence": "The team chose a occult approach to the problem.",
+    "exampleJa": "チームはその問題に対して隠された・神秘的なという方法を選んだ。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0121",
+    "type": "vocab",
+    "level": "hard",
+    "word": "opprobrium",
+    "meaning": "非難・恥辱",
+    "pos": "n",
+    "question": "opprobrium",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "非難・恥辱",
+    "explanation": "",
+    "exampleSentence": "The committee considered the opprobrium before making its decision.",
+    "exampleJa": "委員会は決定を下す前に非難・恥辱を検討した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0122",
+    "type": "vocab",
+    "level": "hard",
+    "word": "ossify",
+    "meaning": "硬直化する",
+    "pos": "v",
+    "question": "ossify",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "硬直化する",
+    "explanation": "",
+    "exampleSentence": "The company plans to ossify the new system next year.",
+    "exampleJa": "その会社は来年、新しいシステムを硬直化する予定だ。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0123",
+    "type": "vocab",
+    "level": "hard",
+    "word": "palliative",
+    "meaning": "緩和的な",
+    "pos": "adj",
+    "question": "palliative",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "緩和的な",
+    "explanation": "",
+    "exampleSentence": "The team chose a palliative approach to the problem.",
+    "exampleJa": "チームはその問題に対して緩和的なという方法を選んだ。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0124",
+    "type": "vocab",
+    "level": "hard",
+    "word": "panacea",
+    "meaning": "万能薬",
+    "pos": "n",
+    "question": "panacea",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "万能薬",
+    "explanation": "",
+    "exampleSentence": "Researchers are studying how panacea affects human health.",
+    "exampleJa": "この文は「万能薬」という内容を表している。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0125",
+    "type": "vocab",
+    "level": "hard",
+    "word": "parochial",
+    "meaning": "偏狭な",
+    "pos": "adj",
+    "question": "parochial",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "偏狭な",
+    "explanation": "",
+    "exampleSentence": "The researchers considered the parochial option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、偏狭なな選択肢を検討した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0126",
+    "type": "vocab",
+    "level": "hard",
+    "word": "penchant",
+    "meaning": "強い好み",
+    "pos": "n",
+    "question": "penchant",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "強い好み",
+    "explanation": "",
+    "exampleSentence": "The report describes the penchant in detail.",
+    "exampleJa": "その報告書は強い好みについて詳しく説明している。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0127",
+    "type": "vocab",
+    "level": "hard",
+    "word": "perfidious",
+    "meaning": "不誠実な",
+    "pos": "adj",
+    "question": "perfidious",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "不誠実な",
+    "explanation": "",
+    "exampleSentence": "The report describes the perfidious characteristics of the system.",
+    "exampleJa": "その報告書はシステムの不誠実なという特徴を詳しく説明している。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0128",
+    "type": "vocab",
+    "level": "hard",
+    "word": "pernicious",
+    "meaning": "有害な",
+    "pos": "adj",
+    "question": "pernicious",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "有害な",
+    "explanation": "",
+    "exampleSentence": "The researchers considered the pernicious option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、有害なな選択肢を検討した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0129",
+    "type": "vocab",
+    "level": "hard",
+    "word": "perspicacious",
+    "meaning": "洞察力のある",
+    "pos": "adj",
+    "question": "perspicacious",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "洞察力のある",
+    "explanation": "",
+    "exampleSentence": "The team chose a perspicacious approach to the problem.",
+    "exampleJa": "チームはその問題に対して洞察力のあるという方法を選んだ。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0130",
+    "type": "vocab",
+    "level": "hard",
+    "word": "phlegmatic",
+    "meaning": "冷静沈着な",
+    "pos": "adj",
+    "question": "phlegmatic",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "冷静沈着な",
+    "explanation": "",
+    "exampleSentence": "The report describes the phlegmatic characteristics of the system.",
+    "exampleJa": "その報告書はシステムの冷静沈着なという特徴を詳しく説明している。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0131",
+    "type": "vocab",
+    "level": "hard",
+    "word": "platitude",
+    "meaning": "陳腐な決まり文句",
+    "pos": "n",
+    "question": "platitude",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "陳腐な決まり文句",
+    "explanation": "",
+    "exampleSentence": "The platitude became an important part of the discussion.",
+    "exampleJa": "陳腐な決まり文句は議論の重要な一部となった。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0132",
+    "type": "vocab",
+    "level": "hard",
+    "word": "polemic",
+    "meaning": "論争・論争文",
+    "pos": "n",
+    "question": "polemic",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "論争・論争文",
+    "explanation": "",
+    "exampleSentence": "The report describes the polemic in detail.",
+    "exampleJa": "その報告書は論争・論争文について詳しく説明している。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0133",
+    "type": "vocab",
+    "level": "hard",
+    "word": "precipitate",
+    "meaning": "引き起こす・軽率な",
+    "pos": "v",
+    "question": "precipitate",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "引き起こす・軽率な",
+    "explanation": "",
+    "exampleSentence": "Many people precipitate differently when the situation changes.",
+    "exampleJa": "状況が変化すると、多くの人はそれぞれ異なる引き起こす・軽率な方をする。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0134",
+    "type": "vocab",
+    "level": "hard",
+    "word": "probity",
+    "meaning": "高潔さ",
+    "pos": "n",
+    "question": "probity",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "高潔さ",
+    "explanation": "",
+    "exampleSentence": "The probity became an important part of the discussion.",
+    "exampleJa": "高潔さは議論の重要な一部となった。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0135",
+    "type": "vocab",
+    "level": "hard",
+    "word": "profligate",
+    "meaning": "放蕩な・浪費する",
+    "pos": "adj",
+    "question": "profligate",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "放蕩な・浪費する",
+    "explanation": "",
+    "exampleSentence": "The team chose a profligate approach to the problem.",
+    "exampleJa": "チームはその問題に対して放蕩な・浪費という方法を選んだ。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0136",
+    "type": "vocab",
+    "level": "hard",
+    "word": "propitious",
+    "meaning": "好都合な・幸先のよい",
+    "pos": "adj",
+    "question": "propitious",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "好都合な・幸先のよい",
+    "explanation": "",
+    "exampleSentence": "The report describes the propitious characteristics of the system.",
+    "exampleJa": "その報告書はシステムの好都合な・幸先のよいという特徴を詳しく説明している。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0137",
+    "type": "vocab",
+    "level": "hard",
+    "word": "pulchritude",
+    "meaning": "美しさ",
+    "pos": "n",
+    "question": "pulchritude",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "美しさ",
+    "explanation": "",
+    "exampleSentence": "The pulchritude became an important part of the discussion.",
+    "exampleJa": "美しさは議論の重要な一部となった。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0138",
+    "type": "vocab",
+    "level": "hard",
+    "word": "quixotic",
+    "meaning": "非現実的な理想主義の",
+    "pos": "adj",
+    "question": "quixotic",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "非現実的な理想主義の",
+    "explanation": "",
+    "exampleSentence": "The team chose a quixotic approach to the problem.",
+    "exampleJa": "チームはその問題に対して非現実的な理想主義のという方法を選んだ。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0139",
+    "type": "vocab",
+    "level": "hard",
+    "word": "recondite",
+    "meaning": "難解な",
+    "pos": "adj",
+    "question": "recondite",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "難解な",
+    "explanation": "",
+    "exampleSentence": "The report describes the recondite characteristics of the system.",
+    "exampleJa": "その報告書はシステムの難解なという特徴を詳しく説明している。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0140",
+    "type": "vocab",
+    "level": "hard",
+    "word": "refractory",
+    "meaning": "手に負えない",
+    "pos": "adj",
+    "question": "refractory",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "手に負えない",
+    "explanation": "",
+    "exampleSentence": "The researchers considered the refractory option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、手に負えないな選択肢を検討した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0141",
+    "type": "vocab",
+    "level": "hard",
+    "word": "remonstrate",
+    "meaning": "抗議する",
+    "pos": "v",
+    "question": "remonstrate",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "抗議する",
+    "explanation": "",
+    "exampleSentence": "The researchers need to remonstrate the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を抗議する必要がある。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0142",
+    "type": "vocab",
+    "level": "hard",
+    "word": "sagacious",
+    "meaning": "賢明な",
+    "pos": "adj",
+    "question": "sagacious",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "賢明な",
+    "explanation": "",
+    "exampleSentence": "The report describes the sagacious characteristics of the system.",
+    "exampleJa": "その報告書はシステムの賢明なという特徴を詳しく説明している。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0143",
+    "type": "vocab",
+    "level": "hard",
+    "word": "sanguine",
+    "meaning": "楽観的な",
+    "pos": "adj",
+    "question": "sanguine",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "楽観的な",
+    "explanation": "",
+    "exampleSentence": "The researchers considered the sanguine option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、楽観的なな選択肢を検討した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0144",
+    "type": "vocab",
+    "level": "hard",
+    "word": "sardonic",
+    "meaning": "皮肉な",
+    "pos": "adj",
+    "question": "sardonic",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "皮肉な",
+    "explanation": "",
+    "exampleSentence": "The team chose a sardonic approach to the problem.",
+    "exampleJa": "チームはその問題に対して皮肉なという方法を選んだ。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0145",
+    "type": "vocab",
+    "level": "hard",
+    "word": "sedulous",
+    "meaning": "勤勉な",
+    "pos": "adj",
+    "question": "sedulous",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "勤勉な",
+    "explanation": "",
+    "exampleSentence": "The report describes the sedulous characteristics of the system.",
+    "exampleJa": "その報告書はシステムの勤勉なという特徴を詳しく説明している。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0146",
+    "type": "vocab",
+    "level": "hard",
+    "word": "solipsistic",
+    "meaning": "独我論的な",
+    "pos": "adj",
+    "question": "solipsistic",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "独我論的な",
+    "explanation": "",
+    "exampleSentence": "The researchers considered the solipsistic option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、独我論的なな選択肢を検討した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0147",
+    "type": "vocab",
+    "level": "hard",
+    "word": "solipsism",
+    "meaning": "独我論",
+    "pos": "n",
+    "question": "solipsism",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "独我論",
+    "explanation": "",
+    "exampleSentence": "The report describes the solipsism in detail.",
+    "exampleJa": "その報告書は独我論について詳しく説明している。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0148",
+    "type": "vocab",
+    "level": "hard",
+    "word": "specious",
+    "meaning": "もっともらしいが誤った",
+    "pos": "adj",
+    "question": "specious",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "もっともらしいが誤った",
+    "explanation": "",
+    "exampleSentence": "The report describes the specious characteristics of the system.",
+    "exampleJa": "その報告書はシステムのもっともらしいが誤ったという特徴を詳しく説明している。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0149",
+    "type": "vocab",
+    "level": "hard",
+    "word": "stolid",
+    "meaning": "無感情な",
+    "pos": "adj",
+    "question": "stolid",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "無感情な",
+    "explanation": "",
+    "exampleSentence": "The researcher remained stolid despite the criticism.",
+    "exampleJa": "その研究者は批判を受けても無感情なであり続けた。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0150",
+    "type": "vocab",
+    "level": "hard",
+    "word": "stratagem",
+    "meaning": "策略",
+    "pos": "n",
+    "question": "stratagem",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "策略",
+    "explanation": "",
+    "exampleSentence": "The report describes the stratagem in detail.",
+    "exampleJa": "その報告書は策略について詳しく説明している。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0151",
+    "type": "vocab",
+    "level": "hard",
+    "word": "supervene",
+    "meaning": "後から生じる",
+    "pos": "v",
+    "question": "supervene",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "後から生じる",
+    "explanation": "",
+    "exampleSentence": "Unexpected changes can supervene without warning.",
+    "exampleJa": "この文では「後から生じる」という動作を表している。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0152",
+    "type": "vocab",
+    "level": "hard",
+    "word": "sycophant",
+    "meaning": "ごますり",
+    "pos": "n",
+    "question": "sycophant",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "ごますり",
+    "explanation": "",
+    "exampleSentence": "The sycophant became an important part of the discussion.",
+    "exampleJa": "ごますりは議論の重要な一部となった。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0153",
+    "type": "vocab",
+    "level": "hard",
+    "word": "tantamount",
+    "meaning": "同等の",
+    "pos": "adj",
+    "question": "tantamount",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "同等の",
+    "explanation": "",
+    "exampleSentence": "The team chose a tantamount approach to the problem.",
+    "exampleJa": "チームはその問題に対して同等のという方法を選んだ。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0154",
+    "type": "vocab",
+    "level": "hard",
+    "word": "temper",
+    "meaning": "和らげる",
+    "pos": "v",
+    "question": "temper",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "和らげる",
+    "explanation": "",
+    "exampleSentence": "Many people temper differently when the situation changes.",
+    "exampleJa": "状況が変化すると、多くの人はそれぞれ異なる和らげる方をする。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0155",
+    "type": "vocab",
+    "level": "hard",
+    "word": "tergiversate",
+    "meaning": "言い逃れする",
+    "pos": "v",
+    "question": "tergiversate",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "言い逃れする",
+    "explanation": "",
+    "exampleSentence": "The company plans to tergiversate the new system next year.",
+    "exampleJa": "その会社は来年、新しいシステムを言い逃れする予定だ。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0156",
+    "type": "vocab",
+    "level": "hard",
+    "word": "torrid",
+    "meaning": "非常に暑い",
+    "pos": "adj",
+    "question": "torrid",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "非常に暑い",
+    "explanation": "",
+    "exampleSentence": "The team chose a torrid approach to the problem.",
+    "exampleJa": "チームはその問題に対して非常に暑いという方法を選んだ。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0157",
+    "type": "vocab",
+    "level": "hard",
+    "word": "trenchant",
+    "meaning": "鋭い・痛烈な",
+    "pos": "adj",
+    "question": "trenchant",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "鋭い・痛烈な",
+    "explanation": "",
+    "exampleSentence": "The report describes the trenchant characteristics of the system.",
+    "exampleJa": "その報告書はシステムの鋭い・痛烈なという特徴を詳しく説明している。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0158",
+    "type": "vocab",
+    "level": "hard",
+    "word": "turbid",
+    "meaning": "濁った",
+    "pos": "adj",
+    "question": "turbid",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "濁った",
+    "explanation": "",
+    "exampleSentence": "The researchers considered the turbid option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、濁ったな選択肢を検討した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0159",
+    "type": "vocab",
+    "level": "hard",
+    "word": "unfettered",
+    "meaning": "束縛されない",
+    "pos": "adj",
+    "question": "unfettered",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "束縛されない",
+    "explanation": "",
+    "exampleSentence": "The team chose a unfettered approach to the problem.",
+    "exampleJa": "チームはその問題に対して束縛されないという方法を選んだ。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0161",
+    "type": "vocab",
+    "level": "hard",
+    "word": "vacillate",
+    "meaning": "揺れ動く",
+    "pos": "v",
+    "question": "vacillate",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "揺れ動く",
+    "explanation": "",
+    "exampleSentence": "Many people vacillate differently when the situation changes.",
+    "exampleJa": "状況が変化すると、多くの人はそれぞれ異なる揺れ動く方をする。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0162",
+    "type": "vocab",
+    "level": "hard",
+    "word": "verisimilitude",
+    "meaning": "真実らしさ",
+    "pos": "n",
+    "question": "verisimilitude",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "真実らしさ",
+    "explanation": "",
+    "exampleSentence": "The verisimilitude became an important part of the discussion.",
+    "exampleJa": "真実らしさは議論の重要な一部となった。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0163",
+    "type": "vocab",
+    "level": "hard",
+    "word": "vicissitude",
+    "meaning": "変転",
+    "pos": "n",
+    "question": "vicissitude",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "変転",
+    "explanation": "",
+    "exampleSentence": "The report describes the vicissitude in detail.",
+    "exampleJa": "その報告書は変転について詳しく説明している。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0164",
+    "type": "vocab",
+    "level": "hard",
+    "word": "viscous",
+    "meaning": "粘性のある",
+    "pos": "adj",
+    "question": "viscous",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "粘性のある",
+    "explanation": "",
+    "exampleSentence": "The report describes the viscous characteristics of the system.",
+    "exampleJa": "その報告書はシステムの粘性のあるという特徴を詳しく説明している。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0165",
+    "type": "vocab",
+    "level": "hard",
+    "word": "vitriolic",
+    "meaning": "辛辣な",
+    "pos": "adj",
+    "question": "vitriolic",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "辛辣な",
+    "explanation": "",
+    "exampleSentence": "The researchers considered the vitriolic option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に、辛辣なな選択肢を検討した。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0166",
+    "type": "vocab",
+    "level": "hard",
+    "word": "wheedle",
+    "meaning": "甘言でそそのかす",
+    "pos": "v",
+    "question": "wheedle",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "甘言でそそのかす",
+    "explanation": "",
+    "exampleSentence": "The process can wheedle under certain conditions.",
+    "exampleJa": "その過程は特定の条件下では甘言でそそのかすことができる。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0167",
+    "type": "vocab",
+    "level": "hard",
+    "word": "wry",
+    "meaning": "ひねくれた・皮肉な",
+    "pos": "adj",
+    "question": "wry",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "ひねくれた・皮肉な",
+    "explanation": "",
+    "exampleSentence": "The report describes the wry characteristics of the system.",
+    "exampleJa": "その報告書はシステムのひねくれた・皮肉なという特徴を詳しく説明している。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  },
+  {
+    "id": "v-massive-hard-0168",
+    "type": "vocab",
+    "level": "hard",
+    "word": "zealot",
+    "meaning": "熱狂的信者",
+    "pos": "n",
+    "question": "zealot",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "熱狂的信者",
+    "explanation": "",
+    "exampleSentence": "The zealot became an important part of the discussion.",
+    "exampleJa": "熱狂的信者は議論の重要な一部となった。",
+    "tags": [
+      "hard",
+      "massive-expansion-v12"
+    ],
+    "source": "original-curated-expansion-v3"
+  }
+]
