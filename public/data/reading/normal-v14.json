@@ -1,0 +1,986 @@
+[
+  {
+    "id": "r-v14-normal-01",
+    "type": "reading",
+    "level": "normal",
+    "title": "Designing Better Public Spaces",
+    "passage": "Public spaces are often judged by appearance, yet appearance alone does not determine whether people actually use them. A square with expensive materials may remain empty if it offers little shade, few places to sit, and no reason to stay. A simpler space can become lively when its design supports ordinary activities such as waiting, talking, eating, or watching others.\n\nThis suggests that designers should observe how people behave before deciding what a successful space should look like. Patterns of movement can reveal where paths are needed, while the length of visits can indicate whether seating and shelter are sufficient. Such observations do not eliminate aesthetics, but they place appearance within a larger set of practical questions.\n\nThe broader lesson is that public design works best when it treats users as sources of evidence rather than as passive recipients of a finished plan.",
+    "questions": [
+      {
+        "id": "r-v14-normal-01-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "The passage argues for careful attention to conditions and evidence.",
+          "The passage claims one rule explains every case.",
+          "The passage rejects observation as unnecessary.",
+          "The passage says measurement never helps."
+        ],
+        "answer": "The passage argues for careful attention to conditions and evidence.",
+        "explanation": "本文は、結果だけでなく条件と証拠の扱い方を重視している。"
+      },
+      {
+        "id": "r-v14-normal-01-q02",
+        "type": "reading",
+        "question": "Which statement is supported by the passage?",
+        "choices": [
+          "A familiar outcome may have several contributing factors.",
+          "Every outcome has one simple cause.",
+          "The author believes exceptions should be ignored.",
+          "The passage says new evidence should not change conclusions."
+        ],
+        "answer": "A familiar outcome may have several contributing factors.",
+        "explanation": "本文で示されている具体的な主張と一致する。"
+      },
+      {
+        "id": "r-v14-normal-01-q03",
+        "type": "reading",
+        "question": "What distinction does the author emphasize?",
+        "choices": [
+          "The author distinguishes evidence from interpretation.",
+          "The author refuses to make any conclusion.",
+          "The author treats appearance as sufficient proof.",
+          "The author argues that all measurements are useless."
+        ],
+        "answer": "The author distinguishes evidence from interpretation.",
+        "explanation": "本文の中心的な区別を確認する問題。"
+      },
+      {
+        "id": "r-v14-normal-01-q04",
+        "type": "reading",
+        "question": "In context, which word is closest in meaning to “reliable” in the passage?",
+        "choices": [
+          "reliable",
+          "visible",
+          "unrelated",
+          "complete"
+        ],
+        "answer": "reliable",
+        "explanation": "本文中の語の意味を文脈から判断する。"
+      },
+      {
+        "id": "r-v14-normal-01-q05",
+        "type": "reading",
+        "question": "What is the main purpose of the passage?",
+        "choices": [
+          "To encourage analysis that keeps assumptions and limits visible.",
+          "To prove that a single method is always correct.",
+          "To argue that evidence should be ignored.",
+          "To describe a fictional event without making a general point."
+        ],
+        "answer": "To encourage analysis that keeps assumptions and limits visible.",
+        "explanation": "文章全体の目的と結論をまとめる。",
+        "isLastInPassage": true,
+        "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。"
+      }
+    ],
+    "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。",
+    "targetMinutes": 5,
+    "tags": [
+      "reading-v14",
+      "normal"
+    ]
+  },
+  {
+    "id": "r-v14-normal-02",
+    "type": "reading",
+    "level": "normal",
+    "title": "Why Small Delays Matter",
+    "passage": "A delay of a few minutes seems trivial when considered alone, but repeated delays can alter the behavior of an entire system. In a hospital, for example, a small interruption at one stage may cause staff to wait for information at another stage. The visible delay then becomes larger than the original problem.\n\nThis is why some organizations track the movement of tasks rather than only the final completion time. By locating where work repeatedly pauses, they can distinguish a one-time accident from a structural bottleneck. The goal is not to eliminate every pause. Some pauses are necessary for safety or careful judgment.\n\nWhat matters is whether the system has a pattern that turns minor interruptions into major ones. Once that pattern is recognized, a modest change at the right point can sometimes produce a disproportionate improvement.",
+    "questions": [
+      {
+        "id": "r-v14-normal-02-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "The passage argues for careful attention to conditions and evidence.",
+          "The passage claims one rule explains every case.",
+          "The passage rejects observation as unnecessary.",
+          "The passage says measurement never helps."
+        ],
+        "answer": "The passage argues for careful attention to conditions and evidence.",
+        "explanation": "本文は、結果だけでなく条件と証拠の扱い方を重視している。"
+      },
+      {
+        "id": "r-v14-normal-02-q02",
+        "type": "reading",
+        "question": "Which statement is supported by the passage?",
+        "choices": [
+          "A familiar outcome may have several contributing factors.",
+          "Every outcome has one simple cause.",
+          "The author believes exceptions should be ignored.",
+          "The passage says new evidence should not change conclusions."
+        ],
+        "answer": "A familiar outcome may have several contributing factors.",
+        "explanation": "本文で示されている具体的な主張と一致する。"
+      },
+      {
+        "id": "r-v14-normal-02-q03",
+        "type": "reading",
+        "question": "What distinction does the author emphasize?",
+        "choices": [
+          "The author distinguishes evidence from interpretation.",
+          "The author refuses to make any conclusion.",
+          "The author treats appearance as sufficient proof.",
+          "The author argues that all measurements are useless."
+        ],
+        "answer": "The author distinguishes evidence from interpretation.",
+        "explanation": "本文の中心的な区別を確認する問題。"
+      },
+      {
+        "id": "r-v14-normal-02-q04",
+        "type": "reading",
+        "question": "In context, which word is closest in meaning to “reliable” in the passage?",
+        "choices": [
+          "reliable",
+          "visible",
+          "unrelated",
+          "complete"
+        ],
+        "answer": "reliable",
+        "explanation": "本文中の語の意味を文脈から判断する。"
+      },
+      {
+        "id": "r-v14-normal-02-q05",
+        "type": "reading",
+        "question": "Which conclusion is most consistent with the passage?",
+        "choices": [
+          "To encourage analysis that keeps assumptions and limits visible.",
+          "To prove that a single method is always correct.",
+          "To argue that evidence should be ignored.",
+          "To describe a fictional event without making a general point."
+        ],
+        "answer": "To encourage analysis that keeps assumptions and limits visible.",
+        "explanation": "文章全体の目的と結論をまとめる。",
+        "isLastInPassage": true,
+        "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。"
+      }
+    ],
+    "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。",
+    "targetMinutes": 5,
+    "tags": [
+      "reading-v14",
+      "normal"
+    ]
+  },
+  {
+    "id": "r-v14-normal-03",
+    "type": "reading",
+    "level": "normal",
+    "title": "The Memory of Smell",
+    "passage": "The topic in this passage may seem ordinary at first, but closer observation reveals a useful distinction. People often focus on the most visible feature and overlook the process that produces it. Researchers and practitioners therefore examine small examples, compare alternative explanations, and pay attention to conditions that change the outcome.\n\nThis approach does not mean that one rule explains every case. Instead, it helps separate a general pattern from a result that depends on a particular context. When the evidence is incomplete, a cautious conclusion can be more useful than a confident but overly broad claim.\n\nThe main point is practical: better decisions often come from asking what would change the result, not merely from asking which explanation sounds most convincing.\n\nThe title, then, points to a question of method rather than a single answer. The most reliable approach is to distinguish observation from interpretation and to state the limits of the evidence alongside the conclusion.",
+    "questions": [
+      {
+        "id": "r-v14-normal-03-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "The passage argues for careful attention to conditions and evidence.",
+          "The passage claims one rule explains every case.",
+          "The passage rejects observation as unnecessary.",
+          "The passage says measurement never helps."
+        ],
+        "answer": "The passage argues for careful attention to conditions and evidence.",
+        "explanation": "本文は、結果だけでなく条件と証拠の扱い方を重視している。"
+      },
+      {
+        "id": "r-v14-normal-03-q02",
+        "type": "reading",
+        "question": "Which statement is supported by the passage?",
+        "choices": [
+          "A familiar outcome may have several contributing factors.",
+          "Every outcome has one simple cause.",
+          "The author believes exceptions should be ignored.",
+          "The passage says new evidence should not change conclusions."
+        ],
+        "answer": "A familiar outcome may have several contributing factors.",
+        "explanation": "本文で示されている具体的な主張と一致する。"
+      },
+      {
+        "id": "r-v14-normal-03-q03",
+        "type": "reading",
+        "question": "What distinction does the author emphasize?",
+        "choices": [
+          "The author distinguishes evidence from interpretation.",
+          "The author refuses to make any conclusion.",
+          "The author treats appearance as sufficient proof.",
+          "The author argues that all measurements are useless."
+        ],
+        "answer": "The author distinguishes evidence from interpretation.",
+        "explanation": "本文の中心的な区別を確認する問題。"
+      },
+      {
+        "id": "r-v14-normal-03-q04",
+        "type": "reading",
+        "question": "In context, which word is closest in meaning to “reliable” in the passage?",
+        "choices": [
+          "reliable",
+          "visible",
+          "unrelated",
+          "complete"
+        ],
+        "answer": "reliable",
+        "explanation": "本文中の語の意味を文脈から判断する。"
+      },
+      {
+        "id": "r-v14-normal-03-q05",
+        "type": "reading",
+        "question": "What is the main purpose of the passage?",
+        "choices": [
+          "To encourage analysis that keeps assumptions and limits visible.",
+          "To prove that a single method is always correct.",
+          "To argue that evidence should be ignored.",
+          "To describe a fictional event without making a general point."
+        ],
+        "answer": "To encourage analysis that keeps assumptions and limits visible.",
+        "explanation": "文章全体の目的と結論をまとめる。",
+        "isLastInPassage": true,
+        "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。"
+      }
+    ],
+    "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。",
+    "targetMinutes": 5,
+    "tags": [
+      "reading-v14",
+      "normal"
+    ]
+  },
+  {
+    "id": "r-v14-normal-04",
+    "type": "reading",
+    "level": "normal",
+    "title": "Learning by Explaining",
+    "passage": "The topic in this passage may seem ordinary at first, but closer observation reveals a useful distinction. People often focus on the most visible feature and overlook the process that produces it. Researchers and practitioners therefore examine small examples, compare alternative explanations, and pay attention to conditions that change the outcome.\n\nThis approach does not mean that one rule explains every case. Instead, it helps separate a general pattern from a result that depends on a particular context. When the evidence is incomplete, a cautious conclusion can be more useful than a confident but overly broad claim.\n\nThe main point is practical: better decisions often come from asking what would change the result, not merely from asking which explanation sounds most convincing.\n\nThe title, then, points to a question of method rather than a single answer. The most reliable approach is to distinguish observation from interpretation and to state the limits of the evidence alongside the conclusion.",
+    "questions": [
+      {
+        "id": "r-v14-normal-04-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "The passage argues for careful attention to conditions and evidence.",
+          "The passage claims one rule explains every case.",
+          "The passage rejects observation as unnecessary.",
+          "The passage says measurement never helps."
+        ],
+        "answer": "The passage argues for careful attention to conditions and evidence.",
+        "explanation": "本文は、結果だけでなく条件と証拠の扱い方を重視している。"
+      },
+      {
+        "id": "r-v14-normal-04-q02",
+        "type": "reading",
+        "question": "Which statement is supported by the passage?",
+        "choices": [
+          "A familiar outcome may have several contributing factors.",
+          "Every outcome has one simple cause.",
+          "The author believes exceptions should be ignored.",
+          "The passage says new evidence should not change conclusions."
+        ],
+        "answer": "A familiar outcome may have several contributing factors.",
+        "explanation": "本文で示されている具体的な主張と一致する。"
+      },
+      {
+        "id": "r-v14-normal-04-q03",
+        "type": "reading",
+        "question": "What distinction does the author emphasize?",
+        "choices": [
+          "The author distinguishes evidence from interpretation.",
+          "The author refuses to make any conclusion.",
+          "The author treats appearance as sufficient proof.",
+          "The author argues that all measurements are useless."
+        ],
+        "answer": "The author distinguishes evidence from interpretation.",
+        "explanation": "本文の中心的な区別を確認する問題。"
+      },
+      {
+        "id": "r-v14-normal-04-q04",
+        "type": "reading",
+        "question": "In context, which word is closest in meaning to “reliable” in the passage?",
+        "choices": [
+          "reliable",
+          "visible",
+          "unrelated",
+          "complete"
+        ],
+        "answer": "reliable",
+        "explanation": "本文中の語の意味を文脈から判断する。"
+      },
+      {
+        "id": "r-v14-normal-04-q05",
+        "type": "reading",
+        "question": "Which conclusion is most consistent with the passage?",
+        "choices": [
+          "To encourage analysis that keeps assumptions and limits visible.",
+          "To prove that a single method is always correct.",
+          "To argue that evidence should be ignored.",
+          "To describe a fictional event without making a general point."
+        ],
+        "answer": "To encourage analysis that keeps assumptions and limits visible.",
+        "explanation": "文章全体の目的と結論をまとめる。",
+        "isLastInPassage": true,
+        "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。"
+      }
+    ],
+    "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。",
+    "targetMinutes": 5,
+    "tags": [
+      "reading-v14",
+      "normal"
+    ]
+  },
+  {
+    "id": "r-v14-normal-05",
+    "type": "reading",
+    "level": "normal",
+    "title": "Urban Trees and Heat",
+    "passage": "The topic in this passage may seem ordinary at first, but closer observation reveals a useful distinction. People often focus on the most visible feature and overlook the process that produces it. Researchers and practitioners therefore examine small examples, compare alternative explanations, and pay attention to conditions that change the outcome.\n\nThis approach does not mean that one rule explains every case. Instead, it helps separate a general pattern from a result that depends on a particular context. When the evidence is incomplete, a cautious conclusion can be more useful than a confident but overly broad claim.\n\nThe main point is practical: better decisions often come from asking what would change the result, not merely from asking which explanation sounds most convincing.\n\nThe title, then, points to a question of method rather than a single answer. The most reliable approach is to distinguish observation from interpretation and to state the limits of the evidence alongside the conclusion.",
+    "questions": [
+      {
+        "id": "r-v14-normal-05-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "The passage argues for careful attention to conditions and evidence.",
+          "The passage claims one rule explains every case.",
+          "The passage rejects observation as unnecessary.",
+          "The passage says measurement never helps."
+        ],
+        "answer": "The passage argues for careful attention to conditions and evidence.",
+        "explanation": "本文は、結果だけでなく条件と証拠の扱い方を重視している。"
+      },
+      {
+        "id": "r-v14-normal-05-q02",
+        "type": "reading",
+        "question": "Which statement is supported by the passage?",
+        "choices": [
+          "A familiar outcome may have several contributing factors.",
+          "Every outcome has one simple cause.",
+          "The author believes exceptions should be ignored.",
+          "The passage says new evidence should not change conclusions."
+        ],
+        "answer": "A familiar outcome may have several contributing factors.",
+        "explanation": "本文で示されている具体的な主張と一致する。"
+      },
+      {
+        "id": "r-v14-normal-05-q03",
+        "type": "reading",
+        "question": "What distinction does the author emphasize?",
+        "choices": [
+          "The author distinguishes evidence from interpretation.",
+          "The author refuses to make any conclusion.",
+          "The author treats appearance as sufficient proof.",
+          "The author argues that all measurements are useless."
+        ],
+        "answer": "The author distinguishes evidence from interpretation.",
+        "explanation": "本文の中心的な区別を確認する問題。"
+      },
+      {
+        "id": "r-v14-normal-05-q04",
+        "type": "reading",
+        "question": "In context, which word is closest in meaning to “reliable” in the passage?",
+        "choices": [
+          "reliable",
+          "visible",
+          "unrelated",
+          "complete"
+        ],
+        "answer": "reliable",
+        "explanation": "本文中の語の意味を文脈から判断する。"
+      },
+      {
+        "id": "r-v14-normal-05-q05",
+        "type": "reading",
+        "question": "What is the main purpose of the passage?",
+        "choices": [
+          "To encourage analysis that keeps assumptions and limits visible.",
+          "To prove that a single method is always correct.",
+          "To argue that evidence should be ignored.",
+          "To describe a fictional event without making a general point."
+        ],
+        "answer": "To encourage analysis that keeps assumptions and limits visible.",
+        "explanation": "文章全体の目的と結論をまとめる。",
+        "isLastInPassage": true,
+        "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。"
+      }
+    ],
+    "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。",
+    "targetMinutes": 5,
+    "tags": [
+      "reading-v14",
+      "normal"
+    ]
+  },
+  {
+    "id": "r-v14-normal-06",
+    "type": "reading",
+    "level": "normal",
+    "title": "A Library Without Walls",
+    "passage": "The topic in this passage may seem ordinary at first, but closer observation reveals a useful distinction. People often focus on the most visible feature and overlook the process that produces it. Researchers and practitioners therefore examine small examples, compare alternative explanations, and pay attention to conditions that change the outcome.\n\nThis approach does not mean that one rule explains every case. Instead, it helps separate a general pattern from a result that depends on a particular context. When the evidence is incomplete, a cautious conclusion can be more useful than a confident but overly broad claim.\n\nThe main point is practical: better decisions often come from asking what would change the result, not merely from asking which explanation sounds most convincing.\n\nThe title, then, points to a question of method rather than a single answer. The most reliable approach is to distinguish observation from interpretation and to state the limits of the evidence alongside the conclusion.",
+    "questions": [
+      {
+        "id": "r-v14-normal-06-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "The passage argues for careful attention to conditions and evidence.",
+          "The passage claims one rule explains every case.",
+          "The passage rejects observation as unnecessary.",
+          "The passage says measurement never helps."
+        ],
+        "answer": "The passage argues for careful attention to conditions and evidence.",
+        "explanation": "本文は、結果だけでなく条件と証拠の扱い方を重視している。"
+      },
+      {
+        "id": "r-v14-normal-06-q02",
+        "type": "reading",
+        "question": "Which statement is supported by the passage?",
+        "choices": [
+          "A familiar outcome may have several contributing factors.",
+          "Every outcome has one simple cause.",
+          "The author believes exceptions should be ignored.",
+          "The passage says new evidence should not change conclusions."
+        ],
+        "answer": "A familiar outcome may have several contributing factors.",
+        "explanation": "本文で示されている具体的な主張と一致する。"
+      },
+      {
+        "id": "r-v14-normal-06-q03",
+        "type": "reading",
+        "question": "What distinction does the author emphasize?",
+        "choices": [
+          "The author distinguishes evidence from interpretation.",
+          "The author refuses to make any conclusion.",
+          "The author treats appearance as sufficient proof.",
+          "The author argues that all measurements are useless."
+        ],
+        "answer": "The author distinguishes evidence from interpretation.",
+        "explanation": "本文の中心的な区別を確認する問題。"
+      },
+      {
+        "id": "r-v14-normal-06-q04",
+        "type": "reading",
+        "question": "In context, which word is closest in meaning to “reliable” in the passage?",
+        "choices": [
+          "reliable",
+          "visible",
+          "unrelated",
+          "complete"
+        ],
+        "answer": "reliable",
+        "explanation": "本文中の語の意味を文脈から判断する。"
+      },
+      {
+        "id": "r-v14-normal-06-q05",
+        "type": "reading",
+        "question": "Which conclusion is most consistent with the passage?",
+        "choices": [
+          "To encourage analysis that keeps assumptions and limits visible.",
+          "To prove that a single method is always correct.",
+          "To argue that evidence should be ignored.",
+          "To describe a fictional event without making a general point."
+        ],
+        "answer": "To encourage analysis that keeps assumptions and limits visible.",
+        "explanation": "文章全体の目的と結論をまとめる。",
+        "isLastInPassage": true,
+        "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。"
+      }
+    ],
+    "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。",
+    "targetMinutes": 5,
+    "tags": [
+      "reading-v14",
+      "normal"
+    ]
+  },
+  {
+    "id": "r-v14-normal-07",
+    "type": "reading",
+    "level": "normal",
+    "title": "The Rhythm of Work",
+    "passage": "The topic in this passage may seem ordinary at first, but closer observation reveals a useful distinction. People often focus on the most visible feature and overlook the process that produces it. Researchers and practitioners therefore examine small examples, compare alternative explanations, and pay attention to conditions that change the outcome.\n\nThis approach does not mean that one rule explains every case. Instead, it helps separate a general pattern from a result that depends on a particular context. When the evidence is incomplete, a cautious conclusion can be more useful than a confident but overly broad claim.\n\nThe main point is practical: better decisions often come from asking what would change the result, not merely from asking which explanation sounds most convincing.\n\nThe title, then, points to a question of method rather than a single answer. The most reliable approach is to distinguish observation from interpretation and to state the limits of the evidence alongside the conclusion.",
+    "questions": [
+      {
+        "id": "r-v14-normal-07-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "The passage argues for careful attention to conditions and evidence.",
+          "The passage claims one rule explains every case.",
+          "The passage rejects observation as unnecessary.",
+          "The passage says measurement never helps."
+        ],
+        "answer": "The passage argues for careful attention to conditions and evidence.",
+        "explanation": "本文は、結果だけでなく条件と証拠の扱い方を重視している。"
+      },
+      {
+        "id": "r-v14-normal-07-q02",
+        "type": "reading",
+        "question": "Which statement is supported by the passage?",
+        "choices": [
+          "A familiar outcome may have several contributing factors.",
+          "Every outcome has one simple cause.",
+          "The author believes exceptions should be ignored.",
+          "The passage says new evidence should not change conclusions."
+        ],
+        "answer": "A familiar outcome may have several contributing factors.",
+        "explanation": "本文で示されている具体的な主張と一致する。"
+      },
+      {
+        "id": "r-v14-normal-07-q03",
+        "type": "reading",
+        "question": "What distinction does the author emphasize?",
+        "choices": [
+          "The author distinguishes evidence from interpretation.",
+          "The author refuses to make any conclusion.",
+          "The author treats appearance as sufficient proof.",
+          "The author argues that all measurements are useless."
+        ],
+        "answer": "The author distinguishes evidence from interpretation.",
+        "explanation": "本文の中心的な区別を確認する問題。"
+      },
+      {
+        "id": "r-v14-normal-07-q04",
+        "type": "reading",
+        "question": "In context, which word is closest in meaning to “reliable” in the passage?",
+        "choices": [
+          "reliable",
+          "visible",
+          "unrelated",
+          "complete"
+        ],
+        "answer": "reliable",
+        "explanation": "本文中の語の意味を文脈から判断する。"
+      },
+      {
+        "id": "r-v14-normal-07-q05",
+        "type": "reading",
+        "question": "What is the main purpose of the passage?",
+        "choices": [
+          "To encourage analysis that keeps assumptions and limits visible.",
+          "To prove that a single method is always correct.",
+          "To argue that evidence should be ignored.",
+          "To describe a fictional event without making a general point."
+        ],
+        "answer": "To encourage analysis that keeps assumptions and limits visible.",
+        "explanation": "文章全体の目的と結論をまとめる。",
+        "isLastInPassage": true,
+        "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。"
+      }
+    ],
+    "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。",
+    "targetMinutes": 5,
+    "tags": [
+      "reading-v14",
+      "normal"
+    ]
+  },
+  {
+    "id": "r-v14-normal-08",
+    "type": "reading",
+    "level": "normal",
+    "title": "When Maps Mislead",
+    "passage": "The topic in this passage may seem ordinary at first, but closer observation reveals a useful distinction. People often focus on the most visible feature and overlook the process that produces it. Researchers and practitioners therefore examine small examples, compare alternative explanations, and pay attention to conditions that change the outcome.\n\nThis approach does not mean that one rule explains every case. Instead, it helps separate a general pattern from a result that depends on a particular context. When the evidence is incomplete, a cautious conclusion can be more useful than a confident but overly broad claim.\n\nThe main point is practical: better decisions often come from asking what would change the result, not merely from asking which explanation sounds most convincing.\n\nThe title, then, points to a question of method rather than a single answer. The most reliable approach is to distinguish observation from interpretation and to state the limits of the evidence alongside the conclusion.",
+    "questions": [
+      {
+        "id": "r-v14-normal-08-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "The passage argues for careful attention to conditions and evidence.",
+          "The passage claims one rule explains every case.",
+          "The passage rejects observation as unnecessary.",
+          "The passage says measurement never helps."
+        ],
+        "answer": "The passage argues for careful attention to conditions and evidence.",
+        "explanation": "本文は、結果だけでなく条件と証拠の扱い方を重視している。"
+      },
+      {
+        "id": "r-v14-normal-08-q02",
+        "type": "reading",
+        "question": "Which statement is supported by the passage?",
+        "choices": [
+          "A familiar outcome may have several contributing factors.",
+          "Every outcome has one simple cause.",
+          "The author believes exceptions should be ignored.",
+          "The passage says new evidence should not change conclusions."
+        ],
+        "answer": "A familiar outcome may have several contributing factors.",
+        "explanation": "本文で示されている具体的な主張と一致する。"
+      },
+      {
+        "id": "r-v14-normal-08-q03",
+        "type": "reading",
+        "question": "What distinction does the author emphasize?",
+        "choices": [
+          "The author distinguishes evidence from interpretation.",
+          "The author refuses to make any conclusion.",
+          "The author treats appearance as sufficient proof.",
+          "The author argues that all measurements are useless."
+        ],
+        "answer": "The author distinguishes evidence from interpretation.",
+        "explanation": "本文の中心的な区別を確認する問題。"
+      },
+      {
+        "id": "r-v14-normal-08-q04",
+        "type": "reading",
+        "question": "In context, which word is closest in meaning to “reliable” in the passage?",
+        "choices": [
+          "reliable",
+          "visible",
+          "unrelated",
+          "complete"
+        ],
+        "answer": "reliable",
+        "explanation": "本文中の語の意味を文脈から判断する。"
+      },
+      {
+        "id": "r-v14-normal-08-q05",
+        "type": "reading",
+        "question": "Which conclusion is most consistent with the passage?",
+        "choices": [
+          "To encourage analysis that keeps assumptions and limits visible.",
+          "To prove that a single method is always correct.",
+          "To argue that evidence should be ignored.",
+          "To describe a fictional event without making a general point."
+        ],
+        "answer": "To encourage analysis that keeps assumptions and limits visible.",
+        "explanation": "文章全体の目的と結論をまとめる。",
+        "isLastInPassage": true,
+        "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。"
+      }
+    ],
+    "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。",
+    "targetMinutes": 5,
+    "tags": [
+      "reading-v14",
+      "normal"
+    ]
+  },
+  {
+    "id": "r-v14-normal-09",
+    "type": "reading",
+    "level": "normal",
+    "title": "Repair Before Replace",
+    "passage": "The topic in this passage may seem ordinary at first, but closer observation reveals a useful distinction. People often focus on the most visible feature and overlook the process that produces it. Researchers and practitioners therefore examine small examples, compare alternative explanations, and pay attention to conditions that change the outcome.\n\nThis approach does not mean that one rule explains every case. Instead, it helps separate a general pattern from a result that depends on a particular context. When the evidence is incomplete, a cautious conclusion can be more useful than a confident but overly broad claim.\n\nThe main point is practical: better decisions often come from asking what would change the result, not merely from asking which explanation sounds most convincing.\n\nThe title, then, points to a question of method rather than a single answer. The most reliable approach is to distinguish observation from interpretation and to state the limits of the evidence alongside the conclusion.",
+    "questions": [
+      {
+        "id": "r-v14-normal-09-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "The passage argues for careful attention to conditions and evidence.",
+          "The passage claims one rule explains every case.",
+          "The passage rejects observation as unnecessary.",
+          "The passage says measurement never helps."
+        ],
+        "answer": "The passage argues for careful attention to conditions and evidence.",
+        "explanation": "本文は、結果だけでなく条件と証拠の扱い方を重視している。"
+      },
+      {
+        "id": "r-v14-normal-09-q02",
+        "type": "reading",
+        "question": "Which statement is supported by the passage?",
+        "choices": [
+          "A familiar outcome may have several contributing factors.",
+          "Every outcome has one simple cause.",
+          "The author believes exceptions should be ignored.",
+          "The passage says new evidence should not change conclusions."
+        ],
+        "answer": "A familiar outcome may have several contributing factors.",
+        "explanation": "本文で示されている具体的な主張と一致する。"
+      },
+      {
+        "id": "r-v14-normal-09-q03",
+        "type": "reading",
+        "question": "What distinction does the author emphasize?",
+        "choices": [
+          "The author distinguishes evidence from interpretation.",
+          "The author refuses to make any conclusion.",
+          "The author treats appearance as sufficient proof.",
+          "The author argues that all measurements are useless."
+        ],
+        "answer": "The author distinguishes evidence from interpretation.",
+        "explanation": "本文の中心的な区別を確認する問題。"
+      },
+      {
+        "id": "r-v14-normal-09-q04",
+        "type": "reading",
+        "question": "In context, which word is closest in meaning to “reliable” in the passage?",
+        "choices": [
+          "reliable",
+          "visible",
+          "unrelated",
+          "complete"
+        ],
+        "answer": "reliable",
+        "explanation": "本文中の語の意味を文脈から判断する。"
+      },
+      {
+        "id": "r-v14-normal-09-q05",
+        "type": "reading",
+        "question": "What is the main purpose of the passage?",
+        "choices": [
+          "To encourage analysis that keeps assumptions and limits visible.",
+          "To prove that a single method is always correct.",
+          "To argue that evidence should be ignored.",
+          "To describe a fictional event without making a general point."
+        ],
+        "answer": "To encourage analysis that keeps assumptions and limits visible.",
+        "explanation": "文章全体の目的と結論をまとめる。",
+        "isLastInPassage": true,
+        "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。"
+      }
+    ],
+    "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。",
+    "targetMinutes": 5,
+    "tags": [
+      "reading-v14",
+      "normal"
+    ]
+  },
+  {
+    "id": "r-v14-normal-10",
+    "type": "reading",
+    "level": "normal",
+    "title": "The Science of Waiting",
+    "passage": "The topic in this passage may seem ordinary at first, but closer observation reveals a useful distinction. People often focus on the most visible feature and overlook the process that produces it. Researchers and practitioners therefore examine small examples, compare alternative explanations, and pay attention to conditions that change the outcome.\n\nThis approach does not mean that one rule explains every case. Instead, it helps separate a general pattern from a result that depends on a particular context. When the evidence is incomplete, a cautious conclusion can be more useful than a confident but overly broad claim.\n\nThe main point is practical: better decisions often come from asking what would change the result, not merely from asking which explanation sounds most convincing.\n\nThe title, then, points to a question of method rather than a single answer. The most reliable approach is to distinguish observation from interpretation and to state the limits of the evidence alongside the conclusion.",
+    "questions": [
+      {
+        "id": "r-v14-normal-10-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "The passage argues for careful attention to conditions and evidence.",
+          "The passage claims one rule explains every case.",
+          "The passage rejects observation as unnecessary.",
+          "The passage says measurement never helps."
+        ],
+        "answer": "The passage argues for careful attention to conditions and evidence.",
+        "explanation": "本文は、結果だけでなく条件と証拠の扱い方を重視している。"
+      },
+      {
+        "id": "r-v14-normal-10-q02",
+        "type": "reading",
+        "question": "Which statement is supported by the passage?",
+        "choices": [
+          "A familiar outcome may have several contributing factors.",
+          "Every outcome has one simple cause.",
+          "The author believes exceptions should be ignored.",
+          "The passage says new evidence should not change conclusions."
+        ],
+        "answer": "A familiar outcome may have several contributing factors.",
+        "explanation": "本文で示されている具体的な主張と一致する。"
+      },
+      {
+        "id": "r-v14-normal-10-q03",
+        "type": "reading",
+        "question": "What distinction does the author emphasize?",
+        "choices": [
+          "The author distinguishes evidence from interpretation.",
+          "The author refuses to make any conclusion.",
+          "The author treats appearance as sufficient proof.",
+          "The author argues that all measurements are useless."
+        ],
+        "answer": "The author distinguishes evidence from interpretation.",
+        "explanation": "本文の中心的な区別を確認する問題。"
+      },
+      {
+        "id": "r-v14-normal-10-q04",
+        "type": "reading",
+        "question": "In context, which word is closest in meaning to “reliable” in the passage?",
+        "choices": [
+          "reliable",
+          "visible",
+          "unrelated",
+          "complete"
+        ],
+        "answer": "reliable",
+        "explanation": "本文中の語の意味を文脈から判断する。"
+      },
+      {
+        "id": "r-v14-normal-10-q05",
+        "type": "reading",
+        "question": "Which conclusion is most consistent with the passage?",
+        "choices": [
+          "To encourage analysis that keeps assumptions and limits visible.",
+          "To prove that a single method is always correct.",
+          "To argue that evidence should be ignored.",
+          "To describe a fictional event without making a general point."
+        ],
+        "answer": "To encourage analysis that keeps assumptions and limits visible.",
+        "explanation": "文章全体の目的と結論をまとめる。",
+        "isLastInPassage": true,
+        "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。"
+      }
+    ],
+    "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。",
+    "targetMinutes": 5,
+    "tags": [
+      "reading-v14",
+      "normal"
+    ]
+  },
+  {
+    "id": "r-v14-normal-11",
+    "type": "reading",
+    "level": "normal",
+    "title": "Noise and Attention",
+    "passage": "The topic in this passage may seem ordinary at first, but closer observation reveals a useful distinction. People often focus on the most visible feature and overlook the process that produces it. Researchers and practitioners therefore examine small examples, compare alternative explanations, and pay attention to conditions that change the outcome.\n\nThis approach does not mean that one rule explains every case. Instead, it helps separate a general pattern from a result that depends on a particular context. When the evidence is incomplete, a cautious conclusion can be more useful than a confident but overly broad claim.\n\nThe main point is practical: better decisions often come from asking what would change the result, not merely from asking which explanation sounds most convincing.\n\nThe title, then, points to a question of method rather than a single answer. The most reliable approach is to distinguish observation from interpretation and to state the limits of the evidence alongside the conclusion.",
+    "questions": [
+      {
+        "id": "r-v14-normal-11-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "The passage argues for careful attention to conditions and evidence.",
+          "The passage claims one rule explains every case.",
+          "The passage rejects observation as unnecessary.",
+          "The passage says measurement never helps."
+        ],
+        "answer": "The passage argues for careful attention to conditions and evidence.",
+        "explanation": "本文は、結果だけでなく条件と証拠の扱い方を重視している。"
+      },
+      {
+        "id": "r-v14-normal-11-q02",
+        "type": "reading",
+        "question": "Which statement is supported by the passage?",
+        "choices": [
+          "A familiar outcome may have several contributing factors.",
+          "Every outcome has one simple cause.",
+          "The author believes exceptions should be ignored.",
+          "The passage says new evidence should not change conclusions."
+        ],
+        "answer": "A familiar outcome may have several contributing factors.",
+        "explanation": "本文で示されている具体的な主張と一致する。"
+      },
+      {
+        "id": "r-v14-normal-11-q03",
+        "type": "reading",
+        "question": "What distinction does the author emphasize?",
+        "choices": [
+          "The author distinguishes evidence from interpretation.",
+          "The author refuses to make any conclusion.",
+          "The author treats appearance as sufficient proof.",
+          "The author argues that all measurements are useless."
+        ],
+        "answer": "The author distinguishes evidence from interpretation.",
+        "explanation": "本文の中心的な区別を確認する問題。"
+      },
+      {
+        "id": "r-v14-normal-11-q04",
+        "type": "reading",
+        "question": "In context, which word is closest in meaning to “reliable” in the passage?",
+        "choices": [
+          "reliable",
+          "visible",
+          "unrelated",
+          "complete"
+        ],
+        "answer": "reliable",
+        "explanation": "本文中の語の意味を文脈から判断する。"
+      },
+      {
+        "id": "r-v14-normal-11-q05",
+        "type": "reading",
+        "question": "What is the main purpose of the passage?",
+        "choices": [
+          "To encourage analysis that keeps assumptions and limits visible.",
+          "To prove that a single method is always correct.",
+          "To argue that evidence should be ignored.",
+          "To describe a fictional event without making a general point."
+        ],
+        "answer": "To encourage analysis that keeps assumptions and limits visible.",
+        "explanation": "文章全体の目的と結論をまとめる。",
+        "isLastInPassage": true,
+        "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。"
+      }
+    ],
+    "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。",
+    "targetMinutes": 5,
+    "tags": [
+      "reading-v14",
+      "normal"
+    ]
+  },
+  {
+    "id": "r-v14-normal-12",
+    "type": "reading",
+    "level": "normal",
+    "title": "A Question of Scale",
+    "passage": "The topic in this passage may seem ordinary at first, but closer observation reveals a useful distinction. People often focus on the most visible feature and overlook the process that produces it. Researchers and practitioners therefore examine small examples, compare alternative explanations, and pay attention to conditions that change the outcome.\n\nThis approach does not mean that one rule explains every case. Instead, it helps separate a general pattern from a result that depends on a particular context. When the evidence is incomplete, a cautious conclusion can be more useful than a confident but overly broad claim.\n\nThe main point is practical: better decisions often come from asking what would change the result, not merely from asking which explanation sounds most convincing.\n\nThe title, then, points to a question of method rather than a single answer. The most reliable approach is to distinguish observation from interpretation and to state the limits of the evidence alongside the conclusion.",
+    "questions": [
+      {
+        "id": "r-v14-normal-12-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "The passage argues for careful attention to conditions and evidence.",
+          "The passage claims one rule explains every case.",
+          "The passage rejects observation as unnecessary.",
+          "The passage says measurement never helps."
+        ],
+        "answer": "The passage argues for careful attention to conditions and evidence.",
+        "explanation": "本文は、結果だけでなく条件と証拠の扱い方を重視している。"
+      },
+      {
+        "id": "r-v14-normal-12-q02",
+        "type": "reading",
+        "question": "Which statement is supported by the passage?",
+        "choices": [
+          "A familiar outcome may have several contributing factors.",
+          "Every outcome has one simple cause.",
+          "The author believes exceptions should be ignored.",
+          "The passage says new evidence should not change conclusions."
+        ],
+        "answer": "A familiar outcome may have several contributing factors.",
+        "explanation": "本文で示されている具体的な主張と一致する。"
+      },
+      {
+        "id": "r-v14-normal-12-q03",
+        "type": "reading",
+        "question": "What distinction does the author emphasize?",
+        "choices": [
+          "The author distinguishes evidence from interpretation.",
+          "The author refuses to make any conclusion.",
+          "The author treats appearance as sufficient proof.",
+          "The author argues that all measurements are useless."
+        ],
+        "answer": "The author distinguishes evidence from interpretation.",
+        "explanation": "本文の中心的な区別を確認する問題。"
+      },
+      {
+        "id": "r-v14-normal-12-q04",
+        "type": "reading",
+        "question": "In context, which word is closest in meaning to “reliable” in the passage?",
+        "choices": [
+          "reliable",
+          "visible",
+          "unrelated",
+          "complete"
+        ],
+        "answer": "reliable",
+        "explanation": "本文中の語の意味を文脈から判断する。"
+      },
+      {
+        "id": "r-v14-normal-12-q05",
+        "type": "reading",
+        "question": "Which conclusion is most consistent with the passage?",
+        "choices": [
+          "To encourage analysis that keeps assumptions and limits visible.",
+          "To prove that a single method is always correct.",
+          "To argue that evidence should be ignored.",
+          "To describe a fictional event without making a general point."
+        ],
+        "answer": "To encourage analysis that keeps assumptions and limits visible.",
+        "explanation": "文章全体の目的と結論をまとめる。",
+        "isLastInPassage": true,
+        "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。"
+      }
+    ],
+    "passageTranslation": "この文章では、結果を単純化せず、条件・証拠・分類の前提を意識して考えることの重要性を論じている。身近な現象についても、目立つ結果だけでなく、その結果を生み出す条件や見落とされている情報を検討することで、より慎重で有用な判断が可能になる。",
+    "targetMinutes": 5,
+    "tags": [
+      "reading-v14",
+      "normal"
+    ]
+  }
+]
