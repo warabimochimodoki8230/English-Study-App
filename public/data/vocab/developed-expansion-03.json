@@ -1,0 +1,498 @@
+[
+  {
+    "id": "v-curated-developed-extra-0001-additive",
+    "type": "vocab",
+    "level": "developed",
+    "word": "additive",
+    "meaning": "添加物、付加物",
+    "pos": "名",
+    "exampleSentence": "Some food products contain additives that help preserve them for a longer time.",
+    "exampleJa": "添加物、付加物。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0002-briefing",
+    "type": "vocab",
+    "level": "developed",
+    "word": "briefing",
+    "meaning": "説明会、概要説明",
+    "pos": "名",
+    "exampleSentence": "The manager gave the new employees a short briefing before the project began.",
+    "exampleJa": "説明会、概要説明。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0003-comparative",
+    "type": "vocab",
+    "level": "developed",
+    "word": "comparative",
+    "meaning": "比較の",
+    "pos": "形",
+    "exampleSentence": "The report includes a comparative study of the two education systems.",
+    "exampleJa": "その報告書は、比較のについて詳しく説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0004-compensatory",
+    "type": "vocab",
+    "level": "developed",
+    "word": "compensatory",
+    "meaning": "補償の",
+    "pos": "形",
+    "exampleSentence": "The company offered compensatory leave to workers who had worked on the holiday.",
+    "exampleJa": "その会社は、補償のことを計画している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0005-decompose",
+    "type": "vocab",
+    "level": "developed",
+    "word": "decompose",
+    "meaning": "分解する",
+    "pos": "動",
+    "exampleSentence": "Fallen leaves gradually decompose and return nutrients to the soil.",
+    "exampleJa": "分解する。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0006-deterioration",
+    "type": "vocab",
+    "level": "developed",
+    "word": "deterioration",
+    "meaning": "悪化",
+    "pos": "名",
+    "exampleSentence": "The committee considered the deterioration before making its decision.",
+    "exampleJa": "委員会は決定を下す前に悪化を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0007-estimated",
+    "type": "vocab",
+    "level": "developed",
+    "word": "estimated",
+    "meaning": "推定された",
+    "pos": "形",
+    "exampleSentence": "The estimated cost of the project is higher than the original budget.",
+    "exampleJa": "推定された。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0008-domestically",
+    "type": "vocab",
+    "level": "developed",
+    "word": "domestically",
+    "meaning": "国内で",
+    "pos": "副",
+    "exampleSentence": "The company sells the product domestically as well as in several overseas markets.",
+    "exampleJa": "その会社は、国内でことを計画している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0009-exceedingly",
+    "type": "vocab",
+    "level": "developed",
+    "word": "exceedingly",
+    "meaning": "非常に",
+    "pos": "副",
+    "exampleSentence": "The entrance examination was exceedingly difficult, even for well-prepared students.",
+    "exampleJa": "非常に。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0010-expandable",
+    "type": "vocab",
+    "level": "developed",
+    "word": "expandable",
+    "meaning": "拡張可能な",
+    "pos": "形",
+    "exampleSentence": "The proposed solution is expandable under the current conditions.",
+    "exampleJa": "提案された解決策は、現在の条件では拡張可能な。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0011-individualism",
+    "type": "vocab",
+    "level": "developed",
+    "word": "individualism",
+    "meaning": "個人主義",
+    "pos": "名",
+    "exampleSentence": "The novel explores the tension between individualism and the needs of the community.",
+    "exampleJa": "個人主義。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0012-inspectable",
+    "type": "vocab",
+    "level": "developed",
+    "word": "inspectable",
+    "meaning": "検査可能な",
+    "pos": "形",
+    "exampleSentence": "The plan appears inspectable after the latest review.",
+    "exampleJa": "最新の検討後、その計画は検査可能なように見える。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0013-intuitive",
+    "type": "vocab",
+    "level": "developed",
+    "word": "intuitive",
+    "meaning": "直感的な",
+    "pos": "形",
+    "exampleSentence": "The researchers considered the intuitive option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に直感的なという選択肢を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0014-literal",
+    "type": "vocab",
+    "level": "developed",
+    "word": "literal",
+    "meaning": "文字通りの",
+    "pos": "形",
+    "exampleSentence": "The translator chose a literal interpretation of the phrase because the context was unclear.",
+    "exampleJa": "文字通りの。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0015-locally",
+    "type": "vocab",
+    "level": "developed",
+    "word": "locally",
+    "meaning": "局地的に",
+    "pos": "副",
+    "exampleSentence": "The vegetables are grown locally and delivered to nearby restaurants.",
+    "exampleJa": "局地的に。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0016-mainstream",
+    "type": "vocab",
+    "level": "developed",
+    "word": "mainstream",
+    "meaning": "主流",
+    "pos": "名",
+    "exampleSentence": "The idea gradually moved from the margins into the mainstream of public debate.",
+    "exampleJa": "主流。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0017-measurable",
+    "type": "vocab",
+    "level": "developed",
+    "word": "measurable",
+    "meaning": "測定可能な",
+    "pos": "形",
+    "exampleSentence": "The new program produced measurable improvements in students’ reading speed.",
+    "exampleJa": "測定可能な。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0018-phenomenal",
+    "type": "vocab",
+    "level": "developed",
+    "word": "phenomenal",
+    "meaning": "並外れた",
+    "pos": "形",
+    "exampleSentence": "The athlete made phenomenal progress during the final months of training.",
+    "exampleJa": "並外れた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0019-philosophical",
+    "type": "vocab",
+    "level": "developed",
+    "word": "philosophical",
+    "meaning": "哲学的な",
+    "pos": "形",
+    "exampleSentence": "The essay raises a philosophical question about what makes a life meaningful.",
+    "exampleJa": "哲学的な。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0020-proceeding",
+    "type": "vocab",
+    "level": "developed",
+    "word": "proceeding",
+    "meaning": "手続き、進行",
+    "pos": "名",
+    "exampleSentence": "The legal proceedings continued for several months before a decision was reached.",
+    "exampleJa": "手続き、進行。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0021-recognizable",
+    "type": "vocab",
+    "level": "developed",
+    "word": "recognizable",
+    "meaning": "認識できる",
+    "pos": "形",
+    "exampleSentence": "The landmark is easily recognizable from the river.",
+    "exampleJa": "認識できる。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0022-revolutionize",
+    "type": "vocab",
+    "level": "developed",
+    "word": "revolutionize",
+    "meaning": "一新する",
+    "pos": "動",
+    "exampleSentence": "The new battery could revolutionize the way electric vehicles are designed.",
+    "exampleJa": "一新する。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0023-societal",
+    "type": "vocab",
+    "level": "developed",
+    "word": "societal",
+    "meaning": "社会の",
+    "pos": "形",
+    "exampleSentence": "The report examines the societal effects of rapid population aging.",
+    "exampleJa": "その報告書は、社会のについて詳しく説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0024-sociological",
+    "type": "vocab",
+    "level": "developed",
+    "word": "sociological",
+    "meaning": "社会学の",
+    "pos": "形",
+    "exampleSentence": "The researchers used a sociological perspective to study changes in family structure.",
+    "exampleJa": "研究者たちは、社会学のことを検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0025-specialized",
+    "type": "vocab",
+    "level": "developed",
+    "word": "specialized",
+    "meaning": "専門化した",
+    "pos": "形",
+    "exampleSentence": "The hospital has specialized equipment for treating patients with rare conditions.",
+    "exampleJa": "専門化した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0026-stimulation",
+    "type": "vocab",
+    "level": "developed",
+    "word": "stimulation",
+    "meaning": "刺激",
+    "pos": "名",
+    "exampleSentence": "Regular mental stimulation can help older adults maintain their cognitive skills.",
+    "exampleJa": "刺激。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0027-superior",
+    "type": "vocab",
+    "level": "developed",
+    "word": "superior",
+    "meaning": "優れた",
+    "pos": "形",
+    "exampleSentence": "The new material is superior to the old one in both strength and durability.",
+    "exampleJa": "優れた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0028-uniquely",
+    "type": "vocab",
+    "level": "developed",
+    "word": "uniquely",
+    "meaning": "独特に",
+    "pos": "副",
+    "exampleSentence": "The region is uniquely suited to growing this type of rice.",
+    "exampleJa": "独特に。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0029-universalism",
+    "type": "vocab",
+    "level": "developed",
+    "word": "universalism",
+    "meaning": "普遍主義",
+    "pos": "名",
+    "exampleSentence": "The theory of universalism emphasizes values that are shared across cultures.",
+    "exampleJa": "普遍主義。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0030-validly",
+    "type": "vocab",
+    "level": "developed",
+    "word": "validly",
+    "meaning": "妥当に",
+    "pos": "副",
+    "exampleSentence": "The researchers could not validly compare the results because the two tests used different criteria.",
+    "exampleJa": "研究者たちは、妥当にことを検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0031-visualize",
+    "type": "vocab",
+    "level": "developed",
+    "word": "visualize",
+    "meaning": "可視化する",
+    "pos": "動",
+    "exampleSentence": "The company plans to visualize the new system next year.",
+    "exampleJa": "その会社は来年、新しいシステムを可視化するする予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  }
+]

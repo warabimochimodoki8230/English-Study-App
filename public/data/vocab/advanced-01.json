@@ -1,0 +1,6607 @@
+[
+  {
+    "id": "v-curated-1862",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "academically",
+    "meaning": "学問的に",
+    "pos": "adv",
+    "question": "academically",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "学問的に",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers academically reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは学問的にして、研究結果を公表する前に証拠を再検討した。"
+  },
+  {
+    "id": "v-curated-2002",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "acclaim",
+    "meaning": "称賛・絶賛する",
+    "pos": "v",
+    "question": "acclaim",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "称賛・絶賛する",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers need to acclaim the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を称賛・絶賛するする必要がある。"
+  },
+  {
+    "id": "v-curated-3191",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "acclaim",
+    "meaning": "称賛する・称賛",
+    "pos": "n",
+    "question": "acclaim",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "称賛する・称賛",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The committee considered the acclaim before making its decision.",
+    "exampleJa": "委員会は決定を下す前に称賛する・称賛を検討した。"
+  },
+  {
+    "id": "v-curated-1897",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "accountability",
+    "meaning": "説明責任",
+    "pos": "n",
+    "question": "accountability",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "説明責任",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The accountability became an important part of the discussion.",
+    "exampleJa": "説明責任は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-curated-1526",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "accountable",
+    "meaning": "説明責任のある",
+    "pos": "adj",
+    "question": "accountable",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "説明責任のある",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The team chose a accountable approach to the problem.",
+    "exampleJa": "チームはその問題に対して説明責任のあるという方法を選んだ。"
+  },
+  {
+    "id": "v-curated-3506",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "accounting",
+    "meaning": "会計",
+    "pos": "n",
+    "question": "accounting",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "会計",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The committee considered the accounting before making its decision.",
+    "exampleJa": "委員会は決定を下す前に会計を検討した。"
+  },
+  {
+    "id": "v-curated-3192",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "accustom",
+    "meaning": "慣れさせる",
+    "pos": "v",
+    "question": "accustom",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "慣れさせる",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The company plans to accustom the new system next year.",
+    "exampleJa": "その会社は来年、新しいシステムを慣れさせるする予定だ。"
+  },
+  {
+    "id": "v-curated-1530",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "acquaint",
+    "meaning": "知らせる・習熟させる",
+    "pos": "v",
+    "question": "acquaint",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "知らせる・習熟させる",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers need to acquaint the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を知らせる・習熟させるする必要がある。"
+  },
+  {
+    "id": "v-advanced-04-acumen",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "acumen",
+    "meaning": "洞察力・手腕",
+    "pos": "n",
+    "question": "acumen",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "洞察力・手腕",
+    "explanation": "",
+    "exampleSentence": "The committee considered the acumen before making its decision.",
+    "exampleJa": "委員会は決定を下す前に洞察力・手腕を検討した。",
+    "family": "acumen;acumens",
+    "synonyms": [],
+    "tags": [
+      "advanced",
+      "n"
+    ],
+    "note": "入試・読解で見かけやすい重要語。"
+  },
+  {
+    "id": "v-curated-1298",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "acute",
+    "meaning": "鋭い・急性の",
+    "pos": "adj",
+    "question": "acute",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "鋭い・急性の",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers considered the acute option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に鋭い・急性のという選択肢を検討した。"
+  },
+  {
+    "id": "v-curated-1898",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "adaptability",
+    "meaning": "適応性",
+    "pos": "n",
+    "question": "adaptability",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "適応性",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the adaptability in detail.",
+    "exampleJa": "その報告書は適応性について詳しく説明している。"
+  },
+  {
+    "id": "v-curated-2706",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "adaptive",
+    "meaning": "適応性のある",
+    "pos": "adj",
+    "question": "adaptive",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "適応性のある",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the adaptive characteristics of the system.",
+    "exampleJa": "その報告書はシステムの適応性のあるという特徴を詳しく説明している。"
+  },
+  {
+    "id": "v-curated-3203",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "addiction",
+    "meaning": "依存症・中毒",
+    "pos": "n",
+    "question": "addiction",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "依存症・中毒",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The addiction became an important part of the discussion.",
+    "exampleJa": "依存症・中毒は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-curated-1532",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "adequacy",
+    "meaning": "十分さ・適切さ",
+    "pos": "n",
+    "question": "adequacy",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "十分さ・適切さ",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the adequacy in detail.",
+    "exampleJa": "その報告書は十分さ・適切さについて詳しく説明している。"
+  },
+  {
+    "id": "v-curated-2552",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "adhere",
+    "meaning": "固く守る・付着する",
+    "pos": "v",
+    "question": "adhere",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "固く守る・付着する",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The team worked together to adhere the issue.",
+    "exampleJa": "チームはその問題を固く守る・付着するために協力した。"
+  },
+  {
+    "id": "v-curated-3099",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "adjacency",
+    "meaning": "隣接",
+    "pos": "n",
+    "question": "adjacency",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "隣接",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The adjacency became an important part of the discussion.",
+    "exampleJa": "隣接は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-mega-hard-0069",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "administer",
+    "meaning": "管理する・施行する",
+    "pos": "v",
+    "exampleSentence": "The researchers need to administer the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を管理する・施行するする必要がある。",
+    "explanation": "administer：管理する・施行する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ]
+  },
+  {
+    "id": "v-curated-1534",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "administrator",
+    "meaning": "管理者",
+    "pos": "n",
+    "question": "administrator",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "管理者",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The committee considered the administrator before making its decision.",
+    "exampleJa": "委員会は決定を下す前に管理者を検討した。"
+  },
+  {
+    "id": "v-curated-1536",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "admittedly",
+    "meaning": "認めざるを得ないことに",
+    "pos": "adv",
+    "question": "admittedly",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "認めざるを得ないことに",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The researchers admittedly reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは認めざるを得ないことにして、研究結果を公表する前に証拠を再検討した。"
+  },
+  {
+    "id": "v-curated-4024",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "adoptive",
+    "meaning": "養子の・採用した",
+    "pos": "adj",
+    "question": "adoptive",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "養子の・採用した",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The team chose a adoptive approach to the problem.",
+    "exampleJa": "チームはその問題に対して養子の・採用したという方法を選んだ。"
+  },
+  {
+    "id": "v-curated-2292",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "adorn",
+    "meaning": "飾る",
+    "pos": "v",
+    "question": "adorn",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "飾る",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "Many people adorn differently when the situation changes.",
+    "exampleJa": "状況が変化すると、多くの人はそれぞれ異なる飾る方をする。"
+  },
+  {
+    "id": "v-advanced-04-adversarial",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "adversarial",
+    "meaning": "敵対的な",
+    "pos": "adj",
+    "question": "adversarial",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "敵対的な",
+    "explanation": "",
+    "exampleSentence": "The researchers considered the adversarial option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に敵対的なという選択肢を検討した。",
+    "family": "adversarial;adversarially",
+    "synonyms": [],
+    "tags": [
+      "advanced",
+      "adj"
+    ],
+    "note": "入試・読解で見かけやすい重要語。"
+  },
+  {
+    "id": "v-curated-0393",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "adverse",
+    "meaning": "不利な・有害な",
+    "pos": "adj",
+    "question": "adverse",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "不利な・有害な",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The treatment can have adverse effects in patients with certain allergies.",
+    "exampleJa": "不利な・有害な。"
+  },
+  {
+    "id": "v-curated-1828",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "adversely",
+    "meaning": "不利に",
+    "pos": "adv",
+    "question": "adversely",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "不利に",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers adversely reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは不利にして、研究結果を公表する前に証拠を再検討した。"
+  },
+  {
+    "id": "v-curated-2293",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "adversity",
+    "meaning": "逆境",
+    "pos": "n",
+    "question": "adversity",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "逆境",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The adversity became an important part of the discussion.",
+    "exampleJa": "逆境は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-curated-1539",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "advisable",
+    "meaning": "望ましい",
+    "pos": "adj",
+    "question": "advisable",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "望ましい",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The team chose a advisable approach to the problem.",
+    "exampleJa": "チームはその問題に対して望ましいという方法を選んだ。"
+  },
+  {
+    "id": "v-advanced-001",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "advocate",
+    "meaning": "主張する・支持者",
+    "question": "advocate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "主張する・支持者",
+        "correct": true
+      },
+      {
+        "text": "反対する",
+        "correct": false
+      },
+      {
+        "text": "隠す",
+        "correct": false
+      },
+      {
+        "text": "延期する",
+        "correct": false
+      }
+    ],
+    "answer": "主張する・支持者",
+    "explanation": "advocate = 主張する・支持者。例：advocate reform",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "Many scientists advocate stricter rules on air pollution.",
+    "exampleJa": "主張する・支持者。"
+  },
+  {
+    "id": "v-curated-0332",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "advocate",
+    "meaning": "支持者",
+    "pos": "n",
+    "question": "advocate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "支持者",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The advocate became an important part of the discussion.",
+    "exampleJa": "支持者は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-curated-1300",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "aesthetic",
+    "meaning": "美的な",
+    "pos": "adj",
+    "question": "aesthetic",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "美的な",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The team chose a aesthetic approach to the problem.",
+    "exampleJa": "チームはその問題に対して美的なという方法を選んだ。"
+  },
+  {
+    "id": "v-curated-2294",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "affirm",
+    "meaning": "断言する",
+    "pos": "v",
+    "question": "affirm",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "断言する",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The team worked together to affirm the issue.",
+    "exampleJa": "チームはその問題を断言するために協力した。"
+  },
+  {
+    "id": "v-curated-1464",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "affluent",
+    "meaning": "裕福な",
+    "pos": "adj",
+    "question": "affluent",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "裕福な",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers considered the affluent option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に裕福なという選択肢を検討した。"
+  },
+  {
+    "id": "v-curated-1541",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "affordability",
+    "meaning": "手頃な価格であること",
+    "pos": "n",
+    "question": "affordability",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "手頃な価格であること",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report analyzes the effect of affordability on the local economy.",
+    "exampleJa": "その報告書は、手頃な価格であることについて詳しく説明している。"
+  },
+  {
+    "id": "v-advanced-002",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "aggregate",
+    "meaning": "総計・集計する",
+    "question": "aggregate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "総計・集計する",
+        "correct": true
+      },
+      {
+        "text": "部分",
+        "correct": false
+      },
+      {
+        "text": "例外",
+        "correct": false
+      },
+      {
+        "text": "誤り",
+        "correct": false
+      }
+    ],
+    "answer": "総計・集計する",
+    "explanation": "aggregate = 総計・集計する。例：aggregate demand",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The team worked together to aggregate the issue.",
+    "exampleJa": "チームはその問題を総計・集計するために協力した。"
+  },
+  {
+    "id": "v-curated-0957",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "aggregate",
+    "meaning": "集計する・総計する",
+    "pos": "v",
+    "question": "aggregate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "集計する・総計する",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The company plans to aggregate the new system next year.",
+    "exampleJa": "その会社は来年、新しいシステムを集計する・総計するする予定だ。"
+  },
+  {
+    "id": "v-curated-1094",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "aggregate",
+    "meaning": "総計・集計する",
+    "pos": "n",
+    "question": "aggregate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "総計・集計する",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the aggregate in detail.",
+    "exampleJa": "その報告書は総計・集計について詳しく説明している。"
+  },
+  {
+    "id": "v-curated-0753",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "aggregation",
+    "meaning": "集計",
+    "pos": "n",
+    "question": "aggregation",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "集計",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The committee considered the aggregation before making its decision.",
+    "exampleJa": "委員会は決定を下す前に集計を検討した。"
+  },
+  {
+    "id": "v-curated-1829",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "aggressively",
+    "meaning": "積極的に・攻撃的に",
+    "pos": "adv",
+    "question": "aggressively",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "積極的に・攻撃的に",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers aggressively reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは積極的に・攻撃的にして、研究結果を公表する前に証拠を再検討した。"
+  },
+  {
+    "id": "v-advanced-04-albeit",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "albeit",
+    "meaning": "〜ではあるが",
+    "pos": "conj",
+    "question": "albeit",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "〜ではあるが",
+    "explanation": "",
+    "exampleSentence": "The conjunction albeit can connect two related ideas in a sentence.",
+    "exampleJa": "接続詞～ではあるがは、文中の関連する2つの考えをつなぐことができる。",
+    "family": "albeit;albeits",
+    "synonyms": [],
+    "tags": [
+      "advanced",
+      "conj"
+    ],
+    "note": "入試・読解で見かけやすい重要語。",
+    "levelTags": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-curated-3518",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "alien",
+    "meaning": "外国人・異質な",
+    "pos": "adj",
+    "question": "alien",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "外国人・異質な",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the alien characteristics of the system.",
+    "exampleJa": "その報告書はシステムの外国人・異質なという特徴を詳しく説明している。"
+  },
+  {
+    "id": "v-curated-1544",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "alignment",
+    "meaning": "整列・一致",
+    "pos": "n",
+    "question": "alignment",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "整列・一致",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The alignment became an important part of the discussion.",
+    "exampleJa": "整列・一致は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-curated-1903",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "allegation",
+    "meaning": "申し立て・主張",
+    "pos": "n",
+    "question": "allegation",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "申し立て・主張",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the allegation in detail.",
+    "exampleJa": "その報告書は申し立て・主張について詳しく説明している。"
+  },
+  {
+    "id": "v-curated-1545",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "allegedly",
+    "meaning": "申し立てによれば",
+    "pos": "adv",
+    "question": "allegedly",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "申し立てによれば",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers allegedly reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは申し立てによればして、研究結果を公表する前に証拠を再検討した。"
+  },
+  {
+    "id": "v-curated-1097",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "alleviate",
+    "meaning": "軽減する",
+    "pos": "v",
+    "question": "alleviate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "軽減する",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The new policy may alleviate the financial burden on students.",
+    "exampleJa": "軽減する。"
+  },
+  {
+    "id": "v-curated-3102",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "allocation",
+    "meaning": "割り当て",
+    "pos": "n",
+    "question": "allocation",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "割り当て",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the allocation in detail.",
+    "exampleJa": "その報告書は割り当てについて詳しく説明している。"
+  },
+  {
+    "id": "bulk-vocab-00451",
+    "type": "vocab",
+    "word": "alternate",
+    "meaning": "交互の・代替する",
+    "pos": "adj",
+    "level": "advanced",
+    "tags": [
+      "bulk-expansion-v9"
+    ],
+    "source": "original-curated-v9",
+    "explanation": "alternate は「交互の・代替する」の意味。",
+    "exampleSentence": "The report describes the alternate characteristics of the system.",
+    "exampleJa": "その報告書はシステムの交互の・代替という特徴を詳しく説明している。"
+  },
+  {
+    "id": "v-curated-2295",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "amass",
+    "meaning": "蓄える",
+    "pos": "v",
+    "question": "amass",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "蓄える",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers observed how the situation changed when they amass.",
+    "exampleJa": "研究者たちは、彼らが蓄えるしたときに状況がどう変化したかを観察した。"
+  },
+  {
+    "id": "v-curated-3220",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "amateur",
+    "meaning": "素人・素人の",
+    "pos": "n",
+    "question": "amateur",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "素人・素人の",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The amateur explained the situation to the committee.",
+    "exampleJa": "素人・素人のは委員会にその状況を説明した。"
+  },
+  {
+    "id": "v-curated-1551",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "ambiguity",
+    "meaning": "曖昧さ",
+    "pos": "n",
+    "question": "ambiguity",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "曖昧さ",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The committee considered the ambiguity before making its decision.",
+    "exampleJa": "委員会は決定を下す前に曖昧さを検討した。"
+  },
+  {
+    "id": "v-advanced-101",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "ambiguous",
+    "meaning": "曖昧な",
+    "question": "ambiguous",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "傷つきやすい",
+        "correct": false
+      },
+      {
+        "text": "曖昧な",
+        "correct": true
+      },
+      {
+        "text": "持続する・執拗な",
+        "correct": false
+      },
+      {
+        "text": "その後の",
+        "correct": false
+      }
+    ],
+    "answer": "曖昧な",
+    "explanation": "ambiguous = 曖昧な。例：an ambiguous statement",
+    "exampleSentence": "The researchers considered the ambiguous option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に曖昧なという選択肢を検討した。"
+  },
+  {
+    "id": "v-curated-0278",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "amplify",
+    "meaning": "増幅する",
+    "pos": "v",
+    "question": "amplify",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "増幅する",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The researchers need to amplify the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を増幅するする必要がある。"
+  },
+  {
+    "id": "v-curated-1553",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "analogous",
+    "meaning": "類似した",
+    "pos": "adj",
+    "question": "analogous",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "類似した",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers found an analogous pattern in a completely different population.",
+    "exampleJa": "研究者たちは、類似したことを検討した。"
+  },
+  {
+    "id": "v-curated-1554",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "analytically",
+    "meaning": "分析的に",
+    "pos": "adv",
+    "question": "analytically",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "分析的に",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The researchers analytically reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは分析的にして、研究結果を公表する前に証拠を再検討した。"
+  },
+  {
+    "id": "v-curated-0613",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "anecdote",
+    "meaning": "逸話",
+    "pos": "n",
+    "question": "anecdote",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "逸話",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the anecdote in detail.",
+    "exampleJa": "その報告書は逸話について詳しく説明している。"
+  },
+  {
+    "id": "v-curated-0832",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "anomaly",
+    "meaning": "異常・例外",
+    "pos": "n",
+    "question": "anomaly",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "異常・例外",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The committee considered the anomaly before making its decision.",
+    "exampleJa": "委員会は決定を下す前に異常・例外を検討した。"
+  },
+  {
+    "id": "v-curated-1557",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "anonymous",
+    "meaning": "匿名の",
+    "pos": "adj",
+    "question": "anonymous",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "匿名の",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers considered the anonymous option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に匿名のという選択肢を検討した。"
+  },
+  {
+    "id": "v-curated-1105",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "apparatus",
+    "meaning": "器具・装置",
+    "pos": "n",
+    "question": "apparatus",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "器具・装置",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the apparatus in detail.",
+    "exampleJa": "その報告書は器具・装置について詳しく説明している。"
+  },
+  {
+    "id": "v-curated-3104",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "applicability",
+    "meaning": "適用可能性",
+    "pos": "n",
+    "question": "applicability",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "適用可能性",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The committee considered the applicability before making its decision.",
+    "exampleJa": "委員会は決定を下す前に適用可能性を検討した。"
+  },
+  {
+    "id": "v-curated-0616",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "appraisal",
+    "meaning": "評価・査定",
+    "pos": "n",
+    "question": "appraisal",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "評価・査定",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The appraisal became an important part of the discussion.",
+    "exampleJa": "評価・査定は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-curated-2711",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "appreciable",
+    "meaning": "かなりの・評価できる",
+    "pos": "adj",
+    "question": "appreciable",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "かなりの・評価できる",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The team chose a appreciable approach to the problem.",
+    "exampleJa": "チームはその問題に対してかなりの・評価できるという方法を選んだ。"
+  },
+  {
+    "id": "v-curated-0834",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "apprehension",
+    "meaning": "不安・理解",
+    "pos": "n",
+    "question": "apprehension",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "不安・理解",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The committee considered the apprehension before making its decision.",
+    "exampleJa": "委員会は決定を下す前に不安・理解を検討した。"
+  },
+  {
+    "id": "v-curated-2929",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "approximation",
+    "meaning": "近似・概算",
+    "pos": "n",
+    "question": "approximation",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "近似・概算",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The approximation became an important part of the discussion.",
+    "exampleJa": "近似・概算は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-curated-2019",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "aptitude",
+    "meaning": "適性",
+    "pos": "n",
+    "question": "aptitude",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "適性",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the aptitude in detail.",
+    "exampleJa": "その報告書は適性について詳しく説明している。"
+  },
+  {
+    "id": "v-advanced-102",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "arbitrary",
+    "meaning": "恣意的な・任意の",
+    "question": "arbitrary",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "不可欠な",
+        "correct": false
+      },
+      {
+        "text": "考案する",
+        "correct": false
+      },
+      {
+        "text": "傷つきやすい",
+        "correct": false
+      },
+      {
+        "text": "恣意的な・任意の",
+        "correct": true
+      }
+    ],
+    "answer": "恣意的な・任意の",
+    "explanation": "arbitrary = 恣意的な・任意の。例：an arbitrary decision",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The report describes the arbitrary characteristics of the system.",
+    "exampleJa": "その報告書はシステムの恣意的な・任意のという特徴を詳しく説明している。"
+  },
+  {
+    "id": "v-curated-3693",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "architectural",
+    "meaning": "建築上の",
+    "pos": "adj",
+    "question": "architectural",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "建築上の",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The researchers considered the architectural option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に建築上のという選択肢を検討した。"
+  },
+  {
+    "id": "v-curated-2298",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "arouse",
+    "meaning": "呼び起こす",
+    "pos": "v",
+    "question": "arouse",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "呼び起こす",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The process can arouse under certain conditions.",
+    "exampleJa": "その過程は特定の条件下では呼び起こすことができる。"
+  },
+  {
+    "id": "v-curated-3236",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "array",
+    "meaning": "配列・一式",
+    "pos": "n",
+    "question": "array",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "配列・一式",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The committee considered the array before making its decision.",
+    "exampleJa": "委員会は決定を下す前に配列・一式を検討した。"
+  },
+  {
+    "id": "v-curated-2020",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "arrogance",
+    "meaning": "傲慢",
+    "pos": "n",
+    "question": "arrogance",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "傲慢",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The arrogance became an important part of the discussion.",
+    "exampleJa": "傲慢は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-advanced-103",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "articulate",
+    "meaning": "明確に表現する",
+    "question": "articulate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "相互の",
+        "correct": false
+      },
+      {
+        "text": "明確に表現する",
+        "correct": true
+      },
+      {
+        "text": "一貫した",
+        "correct": false
+      },
+      {
+        "text": "矛盾する・反論する",
+        "correct": false
+      }
+    ],
+    "answer": "明確に表現する",
+    "explanation": "articulate = 明確に表現する。例：articulate an argument",
+    "exampleSentence": "The researchers need to articulate the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を明確に表現するする必要がある。"
+  },
+  {
+    "id": "v-curated-1110",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "articulate",
+    "meaning": "明瞭に表現する・明瞭な",
+    "pos": "v",
+    "question": "articulate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "明瞭に表現する・明瞭な",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The team worked together to articulate the issue.",
+    "exampleJa": "チームはその問題を明瞭に表現する・明瞭なするために協力した。"
+  },
+  {
+    "id": "v-curated-2564",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "artifact",
+    "meaning": "人工物・工芸品",
+    "pos": "n",
+    "question": "artifact",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "人工物・工芸品",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The artifact spoke with the students after the meeting.",
+    "exampleJa": "人工物・工芸品は会議後に学生たちと話した。"
+  },
+  {
+    "id": "v-curated-1566",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "artificially",
+    "meaning": "人工的に",
+    "pos": "adv",
+    "question": "artificially",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "人工的に",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers artificially reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは人工的にして、研究結果を公表する前に証拠を再検討した。"
+  },
+  {
+    "id": "v-curated-0962",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "ascend",
+    "meaning": "上昇する",
+    "pos": "v",
+    "question": "ascend",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "上昇する",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The team worked together to ascend the issue.",
+    "exampleJa": "チームはその問題を上昇するために協力した。"
+  },
+  {
+    "id": "bulk-vocab-00460",
+    "type": "vocab",
+    "word": "aspire",
+    "meaning": "熱望する",
+    "pos": "v",
+    "level": "advanced",
+    "tags": [
+      "bulk-expansion-v9"
+    ],
+    "source": "original-curated-v9",
+    "explanation": "aspire は「熱望する」の意味。",
+    "exampleSentence": "The company plans to aspire the new system next year.",
+    "exampleJa": "その会社は来年、新しいシステムを熱望するする予定だ。"
+  },
+  {
+    "id": "v-curated-2300",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "assertive",
+    "meaning": "自己主張の強い",
+    "pos": "adj",
+    "question": "assertive",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "自己主張の強い",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The team chose a assertive approach to the problem.",
+    "exampleJa": "チームはその問題に対して自己主張の強いという方法を選んだ。"
+  },
+  {
+    "id": "bulk-vocab-00168",
+    "type": "vocab",
+    "word": "attorney",
+    "meaning": "弁護士",
+    "pos": "n",
+    "level": "advanced",
+    "tags": [
+      "bulk-expansion-v9"
+    ],
+    "source": "original-curated-v9",
+    "explanation": "attorney は「弁護士」の意味。",
+    "exampleSentence": "A attorney was invited to speak at the event.",
+    "exampleJa": "弁護士がその行事で話すよう招かれた。"
+  },
+  {
+    "id": "v-curated-2301",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "attributable",
+    "meaning": "起因すると考えられる",
+    "pos": "adj",
+    "question": "attributable",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "起因すると考えられる",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers considered the attributable option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に起因すると考えられるという選択肢を検討した。"
+  },
+  {
+    "id": "v-curated-1573",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "attribute",
+    "meaning": "属性・～のせいにする",
+    "pos": "n",
+    "question": "attribute",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "属性・～のせいにする",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the attribute in detail.",
+    "exampleJa": "その報告書は属性・～のせいにについて詳しく説明している。"
+  },
+  {
+    "id": "v-curated-3242",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "auction",
+    "meaning": "競売・競売にかける",
+    "pos": "n",
+    "question": "auction",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "競売・競売にかける",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The committee considered the auction before making its decision.",
+    "exampleJa": "委員会は決定を下す前に競売・競売にかけるを検討した。"
+  },
+  {
+    "id": "v-max2-augment",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "augment",
+    "meaning": "増加させる",
+    "pos": "v",
+    "exampleSentence": "The company plans to augment the new system next year.",
+    "exampleJa": "その会社は来年、新しいシステムを増加させるする予定だ。",
+    "explanation": "augment：増加させる。",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-max2",
+      "入試発展"
+    ],
+    "source": "curated-vocab-max2-2026",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ]
+  },
+  {
+    "id": "bulk-vocab-00463",
+    "type": "vocab",
+    "word": "authenticate",
+    "meaning": "認証する",
+    "pos": "v",
+    "level": "advanced",
+    "tags": [
+      "bulk-expansion-v9"
+    ],
+    "source": "original-curated-v9",
+    "explanation": "authenticate は「認証する」の意味。",
+    "exampleSentence": "The researchers need to authenticate the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を認証するする必要がある。"
+  },
+  {
+    "id": "v-curated-3107",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "authorization",
+    "meaning": "許可・認可",
+    "pos": "n",
+    "question": "authorization",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "許可・認可",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The committee considered the authorization before making its decision.",
+    "exampleJa": "委員会は決定を下す前に許可・認可を検討した。"
+  },
+  {
+    "id": "v-curated-3541",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "automated",
+    "meaning": "自動化された",
+    "pos": "adj",
+    "question": "automated",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "自動化された",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers considered the automated option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に自動化されたという選択肢を検討した。"
+  },
+  {
+    "id": "v-max2-autonomous",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "autonomous",
+    "meaning": "自治の；自律的な",
+    "pos": "adj",
+    "exampleSentence": "The team chose a autonomous approach to the problem.",
+    "exampleJa": "チームはその問題に対して自治のという方法を選んだ。",
+    "explanation": "autonomous：自治の；自律的な。",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-max2",
+      "入試発展"
+    ],
+    "source": "curated-vocab-max2-2026",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ]
+  },
+  {
+    "id": "v-curated-1119",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "autonomy",
+    "meaning": "自律性",
+    "pos": "n",
+    "question": "autonomy",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "自律性",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The committee considered the autonomy before making its decision.",
+    "exampleJa": "委員会は決定を下す前に自律性を検討した。"
+  },
+  {
+    "id": "v-curated-2028",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "backlash",
+    "meaning": "反発",
+    "pos": "n",
+    "question": "backlash",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "反発",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The backlash became an important part of the discussion.",
+    "exampleJa": "反発は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-curated-2029",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "ballot",
+    "meaning": "投票・投票用紙",
+    "pos": "n",
+    "question": "ballot",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "投票・投票用紙",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the ballot in detail.",
+    "exampleJa": "その報告書は投票・投票用紙について詳しく説明している。"
+  },
+  {
+    "id": "v-curated-2030",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "banish",
+    "meaning": "追放する",
+    "pos": "v",
+    "question": "banish",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "追放する",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The team worked together to banish the issue.",
+    "exampleJa": "チームはその問題を追放するために協力した。"
+  },
+  {
+    "id": "v-curated-2031",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "barbaric",
+    "meaning": "野蛮な",
+    "pos": "adj",
+    "question": "barbaric",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "野蛮な",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers considered the barbaric option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に野蛮なという選択肢を検討した。"
+  },
+  {
+    "id": "v-curated-3715",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "battlefield",
+    "meaning": "戦場",
+    "pos": "n",
+    "question": "battlefield",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "戦場",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The report describes the battlefield in detail.",
+    "exampleJa": "その報告書は戦場について詳しく説明している。"
+  },
+  {
+    "id": "v-curated-1120",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "benchmark",
+    "meaning": "基準・指標",
+    "pos": "n",
+    "question": "benchmark",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "基準・指標",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The committee considered the benchmark before making its decision.",
+    "exampleJa": "委員会は決定を下す前に基準・指標を検討した。"
+  },
+  {
+    "id": "v-curated-1313",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "betray",
+    "meaning": "裏切る・漏らす",
+    "pos": "v",
+    "question": "betray",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "裏切る・漏らす",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers observed how the situation changed when they betray.",
+    "exampleJa": "研究者たちは、彼らが裏切る・漏らすしたときに状況がどう変化したかを観察した。"
+  },
+  {
+    "id": "v-curated-2303",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "betrayal",
+    "meaning": "裏切り",
+    "pos": "n",
+    "question": "betrayal",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "裏切り",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the betrayal in detail.",
+    "exampleJa": "その報告書は裏切りについて詳しく説明している。"
+  },
+  {
+    "id": "v-curated-1470",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "bewilder",
+    "meaning": "困惑させる",
+    "pos": "v",
+    "question": "bewilder",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "困惑させる",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The team worked together to bewilder the issue.",
+    "exampleJa": "チームはその問題を困惑させるするために協力した。"
+  },
+  {
+    "id": "v-curated-2033",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "bewilderment",
+    "meaning": "困惑",
+    "pos": "n",
+    "question": "bewilderment",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "困惑",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The bewilderment became an important part of the discussion.",
+    "exampleJa": "困惑は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-curated-0226",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "bias",
+    "meaning": "偏らせる",
+    "pos": "v",
+    "question": "bias",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "偏らせる",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The process can bias under certain conditions.",
+    "exampleJa": "その過程は特定の条件下では偏らせることができる。"
+  },
+  {
+    "id": "v-curated-1122",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "bizarre",
+    "meaning": "奇妙な",
+    "pos": "adj",
+    "question": "bizarre",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "奇妙な",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The report describes the bizarre characteristics of the system.",
+    "exampleJa": "その報告書はシステムの奇妙なという特徴を詳しく説明している。"
+  },
+  {
+    "id": "v-curated-2035",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "blatant",
+    "meaning": "露骨な",
+    "pos": "adj",
+    "question": "blatant",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "露骨な",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers considered the blatant option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に露骨なという選択肢を検討した。"
+  },
+  {
+    "id": "v-curated-2036",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "blunder",
+    "meaning": "大失敗・へま",
+    "pos": "n",
+    "question": "blunder",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "大失敗・へま",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the blunder in detail.",
+    "exampleJa": "その報告書は大失敗・へまについて詳しく説明している。"
+  },
+  {
+    "id": "v-curated-1123",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "blunt",
+    "meaning": "鈍い・率直な",
+    "pos": "adj",
+    "question": "blunt",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "鈍い・率直な",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the blunt characteristics of the system.",
+    "exampleJa": "その報告書はシステムの鈍い・率直なという特徴を詳しく説明している。"
+  },
+  {
+    "id": "v-curated-2038",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "breach",
+    "meaning": "違反・破る",
+    "pos": "n",
+    "question": "breach",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "違反・破る",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The breach became an important part of the discussion.",
+    "exampleJa": "違反・破るは議論の重要な一部となった。"
+  },
+  {
+    "id": "v-curated-1586",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "breathless",
+    "meaning": "息を切らした",
+    "pos": "adj",
+    "question": "breathless",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "息を切らした",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The team chose a breathless approach to the problem.",
+    "exampleJa": "チームはその問題に対して息を切らしたという方法を選んだ。"
+  },
+  {
+    "id": "v-curated-2039",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "brisk",
+    "meaning": "活発な・きびきびした",
+    "pos": "adj",
+    "question": "brisk",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "活発な・きびきびした",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the brisk characteristics of the system.",
+    "exampleJa": "その報告書はシステムの活発な・きびきびしたという特徴を詳しく説明している。"
+  },
+  {
+    "id": "v-curated-4095",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "budgetary",
+    "meaning": "予算上の",
+    "pos": "adj",
+    "question": "budgetary",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "予算上の",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The researchers considered the budgetary option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に予算上のという選択肢を検討した。"
+  },
+  {
+    "id": "v-curated-1126",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "bureaucracy",
+    "meaning": "官僚制度",
+    "pos": "n",
+    "question": "bureaucracy",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "官僚制度",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The report describes the bureaucracy used by the researchers.",
+    "exampleJa": "その報告書は、官僚制度について詳しく説明している。"
+  },
+  {
+    "id": "v-hard-03-candid",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "candid",
+    "meaning": "率直な",
+    "pos": "adj",
+    "question": "candid",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "率直な",
+    "explanation": "",
+    "exampleSentence": "The report describes the candid characteristics of the system.",
+    "exampleJa": "その報告書はシステムの率直なという特徴を詳しく説明している。",
+    "family": "candor",
+    "synonyms": [
+      "frank",
+      "honest"
+    ],
+    "tags": [
+      "hard",
+      "adj"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。candid の派生語: candor.",
+    "levelTags": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-curated-2043",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "capitalize",
+    "meaning": "活用する・大文字にする",
+    "pos": "v",
+    "question": "capitalize",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "活用する・大文字にする",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The company plans to capitalize the new system next year.",
+    "exampleJa": "その会社は来年、新しいシステムを活用する・大文字にするする予定だ。"
+  },
+  {
+    "id": "v-curated-0625",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "casualty",
+    "meaning": "死傷者・犠牲者",
+    "pos": "n",
+    "question": "casualty",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "死傷者・犠牲者",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The hospital introduced a new program related to casualty.",
+    "exampleJa": "死傷者・犠牲者。"
+  },
+  {
+    "id": "v-curated-2960",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "causal",
+    "meaning": "因果関係の",
+    "pos": "adj",
+    "question": "causal",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "因果関係の",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the causal characteristics of the system.",
+    "exampleJa": "その報告書はシステムの因果関係のという特徴を詳しく説明している。"
+  },
+  {
+    "id": "v-advanced-153",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "cease",
+    "meaning": "やめる・終える",
+    "question": "cease",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "やめる・終える",
+        "correct": true
+      },
+      {
+        "text": "深い・重大な",
+        "correct": false
+      },
+      {
+        "text": "協力する",
+        "correct": false
+      },
+      {
+        "text": "集計する・総計",
+        "correct": false
+      }
+    ],
+    "answer": "やめる・終える",
+    "explanation": "cease = やめる・終える。例：cease operations",
+    "exampleSentence": "The researchers considered the cease option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前にやめる・終えるという選択肢を検討した。"
+  },
+  {
+    "id": "v-curated-2044",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "ceasefire",
+    "meaning": "停戦",
+    "pos": "n",
+    "question": "ceasefire",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "停戦",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the ceasefire in detail.",
+    "exampleJa": "その報告書は停戦について詳しく説明している。"
+  },
+  {
+    "id": "v-curated-1590",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "chaotic",
+    "meaning": "混沌とした",
+    "pos": "adj",
+    "question": "chaotic",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "混沌とした",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the chaotic characteristics of the system.",
+    "exampleJa": "その報告書はシステムの混沌としたという特徴を詳しく説明している。"
+  },
+  {
+    "id": "v-curated-0407",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "chronic",
+    "meaning": "慢性的な",
+    "pos": "adj",
+    "question": "chronic",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "慢性的な",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers considered the chronic option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に慢性的なという選択肢を検討した。"
+  },
+  {
+    "id": "v-curated-1318",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "chronological",
+    "meaning": "年代順の",
+    "pos": "adj",
+    "question": "chronological",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "年代順の",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The team chose a chronological approach to the problem.",
+    "exampleJa": "チームはその問題に対して年代順のという方法を選んだ。"
+  },
+  {
+    "id": "v-curated-1319",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "civic",
+    "meaning": "市民の",
+    "pos": "adj",
+    "question": "civic",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "市民の",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the civic characteristics of the system.",
+    "exampleJa": "その報告書はシステムの市民のという特徴を詳しく説明している。"
+  },
+  {
+    "id": "v-curated-1594",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "clarification",
+    "meaning": "明確化",
+    "pos": "n",
+    "question": "clarification",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "明確化",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The clarification became an important part of the discussion.",
+    "exampleJa": "明確化は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-curated-0629",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "coalition",
+    "meaning": "連合",
+    "pos": "n",
+    "question": "coalition",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "連合",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the coalition in detail.",
+    "exampleJa": "その報告書は連合について詳しく説明している。"
+  },
+  {
+    "id": "v-curated-1320",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "coarse",
+    "meaning": "粗い",
+    "pos": "adj",
+    "question": "coarse",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "粗い",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the coarse characteristics of the system.",
+    "exampleJa": "その報告書はシステムの粗いという特徴を詳しく説明している。"
+  },
+  {
+    "id": "v-curated-2052",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "collaborative",
+    "meaning": "協働の",
+    "pos": "adj",
+    "question": "collaborative",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "協働の",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers considered the collaborative option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に協働のという選択肢を検討した。"
+  },
+  {
+    "id": "bulk-vocab-00033",
+    "type": "vocab",
+    "word": "collapse",
+    "meaning": "崩壊する・崩壊",
+    "pos": "n",
+    "level": "advanced",
+    "tags": [
+      "bulk-expansion-v9"
+    ],
+    "source": "original-curated-v9",
+    "explanation": "collapse は「崩壊する・崩壊」の意味。",
+    "exampleSentence": "The report describes the collapse in detail.",
+    "exampleJa": "その報告書は崩壊する・崩壊について詳しく説明している。"
+  },
+  {
+    "id": "v-curated-0631",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "colonial",
+    "meaning": "植民地の",
+    "pos": "adj",
+    "question": "colonial",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "植民地の",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the colonial characteristics of the system.",
+    "exampleJa": "その報告書はシステムの植民地のという特徴を詳しく説明している。"
+  },
+  {
+    "id": "v-curated-3760",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "colony",
+    "meaning": "植民地・群生地",
+    "pos": "n",
+    "question": "colony",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "植民地・群生地",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The colony became an important part of the discussion.",
+    "exampleJa": "植民地・群生地は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-curated-2053",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "communal",
+    "meaning": "共同の",
+    "pos": "adj",
+    "question": "communal",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "共同の",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The team chose a communal approach to the problem.",
+    "exampleJa": "チームはその問題に対して共同のという方法を選んだ。"
+  },
+  {
+    "id": "v-curated-1603",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "comparable",
+    "meaning": "比較できる・同等の",
+    "pos": "adj",
+    "question": "comparable",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "比較できる・同等の",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the comparable characteristics of the system.",
+    "exampleJa": "その報告書はシステムの比較できる・同等のという特徴を詳しく説明している。"
+  },
+  {
+    "id": "v-curated-1866",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "comparably",
+    "meaning": "同程度に",
+    "pos": "adv",
+    "question": "comparably",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "同程度に",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers comparably reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは同程度にして、研究結果を公表する前に証拠を再検討した。"
+  },
+  {
+    "id": "v-curated-1325",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "compassion",
+    "meaning": "思いやり",
+    "pos": "n",
+    "question": "compassion",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "思いやり",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the compassion in detail.",
+    "exampleJa": "その報告書は思いやりについて詳しく説明している。"
+  },
+  {
+    "id": "v-curated-2054",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "compassionate",
+    "meaning": "思いやりのある",
+    "pos": "adj",
+    "question": "compassionate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "思いやりのある",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the compassionate characteristics of the system.",
+    "exampleJa": "その報告書はシステムの思いやりのあるという特徴を詳しく説明している。"
+  },
+  {
+    "id": "v-advanced-106",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "compatible",
+    "meaning": "両立できる・互換性のある",
+    "question": "compatible",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "微妙な・巧妙な",
+        "correct": false
+      },
+      {
+        "text": "一貫した",
+        "correct": false
+      },
+      {
+        "text": "その後の",
+        "correct": false
+      },
+      {
+        "text": "両立できる・互換性のある",
+        "correct": true
+      }
+    ],
+    "answer": "両立できる・互換性のある",
+    "explanation": "compatible = 両立できる・互換性のある。例：compatible systems",
+    "exampleSentence": "The researchers considered the compatible option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に両立できる・互換性のあるという選択肢を検討した。"
+  },
+  {
+    "id": "v-advanced-107",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "compel",
+    "meaning": "強いる",
+    "question": "compel",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "強いる",
+        "correct": true
+      },
+      {
+        "text": "進行中の",
+        "correct": false
+      },
+      {
+        "text": "革新的な",
+        "correct": false
+      },
+      {
+        "text": "枠組み",
+        "correct": false
+      }
+    ],
+    "answer": "強いる",
+    "explanation": "compel = 強いる。例：compel him to act",
+    "exampleSentence": "The team chose a compel approach to the problem.",
+    "exampleJa": "チームはその問題に対して強いるという方法を選んだ。"
+  },
+  {
+    "id": "v-advanced-003",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "compelling",
+    "meaning": "説得力のある",
+    "question": "compelling",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "説得力のある",
+        "correct": true
+      },
+      {
+        "text": "弱い",
+        "correct": false
+      },
+      {
+        "text": "無関係な",
+        "correct": false
+      },
+      {
+        "text": "偶然の",
+        "correct": false
+      }
+    ],
+    "answer": "説得力のある",
+    "explanation": "compelling = 説得力のある。例：compelling evidence",
+    "exampleSentence": "The report describes the compelling characteristics of the system.",
+    "exampleJa": "その報告書はシステムの説得力のあるという特徴を詳しく説明している。"
+  },
+  {
+    "id": "v-mega-hard-0059",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "compelling",
+    "meaning": "説得力のある",
+    "pos": "adj",
+    "exampleSentence": "The researchers considered the compelling option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に説得力のあるという選択肢を検討した。",
+    "explanation": "compelling：説得力のある",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-curated-3113",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "competitiveness",
+    "meaning": "競争力",
+    "pos": "n",
+    "question": "competitiveness",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "競争力",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the competitiveness in detail.",
+    "exampleJa": "その報告書は競争力について詳しく説明している。"
+  },
+  {
+    "id": "v-curated-1607",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "complementary",
+    "meaning": "補完的な",
+    "pos": "adj",
+    "question": "complementary",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "補完的な",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the complementary characteristics of the system.",
+    "exampleJa": "その報告書はシステムの補完的なという特徴を詳しく説明している。"
+  },
+  {
+    "id": "v-curated-0634",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "compliance",
+    "meaning": "順守",
+    "pos": "n",
+    "question": "compliance",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "順守",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The compliance became an important part of the discussion.",
+    "exampleJa": "順守は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-curated-2576",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "comply",
+    "meaning": "従う",
+    "pos": "v",
+    "question": "comply",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "従う",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The process can comply under certain conditions.",
+    "exampleJa": "その過程は特定の条件下では従うことができる。"
+  },
+  {
+    "id": "v-curated-0776",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "conceivable",
+    "meaning": "考えられる",
+    "pos": "adj",
+    "question": "conceivable",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "考えられる",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The report describes the conceivable characteristics of the system.",
+    "exampleJa": "その報告書はシステムの考えられるという特徴を詳しく説明している。"
+  },
+  {
+    "id": "v-curated-2411",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "conceivably",
+    "meaning": "考えられる範囲では",
+    "pos": "adv",
+    "question": "conceivably",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "考えられる範囲では",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers conceivably reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは考えられる範囲ではして、研究結果を公表する前に証拠を再検討した。"
+  },
+  {
+    "id": "v-advanced-108",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "conceive",
+    "meaning": "考えつく・認識する",
+    "question": "conceive",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "曖昧な",
+        "correct": false
+      },
+      {
+        "text": "恣意的な・任意の",
+        "correct": false
+      },
+      {
+        "text": "考えつく・認識する",
+        "correct": true
+      },
+      {
+        "text": "観点",
+        "correct": false
+      }
+    ],
+    "answer": "考えつく・認識する",
+    "explanation": "conceive = 考えつく・認識する。例：conceive a new idea",
+    "exampleSentence": "She conceive that the plan will succeed if everyone cooperates.",
+    "exampleJa": "考えつく・認識する。"
+  },
+  {
+    "id": "v-curated-3771",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "concentrated",
+    "meaning": "濃縮された・集中した",
+    "pos": "adj",
+    "question": "concentrated",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "濃縮された・集中した",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The report describes the concentrated characteristics of the system.",
+    "exampleJa": "その報告書はシステムの濃縮された・集中したという特徴を詳しく説明している。"
+  },
+  {
+    "id": "v-curated-0851",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "conception",
+    "meaning": "概念・構想",
+    "pos": "n",
+    "question": "conception",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "概念・構想",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The article explores the conception in modern society.",
+    "exampleJa": "概念・構想。"
+  },
+  {
+    "id": "v-curated-2724",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "conceptual",
+    "meaning": "概念的な",
+    "pos": "adj",
+    "question": "conceptual",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "概念的な",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The course focuses on conceptual differences between the two theories.",
+    "exampleJa": "概念的な。"
+  },
+  {
+    "id": "v-advanced-03-concession",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "concession",
+    "meaning": "譲歩",
+    "pos": "n",
+    "question": "concession",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "譲歩",
+    "explanation": "",
+    "exampleSentence": "The committee considered the concession before making its decision.",
+    "exampleJa": "委員会は決定を下す前に譲歩を検討した。",
+    "family": "concede",
+    "synonyms": [
+      "compromise",
+      "allowance"
+    ],
+    "tags": [
+      "advanced",
+      "n"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。concession の派生語: concede.",
+    "levelTags": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-curated-1867",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "concisely",
+    "meaning": "簡潔に",
+    "pos": "adv",
+    "question": "concisely",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "簡潔に",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers concisely reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは簡潔にして、研究結果を公表する前に証拠を再検討した。"
+  },
+  {
+    "id": "v-advanced-03-concurrent",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "concurrent",
+    "meaning": "同時に起こる",
+    "pos": "adj",
+    "question": "concurrent",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "同時に起こる",
+    "explanation": "",
+    "exampleSentence": "The team chose a concurrent approach to the problem.",
+    "exampleJa": "チームはその問題に対して同時に起こるという方法を選んだ。",
+    "family": "concurrently",
+    "synonyms": [
+      "simultaneous",
+      "parallel"
+    ],
+    "tags": [
+      "advanced",
+      "adj"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。concurrent の派生語: concurrently.",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ]
+  },
+  {
+    "id": "v-curated-0249",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "concurrently",
+    "meaning": "同時に",
+    "pos": "adv",
+    "question": "concurrently",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "同時に",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The researchers concurrently reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは同時にして、研究結果を公表する前に証拠を再検討した。"
+  },
+  {
+    "id": "v-curated-0981",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "condemn",
+    "meaning": "非難する",
+    "pos": "v",
+    "question": "condemn",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "非難する",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The company plans to condemn the new system next year.",
+    "exampleJa": "その会社は来年、新しいシステムを非難するする予定だ。"
+  },
+  {
+    "id": "v-curated-2061",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "confide",
+    "meaning": "打ち明ける",
+    "pos": "v",
+    "question": "confide",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "打ち明ける",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The process can confide under certain conditions.",
+    "exampleJa": "その過程は特定の条件下では打ち明けることができる。"
+  },
+  {
+    "id": "v-curated-1616",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "confidential",
+    "meaning": "機密の",
+    "pos": "adj",
+    "question": "confidential",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "機密の",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the confidential characteristics of the system.",
+    "exampleJa": "その報告書はシステムの機密のという特徴を詳しく説明している。"
+  },
+  {
+    "id": "v-curated-0636",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "configuration",
+    "meaning": "構成・設定",
+    "pos": "n",
+    "question": "configuration",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "構成・設定",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The configuration became an important part of the discussion.",
+    "exampleJa": "構成・設定は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-curated-0781",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "confinement",
+    "meaning": "拘束",
+    "pos": "n",
+    "question": "confinement",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "拘束",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The report describes the confinement in detail.",
+    "exampleJa": "その報告書は拘束について詳しく説明している。"
+  },
+  {
+    "id": "v-curated-0637",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "conformity",
+    "meaning": "一致・適合",
+    "pos": "n",
+    "question": "conformity",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "一致・適合",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The committee considered the conformity before making its decision.",
+    "exampleJa": "委員会は決定を下す前に一致・適合を検討した。"
+  },
+  {
+    "id": "v-curated-1619",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "confrontation",
+    "meaning": "対立・直面",
+    "pos": "n",
+    "question": "confrontation",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "対立・直面",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The confrontation became an important part of the discussion.",
+    "exampleJa": "対立・直面は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-advanced-004",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "consecutive",
+    "meaning": "連続した",
+    "question": "consecutive",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "連続した",
+        "correct": true
+      },
+      {
+        "text": "断続的な",
+        "correct": false
+      },
+      {
+        "text": "異常な",
+        "correct": false
+      },
+      {
+        "text": "一時的な",
+        "correct": false
+      }
+    ],
+    "answer": "連続した",
+    "explanation": "consecutive = 連続した。例：three consecutive days",
+    "exampleSentence": "The team chose a consecutive approach to the problem.",
+    "exampleJa": "チームはその問題に対して連続したという方法を選んだ。"
+  },
+  {
+    "id": "v-curated-0305",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "consolidate",
+    "meaning": "統合する・強化する",
+    "pos": "v",
+    "question": "consolidate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "統合する・強化する",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "Better planning can consolidate unnecessary costs.",
+    "exampleJa": "より良い計画を立てれば、不必要な費用を統合する・強化することができる。"
+  },
+  {
+    "id": "v-curated-4135",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "constitution",
+    "meaning": "憲法・構成",
+    "pos": "n",
+    "question": "constitution",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "憲法・構成",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The constitution became an important part of the discussion.",
+    "exampleJa": "憲法・構成は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-advanced-005",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "constrain",
+    "meaning": "制約する",
+    "question": "constrain",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "制約する",
+        "correct": true
+      },
+      {
+        "text": "解放する",
+        "correct": false
+      },
+      {
+        "text": "説明する",
+        "correct": false
+      },
+      {
+        "text": "発見する",
+        "correct": false
+      }
+    ],
+    "answer": "制約する",
+    "explanation": "constrain = 制約する。例：constrain freedom",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The researchers need to constrain the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を制約するする必要がある。"
+  },
+  {
+    "id": "v-curated-4105",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "consumerism",
+    "meaning": "消費主義",
+    "pos": "n",
+    "question": "consumerism",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "消費主義",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The course asks students to reconsider the consumerism.",
+    "exampleJa": "消費主義。"
+  },
+  {
+    "id": "v-curated-1628",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "contaminate",
+    "meaning": "汚染する",
+    "pos": "v",
+    "question": "contaminate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "汚染する",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The company plans to contaminate the new system next year.",
+    "exampleJa": "その会社は来年、新しいシステムを汚染するする予定だ。"
+  },
+  {
+    "id": "v-mega-hard-0072",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "contemplate",
+    "meaning": "熟考する",
+    "pos": "v",
+    "exampleSentence": "The researchers need to contemplate the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を熟考するする必要がある。",
+    "explanation": "contemplate：熟考する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ]
+  },
+  {
+    "id": "v-advanced-109",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "contradict",
+    "meaning": "矛盾する・反論する",
+    "question": "contradict",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "考えつく・認識する",
+        "correct": false
+      },
+      {
+        "text": "成熟した・成熟する",
+        "correct": false
+      },
+      {
+        "text": "矛盾する・反論する",
+        "correct": true
+      },
+      {
+        "text": "ゆがめる",
+        "correct": false
+      }
+    ],
+    "answer": "矛盾する・反論する",
+    "explanation": "contradict = 矛盾する・反論する。例：contradict the evidence",
+    "exampleSentence": "The team worked together to contradict the issue.",
+    "exampleJa": "チームはその問題を矛盾する・反論するために協力した。"
+  },
+  {
+    "id": "v-curated-2067",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "contradictory",
+    "meaning": "矛盾した",
+    "pos": "adj",
+    "question": "contradictory",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "矛盾した",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers considered the contradictory option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に矛盾したという選択肢を検討した。"
+  },
+  {
+    "id": "v-advanced-110",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "controversial",
+    "meaning": "論争を呼ぶ",
+    "question": "controversial",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "微妙な・巧妙な",
+        "correct": false
+      },
+      {
+        "text": "論争を呼ぶ",
+        "correct": true
+      },
+      {
+        "text": "矛盾する・反論する",
+        "correct": false
+      },
+      {
+        "text": "規範",
+        "correct": false
+      }
+    ],
+    "answer": "論争を呼ぶ",
+    "explanation": "controversial = 論争を呼ぶ。例：a controversial issue",
+    "exampleSentence": "The team chose a controversial approach to the problem.",
+    "exampleJa": "チームはその問題に対して論争を呼ぶという方法を選んだ。"
+  },
+  {
+    "id": "v-curated-1840",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "conventionally",
+    "meaning": "慣習的に",
+    "pos": "adv",
+    "question": "conventionally",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "慣習的に",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers conventionally reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは慣習的にして、研究結果を公表する前に証拠を再検討した。"
+  },
+  {
+    "id": "v-curated-0643",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "convergence",
+    "meaning": "収束・集中",
+    "pos": "n",
+    "question": "convergence",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "収束・集中",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The convergence became an important part of the discussion.",
+    "exampleJa": "収束・集中は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-curated-3316",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "converse",
+    "meaning": "逆の・会話する",
+    "pos": "adj",
+    "question": "converse",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "逆の・会話する",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The team chose a converse approach to the problem.",
+    "exampleJa": "チームはその問題に対して逆の・会話という方法を選んだ。"
+  },
+  {
+    "id": "v-curated-0250",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "conversely",
+    "meaning": "逆に",
+    "pos": "adv",
+    "question": "conversely",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "逆に",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers conversely reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは逆にして、研究結果を公表する前に証拠を再検討した。"
+  },
+  {
+    "id": "v-advanced-006",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "convey",
+    "meaning": "伝える・運ぶ",
+    "question": "convey",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "伝える・運ぶ",
+        "correct": true
+      },
+      {
+        "text": "隠す",
+        "correct": false
+      },
+      {
+        "text": "拒否する",
+        "correct": false
+      },
+      {
+        "text": "減らす",
+        "correct": false
+      }
+    ],
+    "answer": "伝える・運ぶ",
+    "explanation": "convey = 伝える・運ぶ。例：convey an idea",
+    "exampleSentence": "The researchers considered the convey option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に伝える・運ぶという選択肢を検討した。"
+  },
+  {
+    "id": "v-curated-2313",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "conveyance",
+    "meaning": "輸送・伝達",
+    "pos": "n",
+    "question": "conveyance",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "輸送・伝達",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the conveyance in detail.",
+    "exampleJa": "その報告書は輸送・伝達について詳しく説明している。"
+  },
+  {
+    "id": "v-curated-3319",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "convict",
+    "meaning": "有罪判決を下す・囚人",
+    "pos": "v",
+    "question": "convict",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "有罪判決を下す・囚人",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "Many people convict differently when the situation changes.",
+    "exampleJa": "状況が変化すると、多くの人はそれぞれ異なる有罪判決を下す・囚人方をする。"
+  },
+  {
+    "id": "v-curated-0644",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "conviction",
+    "meaning": "確信・有罪判決",
+    "pos": "n",
+    "question": "conviction",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "確信・有罪判決",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The conviction became an important part of the discussion.",
+    "exampleJa": "確信・有罪判決は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-advanced-111",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "cooperate",
+    "meaning": "協力する",
+    "question": "cooperate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "調和させる・和解させる",
+        "correct": false
+      },
+      {
+        "text": "持続する・執拗な",
+        "correct": false
+      },
+      {
+        "text": "制約する",
+        "correct": false
+      },
+      {
+        "text": "協力する",
+        "correct": true
+      }
+    ],
+    "answer": "協力する",
+    "explanation": "cooperate = 協力する。例：cooperate with others",
+    "exampleSentence": "The researchers need to cooperate the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を協力するする必要がある。"
+  },
+  {
+    "id": "v-curated-2850",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "coordinator",
+    "meaning": "調整役",
+    "pos": "n",
+    "question": "coordinator",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "調整役",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The committee considered the coordinator before making its decision.",
+    "exampleJa": "委員会は決定を下す前に調整役を検討した。"
+  },
+  {
+    "id": "v-curated-0990",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "correlate",
+    "meaning": "相関する",
+    "pos": "v",
+    "question": "correlate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "相関する",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The company plans to correlate the new system next year.",
+    "exampleJa": "その会社は来年、新しいシステムを相関するする予定だ。"
+  },
+  {
+    "id": "v-curated-0858",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "correlation",
+    "meaning": "相関",
+    "pos": "n",
+    "question": "correlation",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "相関",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the correlation in detail.",
+    "exampleJa": "その報告書は相関について詳しく説明している。"
+  },
+  {
+    "id": "v-advanced-112",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "correspond",
+    "meaning": "一致する・文通する",
+    "question": "correspond",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "根底にある",
+        "correct": false
+      },
+      {
+        "text": "一致する・文通する",
+        "correct": true
+      },
+      {
+        "text": "観点",
+        "correct": false
+      },
+      {
+        "text": "論争を呼ぶ",
+        "correct": false
+      }
+    ],
+    "answer": "一致する・文通する",
+    "explanation": "correspond = 一致する・文通する。例：correspond to the data",
+    "exampleSentence": "Unexpected changes can correspond without warning.",
+    "exampleJa": "一致する・文通する。"
+  },
+  {
+    "id": "v-curated-1342",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "corrupt",
+    "meaning": "腐敗した・堕落させる",
+    "pos": "adj",
+    "question": "corrupt",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "腐敗した・堕落させる",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers considered the corrupt option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に腐敗した・堕落させるという選択肢を検討した。"
+  },
+  {
+    "id": "v-curated-3123",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "corruption",
+    "meaning": "腐敗",
+    "pos": "n",
+    "question": "corruption",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "腐敗",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the corruption in detail.",
+    "exampleJa": "その報告書は腐敗について詳しく説明している。"
+  },
+  {
+    "id": "v-curated-1639",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "counteract",
+    "meaning": "対抗する・打ち消す",
+    "pos": "v",
+    "question": "counteract",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "対抗する・打ち消す",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The drug helps counteract the harmful effects of the toxin.",
+    "exampleJa": "対抗する・打ち消す。"
+  },
+  {
+    "id": "v-curated-1152",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "counterpart",
+    "meaning": "対応するもの・相手方",
+    "pos": "n",
+    "question": "counterpart",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "対応するもの・相手方",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The counterpart became an important part of the discussion.",
+    "exampleJa": "対応するもの・相手方は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-curated-2072",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "courteous",
+    "meaning": "礼儀正しい",
+    "pos": "adj",
+    "question": "courteous",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "礼儀正しい",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The team chose a courteous approach to the problem.",
+    "exampleJa": "チームはその問題に対して礼儀正しいという方法を選んだ。"
+  },
+  {
+    "id": "v-curated-3325",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "courtesy",
+    "meaning": "礼儀",
+    "pos": "n",
+    "question": "courtesy",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "礼儀",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The committee considered the courtesy before making its decision.",
+    "exampleJa": "委員会は決定を下す前に礼儀を検討した。"
+  },
+  {
+    "id": "v-mega-hard-0039",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "critically",
+    "meaning": "批判的に・決定的に",
+    "pos": "adv",
+    "exampleSentence": "The researchers critically reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは批判的に・決定的にして、研究結果を公表する前に証拠を再検討した。",
+    "explanation": "critically：批判的に・決定的に",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-curated-0111",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "crude",
+    "meaning": "粗末な",
+    "pos": "adj",
+    "question": "crude",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "粗末な",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The team chose a crude approach to the problem.",
+    "exampleJa": "チームはその問題に対して粗末なという方法を選んだ。"
+  },
+  {
+    "id": "v-curated-1643",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "cultivation",
+    "meaning": "栽培・育成",
+    "pos": "n",
+    "question": "cultivation",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "栽培・育成",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The committee considered the cultivation before making its decision.",
+    "exampleJa": "委員会は決定を下す前に栽培・育成を検討した。"
+  },
+  {
+    "id": "v-curated-1343",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "cumulative",
+    "meaning": "累積的な",
+    "pos": "adj",
+    "question": "cumulative",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "累積的な",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The report considers the cumulative effect of small changes over time.",
+    "exampleJa": "その報告書は、累積的なについて詳しく説明している。"
+  },
+  {
+    "id": "v-curated-2075",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "curb",
+    "meaning": "抑制する・抑制",
+    "pos": "v",
+    "question": "curb",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "抑制する・抑制",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The researchers need to curb the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を抑制する・抑制する必要がある。"
+  },
+  {
+    "id": "v-curated-0793",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "custodian",
+    "meaning": "管理人",
+    "pos": "n",
+    "question": "custodian",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "管理人",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "A custodian was invited to speak at the event.",
+    "exampleJa": "管理人がその行事で話すよう招かれた。"
+  },
+  {
+    "id": "v-curated-0647",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "custody",
+    "meaning": "保護・拘留",
+    "pos": "n",
+    "question": "custody",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "保護・拘留",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The custody became an important part of the discussion.",
+    "exampleJa": "保護・拘留は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-curated-1645",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "customary",
+    "meaning": "習慣的な",
+    "pos": "adj",
+    "question": "customary",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "習慣的な",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The team chose a customary approach to the problem.",
+    "exampleJa": "チームはその問題に対して習慣的なという方法を選んだ。"
+  },
+  {
+    "id": "v-curated-2076",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "daunting",
+    "meaning": "気後れさせる",
+    "pos": "adj",
+    "question": "daunting",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "気後れさせる",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the daunting characteristics of the system.",
+    "exampleJa": "その報告書はシステムの気後れさせるという特徴を詳しく説明している。"
+  },
+  {
+    "id": "v-curated-3330",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "dazzle",
+    "meaning": "まばゆくさせる",
+    "pos": "v",
+    "question": "dazzle",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "まばゆくさせる",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The company plans to dazzle the new system next year.",
+    "exampleJa": "その会社は来年、新しいシステムをまばゆくさせるする予定だ。"
+  },
+  {
+    "id": "v-curated-0248",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "decay",
+    "meaning": "腐敗する",
+    "pos": "v",
+    "question": "decay",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "腐敗する",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers need to decay the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を腐敗するする必要がある。"
+  },
+  {
+    "id": "v-curated-2078",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "decisively",
+    "meaning": "決定的に",
+    "pos": "adv",
+    "question": "decisively",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "決定的に",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers decisively reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは決定的にして、研究結果を公表する前に証拠を再検討した。"
+  },
+  {
+    "id": "bulk-vocab-00190",
+    "type": "vocab",
+    "word": "dedicated",
+    "meaning": "献身的な・専用の",
+    "pos": "adj",
+    "level": "advanced",
+    "tags": [
+      "bulk-expansion-v9"
+    ],
+    "source": "original-curated-v9",
+    "explanation": "dedicated は「献身的な・専用の」の意味。",
+    "exampleSentence": "The researchers considered the dedicated option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に献身的な・専用のという選択肢を検討した。"
+  },
+  {
+    "id": "v-advanced-007",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "deduce",
+    "meaning": "推論する",
+    "question": "deduce",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "推論する",
+        "correct": true
+      },
+      {
+        "text": "推測なしに断定する",
+        "correct": false
+      },
+      {
+        "text": "忘れる",
+        "correct": false
+      },
+      {
+        "text": "借りる",
+        "correct": false
+      }
+    ],
+    "answer": "推論する",
+    "explanation": "deduce = 推論する。例：deduce the answer",
+    "exampleSentence": "The researchers need to deduce the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を推論するする必要がある。"
+  },
+  {
+    "id": "v-max2-deem",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "deem",
+    "meaning": "～とみなす",
+    "pos": "v",
+    "exampleSentence": "Many people deem differently when the situation changes.",
+    "exampleJa": "状況が変化すると、多くの人はそれぞれ異なる～とみなす方をする。",
+    "explanation": "deem：～とみなす。",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-max2",
+      "入試発展"
+    ],
+    "source": "curated-vocab-max2-2026",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ]
+  },
+  {
+    "id": "v-curated-2855",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "defensive",
+    "meaning": "防御的な",
+    "pos": "adj",
+    "question": "defensive",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "防御的な",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers considered the defensive option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に防御的なという選択肢を検討した。"
+  },
+  {
+    "id": "v-curated-1479",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "defer",
+    "meaning": "延期する・従う",
+    "pos": "v",
+    "question": "defer",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "延期する・従う",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The committee decided to defer the vote until more evidence was available.",
+    "exampleJa": "延期する・従う。"
+  },
+  {
+    "id": "v-curated-0182",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "deficiency",
+    "meaning": "不足",
+    "pos": "n",
+    "question": "deficiency",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "不足",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The committee considered the deficiency before making its decision.",
+    "exampleJa": "委員会は決定を下す前に不足を検討した。"
+  },
+  {
+    "id": "v-max2-deficient",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "deficient",
+    "meaning": "不足している",
+    "pos": "adj",
+    "exampleSentence": "The researchers considered the deficient option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に不足しているという選択肢を検討した。",
+    "explanation": "deficient：不足している。",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-max2",
+      "入試発展"
+    ],
+    "source": "curated-vocab-max2-2026",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ]
+  },
+  {
+    "id": "v-curated-2081",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "defy",
+    "meaning": "逆らう",
+    "pos": "v",
+    "question": "defy",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "逆らう",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The process can defy under certain conditions.",
+    "exampleJa": "その過程は特定の条件下では逆らうことができる。"
+  },
+  {
+    "id": "v-curated-1480",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "degrade",
+    "meaning": "悪化させる・格下げする",
+    "pos": "v",
+    "question": "degrade",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "悪化させる・格下げする",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "Better planning can degrade unnecessary costs.",
+    "exampleJa": "より良い計画を立てれば、不必要な費用を悪化させる・格下げすることができる。"
+  },
+  {
+    "id": "v-curated-2082",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "delegation",
+    "meaning": "代表団・委任",
+    "pos": "n",
+    "question": "delegation",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "代表団・委任",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The delegation became an important part of the discussion.",
+    "exampleJa": "代表団・委任は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-advanced-04-deliberation",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "deliberation",
+    "meaning": "熟考・審議",
+    "pos": "n",
+    "question": "deliberation",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "熟考・審議",
+    "explanation": "",
+    "exampleSentence": "The report describes the deliberation in detail.",
+    "exampleJa": "その報告書は熟考・審議について詳しく説明している。",
+    "family": "deliberation;deliberations",
+    "synonyms": [],
+    "tags": [
+      "advanced",
+      "n"
+    ],
+    "note": "入試・読解で見かけやすい重要語。",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ]
+  },
+  {
+    "id": "v-curated-2427",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "demographic",
+    "meaning": "人口統計の",
+    "pos": "adj",
+    "question": "demographic",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "人口統計の",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the demographic characteristics of the system.",
+    "exampleJa": "その報告書はシステムの人口統計のという特徴を詳しく説明している。"
+  },
+  {
+    "id": "v-curated-0653",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "dependency",
+    "meaning": "依存",
+    "pos": "n",
+    "question": "dependency",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "依存",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The dependency became an important part of the discussion.",
+    "exampleJa": "依存は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-curated-1346",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "deploy",
+    "meaning": "配置する・展開する",
+    "pos": "v",
+    "question": "deploy",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "配置する・展開する",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The company deployed additional staff to deal with the sudden increase in demand.",
+    "exampleJa": "その会社は、配置する・展開することを計画している。"
+  },
+  {
+    "id": "v-curated-1654",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "deprivation",
+    "meaning": "剥奪・欠乏",
+    "pos": "n",
+    "question": "deprivation",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "剥奪・欠乏",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The committee considered the deprivation before making its decision.",
+    "exampleJa": "委員会は決定を下す前に剥奪・欠乏を検討した。"
+  },
+  {
+    "id": "v-curated-0482",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "deprived",
+    "meaning": "奪われた",
+    "pos": "adj",
+    "question": "deprived",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "奪われた",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers considered the deprived option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に奪われたという選択肢を検討した。"
+  },
+  {
+    "id": "v-curated-3576",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "derivation",
+    "meaning": "導出・派生",
+    "pos": "n",
+    "question": "derivation",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "導出・派生",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the derivation in detail.",
+    "exampleJa": "その報告書は導出・派生について詳しく説明している。"
+  },
+  {
+    "id": "v-curated-2318",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "descent",
+    "meaning": "下降・家系",
+    "pos": "n",
+    "question": "descent",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "下降・家系",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The committee considered the descent before making its decision.",
+    "exampleJa": "委員会は決定を下す前に下降・家系を検討した。"
+  },
+  {
+    "id": "v-curated-3127",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "designation",
+    "meaning": "指定・名称",
+    "pos": "n",
+    "question": "designation",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "指定・名称",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The designation became an important part of the discussion.",
+    "exampleJa": "指定・名称は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-curated-2087",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "despise",
+    "meaning": "軽蔑する",
+    "pos": "v",
+    "question": "despise",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "軽蔑する",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers need to despise the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を軽蔑するする必要がある。"
+  },
+  {
+    "id": "v-curated-1656",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "detain",
+    "meaning": "拘留する・引き留める",
+    "pos": "v",
+    "question": "detain",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "拘留する・引き留める",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The team worked together to detain the issue.",
+    "exampleJa": "チームはその問題を拘留する・引き留めるするために協力した。"
+  },
+  {
+    "id": "v-curated-2088",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "deter",
+    "meaning": "思いとどまらせる",
+    "pos": "v",
+    "question": "deter",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "思いとどまらせる",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "A visible police presence can deter people from committing crimes.",
+    "exampleJa": "思いとどまらせるに当たる人物が、その行事で話すよう招かれた。"
+  },
+  {
+    "id": "v-advanced-008",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "deteriorate",
+    "meaning": "悪化する",
+    "question": "deteriorate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "悪化する",
+        "correct": true
+      },
+      {
+        "text": "改善する",
+        "correct": false
+      },
+      {
+        "text": "急増する",
+        "correct": false
+      },
+      {
+        "text": "固定する",
+        "correct": false
+      }
+    ],
+    "answer": "悪化する",
+    "explanation": "deteriorate = 悪化する。例：conditions deteriorated",
+    "exampleSentence": "The program is designed to deteriorate pressure on local hospitals.",
+    "exampleJa": "そのプログラムは地域の病院への負担を悪化するように設計されている。"
+  },
+  {
+    "id": "v-mega-hard-0102",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "deteriorate",
+    "meaning": "悪化する",
+    "pos": "v",
+    "exampleSentence": "Better planning can deteriorate unnecessary costs.",
+    "exampleJa": "より良い計画を立てれば、不必要な費用を悪化することができる。",
+    "explanation": "deteriorate：悪化する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-curated-2089",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "deterrent",
+    "meaning": "抑止力",
+    "pos": "n",
+    "question": "deterrent",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "抑止力",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The deterrent became an important part of the discussion.",
+    "exampleJa": "抑止力は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-curated-2090",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "devastate",
+    "meaning": "壊滅させる",
+    "pos": "v",
+    "question": "devastate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "壊滅させる",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers need to devastate the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を壊滅させるする必要がある。"
+  },
+  {
+    "id": "v-curated-2973",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "devastating",
+    "meaning": "壊滅的な",
+    "pos": "adj",
+    "question": "devastating",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "壊滅的な",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the devastating characteristics of the system.",
+    "exampleJa": "その報告書はシステムの壊滅的なという特徴を詳しく説明している。"
+  },
+  {
+    "id": "v-curated-1659",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "developmental",
+    "meaning": "発達上の",
+    "pos": "adj",
+    "question": "developmental",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "発達上の",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers considered the developmental option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に発達上のという選択肢を検討した。"
+  },
+  {
+    "id": "v-curated-1163",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "deviation",
+    "meaning": "逸脱・偏差",
+    "pos": "n",
+    "question": "deviation",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "逸脱・偏差",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The report describes the deviation in detail.",
+    "exampleJa": "その報告書は逸脱・偏差について詳しく説明している。"
+  },
+  {
+    "id": "v-advanced-009",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "devise",
+    "meaning": "考案する",
+    "question": "devise",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "考案する",
+        "correct": true
+      },
+      {
+        "text": "破壊する",
+        "correct": false
+      },
+      {
+        "text": "延期する",
+        "correct": false
+      },
+      {
+        "text": "模倣する",
+        "correct": false
+      }
+    ],
+    "answer": "考案する",
+    "explanation": "devise = 考案する。例：devise a strategy",
+    "exampleSentence": "The team worked together to devise the issue.",
+    "exampleJa": "チームはその問題を考案するために協力した。"
+  },
+  {
+    "id": "v-curated-0997",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "diagnose",
+    "meaning": "診断する",
+    "pos": "v",
+    "question": "diagnose",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "診断する",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The company plans to diagnose the new system next year.",
+    "exampleJa": "その会社は来年、新しいシステムを診断するする予定だ。"
+  },
+  {
+    "id": "v-curated-1661",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "diagnostic",
+    "meaning": "診断の",
+    "pos": "adj",
+    "question": "diagnostic",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "診断の",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The team chose a diagnostic approach to the problem.",
+    "exampleJa": "チームはその問題に対して診断のという方法を選んだ。"
+  },
+  {
+    "id": "v-curated-0998",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "differentiate",
+    "meaning": "区別する",
+    "pos": "v",
+    "question": "differentiate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "区別する",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The team worked together to differentiate the issue.",
+    "exampleJa": "チームはその問題を区別するために協力した。"
+  },
+  {
+    "id": "v-curated-2091",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "diligent",
+    "meaning": "勤勉な",
+    "pos": "adj",
+    "question": "diligent",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "勤勉な",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers considered the diligent option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に勤勉なという選択肢を検討した。"
+  },
+  {
+    "id": "v-advanced-113",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "diminish",
+    "meaning": "減少する",
+    "question": "diminish",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "階層・序列",
+        "correct": false
+      },
+      {
+        "text": "減少する",
+        "correct": true
+      },
+      {
+        "text": "明示的な",
+        "correct": false
+      },
+      {
+        "text": "調和させる・和解させる",
+        "correct": false
+      }
+    ],
+    "answer": "減少する",
+    "explanation": "diminish = 減少する。例：diminish the effect",
+    "exampleSentence": "The researchers need to diminish the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を減少するする必要がある。"
+  },
+  {
+    "id": "v-curated-1663",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "diplomatic",
+    "meaning": "外交上の",
+    "pos": "adj",
+    "question": "diplomatic",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "外交上の",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the diplomatic characteristics of the system.",
+    "exampleJa": "その報告書はシステムの外交上のという特徴を詳しく説明している。"
+  },
+  {
+    "id": "v-max2-disclose",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "disclose",
+    "meaning": "公表する",
+    "pos": "v",
+    "exampleSentence": "The company plans to disclose the new system next year.",
+    "exampleJa": "その会社は来年、新しいシステムを公表するする予定だ。",
+    "explanation": "disclose：公表する。",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-max2",
+      "入試発展"
+    ],
+    "source": "curated-vocab-max2-2026",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ]
+  },
+  {
+    "id": "v-curated-0654",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "disclosure",
+    "meaning": "開示",
+    "pos": "n",
+    "question": "disclosure",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "開示",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The report describes the disclosure in detail.",
+    "exampleJa": "その報告書は開示について詳しく説明している。"
+  },
+  {
+    "id": "v-curated-2093",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "discourse",
+    "meaning": "言説・講演",
+    "pos": "n",
+    "question": "discourse",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "言説・講演",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The committee considered the discourse before making its decision.",
+    "exampleJa": "委員会は決定を下す前に言説・講演を検討した。"
+  },
+  {
+    "id": "v-advanced-010",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "discrete",
+    "meaning": "別個の",
+    "question": "discrete",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "別個の",
+        "correct": true
+      },
+      {
+        "text": "連続した",
+        "correct": false
+      },
+      {
+        "text": "曖昧な",
+        "correct": false
+      },
+      {
+        "text": "重要な",
+        "correct": false
+      }
+    ],
+    "answer": "別個の",
+    "explanation": "discrete = 別個の。例：discrete units",
+    "exampleSentence": "The researchers considered the discrete option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に別個のという選択肢を検討した。"
+  },
+  {
+    "id": "v-advanced-04-discretion",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "discretion",
+    "meaning": "裁量・慎重さ",
+    "pos": "n",
+    "question": "discretion",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "裁量・慎重さ",
+    "explanation": "",
+    "exampleSentence": "The discretion changed significantly after the policy was introduced.",
+    "exampleJa": "裁量・慎重さ。",
+    "family": "discretion;discretions",
+    "synonyms": [],
+    "tags": [
+      "advanced",
+      "n"
+    ],
+    "note": "入試・読解で見かけやすい重要語。",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ]
+  },
+  {
+    "id": "v-mega-hard-0014",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "discriminate",
+    "meaning": "差別する・識別する",
+    "pos": "v",
+    "exampleSentence": "The team worked together to discriminate the issue.",
+    "exampleJa": "チームはその問題を差別する・識別するために協力した。",
+    "explanation": "discriminate：差別する・識別する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ]
+  },
+  {
+    "id": "v-curated-2096",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "disperse",
+    "meaning": "分散させる",
+    "pos": "v",
+    "question": "disperse",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "分散させる",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The company plans to disperse the new system next year.",
+    "exampleJa": "その会社は来年、新しいシステムを分散させるする予定だ。"
+  },
+  {
+    "id": "v-curated-1665",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "displace",
+    "meaning": "取って代わる・移動させる",
+    "pos": "v",
+    "question": "displace",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "取って代わる・移動させる",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers need to displace the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を取って代わる・移動させるする必要がある。"
+  },
+  {
+    "id": "v-advanced-04-displacement",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "displacement",
+    "meaning": "置換・移住",
+    "pos": "n",
+    "question": "displacement",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "置換・移住",
+    "explanation": "",
+    "exampleSentence": "The committee considered the displacement before making its decision.",
+    "exampleJa": "委員会は決定を下す前に置換・移住を検討した。",
+    "family": "displacement;displacements",
+    "synonyms": [],
+    "tags": [
+      "advanced",
+      "n"
+    ],
+    "note": "入試・読解で見かけやすい重要語。",
+    "levelTags": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-curated-0656",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "disposal",
+    "meaning": "処分",
+    "pos": "n",
+    "question": "disposal",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "処分",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The disposal became an important part of the discussion.",
+    "exampleJa": "処分は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-curated-1482",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "disregard",
+    "meaning": "無視する・無視",
+    "pos": "v",
+    "question": "disregard",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "無視する・無視",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers need to disregard the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を無視する・無視する必要がある。"
+  },
+  {
+    "id": "v-curated-3129",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "disruption",
+    "meaning": "混乱・中断",
+    "pos": "n",
+    "question": "disruption",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "混乱・中断",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The committee considered the disruption before making its decision.",
+    "exampleJa": "委員会は決定を下す前に混乱・中断を検討した。"
+  },
+  {
+    "id": "v-curated-2320",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "disruptive",
+    "meaning": "混乱を招く",
+    "pos": "adj",
+    "question": "disruptive",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "混乱を招く",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers considered the disruptive option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に混乱を招くという選択肢を検討した。"
+  },
+  {
+    "id": "v-curated-2100",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "distinctive",
+    "meaning": "特徴的な",
+    "pos": "adj",
+    "question": "distinctive",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "特徴的な",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The team chose a distinctive approach to the problem.",
+    "exampleJa": "チームはその問題に対して特徴的なという方法を選んだ。"
+  },
+  {
+    "id": "v-advanced-115",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "distort",
+    "meaning": "ゆがめる",
+    "question": "distort",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "論争を呼ぶ",
+        "correct": false
+      },
+      {
+        "text": "客観的な・目的",
+        "correct": false
+      },
+      {
+        "text": "補う・補足資料",
+        "correct": false
+      },
+      {
+        "text": "ゆがめる",
+        "correct": true
+      }
+    ],
+    "answer": "ゆがめる",
+    "explanation": "distort = ゆがめる。例：distort the facts",
+    "exampleSentence": "The report describes the distort characteristics of the system.",
+    "exampleJa": "その報告書はシステムのゆがめるという特徴を詳しく説明している。"
+  },
+  {
+    "id": "v-curated-0658",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "distortion",
+    "meaning": "歪み",
+    "pos": "n",
+    "question": "distortion",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "歪み",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The distortion became an important part of the discussion.",
+    "exampleJa": "歪みは議論の重要な一部となった。"
+  },
+  {
+    "id": "v-curated-3344",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "distress",
+    "meaning": "苦悩・苦しめる",
+    "pos": "n",
+    "question": "distress",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "苦悩・苦しめる",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the distress in detail.",
+    "exampleJa": "その報告書は苦悩・苦しめるについて詳しく説明している。"
+  },
+  {
+    "id": "bulk-vocab-00317",
+    "type": "vocab",
+    "word": "distributed",
+    "meaning": "分散した",
+    "pos": "adj",
+    "level": "advanced",
+    "tags": [
+      "bulk-expansion-v9"
+    ],
+    "source": "original-curated-v9",
+    "explanation": "distributed は「分散した」の意味。",
+    "exampleSentence": "The report describes the distributed characteristics of the system.",
+    "exampleJa": "その報告書はシステムの分散したという特徴を詳しく説明している。"
+  },
+  {
+    "id": "v-curated-4081",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "distributor",
+    "meaning": "販売業者・配布者",
+    "pos": "n",
+    "question": "distributor",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "販売業者・配布者",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The distributor became an important part of the discussion.",
+    "exampleJa": "販売業者・配布者は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-curated-2101",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "diversify",
+    "meaning": "多様化する",
+    "pos": "v",
+    "question": "diversify",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "多様化する",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The researchers need to diversify the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を多様化するする必要がある。"
+  },
+  {
+    "id": "v-curated-0172",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "documented",
+    "meaning": "文書化された",
+    "pos": "adj",
+    "question": "documented",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "文書化された",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the documented characteristics of the system.",
+    "exampleJa": "その報告書はシステムの文書化されたという特徴を詳しく説明している。"
+  },
+  {
+    "id": "v-curated-0804",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "domesticate",
+    "meaning": "飼いならす",
+    "pos": "v",
+    "question": "domesticate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "飼いならす",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The researchers observed how the situation changed when they domesticate.",
+    "exampleJa": "研究者たちは、彼らが飼いならすしたときに状況がどう変化したかを観察した。"
+  },
+  {
+    "id": "v-curated-2105",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "dramatize",
+    "meaning": "劇的に描く",
+    "pos": "v",
+    "question": "dramatize",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "劇的に描く",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The process can dramatize under certain conditions.",
+    "exampleJa": "その過程は特定の条件下では劇的に描くことができる。"
+  },
+  {
+    "id": "v-curated-0115",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "drastic",
+    "meaning": "抜本的な",
+    "pos": "adj",
+    "question": "drastic",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "抜本的な",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the drastic characteristics of the system.",
+    "exampleJa": "その報告書はシステムの抜本的なという特徴を詳しく説明している。"
+  },
+  {
+    "id": "v-curated-0491",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "dual",
+    "meaning": "二重の",
+    "pos": "adj",
+    "question": "dual",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "二重の",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers considered the dual option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に二重のという選択肢を検討した。"
+  },
+  {
+    "id": "v-curated-2106",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "dubious",
+    "meaning": "疑わしい",
+    "pos": "adj",
+    "question": "dubious",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "疑わしい",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The team chose a dubious approach to the problem.",
+    "exampleJa": "チームはその問題に対して疑わしいという方法を選んだ。"
+  },
+  {
+    "id": "v-curated-1672",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "durable",
+    "meaning": "耐久性のある",
+    "pos": "adj",
+    "question": "durable",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "耐久性のある",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the durable characteristics of the system.",
+    "exampleJa": "その報告書はシステムの耐久性のあるという特徴を詳しく説明している。"
+  },
+  {
+    "id": "v-curated-3131",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "dynamics",
+    "meaning": "力学・動向",
+    "pos": "n",
+    "question": "dynamics",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "力学・動向",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The dynamics became an important part of the discussion.",
+    "exampleJa": "力学・動向は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-curated-1928",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "effectiveness",
+    "meaning": "有効性",
+    "pos": "n",
+    "question": "effectiveness",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "有効性",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the effectiveness in detail.",
+    "exampleJa": "その報告書は有効性について詳しく説明している。"
+  },
+  {
+    "id": "v-curated-1676",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "elaborately",
+    "meaning": "詳しく",
+    "pos": "adv",
+    "question": "elaborately",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "詳しく",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers elaborately reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは詳しくして、研究結果を公表する前に証拠を再検討した。"
+  },
+  {
+    "id": "v-curated-3349",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "elective",
+    "meaning": "選択の・選挙の",
+    "pos": "adj",
+    "question": "elective",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "選択の・選挙の",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The researchers considered the elective option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に選択の・選挙のという選択肢を検討した。"
+  },
+  {
+    "id": "v-curated-1484",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "elevate",
+    "meaning": "高める",
+    "pos": "v",
+    "question": "elevate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "高める",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The process can elevate under certain conditions.",
+    "exampleJa": "その過程は特定の条件下では高めることができる。"
+  },
+  {
+    "id": "v-curated-2440",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "elevate",
+    "meaning": "高める",
+    "pos": "n",
+    "question": "elevate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "高める",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The committee considered the elevate before making its decision.",
+    "exampleJa": "委員会は決定を下す前に高めるを検討した。"
+  },
+  {
+    "id": "v-curated-0662",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "eligibility",
+    "meaning": "資格・適格性",
+    "pos": "n",
+    "question": "eligibility",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "資格・適格性",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The eligibility became an important part of the discussion.",
+    "exampleJa": "資格・適格性は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-curated-1354",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "eligible",
+    "meaning": "資格のある",
+    "pos": "adj",
+    "question": "eligible",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "資格のある",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The team chose a eligible approach to the problem.",
+    "exampleJa": "チームはその問題に対して資格のあるという方法を選んだ。"
+  },
+  {
+    "id": "v-advanced-116",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "eliminate",
+    "meaning": "排除する",
+    "question": "eliminate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "階層・序列",
+        "correct": false
+      },
+      {
+        "text": "明確に表現する",
+        "correct": false
+      },
+      {
+        "text": "排除する",
+        "correct": true
+      },
+      {
+        "text": "組み込む",
+        "correct": false
+      }
+    ],
+    "answer": "排除する",
+    "explanation": "eliminate = 排除する。例：eliminate unnecessary steps",
+    "exampleSentence": "The team worked together to eliminate the issue.",
+    "exampleJa": "チームはその問題を排除するために協力した。"
+  },
+  {
+    "id": "v-curated-2113",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "embark",
+    "meaning": "乗り出す・乗船する",
+    "pos": "v",
+    "question": "embark",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "乗り出す・乗船する",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The company plans to embark the new system next year.",
+    "exampleJa": "その会社は来年、新しいシステムを乗り出す・乗船するする予定だ。"
+  },
+  {
+    "id": "v-curated-1004",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "embody",
+    "meaning": "具体化する",
+    "pos": "v",
+    "question": "embody",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "具体化する",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers need to embody the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を具体化するする必要がある。"
+  },
+  {
+    "id": "v-curated-2863",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "emerging",
+    "meaning": "新興の",
+    "pos": "adj",
+    "question": "emerging",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "新興の",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the emerging characteristics of the system.",
+    "exampleJa": "その報告書はシステムの新興のという特徴を詳しく説明している。"
+  },
+  {
+    "id": "v-curated-2324",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "empathy",
+    "meaning": "共感",
+    "pos": "n",
+    "question": "empathy",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "共感",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The empathy became an important part of the discussion.",
+    "exampleJa": "共感は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-advanced-011",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "empirical",
+    "meaning": "経験的な",
+    "question": "empirical",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "経験的な",
+        "correct": true
+      },
+      {
+        "text": "理論だけの",
+        "correct": false
+      },
+      {
+        "text": "感情的な",
+        "correct": false
+      },
+      {
+        "text": "伝統的な",
+        "correct": false
+      }
+    ],
+    "answer": "経験的な",
+    "explanation": "empirical = 経験的な。例：empirical evidence",
+    "exampleSentence": "The team chose a empirical approach to the problem.",
+    "exampleJa": "チームはその問題に対して経験的なという方法を選んだ。"
+  },
+  {
+    "id": "v-curated-2116",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "empowerment",
+    "meaning": "権限付与・能力向上",
+    "pos": "n",
+    "question": "empowerment",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "権限付与・能力向上",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The committee considered the empowerment before making its decision.",
+    "exampleJa": "委員会は決定を下す前に権限付与・能力向上を検討した。"
+  },
+  {
+    "id": "v-curated-1007",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "enact",
+    "meaning": "制定する・演じる",
+    "pos": "v",
+    "question": "enact",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "制定する・演じる",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The government enacted a law to protect consumers.",
+    "exampleJa": "制定する・演じる。"
+  },
+  {
+    "id": "v-curated-2325",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "enactment",
+    "meaning": "制定・演技",
+    "pos": "n",
+    "question": "enactment",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "制定・演技",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the enactment in detail.",
+    "exampleJa": "その報告書は制定・演技について詳しく説明している。"
+  },
+  {
+    "id": "v-curated-1181",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "encompass",
+    "meaning": "含む・取り囲む",
+    "pos": "v",
+    "question": "encompass",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "含む・取り囲む",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "Many people encompass differently when the situation changes.",
+    "exampleJa": "状況が変化すると、多くの人はそれぞれ異なる含む・取り囲む方をする。"
+  },
+  {
+    "id": "v-curated-1487",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "endeavor",
+    "meaning": "努力・努力する",
+    "pos": "v",
+    "question": "endeavor",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "努力・努力する",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The company plans to endeavor the new system next year.",
+    "exampleJa": "その会社は来年、新しいシステムを努力・努力するする予定だ。"
+  },
+  {
+    "id": "v-curated-1488",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "endorse",
+    "meaning": "支持する",
+    "pos": "v",
+    "question": "endorse",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "支持する",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers need to endorse the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を支持するする必要がある。"
+  },
+  {
+    "id": "v-curated-2120",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "endorsement",
+    "meaning": "支持・承認",
+    "pos": "n",
+    "question": "endorsement",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "支持・承認",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The committee considered the endorsement before making its decision.",
+    "exampleJa": "委員会は決定を下す前に支持・承認を検討した。"
+  },
+  {
+    "id": "v-curated-1681",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "endure",
+    "meaning": "耐える",
+    "pos": "v",
+    "question": "endure",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "耐える",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers observed how the situation changed when they endure.",
+    "exampleJa": "研究者たちは、彼らが耐えるしたときに状況がどう変化したかを観察した。"
+  },
+  {
+    "id": "v-curated-0189",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "enforcement",
+    "meaning": "施行・強制",
+    "pos": "n",
+    "question": "enforcement",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "施行・強制",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the enforcement in detail.",
+    "exampleJa": "その報告書は施行・強制について詳しく説明している。"
+  },
+  {
+    "id": "v-curated-0809",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "enrichment",
+    "meaning": "豊かさの付与",
+    "pos": "n",
+    "question": "enrichment",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "豊かさの付与",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The committee considered the enrichment before making its decision.",
+    "exampleJa": "委員会は決定を下す前に豊かさの付与を検討した。"
+  },
+  {
+    "id": "v-curated-4026",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "entrepreneur",
+    "meaning": "起業家",
+    "pos": "n",
+    "question": "entrepreneur",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "起業家",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The entrepreneur spoke with the students after the meeting.",
+    "exampleJa": "起業家は会議後に学生たちと話した。"
+  },
+  {
+    "id": "v-curated-0877",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "environmentalism",
+    "meaning": "環境保護主義",
+    "pos": "n",
+    "question": "environmentalism",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "環境保護主義",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "Changes in environmentalism can have serious effects on wildlife.",
+    "exampleJa": "環境保護主義。"
+  },
+  {
+    "id": "v-curated-1012",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "envision",
+    "meaning": "思い描く",
+    "pos": "v",
+    "question": "envision",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "思い描く",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "Many people envision differently when the situation changes.",
+    "exampleJa": "状況が変化すると、多くの人はそれぞれ異なる思い描く方をする。"
+  },
+  {
+    "id": "v-curated-1013",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "equate",
+    "meaning": "同等とみなす",
+    "pos": "v",
+    "question": "equate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "同等とみなす",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers observed how the situation changed when they equate.",
+    "exampleJa": "研究者たちは、彼らが同等とみなすしたときに状況がどう変化したかを観察した。"
+  },
+  {
+    "id": "v-curated-0536",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "equity",
+    "meaning": "公平・公正",
+    "pos": "n",
+    "question": "equity",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "公平・公正",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced",
+      "hard"
+    ],
+    "exampleSentence": "The report describes the equity in detail.",
+    "exampleJa": "その報告書は公平・公正について詳しく説明している。"
+  },
+  {
+    "id": "v-curated-2132",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "escalate",
+    "meaning": "拡大する・激化する",
+    "pos": "v",
+    "question": "escalate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "拡大する・激化する",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The team worked together to escalate the issue.",
+    "exampleJa": "チームはその問題を拡大する・激化するために協力した。"
+  },
+  {
+    "id": "v-curated-2133",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "esteemed",
+    "meaning": "尊敬される",
+    "pos": "adj",
+    "question": "esteemed",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "尊敬される",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers considered the esteemed option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に尊敬されるという選択肢を検討した。"
+  },
+  {
+    "id": "v-curated-2136",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "evade",
+    "meaning": "逃れる・回避する",
+    "pos": "v",
+    "question": "evade",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "逃れる・回避する",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers need to evade the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を逃れる・回避するする必要がある。"
+  },
+  {
+    "id": "v-max2-evoke",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "evoke",
+    "meaning": "呼び起こす",
+    "pos": "v",
+    "exampleSentence": "Many people evoke differently when the situation changes.",
+    "exampleJa": "状況が変化すると、多くの人はそれぞれ異なる呼び起こす方をする。",
+    "explanation": "evoke：呼び起こす。",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-max2",
+      "入試発展"
+    ],
+    "source": "curated-vocab-max2-2026",
+    "levelTags": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-curated-2451",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "evoked",
+    "meaning": "呼び起こした",
+    "pos": "adj",
+    "question": "evoked",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "呼び起こした",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers considered the evoked option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に呼び起こしたという選択肢を検討した。"
+  },
+  {
+    "id": "v-advanced-03-exaggerate",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "exaggerate",
+    "meaning": "誇張する",
+    "pos": "v",
+    "question": "exaggerate",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "誇張する",
+    "explanation": "",
+    "exampleSentence": "The researchers need to exaggerate the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちは結論を出す前に、その問題を誇張するする必要がある。",
+    "family": "exaggeration",
+    "synonyms": [
+      "overstate",
+      "inflate"
+    ],
+    "tags": [
+      "advanced",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。exaggerate の派生語: exaggeration.",
+    "levelTags": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-advanced-012",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "exceed",
+    "meaning": "超える",
+    "question": "exceed",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "超える",
+        "correct": true
+      },
+      {
+        "text": "下回る",
+        "correct": false
+      },
+      {
+        "text": "拒否する",
+        "correct": false
+      },
+      {
+        "text": "隠す",
+        "correct": false
+      }
+    ],
+    "answer": "超える",
+    "explanation": "exceed = 超える。例：exceed expectations",
+    "exampleSentence": "The report describes the exceed characteristics of the system.",
+    "exampleJa": "その報告書はシステムの超えるという特徴を詳しく説明している。"
+  },
+  {
+    "id": "v-curated-2756",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "exclusive",
+    "meaning": "独占的な・唯一の",
+    "pos": "adj",
+    "question": "exclusive",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "独占的な・唯一の",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers considered the exclusive option before making a decision.",
+    "exampleJa": "研究者たちは決定を下す前に独占的な・唯一のという選択肢を検討した。"
+  },
+  {
+    "id": "v-curated-1695",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "exclusively",
+    "meaning": "もっぱら・独占的に",
+    "pos": "adv",
+    "question": "exclusively",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "もっぱら・独占的に",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers exclusively reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちはもっぱら・独占的にして、研究結果を公表する前に証拠を再検討した。"
+  },
+  {
+    "id": "v-curated-3369",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "execute",
+    "meaning": "実行する・執行する",
+    "pos": "v",
+    "question": "execute",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "実行する・執行する",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The team worked together to execute the issue.",
+    "exampleJa": "チームはその問題を実行する・執行するために協力した。"
+  },
+  {
+    "id": "v-curated-0676",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "execution",
+    "meaning": "実行・処刑",
+    "pos": "n",
+    "question": "execution",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "実行・処刑",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The execution became an important part of the discussion.",
+    "exampleJa": "実行・処刑は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-curated-3072",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "exemplify",
+    "meaning": "例証する",
+    "pos": "v",
+    "question": "exemplify",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "例証する",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "This study exemplifies how careful planning can improve research quality.",
+    "exampleJa": "例証する。"
+  },
+  {
+    "id": "v-curated-2139",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "exempt",
+    "meaning": "免除する・免除された",
+    "pos": "v",
+    "question": "exempt",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "免除する・免除された",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The team worked together to exempt the issue.",
+    "exampleJa": "チームはその問題を免除する・免除されたするために協力した。"
+  },
+  {
+    "id": "v-curated-1696",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "exert",
+    "meaning": "行使する・努力する",
+    "pos": "v",
+    "question": "exert",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "行使する・努力する",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The athlete had to exert considerable effort to finish the race.",
+    "exampleJa": "行使する・努力する。"
+  },
+  {
+    "id": "v-curated-2140",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "exertion",
+    "meaning": "努力・発揮",
+    "pos": "n",
+    "question": "exertion",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "努力・発揮",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report describes the exertion in detail.",
+    "exampleJa": "その報告書は努力・発揮について詳しく説明している。"
+  },
+  {
+    "id": "v-curated-2141",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "exile",
+    "meaning": "亡命・追放する",
+    "pos": "n",
+    "question": "exile",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "亡命・追放する",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The committee considered the exile before making its decision.",
+    "exampleJa": "委員会は決定を下す前に亡命・追放を検討した。"
+  }
+]
