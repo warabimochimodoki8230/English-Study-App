@@ -1,0 +1,3138 @@
+[
+  {
+    "id": "id-v9-0099",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "be aware of",
+    "meaning": "～を認識している",
+    "question": "be aware of と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～を認識している",
+    "choices": [
+      {
+        "text": "～を認識している",
+        "correct": true
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      }
+    ],
+    "explanation": "be aware of は「～を認識している」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0100",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "be capable of",
+    "meaning": "～する能力がある",
+    "question": "be capable of と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～する能力がある",
+    "choices": [
+      {
+        "text": "～する能力がある",
+        "correct": true
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      }
+    ],
+    "explanation": "be capable of は「～する能力がある」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0101",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "be concerned about",
+    "meaning": "～を心配している・～に関心がある",
+    "question": "be concerned about と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～を心配している・～に関心がある",
+    "choices": [
+      {
+        "text": "～を心配している・～に関心がある",
+        "correct": true
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      }
+    ],
+    "explanation": "be concerned about は「～を心配している・～に関心がある」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0102",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "be dependent on",
+    "meaning": "～に依存している",
+    "question": "be dependent on と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～に依存している",
+    "choices": [
+      {
+        "text": "～に依存している",
+        "correct": true
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      }
+    ],
+    "explanation": "be dependent on は「～に依存している」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0103",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "be familiar with",
+    "meaning": "～に詳しい・～に慣れている",
+    "question": "be familiar with と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～に詳しい・～に慣れている",
+    "choices": [
+      {
+        "text": "～に詳しい・～に慣れている",
+        "correct": true
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      }
+    ],
+    "explanation": "be familiar with は「～に詳しい・～に慣れている」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0104",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "be relevant to",
+    "meaning": "～に関連している",
+    "question": "be relevant to と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～に関連している",
+    "choices": [
+      {
+        "text": "～に関連している",
+        "correct": true
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      }
+    ],
+    "explanation": "be relevant to は「～に関連している」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0105",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "be responsible for",
+    "meaning": "～に責任がある",
+    "question": "be responsible for と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～に責任がある",
+    "choices": [
+      {
+        "text": "～に責任がある",
+        "correct": true
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      }
+    ],
+    "explanation": "be responsible for は「～に責任がある」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0106",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "be satisfied with",
+    "meaning": "～に満足している",
+    "question": "be satisfied with と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～に満足している",
+    "choices": [
+      {
+        "text": "～に満足している",
+        "correct": true
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      }
+    ],
+    "explanation": "be satisfied with は「～に満足している」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0107",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "be subject to",
+    "meaning": "～を受ける・～の対象となる",
+    "question": "be subject to と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～を受ける・～の対象となる",
+    "choices": [
+      {
+        "text": "～を受ける・～の対象となる",
+        "correct": true
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      }
+    ],
+    "explanation": "be subject to は「～を受ける・～の対象となる」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0108",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "be superior to",
+    "meaning": "～より優れている",
+    "question": "be superior to と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～より優れている",
+    "choices": [
+      {
+        "text": "～より優れている",
+        "correct": true
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      }
+    ],
+    "explanation": "be superior to は「～より優れている」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0109",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "be inferior to",
+    "meaning": "～より劣っている",
+    "question": "be inferior to と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～より劣っている",
+    "choices": [
+      {
+        "text": "～より劣っている",
+        "correct": true
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      }
+    ],
+    "explanation": "be inferior to は「～より劣っている」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0110",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "be tolerant of",
+    "meaning": "～に寛容である",
+    "question": "be tolerant of と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～に寛容である",
+    "choices": [
+      {
+        "text": "～に寛容である",
+        "correct": true
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      }
+    ],
+    "explanation": "be tolerant of は「～に寛容である」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0111",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "bring about",
+    "meaning": "～を引き起こす",
+    "question": "bring about と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～を引き起こす",
+    "choices": [
+      {
+        "text": "～を引き起こす",
+        "correct": true
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      }
+    ],
+    "explanation": "bring about は「～を引き起こす」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0112",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "bring up",
+    "meaning": "～を話題に出す・育てる",
+    "question": "bring up と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～を話題に出す・育てる",
+    "choices": [
+      {
+        "text": "～を話題に出す・育てる",
+        "correct": true
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      }
+    ],
+    "explanation": "bring up は「～を話題に出す・育てる」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0113",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "call for",
+    "meaning": "～を必要とする・要求する",
+    "question": "call for と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～を必要とする・要求する",
+    "choices": [
+      {
+        "text": "～を必要とする・要求する",
+        "correct": true
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      }
+    ],
+    "explanation": "call for は「～を必要とする・要求する」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0114",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "carry out",
+    "meaning": "～を実行する",
+    "question": "carry out と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～を実行する",
+    "choices": [
+      {
+        "text": "～を実行する",
+        "correct": true
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      }
+    ],
+    "explanation": "carry out は「～を実行する」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0115",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "come across",
+    "meaning": "～に偶然出会う",
+    "question": "come across と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～に偶然出会う",
+    "choices": [
+      {
+        "text": "～に偶然出会う",
+        "correct": true
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      }
+    ],
+    "explanation": "come across は「～に偶然出会う」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0116",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "come up with",
+    "meaning": "～を思いつく",
+    "question": "come up with と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～を思いつく",
+    "choices": [
+      {
+        "text": "～を思いつく",
+        "correct": true
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      }
+    ],
+    "explanation": "come up with は「～を思いつく」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0117",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "cut down on",
+    "meaning": "～を減らす",
+    "question": "cut down on と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～を減らす",
+    "choices": [
+      {
+        "text": "～を減らす",
+        "correct": true
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      }
+    ],
+    "explanation": "cut down on は「～を減らす」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0118",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "deal with",
+    "meaning": "～に対処する",
+    "question": "deal with と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～に対処する",
+    "choices": [
+      {
+        "text": "～に対処する",
+        "correct": true
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      }
+    ],
+    "explanation": "deal with は「～に対処する」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0119",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "do away with",
+    "meaning": "～を廃止する",
+    "question": "do away with と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～を廃止する",
+    "choices": [
+      {
+        "text": "～を廃止する",
+        "correct": true
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      }
+    ],
+    "explanation": "do away with は「～を廃止する」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0120",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "draw on",
+    "meaning": "～を利用する",
+    "question": "draw on と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～を利用する",
+    "choices": [
+      {
+        "text": "～を利用する",
+        "correct": true
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      }
+    ],
+    "explanation": "draw on は「～を利用する」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0121",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "end up -ing",
+    "meaning": "結局～することになる",
+    "question": "end up -ing と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "結局～することになる",
+    "choices": [
+      {
+        "text": "結局～することになる",
+        "correct": true
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      }
+    ],
+    "explanation": "end up -ing は「結局～することになる」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0122",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "figure out",
+    "meaning": "～を理解する・解決する",
+    "question": "figure out と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～を理解する・解決する",
+    "choices": [
+      {
+        "text": "～を理解する・解決する",
+        "correct": true
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      }
+    ],
+    "explanation": "figure out は「～を理解する・解決する」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0123",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "get across",
+    "meaning": "～を伝える",
+    "question": "get across と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～を伝える",
+    "choices": [
+      {
+        "text": "～を伝える",
+        "correct": true
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      }
+    ],
+    "explanation": "get across は「～を伝える」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0124",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "get rid of",
+    "meaning": "～を取り除く",
+    "question": "get rid of と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～を取り除く",
+    "choices": [
+      {
+        "text": "～を取り除く",
+        "correct": true
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      }
+    ],
+    "explanation": "get rid of は「～を取り除く」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0125",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "give rise to",
+    "meaning": "～を引き起こす",
+    "question": "give rise to と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～を引き起こす",
+    "choices": [
+      {
+        "text": "～を引き起こす",
+        "correct": true
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      }
+    ],
+    "explanation": "give rise to は「～を引き起こす」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0126",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "go through",
+    "meaning": "～を経験する・調べる",
+    "question": "go through と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～を経験する・調べる",
+    "choices": [
+      {
+        "text": "～を経験する・調べる",
+        "correct": true
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      }
+    ],
+    "explanation": "go through は「～を経験する・調べる」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0127",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "hold back",
+    "meaning": "～を抑える",
+    "question": "hold back と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～を抑える",
+    "choices": [
+      {
+        "text": "～を抑える",
+        "correct": true
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      }
+    ],
+    "explanation": "hold back は「～を抑える」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0128",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "keep up with",
+    "meaning": "～についていく",
+    "question": "keep up with と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～についていく",
+    "choices": [
+      {
+        "text": "～についていく",
+        "correct": true
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      }
+    ],
+    "explanation": "keep up with は「～についていく」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0129",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "leave out",
+    "meaning": "～を省く",
+    "question": "leave out と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～を省く",
+    "choices": [
+      {
+        "text": "～を省く",
+        "correct": true
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      }
+    ],
+    "explanation": "leave out は「～を省く」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0130",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "look into",
+    "meaning": "～を調査する",
+    "question": "look into と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～を調査する",
+    "choices": [
+      {
+        "text": "～を調査する",
+        "correct": true
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      }
+    ],
+    "explanation": "look into は「～を調査する」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0131",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "make up for",
+    "meaning": "～を埋め合わせる",
+    "question": "make up for と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～を埋め合わせる",
+    "choices": [
+      {
+        "text": "～を埋め合わせる",
+        "correct": true
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      }
+    ],
+    "explanation": "make up for は「～を埋め合わせる」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0132",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "put off",
+    "meaning": "～を延期する",
+    "question": "put off と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～を延期する",
+    "choices": [
+      {
+        "text": "～を延期する",
+        "correct": true
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      }
+    ],
+    "explanation": "put off は「～を延期する」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0133",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "put up with",
+    "meaning": "～に耐える",
+    "question": "put up with と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～に耐える",
+    "choices": [
+      {
+        "text": "～に耐える",
+        "correct": true
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      }
+    ],
+    "explanation": "put up with は「～に耐える」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0134",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "result in",
+    "meaning": "～という結果になる",
+    "question": "result in と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～という結果になる",
+    "choices": [
+      {
+        "text": "～という結果になる",
+        "correct": true
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      }
+    ],
+    "explanation": "result in は「～という結果になる」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0135",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "result from",
+    "meaning": "～に起因する",
+    "question": "result from と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～に起因する",
+    "choices": [
+      {
+        "text": "～に起因する",
+        "correct": true
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      }
+    ],
+    "explanation": "result from は「～に起因する」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0136",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "run out of",
+    "meaning": "～を使い果たす",
+    "question": "run out of と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～を使い果たす",
+    "choices": [
+      {
+        "text": "～を使い果たす",
+        "correct": true
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      }
+    ],
+    "explanation": "run out of は「～を使い果たす」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0137",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "set aside",
+    "meaning": "～を取っておく・脇に置く",
+    "question": "set aside と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～を取っておく・脇に置く",
+    "choices": [
+      {
+        "text": "～を取っておく・脇に置く",
+        "correct": true
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      }
+    ],
+    "explanation": "set aside は「～を取っておく・脇に置く」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0138",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "stand for",
+    "meaning": "～を表す",
+    "question": "stand for と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～を表す",
+    "choices": [
+      {
+        "text": "～を表す",
+        "correct": true
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      }
+    ],
+    "explanation": "stand for は「～を表す」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0139",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "take advantage of",
+    "meaning": "～を利用する",
+    "question": "take advantage of と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～を利用する",
+    "choices": [
+      {
+        "text": "～を利用する",
+        "correct": true
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      }
+    ],
+    "explanation": "take advantage of は「～を利用する」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0140",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "take part in",
+    "meaning": "～に参加する",
+    "question": "take part in と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～に参加する",
+    "choices": [
+      {
+        "text": "～に参加する",
+        "correct": true
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      }
+    ],
+    "explanation": "take part in は「～に参加する」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0141",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "take place",
+    "meaning": "起こる・開催される",
+    "question": "take place と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "起こる・開催される",
+    "choices": [
+      {
+        "text": "起こる・開催される",
+        "correct": true
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      }
+    ],
+    "explanation": "take place は「起こる・開催される」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0142",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "turn down",
+    "meaning": "～を断る・音量を下げる",
+    "question": "turn down と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～を断る・音量を下げる",
+    "choices": [
+      {
+        "text": "～を断る・音量を下げる",
+        "correct": true
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      }
+    ],
+    "explanation": "turn down は「～を断る・音量を下げる」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0143",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "turn out",
+    "meaning": "～であると判明する",
+    "question": "turn out と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～であると判明する",
+    "choices": [
+      {
+        "text": "～であると判明する",
+        "correct": true
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      }
+    ],
+    "explanation": "turn out は「～であると判明する」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0144",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "with regard to",
+    "meaning": "～に関して",
+    "question": "with regard to と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～に関して",
+    "choices": [
+      {
+        "text": "～に関して",
+        "correct": true
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      }
+    ],
+    "explanation": "with regard to は「～に関して」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0145",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "in addition to",
+    "meaning": "～に加えて",
+    "question": "in addition to と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～に加えて",
+    "choices": [
+      {
+        "text": "～に加えて",
+        "correct": true
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      }
+    ],
+    "explanation": "in addition to は「～に加えて」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0146",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "in contrast to",
+    "meaning": "～とは対照的に",
+    "question": "in contrast to と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～とは対照的に",
+    "choices": [
+      {
+        "text": "～とは対照的に",
+        "correct": true
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      }
+    ],
+    "explanation": "in contrast to は「～とは対照的に」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0147",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "in favor of",
+    "meaning": "～に賛成して",
+    "question": "in favor of と最も近い意味の日本語表現を選べ。",
+    "prompt": "意味確認",
+    "answer": "～に賛成して",
+    "choices": [
+      {
+        "text": "～に賛成して",
+        "correct": true
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      }
+    ],
+    "explanation": "in favor of は「～に賛成して」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0148",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "be aware of",
+    "meaning": "～を認識している",
+    "question": "次の熟語 be aware of の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～を認識している",
+    "choices": [
+      {
+        "text": "～を認識している",
+        "correct": true
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      }
+    ],
+    "explanation": "be aware of は「～を認識している」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0149",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "be capable of",
+    "meaning": "～する能力がある",
+    "question": "次の熟語 be capable of の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～する能力がある",
+    "choices": [
+      {
+        "text": "～する能力がある",
+        "correct": true
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      }
+    ],
+    "explanation": "be capable of は「～する能力がある」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0150",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "be concerned about",
+    "meaning": "～を心配している・～に関心がある",
+    "question": "次の熟語 be concerned about の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～を心配している・～に関心がある",
+    "choices": [
+      {
+        "text": "～を心配している・～に関心がある",
+        "correct": true
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      }
+    ],
+    "explanation": "be concerned about は「～を心配している・～に関心がある」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0151",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "be dependent on",
+    "meaning": "～に依存している",
+    "question": "次の熟語 be dependent on の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～に依存している",
+    "choices": [
+      {
+        "text": "～に依存している",
+        "correct": true
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      }
+    ],
+    "explanation": "be dependent on は「～に依存している」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0152",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "be familiar with",
+    "meaning": "～に詳しい・～に慣れている",
+    "question": "次の熟語 be familiar with の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～に詳しい・～に慣れている",
+    "choices": [
+      {
+        "text": "～に詳しい・～に慣れている",
+        "correct": true
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      }
+    ],
+    "explanation": "be familiar with は「～に詳しい・～に慣れている」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0153",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "be relevant to",
+    "meaning": "～に関連している",
+    "question": "次の熟語 be relevant to の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～に関連している",
+    "choices": [
+      {
+        "text": "～に関連している",
+        "correct": true
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      }
+    ],
+    "explanation": "be relevant to は「～に関連している」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0154",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "be responsible for",
+    "meaning": "～に責任がある",
+    "question": "次の熟語 be responsible for の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～に責任がある",
+    "choices": [
+      {
+        "text": "～に責任がある",
+        "correct": true
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      }
+    ],
+    "explanation": "be responsible for は「～に責任がある」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0155",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "be satisfied with",
+    "meaning": "～に満足している",
+    "question": "次の熟語 be satisfied with の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～に満足している",
+    "choices": [
+      {
+        "text": "～に満足している",
+        "correct": true
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      }
+    ],
+    "explanation": "be satisfied with は「～に満足している」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0156",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "be subject to",
+    "meaning": "～を受ける・～の対象となる",
+    "question": "次の熟語 be subject to の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～を受ける・～の対象となる",
+    "choices": [
+      {
+        "text": "～を受ける・～の対象となる",
+        "correct": true
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      }
+    ],
+    "explanation": "be subject to は「～を受ける・～の対象となる」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0157",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "be superior to",
+    "meaning": "～より優れている",
+    "question": "次の熟語 be superior to の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～より優れている",
+    "choices": [
+      {
+        "text": "～より優れている",
+        "correct": true
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      }
+    ],
+    "explanation": "be superior to は「～より優れている」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0158",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "be inferior to",
+    "meaning": "～より劣っている",
+    "question": "次の熟語 be inferior to の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～より劣っている",
+    "choices": [
+      {
+        "text": "～より劣っている",
+        "correct": true
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      }
+    ],
+    "explanation": "be inferior to は「～より劣っている」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0159",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "be tolerant of",
+    "meaning": "～に寛容である",
+    "question": "次の熟語 be tolerant of の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～に寛容である",
+    "choices": [
+      {
+        "text": "～に寛容である",
+        "correct": true
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      }
+    ],
+    "explanation": "be tolerant of は「～に寛容である」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0160",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "bring about",
+    "meaning": "～を引き起こす",
+    "question": "次の熟語 bring about の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～を引き起こす",
+    "choices": [
+      {
+        "text": "～を引き起こす",
+        "correct": true
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      }
+    ],
+    "explanation": "bring about は「～を引き起こす」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0161",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "bring up",
+    "meaning": "～を話題に出す・育てる",
+    "question": "次の熟語 bring up の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～を話題に出す・育てる",
+    "choices": [
+      {
+        "text": "～を話題に出す・育てる",
+        "correct": true
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      }
+    ],
+    "explanation": "bring up は「～を話題に出す・育てる」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0162",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "call for",
+    "meaning": "～を必要とする・要求する",
+    "question": "次の熟語 call for の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～を必要とする・要求する",
+    "choices": [
+      {
+        "text": "～を必要とする・要求する",
+        "correct": true
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      }
+    ],
+    "explanation": "call for は「～を必要とする・要求する」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0163",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "carry out",
+    "meaning": "～を実行する",
+    "question": "次の熟語 carry out の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～を実行する",
+    "choices": [
+      {
+        "text": "～を実行する",
+        "correct": true
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      }
+    ],
+    "explanation": "carry out は「～を実行する」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0164",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "come across",
+    "meaning": "～に偶然出会う",
+    "question": "次の熟語 come across の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～に偶然出会う",
+    "choices": [
+      {
+        "text": "～に偶然出会う",
+        "correct": true
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      }
+    ],
+    "explanation": "come across は「～に偶然出会う」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0165",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "come up with",
+    "meaning": "～を思いつく",
+    "question": "次の熟語 come up with の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～を思いつく",
+    "choices": [
+      {
+        "text": "～を思いつく",
+        "correct": true
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      }
+    ],
+    "explanation": "come up with は「～を思いつく」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0166",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "cut down on",
+    "meaning": "～を減らす",
+    "question": "次の熟語 cut down on の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～を減らす",
+    "choices": [
+      {
+        "text": "～を減らす",
+        "correct": true
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      }
+    ],
+    "explanation": "cut down on は「～を減らす」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0167",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "deal with",
+    "meaning": "～に対処する",
+    "question": "次の熟語 deal with の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～に対処する",
+    "choices": [
+      {
+        "text": "～に対処する",
+        "correct": true
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      }
+    ],
+    "explanation": "deal with は「～に対処する」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0168",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "do away with",
+    "meaning": "～を廃止する",
+    "question": "次の熟語 do away with の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～を廃止する",
+    "choices": [
+      {
+        "text": "～を廃止する",
+        "correct": true
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      }
+    ],
+    "explanation": "do away with は「～を廃止する」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0169",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "draw on",
+    "meaning": "～を利用する",
+    "question": "次の熟語 draw on の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～を利用する",
+    "choices": [
+      {
+        "text": "～を利用する",
+        "correct": true
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      }
+    ],
+    "explanation": "draw on は「～を利用する」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0170",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "end up -ing",
+    "meaning": "結局～することになる",
+    "question": "次の熟語 end up -ing の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "結局～することになる",
+    "choices": [
+      {
+        "text": "結局～することになる",
+        "correct": true
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      }
+    ],
+    "explanation": "end up -ing は「結局～することになる」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0171",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "figure out",
+    "meaning": "～を理解する・解決する",
+    "question": "次の熟語 figure out の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～を理解する・解決する",
+    "choices": [
+      {
+        "text": "～を理解する・解決する",
+        "correct": true
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      }
+    ],
+    "explanation": "figure out は「～を理解する・解決する」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0172",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "get across",
+    "meaning": "～を伝える",
+    "question": "次の熟語 get across の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～を伝える",
+    "choices": [
+      {
+        "text": "～を伝える",
+        "correct": true
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      }
+    ],
+    "explanation": "get across は「～を伝える」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0173",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "get rid of",
+    "meaning": "～を取り除く",
+    "question": "次の熟語 get rid of の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～を取り除く",
+    "choices": [
+      {
+        "text": "～を取り除く",
+        "correct": true
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      }
+    ],
+    "explanation": "get rid of は「～を取り除く」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0174",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "give rise to",
+    "meaning": "～を引き起こす",
+    "question": "次の熟語 give rise to の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～を引き起こす",
+    "choices": [
+      {
+        "text": "～を引き起こす",
+        "correct": true
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      }
+    ],
+    "explanation": "give rise to は「～を引き起こす」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0175",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "go through",
+    "meaning": "～を経験する・調べる",
+    "question": "次の熟語 go through の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～を経験する・調べる",
+    "choices": [
+      {
+        "text": "～を経験する・調べる",
+        "correct": true
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      }
+    ],
+    "explanation": "go through は「～を経験する・調べる」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0176",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "hold back",
+    "meaning": "～を抑える",
+    "question": "次の熟語 hold back の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～を抑える",
+    "choices": [
+      {
+        "text": "～を抑える",
+        "correct": true
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      }
+    ],
+    "explanation": "hold back は「～を抑える」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0177",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "keep up with",
+    "meaning": "～についていく",
+    "question": "次の熟語 keep up with の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～についていく",
+    "choices": [
+      {
+        "text": "～についていく",
+        "correct": true
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      }
+    ],
+    "explanation": "keep up with は「～についていく」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0178",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "leave out",
+    "meaning": "～を省く",
+    "question": "次の熟語 leave out の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～を省く",
+    "choices": [
+      {
+        "text": "～を省く",
+        "correct": true
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      }
+    ],
+    "explanation": "leave out は「～を省く」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0179",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "look into",
+    "meaning": "～を調査する",
+    "question": "次の熟語 look into の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～を調査する",
+    "choices": [
+      {
+        "text": "～を調査する",
+        "correct": true
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      }
+    ],
+    "explanation": "look into は「～を調査する」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0180",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "make up for",
+    "meaning": "～を埋め合わせる",
+    "question": "次の熟語 make up for の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～を埋め合わせる",
+    "choices": [
+      {
+        "text": "～を埋め合わせる",
+        "correct": true
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      }
+    ],
+    "explanation": "make up for は「～を埋め合わせる」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0181",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "put off",
+    "meaning": "～を延期する",
+    "question": "次の熟語 put off の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～を延期する",
+    "choices": [
+      {
+        "text": "～を延期する",
+        "correct": true
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      }
+    ],
+    "explanation": "put off は「～を延期する」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0182",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "put up with",
+    "meaning": "～に耐える",
+    "question": "次の熟語 put up with の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～に耐える",
+    "choices": [
+      {
+        "text": "～に耐える",
+        "correct": true
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      }
+    ],
+    "explanation": "put up with は「～に耐える」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0183",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "result in",
+    "meaning": "～という結果になる",
+    "question": "次の熟語 result in の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～という結果になる",
+    "choices": [
+      {
+        "text": "～という結果になる",
+        "correct": true
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      }
+    ],
+    "explanation": "result in は「～という結果になる」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0184",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "result from",
+    "meaning": "～に起因する",
+    "question": "次の熟語 result from の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～に起因する",
+    "choices": [
+      {
+        "text": "～に起因する",
+        "correct": true
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      }
+    ],
+    "explanation": "result from は「～に起因する」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0185",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "run out of",
+    "meaning": "～を使い果たす",
+    "question": "次の熟語 run out of の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～を使い果たす",
+    "choices": [
+      {
+        "text": "～を使い果たす",
+        "correct": true
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      }
+    ],
+    "explanation": "run out of は「～を使い果たす」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0186",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "set aside",
+    "meaning": "～を取っておく・脇に置く",
+    "question": "次の熟語 set aside の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～を取っておく・脇に置く",
+    "choices": [
+      {
+        "text": "～を取っておく・脇に置く",
+        "correct": true
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      }
+    ],
+    "explanation": "set aside は「～を取っておく・脇に置く」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0187",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "stand for",
+    "meaning": "～を表す",
+    "question": "次の熟語 stand for の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～を表す",
+    "choices": [
+      {
+        "text": "～を表す",
+        "correct": true
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      }
+    ],
+    "explanation": "stand for は「～を表す」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0188",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "take advantage of",
+    "meaning": "～を利用する",
+    "question": "次の熟語 take advantage of の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～を利用する",
+    "choices": [
+      {
+        "text": "～を利用する",
+        "correct": true
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      }
+    ],
+    "explanation": "take advantage of は「～を利用する」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0189",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "take part in",
+    "meaning": "～に参加する",
+    "question": "次の熟語 take part in の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～に参加する",
+    "choices": [
+      {
+        "text": "～に参加する",
+        "correct": true
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      }
+    ],
+    "explanation": "take part in は「～に参加する」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0190",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "take place",
+    "meaning": "起こる・開催される",
+    "question": "次の熟語 take place の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "起こる・開催される",
+    "choices": [
+      {
+        "text": "起こる・開催される",
+        "correct": true
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      }
+    ],
+    "explanation": "take place は「起こる・開催される」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0191",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "turn down",
+    "meaning": "～を断る・音量を下げる",
+    "question": "次の熟語 turn down の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～を断る・音量を下げる",
+    "choices": [
+      {
+        "text": "～を断る・音量を下げる",
+        "correct": true
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      }
+    ],
+    "explanation": "turn down は「～を断る・音量を下げる」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0192",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "turn out",
+    "meaning": "～であると判明する",
+    "question": "次の熟語 turn out の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～であると判明する",
+    "choices": [
+      {
+        "text": "～であると判明する",
+        "correct": true
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      }
+    ],
+    "explanation": "turn out は「～であると判明する」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0193",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "with regard to",
+    "meaning": "～に関して",
+    "question": "次の熟語 with regard to の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～に関して",
+    "choices": [
+      {
+        "text": "～に関して",
+        "correct": true
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      }
+    ],
+    "explanation": "with regard to は「～に関して」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0194",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "in addition to",
+    "meaning": "～に加えて",
+    "question": "次の熟語 in addition to の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～に加えて",
+    "choices": [
+      {
+        "text": "～に加えて",
+        "correct": true
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      }
+    ],
+    "explanation": "in addition to は「～に加えて」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0195",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "in contrast to",
+    "meaning": "～とは対照的に",
+    "question": "次の熟語 in contrast to の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～とは対照的に",
+    "choices": [
+      {
+        "text": "～とは対照的に",
+        "correct": true
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      }
+    ],
+    "explanation": "in contrast to は「～とは対照的に」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  },
+  {
+    "id": "id-v9-0196",
+    "type": "idiom",
+    "level": "standard",
+    "phrase": "in favor of",
+    "meaning": "～に賛成して",
+    "question": "次の熟語 in favor of の用法を学ぶため、最も近い訳を選べ。",
+    "prompt": "語義",
+    "answer": "～に賛成して",
+    "choices": [
+      {
+        "text": "～に賛成して",
+        "correct": true
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      }
+    ],
+    "explanation": "in favor of は「～に賛成して」という意味。",
+    "tags": [
+      "bulk-idiom-v9"
+    ]
+  }
+]
