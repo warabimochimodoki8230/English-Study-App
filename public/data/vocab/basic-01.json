@@ -1,0 +1,6026 @@
+[
+  {
+    "id": "v-basic-ngsl-0006-0006",
+    "type": "vocab",
+    "level": "basic",
+    "word": "a",
+    "meaning": "一つの",
+    "pos": "article",
+    "question": "a",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "一つの",
+    "explanation": "",
+    "definitionEn": "one particular thing or one of a class of things",
+    "frequencyRank": 6,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "A new policy was introduced last month.",
+    "exampleJa": "「a」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-03-ability",
+    "type": "vocab",
+    "level": "basic",
+    "word": "ability",
+    "meaning": "能力",
+    "pos": "n",
+    "question": "ability",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "能力",
+    "explanation": "",
+    "exampleSentence": "The report describes the ability in detail.",
+    "exampleJa": "その研究は現代社会における能力を検討している。",
+    "family": "abilities;able",
+    "synonyms": [
+      "capacity",
+      "skill"
+    ],
+    "tags": [
+      "basic",
+      "n"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。ability の派生語: abilities;able."
+  },
+  {
+    "id": "v-basic-ngsl-0271-0225",
+    "type": "vocab",
+    "level": "basic",
+    "word": "able",
+    "meaning": "できる",
+    "pos": "adj",
+    "question": "able",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "できる",
+    "explanation": "",
+    "definitionEn": "having the power, skill, money, or means to do something",
+    "frequencyRank": 271,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the able characteristics of the system.",
+    "exampleJa": "「able」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0037-0037",
+    "type": "vocab",
+    "level": "basic",
+    "word": "about",
+    "meaning": "～について",
+    "pos": "prep",
+    "question": "about",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "～について",
+    "explanation": "",
+    "definitionEn": "on the subject of, or concerning something",
+    "frequencyRank": 37,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The meaning of about depends on the words that follow it.",
+    "exampleJa": "「about」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0001-above",
+    "type": "vocab",
+    "level": "basic",
+    "word": "above",
+    "meaning": "上に；上記の",
+    "pos": "prep",
+    "question": "above",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "上に；上記の",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic"
+    ],
+    "exampleSentence": "The meaning of above depends on the words that follow it.",
+    "exampleJa": "「above」を使った自然な用例。"
+  },
+  {
+    "id": "v-curated-0460",
+    "type": "vocab",
+    "level": "basic",
+    "word": "absent",
+    "meaning": "不在の",
+    "pos": "adj",
+    "question": "absent",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "不在の",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "basic"
+    ],
+    "exampleSentence": "The report describes the absent characteristics of the system.",
+    "exampleJa": "「absent」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0002-absolutely",
+    "type": "vocab",
+    "level": "basic",
+    "word": "absolutely",
+    "meaning": "完全に；絶対に",
+    "pos": "adv",
+    "question": "absolutely",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "完全に；絶対に",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic"
+    ],
+    "exampleSentence": "The researchers absolutely reviewed the evidence before publishing their findings.",
+    "exampleJa": "「absolutely」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0174-abuse",
+    "type": "vocab",
+    "level": "basic",
+    "word": "abuse",
+    "meaning": "乱用する；虐待する；乱用",
+    "pos": "v",
+    "question": "abuse",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "乱用する；虐待する；乱用",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "The researchers need to abuse the problem before drawing a conclusion.",
+    "exampleJa": "「abuse」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0004-accent",
+    "type": "vocab",
+    "level": "basic",
+    "word": "accent",
+    "meaning": "訛り；強調",
+    "pos": "n",
+    "question": "accent",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "訛り；強調",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "The committee considered the accent before making its decision.",
+    "exampleJa": "「accent」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-101",
+    "type": "vocab",
+    "level": "basic",
+    "word": "accept",
+    "meaning": "受け入れる",
+    "question": "accept",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "可能な",
+        "correct": false
+      },
+      {
+        "text": "受け入れる",
+        "correct": true
+      },
+      {
+        "text": "集める",
+        "correct": false
+      },
+      {
+        "text": "考慮する",
+        "correct": false
+      }
+    ],
+    "answer": "受け入れる",
+    "explanation": "accept = 受け入れる。例：accept the offer",
+    "exampleSentence": "The researchers considered the accept option before making a decision.",
+    "exampleJa": "「accept」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-04-acceptance",
+    "type": "vocab",
+    "level": "basic",
+    "word": "acceptance",
+    "meaning": "受け入れ",
+    "pos": "n",
+    "question": "acceptance",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "受け入れ",
+    "explanation": "",
+    "exampleSentence": "The report describes the acceptance in detail.",
+    "exampleJa": "この文脈では「受け入れ」という意味。",
+    "family": "acceptance;acceptances",
+    "synonyms": [],
+    "tags": [
+      "basic",
+      "n"
+    ],
+    "note": "入試・読解で見かけやすい重要語。"
+  },
+  {
+    "id": "v-curated-0327",
+    "type": "vocab",
+    "level": "basic",
+    "word": "access",
+    "meaning": "利用する権利",
+    "pos": "n",
+    "question": "access",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "利用する権利",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "basic"
+    ],
+    "exampleSentence": "The committee considered the access before making its decision.",
+    "exampleJa": "「access」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0005-accident",
+    "type": "vocab",
+    "level": "basic",
+    "word": "accident",
+    "meaning": "事故；偶然",
+    "pos": "n",
+    "question": "accident",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "事故；偶然",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic"
+    ],
+    "exampleSentence": "The accident became an important part of the discussion.",
+    "exampleJa": "「accident」を使った自然な用例。"
+  },
+  {
+    "id": "v-max2-accommodation",
+    "type": "vocab",
+    "level": "basic",
+    "word": "accommodation",
+    "meaning": "宿泊施設；適応",
+    "pos": "n",
+    "explanation": "accommodation：宿泊施設；適応。",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-max2",
+      "常用語"
+    ],
+    "source": "curated-vocab-max2-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The city plans to improve the accommodation next year.",
+    "exampleJa": "「accommodation」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0006-according",
+    "type": "vocab",
+    "level": "basic",
+    "word": "according",
+    "meaning": "～によれば",
+    "pos": "prep",
+    "question": "according",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "～によれば",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "The meaning of according depends on the words that follow it.",
+    "exampleJa": "「according」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0007-account",
+    "type": "vocab",
+    "level": "basic",
+    "word": "account",
+    "meaning": "説明；口座；占める",
+    "pos": "n",
+    "question": "account",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "説明；口座；占める",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "The account became an important part of the discussion.",
+    "exampleJa": "「account」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0008-achievable",
+    "type": "vocab",
+    "level": "basic",
+    "word": "achievable",
+    "meaning": "達成可能な",
+    "pos": "adj",
+    "question": "achievable",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "達成可能な",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "The method is considered achievable for small experiments.",
+    "exampleJa": "「achievable」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-001",
+    "type": "vocab",
+    "level": "basic",
+    "word": "achieve",
+    "meaning": "達成する",
+    "question": "achieve",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "達成する",
+        "correct": true
+      },
+      {
+        "text": "避ける",
+        "correct": false
+      },
+      {
+        "text": "借りる",
+        "correct": false
+      },
+      {
+        "text": "延期する",
+        "correct": false
+      }
+    ],
+    "answer": "達成する",
+    "explanation": "achieve = 達成する。例：achieve a goal",
+    "exampleSentence": "The team worked together to achieve the issue.",
+    "exampleJa": "「achieve」を使った自然な用例。"
+  },
+  {
+    "id": "v-max2-achievement",
+    "type": "vocab",
+    "level": "basic",
+    "word": "achievement",
+    "meaning": "達成",
+    "pos": "n",
+    "explanation": "achievement：達成。",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-max2",
+      "常用語"
+    ],
+    "source": "curated-vocab-max2-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The achievement became an important part of the discussion.",
+    "exampleJa": "「achievement」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0383-0290",
+    "type": "vocab",
+    "level": "basic",
+    "word": "across",
+    "meaning": "横切って",
+    "pos": "prep",
+    "question": "across",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "横切って",
+    "explanation": "",
+    "definitionEn": "from one side to the other of something",
+    "frequencyRank": 383,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "basic"
+    ],
+    "exampleSentence": "The meaning of across depends on the words that follow it.",
+    "exampleJa": "「across」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0515-0368",
+    "type": "vocab",
+    "level": "basic",
+    "word": "act",
+    "meaning": "行動する",
+    "pos": "n",
+    "question": "act",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "行動する",
+    "explanation": "",
+    "definitionEn": "take action",
+    "frequencyRank": 515,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The committee considered the act before making its decision.",
+    "exampleJa": "「act」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0474-0338",
+    "type": "vocab",
+    "level": "basic",
+    "word": "action",
+    "meaning": "行動",
+    "pos": "n",
+    "question": "action",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "行動",
+    "explanation": "",
+    "definitionEn": "something that a person does",
+    "frequencyRank": 474,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The action became an important part of the discussion.",
+    "exampleJa": "「action」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0430-active",
+    "type": "vocab",
+    "level": "basic",
+    "word": "active",
+    "meaning": "活動的な",
+    "pos": "adj",
+    "question": "active",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "活動的な",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "The team chose a active approach to the problem.",
+    "exampleJa": "「active」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-04-activity",
+    "type": "vocab",
+    "level": "basic",
+    "word": "activity",
+    "meaning": "活動",
+    "pos": "n",
+    "question": "activity",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "活動",
+    "explanation": "",
+    "exampleSentence": "The committee considered the activity before making its decision.",
+    "exampleJa": "この文脈では「活動」という意味。",
+    "family": "activity;activitys",
+    "synonyms": [],
+    "tags": [
+      "basic",
+      "n"
+    ],
+    "note": "入試・読解で見かけやすい重要語。",
+    "levelTags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "v-basic-core-0179-actual",
+    "type": "vocab",
+    "level": "basic",
+    "word": "actual",
+    "meaning": "実際の",
+    "pos": "adj",
+    "question": "actual",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "実際の",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "The researchers considered the actual option before making a decision.",
+    "exampleJa": "「actual」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0180-actually",
+    "type": "vocab",
+    "level": "basic",
+    "word": "actually",
+    "meaning": "実際に",
+    "pos": "adv",
+    "question": "actually",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "実際に",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "The researchers actually reviewed the evidence before publishing their findings.",
+    "exampleJa": "「actually」を使った自然な用例。"
+  },
+  {
+    "id": "v-mega-basic-0001",
+    "type": "vocab",
+    "level": "basic",
+    "word": "adapt",
+    "meaning": "適応する・改作する",
+    "pos": "v",
+    "explanation": "adapt：適応する・改作する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "Animals must adapt to changes in their environment.",
+    "exampleJa": "「adapt」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-102",
+    "type": "vocab",
+    "level": "basic",
+    "word": "add",
+    "meaning": "加える",
+    "question": "add",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "比較する",
+        "correct": false
+      },
+      {
+        "text": "加える",
+        "correct": true
+      },
+      {
+        "text": "到着する・届く",
+        "correct": false
+      },
+      {
+        "text": "作り出す",
+        "correct": false
+      }
+    ],
+    "answer": "加える",
+    "explanation": "add = 加える。例：add some water",
+    "exampleSentence": "The researchers considered the add option before making a decision.",
+    "exampleJa": "「add」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0241-addition",
+    "type": "vocab",
+    "level": "basic",
+    "word": "addition",
+    "meaning": "追加；足し算",
+    "pos": "n",
+    "question": "addition",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "追加；足し算",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "The report describes the addition in detail.",
+    "exampleJa": "「addition」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-04-address",
+    "type": "vocab",
+    "level": "basic",
+    "word": "address",
+    "meaning": "住所・問題への対処",
+    "pos": "n",
+    "question": "address",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "住所・問題への対処",
+    "explanation": "",
+    "exampleSentence": "The new policy was designed to reduce the address.",
+    "exampleJa": "この文脈では「住所」という意味。",
+    "family": "address;addresss",
+    "synonyms": [],
+    "tags": [
+      "basic",
+      "n"
+    ],
+    "note": "入試・読解で見かけやすい重要語。"
+  },
+  {
+    "id": "v-basic-core-0242-adjustment",
+    "type": "vocab",
+    "level": "basic",
+    "word": "adjustment",
+    "meaning": "調整",
+    "pos": "n",
+    "question": "adjustment",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "調整",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The adjustment became an important part of the discussion.",
+    "exampleJa": "「adjustment」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0012-admiration",
+    "type": "vocab",
+    "level": "basic",
+    "word": "admiration",
+    "meaning": "賞賛",
+    "pos": "n",
+    "question": "admiration",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "賞賛",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "The report describes the admiration in detail.",
+    "exampleJa": "「admiration」を使った自然な用例。"
+  },
+  {
+    "id": "v-mega-basic-0032",
+    "type": "vocab",
+    "level": "basic",
+    "word": "admit",
+    "meaning": "認める",
+    "pos": "v",
+    "explanation": "admit：認める",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "basic"
+    ],
+    "exampleSentence": "Many people admit differently when the situation changes.",
+    "exampleJa": "「admit」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0879-0565",
+    "type": "vocab",
+    "level": "basic",
+    "word": "adult",
+    "meaning": "大人",
+    "pos": "n",
+    "question": "adult",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "大人",
+    "explanation": "",
+    "definitionEn": "a person or animal that is grown up",
+    "frequencyRank": 879,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The adult spoke with the students after the meeting.",
+    "exampleJa": "「adult」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-03-advantage",
+    "type": "vocab",
+    "level": "basic",
+    "word": "advantage",
+    "meaning": "利点・有利な点",
+    "pos": "n",
+    "question": "advantage",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "利点・有利な点",
+    "explanation": "",
+    "exampleSentence": "The report describes the advantage in detail.",
+    "exampleJa": "その研究は現代社会における利点を検討している。",
+    "family": "advantageous",
+    "synonyms": [
+      "benefit",
+      "strength"
+    ],
+    "tags": [
+      "basic",
+      "n"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。advantage の派生語: advantageous."
+  },
+  {
+    "id": "ngsl-2664",
+    "type": "vocab",
+    "word": "adventure",
+    "meaning": "冒険",
+    "pos": "n",
+    "level": "basic",
+    "rank": 2664,
+    "definition": "an exciting or dangerous experience",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The committee considered the adventure before making its decision.",
+    "exampleJa": "「adventure」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0015-advertise",
+    "type": "vocab",
+    "level": "basic",
+    "word": "advertise",
+    "meaning": "広告する",
+    "pos": "v",
+    "question": "advertise",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "広告する",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic"
+    ],
+    "exampleSentence": "The company plans to advertise the new system next year.",
+    "exampleJa": "「advertise」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0016-advertisement",
+    "type": "vocab",
+    "level": "basic",
+    "word": "advertisement",
+    "meaning": "広告",
+    "pos": "n",
+    "question": "advertisement",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "広告",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic"
+    ],
+    "exampleSentence": "The report describes the advertisement in detail.",
+    "exampleJa": "「advertisement」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-03-advice",
+    "type": "vocab",
+    "level": "basic",
+    "word": "advice",
+    "meaning": "助言",
+    "pos": "n",
+    "question": "advice",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "助言",
+    "explanation": "",
+    "exampleSentence": "The committee considered the advice before making its decision.",
+    "exampleJa": "その研究は現代社会における助言を検討している。",
+    "family": "advise",
+    "synonyms": [
+      "guidance",
+      "recommendation"
+    ],
+    "tags": [
+      "basic",
+      "n"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。advice の派生語: advise."
+  },
+  {
+    "id": "v-standard-03-affect",
+    "type": "vocab",
+    "level": "basic",
+    "word": "affect",
+    "meaning": "影響を与える",
+    "pos": "v",
+    "question": "affect",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "影響を与える",
+    "explanation": "",
+    "exampleSentence": "The researchers observed how the situation changed when they affect.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を影響を与える。",
+    "family": "affected;affective",
+    "synonyms": [
+      "influence",
+      "alter"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。affect の派生語: affected;affective.",
+    "levelTags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "v-standard-03-afford",
+    "type": "vocab",
+    "level": "basic",
+    "word": "afford",
+    "meaning": "余裕がある",
+    "pos": "v",
+    "question": "afford",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "余裕がある",
+    "explanation": "",
+    "exampleSentence": "The process can afford under certain conditions.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を余裕がある。",
+    "family": "affordable",
+    "synonyms": [
+      "manage",
+      "bear"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。afford の派生語: affordable.",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1351-0154",
+    "type": "vocab",
+    "level": "basic",
+    "word": "afraid",
+    "meaning": "怖がる",
+    "pos": "adj",
+    "question": "afraid",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "怖がる",
+    "explanation": "",
+    "definitionEn": "worried that something will cause pain or injury",
+    "frequencyRank": 1351,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The report describes the afraid characteristics of the system.",
+    "exampleJa": "「afraid」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0084-0084",
+    "type": "vocab",
+    "level": "basic",
+    "word": "after",
+    "meaning": "後で",
+    "pos": "prep",
+    "question": "after",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "後で",
+    "explanation": "",
+    "definitionEn": "following in time, at a later time",
+    "frequencyRank": 84,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The meaning of after depends on the words that follow it.",
+    "exampleJa": "「after」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0947-0606",
+    "type": "vocab",
+    "level": "basic",
+    "word": "afternoon",
+    "meaning": "午後",
+    "pos": "n",
+    "question": "afternoon",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "午後",
+    "explanation": "",
+    "definitionEn": "the middle part of the day : the part of the day between noon and evening",
+    "frequencyRank": 947,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the afternoon in detail.",
+    "exampleJa": "「afternoon」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0017-afterward",
+    "type": "vocab",
+    "level": "basic",
+    "word": "afterward",
+    "meaning": "その後",
+    "pos": "adv",
+    "question": "afterward",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "その後",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The researchers afterward reviewed the evidence before publishing their findings.",
+    "exampleJa": "「afterward」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0175-0161",
+    "type": "vocab",
+    "level": "basic",
+    "word": "again",
+    "meaning": "再び",
+    "pos": "adv",
+    "question": "again",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "再び",
+    "explanation": "",
+    "definitionEn": "one more time, once more",
+    "frequencyRank": 175,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The researchers again reviewed the evidence before publishing their findings.",
+    "exampleJa": "「again」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0224-0195",
+    "type": "vocab",
+    "level": "basic",
+    "word": "against",
+    "meaning": "反対に、逆らって",
+    "pos": "prep",
+    "question": "against",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "反対に、逆らって",
+    "explanation": "",
+    "definitionEn": "in opposition to",
+    "frequencyRank": 224,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The meaning of against depends on the words that follow it.",
+    "exampleJa": "「against」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0282-0233",
+    "type": "vocab",
+    "level": "basic",
+    "word": "age",
+    "meaning": "年齢",
+    "pos": "n",
+    "question": "age",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "年齢",
+    "explanation": "",
+    "definitionEn": "the amount of time a person has lived",
+    "frequencyRank": 282,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The results remained stable over the age.",
+    "exampleJa": "「age」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0019-agenda",
+    "type": "vocab",
+    "level": "basic",
+    "word": "agenda",
+    "meaning": "議題；予定表",
+    "pos": "n",
+    "question": "agenda",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "議題；予定表",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The agenda became an important part of the discussion.",
+    "exampleJa": "「agenda」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0990-0633",
+    "type": "vocab",
+    "level": "basic",
+    "word": "agent",
+    "meaning": "代理人",
+    "pos": "n",
+    "question": "agent",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "代理人",
+    "explanation": "",
+    "definitionEn": "a person who does business for another person : a person who acts on behalf of another",
+    "frequencyRank": 990,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The agent explained the situation to the committee.",
+    "exampleJa": "「agent」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0372-0285",
+    "type": "vocab",
+    "level": "basic",
+    "word": "ago",
+    "meaning": "以前に",
+    "pos": "adv",
+    "question": "ago",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "以前に",
+    "explanation": "",
+    "definitionEn": "in the past",
+    "frequencyRank": 372,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The researchers ago reviewed the evidence before publishing their findings.",
+    "exampleJa": "「ago」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-103",
+    "type": "vocab",
+    "level": "basic",
+    "word": "agree",
+    "meaning": "賛成する・同意する",
+    "question": "agree",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "滞在する・ままでいる",
+        "correct": false
+      },
+      {
+        "text": "公共の・公の",
+        "correct": false
+      },
+      {
+        "text": "従う・ついていく",
+        "correct": false
+      },
+      {
+        "text": "賛成する・同意する",
+        "correct": true
+      }
+    ],
+    "answer": "賛成する・同意する",
+    "explanation": "agree = 賛成する・同意する。例：agree with the idea",
+    "exampleSentence": "The company plans to agree the new system next year.",
+    "exampleJa": "「agree」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0785-0517",
+    "type": "vocab",
+    "level": "basic",
+    "word": "agreement",
+    "meaning": "合意",
+    "pos": "n",
+    "question": "agreement",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "合意",
+    "explanation": "",
+    "definitionEn": "a promise or decision made between two or more people",
+    "frequencyRank": 785,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "basic"
+    ],
+    "exampleSentence": "The report describes the agreement in detail.",
+    "exampleJa": "「agreement」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0973-0621",
+    "type": "vocab",
+    "level": "basic",
+    "word": "ahead",
+    "meaning": "前",
+    "pos": "adv",
+    "question": "ahead",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "前",
+    "explanation": "",
+    "definitionEn": "in or toward the front",
+    "frequencyRank": 973,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The researchers ahead reviewed the evidence before publishing their findings.",
+    "exampleJa": "「ahead」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0794-0522",
+    "type": "vocab",
+    "level": "basic",
+    "word": "aim",
+    "meaning": "狙う",
+    "pos": "n",
+    "question": "aim",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "狙う",
+    "explanation": "",
+    "definitionEn": "to have a specified goal or purpose",
+    "frequencyRank": 794,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The aim became an important part of the discussion.",
+    "exampleJa": "「aim」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0542-0383",
+    "type": "vocab",
+    "level": "basic",
+    "word": "air",
+    "meaning": "空気",
+    "pos": "n",
+    "question": "air",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "空気",
+    "explanation": "",
+    "definitionEn": "the invisible mixture of gases that we breathe",
+    "frequencyRank": 542,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the air in detail.",
+    "exampleJa": "「air」を使った自然な用例。"
+  },
+  {
+    "id": "ngsl-2599",
+    "type": "vocab",
+    "word": "airline",
+    "meaning": "航空",
+    "pos": "n",
+    "level": "basic",
+    "rank": 2599,
+    "definition": "a company that provides regular flights to places",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The committee considered the airline before making its decision.",
+    "exampleJa": "「airline」を使った自然な用例。"
+  },
+  {
+    "id": "v-curated-3679",
+    "type": "vocab",
+    "level": "basic",
+    "word": "airport",
+    "meaning": "空港",
+    "pos": "n",
+    "question": "airport",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "空港",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The airport became an important part of the discussion.",
+    "exampleJa": "「airport」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0022-alarm",
+    "type": "vocab",
+    "level": "basic",
+    "word": "alarm",
+    "meaning": "警報；不安",
+    "pos": "n",
+    "question": "alarm",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "警報；不安",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic"
+    ],
+    "exampleSentence": "The report describes the alarm in detail.",
+    "exampleJa": "「alarm」を使った自然な用例。"
+  },
+  {
+    "id": "ngsl-2212",
+    "type": "vocab",
+    "word": "alcohol",
+    "meaning": "アルコール",
+    "pos": "n",
+    "level": "basic",
+    "rank": 2212,
+    "definition": "drinks such as wine and beer that can make you drunk",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The committee considered the alcohol before making its decision.",
+    "exampleJa": "「alcohol」を使った自然な用例。"
+  },
+  {
+    "id": "v-mega-basic-0019",
+    "type": "vocab",
+    "level": "basic",
+    "word": "alert",
+    "meaning": "警戒して・警告",
+    "pos": "adj",
+    "explanation": "alert：警戒して・警告",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The researchers considered the alert option before making a decision.",
+    "exampleJa": "「alert」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0023-alike",
+    "type": "vocab",
+    "level": "basic",
+    "word": "alike",
+    "meaning": "似て；同様に",
+    "pos": "adv",
+    "question": "alike",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "似て；同様に",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "The researchers alike reviewed the evidence before publishing their findings.",
+    "exampleJa": "「alike」を使った自然な用例。"
+  },
+  {
+    "id": "v-curated-0462",
+    "type": "vocab",
+    "level": "basic",
+    "word": "alike",
+    "meaning": "似た",
+    "pos": "adj",
+    "question": "alike",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "似た",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "basic"
+    ],
+    "exampleSentence": "The report describes the alike characteristics of the system.",
+    "exampleJa": "「alike」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0024-alive",
+    "type": "vocab",
+    "level": "basic",
+    "word": "alive",
+    "meaning": "生きている",
+    "pos": "adj",
+    "question": "alive",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "生きている",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "The researchers considered the alive option before making a decision.",
+    "exampleJa": "「alive」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0033-0033",
+    "type": "vocab",
+    "level": "basic",
+    "word": "all",
+    "meaning": "全て",
+    "pos": "det",
+    "question": "all",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "全て",
+    "explanation": "",
+    "definitionEn": "the whole, entire or total amount",
+    "frequencyRank": 33,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "All students must follow the laboratory rules.",
+    "exampleJa": "「all」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-002",
+    "type": "vocab",
+    "level": "basic",
+    "word": "allow",
+    "meaning": "許す・可能にする",
+    "question": "allow",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "許す・可能にする",
+        "correct": true
+      },
+      {
+        "text": "到着する",
+        "correct": false
+      },
+      {
+        "text": "選ぶ",
+        "correct": false
+      },
+      {
+        "text": "隠す",
+        "correct": false
+      }
+    ],
+    "answer": "許す・可能にする",
+    "explanation": "allow = 許す・可能にする。例：allow students to use dictionaries",
+    "exampleSentence": "The team worked together to allow the issue.",
+    "exampleJa": "「allow」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0025-allowance",
+    "type": "vocab",
+    "level": "basic",
+    "word": "allowance",
+    "meaning": "手当；小遣い",
+    "pos": "n",
+    "question": "allowance",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "手当；小遣い",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The allowance became an important part of the discussion.",
+    "exampleJa": "「allowance」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0479-almost",
+    "type": "vocab",
+    "level": "basic",
+    "word": "almost",
+    "meaning": "ほとんど",
+    "pos": "adv",
+    "question": "almost",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "ほとんど",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "The researchers almost reviewed the evidence before publishing their findings.",
+    "exampleJa": "「almost」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0480-alone",
+    "type": "vocab",
+    "level": "basic",
+    "word": "alone",
+    "meaning": "一人で；単独で",
+    "pos": "adv",
+    "question": "alone",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "一人で；単独で",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "The researchers alone reviewed the evidence before publishing their findings.",
+    "exampleJa": "「alone」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0481-along",
+    "type": "vocab",
+    "level": "basic",
+    "word": "along",
+    "meaning": "～に沿って",
+    "pos": "prep",
+    "question": "along",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "～に沿って",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "The meaning of along depends on the words that follow it.",
+    "exampleJa": "「along」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0478-already",
+    "type": "vocab",
+    "level": "basic",
+    "word": "already",
+    "meaning": "すでに",
+    "pos": "adv",
+    "question": "already",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "すでに",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "The researchers already reviewed the evidence before publishing their findings.",
+    "exampleJa": "「already」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0072-0072",
+    "type": "vocab",
+    "level": "basic",
+    "word": "also",
+    "meaning": "～もまた",
+    "pos": "adv",
+    "question": "also",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "～もまた",
+    "explanation": "",
+    "definitionEn": "in addition, too, in a similar way",
+    "frequencyRank": 72,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The researchers also reviewed the evidence before publishing their findings.",
+    "exampleJa": "「also」を使った自然な用例。"
+  },
+  {
+    "id": "v-mega-basic-0002",
+    "type": "vocab",
+    "level": "basic",
+    "word": "alter",
+    "meaning": "変える",
+    "pos": "v",
+    "explanation": "alter：変える",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The editor altered the final paragraph before publication.",
+    "exampleJa": "「alter」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0278-0230",
+    "type": "vocab",
+    "level": "basic",
+    "word": "although",
+    "meaning": "だけれども",
+    "pos": "conj",
+    "question": "although",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "だけれども",
+    "explanation": "",
+    "definitionEn": "despite the fact that, however,",
+    "frequencyRank": 278,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "basic"
+    ],
+    "exampleSentence": "The conjunction although can connect two related ideas in a sentence.",
+    "exampleJa": "「although」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0183-0167",
+    "type": "vocab",
+    "level": "basic",
+    "word": "always",
+    "meaning": "いつも",
+    "pos": "adv",
+    "question": "always",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "いつも",
+    "explanation": "",
+    "definitionEn": "at all times",
+    "frequencyRank": 183,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The researchers always reviewed the evidence before publishing their findings.",
+    "exampleJa": "「always」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0026-amaze",
+    "type": "vocab",
+    "level": "basic",
+    "word": "amaze",
+    "meaning": "驚かせる",
+    "pos": "v",
+    "question": "amaze",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "驚かせる",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The researchers observed how the situation changed when they amaze.",
+    "exampleJa": "「amaze」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0027-amazing",
+    "type": "vocab",
+    "level": "basic",
+    "word": "amazing",
+    "meaning": "驚くべき",
+    "pos": "adj",
+    "question": "amazing",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "驚くべき",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "The team chose a amazing approach to the problem.",
+    "exampleJa": "「amazing」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0029-ambitious",
+    "type": "vocab",
+    "level": "basic",
+    "word": "ambitious",
+    "meaning": "野心的な",
+    "pos": "adj",
+    "question": "ambitious",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "野心的な",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The report describes the ambitious characteristics of the system.",
+    "exampleJa": "「ambitious」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0376-0288",
+    "type": "vocab",
+    "level": "basic",
+    "word": "among",
+    "meaning": "～の間で",
+    "pos": "prep",
+    "question": "among",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "～の間で",
+    "explanation": "",
+    "definitionEn": "situated centrally, in relation to several things",
+    "frequencyRank": 376,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "basic"
+    ],
+    "exampleSentence": "The meaning of among depends on the words that follow it.",
+    "exampleJa": "「among」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-03-amount",
+    "type": "vocab",
+    "level": "basic",
+    "word": "amount",
+    "meaning": "量",
+    "pos": "n",
+    "question": "amount",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "量",
+    "explanation": "",
+    "exampleSentence": "The amount changed significantly after the policy was introduced.",
+    "exampleJa": "その研究は現代社会における量を検討している。",
+    "family": "amount",
+    "synonyms": [
+      "quantity",
+      "volume"
+    ],
+    "tags": [
+      "basic",
+      "n"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。amount の派生語: amount.",
+    "levelTags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "v-basic-core-0431-amusing",
+    "type": "vocab",
+    "level": "basic",
+    "word": "amusing",
+    "meaning": "面白い",
+    "pos": "adj",
+    "question": "amusing",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "面白い",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "The report describes the amusing characteristics of the system.",
+    "exampleJa": "「amusing」を使った自然な用例。"
+  },
+  {
+    "id": "v-mega-standard-0331",
+    "type": "vocab",
+    "level": "basic",
+    "word": "ancestor",
+    "meaning": "祖先",
+    "pos": "n",
+    "explanation": "ancestor：祖先",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "basic"
+    ],
+    "exampleSentence": "The ancestor became an important part of the discussion.",
+    "exampleJa": "「ancestor」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0432-ancient",
+    "type": "vocab",
+    "level": "basic",
+    "word": "ancient",
+    "meaning": "古代の；古い",
+    "pos": "adj",
+    "question": "ancient",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "古代の；古い",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "The team chose a ancient approach to the problem.",
+    "exampleJa": "「ancient」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0003-0003",
+    "type": "vocab",
+    "level": "basic",
+    "word": "and",
+    "meaning": "～と",
+    "pos": "conj",
+    "question": "and",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "～と",
+    "explanation": "",
+    "definitionEn": "used to join words or groups of words",
+    "frequencyRank": 3,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The conjunction and can connect two related ideas in a sentence.",
+    "exampleJa": "「and」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0433-angry",
+    "type": "vocab",
+    "level": "basic",
+    "word": "angry",
+    "meaning": "怒っている",
+    "pos": "adj",
+    "question": "angry",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "怒っている",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "The researchers considered the angry option before making a decision.",
+    "exampleJa": "「angry」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0587-0406",
+    "type": "vocab",
+    "level": "basic",
+    "word": "animal",
+    "meaning": "動物",
+    "pos": "n",
+    "question": "animal",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "動物",
+    "explanation": "",
+    "definitionEn": "a living thing that is not a human being or plant",
+    "frequencyRank": 587,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "Changes in animal can have serious effects on wildlife.",
+    "exampleJa": "「animal」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0246-anniversary",
+    "type": "vocab",
+    "level": "basic",
+    "word": "anniversary",
+    "meaning": "記念日",
+    "pos": "n",
+    "question": "anniversary",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "記念日",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The committee considered the anniversary before making its decision.",
+    "exampleJa": "「anniversary」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0030-announcement",
+    "type": "vocab",
+    "level": "basic",
+    "word": "announcement",
+    "meaning": "発表",
+    "pos": "n",
+    "question": "announcement",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "発表",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "The announcement became an important part of the discussion.",
+    "exampleJa": "「announcement」を使った自然な用例。"
+  },
+  {
+    "id": "v-max2-annual",
+    "type": "vocab",
+    "level": "basic",
+    "word": "annual",
+    "meaning": "毎年の",
+    "pos": "adj",
+    "explanation": "annual：毎年の。",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-max2",
+      "常用語"
+    ],
+    "source": "curated-vocab-max2-2026",
+    "levelTags": [
+      "basic"
+    ],
+    "exampleSentence": "The team chose a annual approach to the problem.",
+    "exampleJa": "「annual」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0140-0132",
+    "type": "vocab",
+    "level": "basic",
+    "word": "another",
+    "meaning": "もう一つ",
+    "pos": "det",
+    "question": "another",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "もう一つ",
+    "explanation": "",
+    "definitionEn": "one more in addition",
+    "frequencyRank": 140,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "We need another example to explain the difference clearly.",
+    "exampleJa": "「another」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-104",
+    "type": "vocab",
+    "level": "basic",
+    "word": "answer",
+    "meaning": "答える・答え",
+    "question": "answer",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "必要とする",
+        "correct": false
+      },
+      {
+        "text": "考慮する",
+        "correct": false
+      },
+      {
+        "text": "答える・答え",
+        "correct": true
+      },
+      {
+        "text": "参加する・加わる",
+        "correct": false
+      }
+    ],
+    "answer": "答える・答え",
+    "explanation": "answer = 答える・答え。例：answer the question",
+    "exampleSentence": "The researchers considered the answer option before making a decision.",
+    "exampleJa": "「answer」を使った自然な用例。"
+  },
+  {
+    "id": "v-mega-standard-0336",
+    "type": "vocab",
+    "level": "basic",
+    "word": "anxiety",
+    "meaning": "不安",
+    "pos": "n",
+    "explanation": "anxiety：不安",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "basic"
+    ],
+    "exampleSentence": "The report describes the anxiety in detail.",
+    "exampleJa": "「anxiety」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0031-anxious",
+    "type": "vocab",
+    "level": "basic",
+    "word": "anxious",
+    "meaning": "心配して；切望して",
+    "pos": "adj",
+    "question": "anxious",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "心配して；切望して",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "The report describes the anxious characteristics of the system.",
+    "exampleJa": "「anxious」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0083-0083",
+    "type": "vocab",
+    "level": "basic",
+    "word": "any",
+    "meaning": "何か",
+    "pos": "det",
+    "question": "any",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "何か",
+    "explanation": "",
+    "definitionEn": "used to refer to something not particular or specific",
+    "frequencyRank": 83,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "Do you have any questions about the assignment?",
+    "exampleJa": "「any」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0754-0500",
+    "type": "vocab",
+    "level": "basic",
+    "word": "anyone",
+    "meaning": "だれか",
+    "pos": "pron",
+    "question": "anyone",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "だれか",
+    "explanation": "",
+    "definitionEn": "any person",
+    "frequencyRank": 754,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "Anyone can join the workshop if they register in advance.",
+    "exampleJa": "「anyone」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0318-0252",
+    "type": "vocab",
+    "level": "basic",
+    "word": "anything",
+    "meaning": "何でも",
+    "pos": "pron",
+    "question": "anything",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "何でも",
+    "explanation": "",
+    "definitionEn": "a thing of any kind, used to refer to a thing, no matter what",
+    "frequencyRank": 318,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "You can ask anything about the application process.",
+    "exampleJa": "「anything」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0892-0572",
+    "type": "vocab",
+    "level": "basic",
+    "word": "anyway",
+    "meaning": "とにかく",
+    "pos": "adv",
+    "question": "anyway",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "とにかく",
+    "explanation": "",
+    "definitionEn": "despite something that has been stated before",
+    "frequencyRank": 892,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The researchers anyway reviewed the evidence before publishing their findings.",
+    "exampleJa": "「anyway」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0482-anywhere",
+    "type": "vocab",
+    "level": "basic",
+    "word": "anywhere",
+    "meaning": "どこでも；どこかへ",
+    "pos": "adv",
+    "question": "anywhere",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "どこでも；どこかへ",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "The researchers anywhere reviewed the evidence before publishing their findings.",
+    "exampleJa": "「anywhere」を使った自然な用例。"
+  },
+  {
+    "id": "v-standard-ngsl-2166-0697",
+    "type": "vocab",
+    "level": "basic",
+    "word": "apartment",
+    "meaning": "アパート",
+    "pos": "n",
+    "question": "apartment",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "アパート",
+    "explanation": "",
+    "definitionEn": "a set of rooms for someone to live in on one level of a building or house",
+    "frequencyRank": 2166,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The committee considered the apartment before making its decision.",
+    "exampleJa": "「apartment」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0483-apparently",
+    "type": "vocab",
+    "level": "basic",
+    "word": "apparently",
+    "meaning": "見たところ",
+    "pos": "adv",
+    "question": "apparently",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "見たところ",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The researchers apparently reviewed the evidence before publishing their findings.",
+    "exampleJa": "「apparently」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0183-appealing",
+    "type": "vocab",
+    "level": "basic",
+    "word": "appealing",
+    "meaning": "魅力的な",
+    "pos": "adj",
+    "question": "appealing",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "魅力的な",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The team chose a appealing approach to the problem.",
+    "exampleJa": "「appealing」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-003",
+    "type": "vocab",
+    "level": "basic",
+    "word": "appear",
+    "meaning": "現れる・～のように見える",
+    "question": "appear",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "現れる・～のように見える",
+        "correct": true
+      },
+      {
+        "text": "消える",
+        "correct": false
+      },
+      {
+        "text": "改善する",
+        "correct": false
+      },
+      {
+        "text": "含む",
+        "correct": false
+      }
+    ],
+    "answer": "現れる・～のように見える",
+    "explanation": "appear = 現れる・～のように見える。例：A rainbow appeared in the sky.",
+    "exampleSentence": "The report describes the appear characteristics of the system.",
+    "exampleJa": "「appear」を使った自然な用例。"
+  },
+  {
+    "id": "v-curated-0833",
+    "type": "vocab",
+    "level": "basic",
+    "word": "appetite",
+    "meaning": "食欲",
+    "pos": "n",
+    "question": "appetite",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "食欲",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The appetite became an important part of the discussion.",
+    "exampleJa": "「appetite」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0032-application",
+    "type": "vocab",
+    "level": "basic",
+    "word": "application",
+    "meaning": "応募；申請；適用",
+    "pos": "n",
+    "question": "application",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "応募；申請；適用",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic"
+    ],
+    "exampleSentence": "The report describes the application in detail.",
+    "exampleJa": "「application」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0033-appointment",
+    "type": "vocab",
+    "level": "basic",
+    "word": "appointment",
+    "meaning": "約束；予約；任命",
+    "pos": "n",
+    "question": "appointment",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "約束；予約；任命",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The committee considered the appointment before making its decision.",
+    "exampleJa": "「appointment」を使った自然な用例。"
+  },
+  {
+    "id": "v-curated-3692",
+    "type": "vocab",
+    "level": "basic",
+    "word": "apron",
+    "meaning": "エプロン",
+    "pos": "n",
+    "question": "apron",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "エプロン",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The apron became an important part of the discussion.",
+    "exampleJa": "「apron」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-03-area",
+    "type": "vocab",
+    "level": "basic",
+    "word": "area",
+    "meaning": "地域・分野",
+    "pos": "n",
+    "question": "area",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "地域・分野",
+    "explanation": "",
+    "exampleSentence": "The city plans to improve the area next year.",
+    "exampleJa": "その研究は現代社会における地域を検討している。",
+    "family": "areas",
+    "synonyms": [
+      "region",
+      "field"
+    ],
+    "tags": [
+      "basic",
+      "n"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。area の派生語: areas."
+  },
+  {
+    "id": "v-basic-core-0035-argue",
+    "type": "vocab",
+    "level": "basic",
+    "word": "argue",
+    "meaning": "主張する；議論する",
+    "pos": "v",
+    "question": "argue",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "主張する；議論する",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "The author argue the problem in the final chapter.",
+    "exampleJa": "「argue」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-04-argument",
+    "type": "vocab",
+    "level": "basic",
+    "word": "argument",
+    "meaning": "議論・主張",
+    "pos": "n",
+    "exampleSentence": "The argument became an important part of the discussion.",
+    "exampleJa": "この文脈では「議論」という意味。",
+    "explanation": "",
+    "family": "argument;arguments",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "basic",
+      "n",
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "question": "argument",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "議論・主張",
+    "note": "入試・読解で見かけやすい重要語。",
+    "levelTags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "v-basic-ngsl-0621-0425",
+    "type": "vocab",
+    "level": "basic",
+    "word": "arm",
+    "meaning": "腕",
+    "pos": "n",
+    "question": "arm",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "腕",
+    "explanation": "",
+    "definitionEn": "each of the two long body parts from shoulder to the hand",
+    "frequencyRank": 621,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the arm in detail.",
+    "exampleJa": "「arm」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0170-0157",
+    "type": "vocab",
+    "level": "basic",
+    "word": "around",
+    "meaning": "～の周りに",
+    "pos": "prep",
+    "question": "around",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "～の周りに",
+    "explanation": "",
+    "definitionEn": "located on every side or along something",
+    "frequencyRank": 170,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The meaning of around depends on the words that follow it.",
+    "exampleJa": "「around」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-03-arrange",
+    "type": "vocab",
+    "level": "basic",
+    "word": "arrange",
+    "meaning": "並べる・手配する",
+    "pos": "v",
+    "question": "arrange",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "並べる・手配する",
+    "explanation": "",
+    "exampleSentence": "The company plans to arrange the new system next year.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を並べる。",
+    "family": "arrangement",
+    "synonyms": [
+      "set up",
+      "organize"
+    ],
+    "tags": [
+      "basic",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。arrange の派生語: arrangement."
+  },
+  {
+    "id": "v-basic-core-0305-arrest",
+    "type": "vocab",
+    "level": "basic",
+    "word": "arrest",
+    "meaning": "逮捕する；逮捕",
+    "pos": "v",
+    "question": "arrest",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "逮捕する；逮捕",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The researchers need to arrest the problem before drawing a conclusion.",
+    "exampleJa": "「arrest」を使った自然な用例。"
+  },
+  {
+    "id": "v-standard-ngsl-2056-0618",
+    "type": "vocab",
+    "level": "basic",
+    "word": "arrival",
+    "meaning": "到着",
+    "pos": "n",
+    "question": "arrival",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "到着",
+    "explanation": "",
+    "definitionEn": "when someone or something arrives somewhere",
+    "frequencyRank": 2056,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The committee considered the arrival before making its decision.",
+    "exampleJa": "「arrival」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-105",
+    "type": "vocab",
+    "level": "basic",
+    "word": "arrive",
+    "meaning": "到着する",
+    "question": "arrive",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "起こる",
+        "correct": false
+      },
+      {
+        "text": "答える・答え",
+        "correct": false
+      },
+      {
+        "text": "到着する",
+        "correct": true
+      },
+      {
+        "text": "建てる・築く",
+        "correct": false
+      }
+    ],
+    "answer": "到着する",
+    "explanation": "arrive = 到着する。例：arrive at the station",
+    "exampleSentence": "The company plans to arrive the new system next year.",
+    "exampleJa": "「arrive」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0646-0439",
+    "type": "vocab",
+    "level": "basic",
+    "word": "art",
+    "meaning": "芸術",
+    "pos": "n",
+    "question": "art",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "芸術",
+    "explanation": "",
+    "definitionEn": "a human creative skill using the imagination",
+    "frequencyRank": 646,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the art in detail.",
+    "exampleJa": "「art」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0037-article",
+    "type": "vocab",
+    "level": "basic",
+    "word": "article",
+    "meaning": "記事；品物；冠詞",
+    "pos": "n",
+    "question": "article",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "記事；品物；冠詞",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "The committee considered the article before making its decision.",
+    "exampleJa": "「article」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0022-0022",
+    "type": "vocab",
+    "level": "basic",
+    "word": "as",
+    "meaning": "～のように",
+    "pos": "conj",
+    "question": "as",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "～のように",
+    "explanation": "",
+    "definitionEn": "used to refer to the same degree or amount",
+    "frequencyRank": 22,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The conjunction as can connect two related ideas in a sentence.",
+    "exampleJa": "「as」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0134-0126",
+    "type": "vocab",
+    "level": "basic",
+    "word": "ask",
+    "meaning": "求める",
+    "pos": "v",
+    "question": "ask",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "求める",
+    "explanation": "",
+    "definitionEn": "to request",
+    "frequencyRank": 134,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The process can ask under certain conditions.",
+    "exampleJa": "「ask」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0038-assignment",
+    "type": "vocab",
+    "level": "basic",
+    "word": "assignment",
+    "meaning": "課題；割り当て",
+    "pos": "n",
+    "question": "assignment",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "課題；割り当て",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic"
+    ],
+    "exampleSentence": "The new policy was designed to reduce the assignment.",
+    "exampleJa": "「assignment」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0039-assist",
+    "type": "vocab",
+    "level": "basic",
+    "word": "assist",
+    "meaning": "助ける",
+    "pos": "v",
+    "question": "assist",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "助ける",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The researchers observed how the situation changed when they assist.",
+    "exampleJa": "「assist」を使った自然な用例。"
+  },
+  {
+    "id": "v-standard-ngsl-2013-0585",
+    "type": "vocab",
+    "level": "basic",
+    "word": "assistance",
+    "meaning": "援助",
+    "pos": "n",
+    "question": "assistance",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "援助",
+    "explanation": "",
+    "definitionEn": "help",
+    "frequencyRank": 2013,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The report describes the assistance in detail.",
+    "exampleJa": "「assistance」を使った自然な用例。"
+  },
+  {
+    "id": "v-standard-ngsl-1737-0408",
+    "type": "vocab",
+    "level": "basic",
+    "word": "assistant",
+    "meaning": "助手、補佐",
+    "pos": "n",
+    "question": "assistant",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "助手、補佐",
+    "explanation": "",
+    "definitionEn": "someone whose job is to help a person who has a more important job",
+    "frequencyRank": 1737,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The committee considered the assistant before making its decision.",
+    "exampleJa": "「assistant」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0856-0554",
+    "type": "vocab",
+    "level": "basic",
+    "word": "associate",
+    "meaning": "関連付ける、連想する",
+    "pos": "v",
+    "question": "associate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "関連付ける、連想する",
+    "explanation": "",
+    "definitionEn": "to relate two things, people, etc. in your mind",
+    "frequencyRank": 856,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The company plans to associate the new system next year.",
+    "exampleJa": "「associate」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0251-astonish",
+    "type": "vocab",
+    "level": "basic",
+    "word": "astonish",
+    "meaning": "驚かせる",
+    "pos": "v",
+    "question": "astonish",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "驚かせる",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The process can astonish under certain conditions.",
+    "exampleJa": "「astonish」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0023-0023",
+    "type": "vocab",
+    "level": "basic",
+    "word": "at",
+    "meaning": "～で",
+    "pos": "prep",
+    "question": "at",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "～で",
+    "explanation": "",
+    "definitionEn": "used to indicate place, location, or arrival",
+    "frequencyRank": 23,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The meaning of at depends on the words that follow it.",
+    "exampleJa": "「at」を使った自然な用例。"
+  },
+  {
+    "id": "ngsl-2756",
+    "type": "vocab",
+    "word": "athlete",
+    "meaning": "アスリート",
+    "pos": "n",
+    "level": "basic",
+    "rank": 2756,
+    "definition": "someone who is very good at a sport and who competes with others in organized events",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The athlete became an important part of the discussion.",
+    "exampleJa": "「athlete」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0041-atmosphere",
+    "type": "vocab",
+    "level": "basic",
+    "word": "atmosphere",
+    "meaning": "大気；雰囲気",
+    "pos": "n",
+    "question": "atmosphere",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "大気；雰囲気",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "Changes in atmosphere can have serious effects on wildlife.",
+    "exampleJa": "「atmosphere」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0042-attach",
+    "type": "vocab",
+    "level": "basic",
+    "word": "attach",
+    "meaning": "取り付ける；添付する",
+    "pos": "v",
+    "question": "attach",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "取り付ける；添付する",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "The team worked together to attach the issue.",
+    "exampleJa": "「attach」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0632-0431",
+    "type": "vocab",
+    "level": "basic",
+    "word": "attack",
+    "meaning": "攻撃する",
+    "pos": "n",
+    "question": "attack",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "攻撃する",
+    "explanation": "",
+    "definitionEn": "to act violently against or to try to hurt, injure or destroy",
+    "frequencyRank": 632,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The attack became an important part of the discussion.",
+    "exampleJa": "「attack」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0578-0399",
+    "type": "vocab",
+    "level": "basic",
+    "word": "attention",
+    "meaning": "注意",
+    "pos": "n",
+    "question": "attention",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "注意",
+    "explanation": "",
+    "definitionEn": "an act or power of carefully thinking about",
+    "frequencyRank": 578,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the attention in detail.",
+    "exampleJa": "「attention」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0043-attract",
+    "type": "vocab",
+    "level": "basic",
+    "word": "attract",
+    "meaning": "引きつける",
+    "pos": "v",
+    "question": "attract",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "引きつける",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "Many people attract differently when the situation changes.",
+    "exampleJa": "「attract」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0044-attraction",
+    "type": "vocab",
+    "level": "basic",
+    "word": "attraction",
+    "meaning": "魅力；引きつけること",
+    "pos": "n",
+    "question": "attraction",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "魅力；引きつけること",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The attraction became an important part of the discussion.",
+    "exampleJa": "「attraction」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0434-attractive",
+    "type": "vocab",
+    "level": "basic",
+    "word": "attractive",
+    "meaning": "魅力的な",
+    "pos": "adj",
+    "question": "attractive",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "魅力的な",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "The team chose a attractive approach to the problem.",
+    "exampleJa": "「attractive」を使った自然な用例。"
+  },
+  {
+    "id": "v-standard-ngsl-1164-0040",
+    "type": "vocab",
+    "level": "basic",
+    "word": "audience",
+    "meaning": "観衆",
+    "pos": "n",
+    "question": "audience",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "観衆",
+    "explanation": "",
+    "definitionEn": "a group of people who gather together to listen to something (such as a concert) or watch something (such as a movie or play)",
+    "frequencyRank": 1164,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The committee considered the audience before making its decision.",
+    "exampleJa": "「audience」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0184-author",
+    "type": "vocab",
+    "level": "basic",
+    "word": "author",
+    "meaning": "著者；執筆する",
+    "pos": "n",
+    "question": "author",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "著者；執筆する",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic"
+    ],
+    "exampleSentence": "The author spoke with the students after the meeting.",
+    "exampleJa": "「author」を使った自然な用例。"
+  },
+  {
+    "id": "v-curated-3705",
+    "type": "vocab",
+    "level": "basic",
+    "word": "available",
+    "meaning": "利用できる",
+    "pos": "adj",
+    "question": "available",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "利用できる",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The team chose a available approach to the problem.",
+    "exampleJa": "「available」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0435-average",
+    "type": "vocab",
+    "level": "basic",
+    "word": "average",
+    "meaning": "平均；平均的な",
+    "pos": "n",
+    "question": "average",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "平均；平均的な",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic"
+    ],
+    "exampleSentence": "The report provides a detailed estimate of the average.",
+    "exampleJa": "「average」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-004",
+    "type": "vocab",
+    "level": "basic",
+    "word": "avoid",
+    "meaning": "避ける",
+    "question": "avoid",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "避ける",
+        "correct": true
+      },
+      {
+        "text": "認める",
+        "correct": false
+      },
+      {
+        "text": "招待する",
+        "correct": false
+      },
+      {
+        "text": "説明する",
+        "correct": false
+      }
+    ],
+    "answer": "避ける",
+    "explanation": "avoid = 避ける。例：avoid unnecessary trouble",
+    "exampleSentence": "The researchers considered the avoid option before making a decision.",
+    "exampleJa": "「avoid」を使った自然な用例。"
+  },
+  {
+    "id": "v-mega-basic-0003",
+    "type": "vocab",
+    "level": "basic",
+    "word": "aware",
+    "meaning": "気づいている",
+    "pos": "adj",
+    "explanation": "aware：気づいている",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "basic"
+    ],
+    "exampleSentence": "The team chose a aware approach to the problem.",
+    "exampleJa": "「aware」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0484-away",
+    "type": "vocab",
+    "level": "basic",
+    "word": "away",
+    "meaning": "離れて",
+    "pos": "adv",
+    "question": "away",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "離れて",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "The researchers away reviewed the evidence before publishing their findings.",
+    "exampleJa": "「away」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0870-0562",
+    "type": "vocab",
+    "level": "basic",
+    "word": "baby",
+    "meaning": "赤ん坊",
+    "pos": "n",
+    "question": "baby",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "赤ん坊",
+    "explanation": "",
+    "definitionEn": "a very young child",
+    "frequencyRank": 870,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The baby became an important part of the discussion.",
+    "exampleJa": "「baby」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0094-0093",
+    "type": "vocab",
+    "level": "basic",
+    "word": "back",
+    "meaning": "背中；後ろ；戻る",
+    "pos": "n",
+    "question": "back",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "背中；後ろ；戻る",
+    "explanation": "",
+    "definitionEn": "the rear surface of something",
+    "frequencyRank": 94,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the back in detail.",
+    "exampleJa": "「back」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-04-background",
+    "type": "vocab",
+    "level": "basic",
+    "word": "background",
+    "meaning": "背景",
+    "pos": "n",
+    "question": "background",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "背景",
+    "explanation": "",
+    "exampleSentence": "The committee considered the background before making its decision.",
+    "exampleJa": "この文脈では「背景」という意味。",
+    "family": "background;backgrounds",
+    "synonyms": [],
+    "tags": [
+      "basic",
+      "n"
+    ],
+    "note": "入試・読解で見かけやすい重要語。",
+    "levelTags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "v-basic-ngsl-0268-0222",
+    "type": "vocab",
+    "level": "basic",
+    "word": "bad",
+    "meaning": "悪い",
+    "pos": "adj",
+    "question": "bad",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "悪い",
+    "explanation": "",
+    "definitionEn": "low or poor in quality, not correct or proper",
+    "frequencyRank": 268,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The researchers considered the bad option before making a decision.",
+    "exampleJa": "「bad」を使った自然な用例。"
+  },
+  {
+    "id": "v-curated-3710",
+    "type": "vocab",
+    "level": "basic",
+    "word": "bake",
+    "meaning": "焼く",
+    "pos": "v",
+    "question": "bake",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "焼く",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The process can bake under certain conditions.",
+    "exampleJa": "「bake」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-04-balance",
+    "type": "vocab",
+    "level": "basic",
+    "word": "balance",
+    "meaning": "均衡・残高",
+    "pos": "n",
+    "question": "balance",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "均衡・残高",
+    "explanation": "",
+    "exampleSentence": "The committee considered the balance before making its decision.",
+    "exampleJa": "この文脈では「均衡」という意味。",
+    "family": "balance;balances",
+    "synonyms": [],
+    "tags": [
+      "basic",
+      "n"
+    ],
+    "note": "入試・読解で見かけやすい重要語。",
+    "levelTags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "v-mega-basic-0025",
+    "type": "vocab",
+    "level": "basic",
+    "word": "ban",
+    "meaning": "禁止する",
+    "pos": "v",
+    "explanation": "ban：禁止する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "The company plans to ban the new system next year.",
+    "exampleJa": "「ban」を使った自然な用例。"
+  },
+  {
+    "id": "v-curated-3543",
+    "type": "vocab",
+    "level": "basic",
+    "word": "ban",
+    "meaning": "禁止・禁止する",
+    "pos": "n",
+    "question": "ban",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "禁止・禁止する",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "basic"
+    ],
+    "exampleSentence": "The report describes the ban in detail.",
+    "exampleJa": "「ban」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-1085-0684",
+    "type": "vocab",
+    "level": "basic",
+    "word": "band",
+    "meaning": "バンド",
+    "pos": "n",
+    "question": "band",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "バンド",
+    "explanation": "",
+    "definitionEn": "a group of people or animals",
+    "frequencyRank": 1085,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The committee considered the band before making its decision.",
+    "exampleJa": "「band」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0627-0428",
+    "type": "vocab",
+    "level": "basic",
+    "word": "bank",
+    "meaning": "堤防",
+    "pos": "n",
+    "question": "bank",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "堤防",
+    "explanation": "",
+    "definitionEn": "the higher ground that is along the edge of a river, stream, etc.",
+    "frequencyRank": 627,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The bank became an important part of the discussion.",
+    "exampleJa": "「bank」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0836-0546",
+    "type": "vocab",
+    "level": "basic",
+    "word": "bar",
+    "meaning": "酒場",
+    "pos": "n",
+    "question": "bar",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "酒場",
+    "explanation": "",
+    "definitionEn": "a building or room where alcoholic drinks and sometimes food are served",
+    "frequencyRank": 836,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the bar in detail.",
+    "exampleJa": "「bar」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0046-barrier",
+    "type": "vocab",
+    "level": "basic",
+    "word": "barrier",
+    "meaning": "障壁；妨げ",
+    "pos": "n",
+    "question": "barrier",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "障壁；妨げ",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic"
+    ],
+    "exampleSentence": "The committee considered the barrier before making its decision.",
+    "exampleJa": "「barrier」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-04-base",
+    "type": "vocab",
+    "level": "basic",
+    "word": "base",
+    "meaning": "基盤・基礎",
+    "pos": "n",
+    "question": "base",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "基盤・基礎",
+    "explanation": "",
+    "exampleSentence": "The base became an important part of the discussion.",
+    "exampleJa": "この文脈では「基盤」という意味。",
+    "family": "base;bases",
+    "synonyms": [],
+    "tags": [
+      "basic",
+      "n"
+    ],
+    "note": "入試・読解で見かけやすい重要語。"
+  },
+  {
+    "id": "v-basic-03-basic",
+    "type": "vocab",
+    "level": "basic",
+    "word": "basic",
+    "meaning": "基本的な",
+    "pos": "adj",
+    "question": "basic",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "基本的な",
+    "explanation": "",
+    "exampleSentence": "The team chose a basic approach to the problem.",
+    "exampleJa": "その報告書はその問題について基本的な説明をしている。",
+    "family": "basics",
+    "synonyms": [
+      "fundamental",
+      "simple"
+    ],
+    "tags": [
+      "basic",
+      "adj"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。basic の派生語: basics."
+  },
+  {
+    "id": "v-basic-ngsl-0908-0583",
+    "type": "vocab",
+    "level": "basic",
+    "word": "basis",
+    "meaning": "基礎",
+    "pos": "n",
+    "question": "basis",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "基礎",
+    "explanation": "",
+    "definitionEn": "something from which another thing develops",
+    "frequencyRank": 908,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The committee considered the basis before making its decision.",
+    "exampleJa": "「basis」を使った自然な用例。"
+  },
+  {
+    "id": "v-curated-3714",
+    "type": "vocab",
+    "level": "basic",
+    "word": "battery",
+    "meaning": "電池・バッテリー",
+    "pos": "n",
+    "question": "battery",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "電池・バッテリー",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The battery became an important part of the discussion.",
+    "exampleJa": "「battery」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0002-0002",
+    "type": "vocab",
+    "level": "basic",
+    "word": "be",
+    "meaning": "である",
+    "pos": "v",
+    "question": "be",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "である",
+    "explanation": "",
+    "definitionEn": "used to show the identity of a thing",
+    "frequencyRank": 2,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The process can be under certain conditions.",
+    "exampleJa": "「be」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0455-0330",
+    "type": "vocab",
+    "level": "basic",
+    "word": "bear",
+    "meaning": "耐える、負う",
+    "pos": "v",
+    "question": "bear",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "耐える、負う",
+    "explanation": "",
+    "definitionEn": "to accept or endure difficulties",
+    "frequencyRank": 455,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "Many people bear differently when the situation changes.",
+    "exampleJa": "「bear」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-1033-0655",
+    "type": "vocab",
+    "level": "basic",
+    "word": "beat",
+    "meaning": "打つ",
+    "pos": "v",
+    "question": "beat",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "打つ",
+    "explanation": "",
+    "definitionEn": "to hit (something) repeatedly",
+    "frequencyRank": 1033,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The researchers observed how the situation changed when they beat.",
+    "exampleJa": "「beat」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0436-beautiful",
+    "type": "vocab",
+    "level": "basic",
+    "word": "beautiful",
+    "meaning": "美しい",
+    "pos": "adj",
+    "question": "beautiful",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "美しい",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "The team chose a beautiful approach to the problem.",
+    "exampleJa": "「beautiful」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0062-0062",
+    "type": "vocab",
+    "level": "basic",
+    "word": "because",
+    "meaning": "なぜならば",
+    "pos": "conj",
+    "question": "because",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "なぜならば",
+    "explanation": "",
+    "definitionEn": "for a reason",
+    "frequencyRank": 62,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The conjunction because can connect two related ideas in a sentence.",
+    "exampleJa": "「because」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0141-0133",
+    "type": "vocab",
+    "level": "basic",
+    "word": "become",
+    "meaning": "なる",
+    "pos": "v",
+    "question": "become",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "なる",
+    "explanation": "",
+    "definitionEn": "to begin to be, grow to be, develop into",
+    "frequencyRank": 141,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The researchers observed how the situation changed when they become.",
+    "exampleJa": "「become」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0694-0464",
+    "type": "vocab",
+    "level": "basic",
+    "word": "bed",
+    "meaning": "ベッド",
+    "pos": "n",
+    "question": "bed",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "ベッド",
+    "explanation": "",
+    "definitionEn": "a piece of furniture that people sleep on",
+    "frequencyRank": 694,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the bed in detail.",
+    "exampleJa": "「bed」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0106-0104",
+    "type": "vocab",
+    "level": "basic",
+    "word": "before",
+    "meaning": "以前",
+    "pos": "prep",
+    "question": "before",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "以前",
+    "explanation": "",
+    "definitionEn": "at an earlier time, in front of",
+    "frequencyRank": 106,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The meaning of before depends on the words that follow it.",
+    "exampleJa": "「before」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0189-0172",
+    "type": "vocab",
+    "level": "basic",
+    "word": "begin",
+    "meaning": "始める",
+    "pos": "v",
+    "question": "begin",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "始める",
+    "explanation": "",
+    "definitionEn": "to do the first part of an action, to start",
+    "frequencyRank": 189,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The researchers observed how the situation changed when they begin.",
+    "exampleJa": "「begin」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-03-behavior",
+    "type": "vocab",
+    "level": "basic",
+    "word": "behavior",
+    "meaning": "行動・振る舞い",
+    "pos": "n",
+    "question": "behavior",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "行動・振る舞い",
+    "explanation": "",
+    "exampleSentence": "The report describes the behavior in detail.",
+    "exampleJa": "その研究は現代社会における行動を検討している。",
+    "family": "behave",
+    "synonyms": [
+      "conduct",
+      "action"
+    ],
+    "tags": [
+      "basic",
+      "n"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。behavior の派生語: behave.",
+    "levelTags": [
+      "basic",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-basic-ngsl-0492-0354",
+    "type": "vocab",
+    "level": "basic",
+    "word": "behind",
+    "meaning": "後ろに",
+    "pos": "prep",
+    "question": "behind",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "後ろに",
+    "explanation": "",
+    "definitionEn": "in or toward the back",
+    "frequencyRank": 492,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The meaning of behind depends on the words that follow it.",
+    "exampleJa": "「behind」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0225-0196",
+    "type": "vocab",
+    "level": "basic",
+    "word": "believe",
+    "meaning": "信じる",
+    "pos": "v",
+    "question": "believe",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "信じる",
+    "explanation": "",
+    "definitionEn": "to accept that something is true",
+    "frequencyRank": 225,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "Many students believe that the new system will improve their study habits.",
+    "exampleJa": "「believe」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-005",
+    "type": "vocab",
+    "level": "basic",
+    "word": "belong",
+    "meaning": "所属する",
+    "question": "belong",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "所属する",
+        "correct": true
+      },
+      {
+        "text": "建てる",
+        "correct": false
+      },
+      {
+        "text": "壊す",
+        "correct": false
+      },
+      {
+        "text": "思い出す",
+        "correct": false
+      }
+    ],
+    "answer": "所属する",
+    "explanation": "belong = 所属する。例：belong to a club",
+    "exampleSentence": "The researchers need to belong the problem before drawing a conclusion.",
+    "exampleJa": "「belong」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0761-0505",
+    "type": "vocab",
+    "level": "basic",
+    "word": "below",
+    "meaning": "下に",
+    "pos": "prep",
+    "question": "below",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "下に",
+    "explanation": "",
+    "definitionEn": "in or to a lower place",
+    "frequencyRank": 761,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The meaning of below depends on the words that follow it.",
+    "exampleJa": "「below」を使った自然な用例。"
+  },
+  {
+    "id": "v-curated-0623",
+    "type": "vocab",
+    "level": "basic",
+    "word": "benefit",
+    "meaning": "利益・恩恵",
+    "pos": "n",
+    "question": "benefit",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "利益・恩恵",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The company changed its strategy in response to the benefit.",
+    "exampleJa": "「benefit」を使った自然な用例。"
+  },
+  {
+    "id": "v-standard-ngsl-2113-0657",
+    "type": "vocab",
+    "level": "basic",
+    "word": "beside",
+    "meaning": "隣の、近くの",
+    "pos": "prep",
+    "question": "beside",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "隣の、近くの",
+    "explanation": "",
+    "definitionEn": "by the side of (someone or something) : next to (someone or something)",
+    "frequencyRank": 2113,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The meaning of beside depends on the words that follow it.",
+    "exampleJa": "「beside」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0116-0112",
+    "type": "vocab",
+    "level": "basic",
+    "word": "between",
+    "meaning": "～の間",
+    "pos": "prep",
+    "question": "between",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "～の間",
+    "explanation": "",
+    "definitionEn": "in the space that separates to objects",
+    "frequencyRank": 116,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The meaning of between depends on the words that follow it.",
+    "exampleJa": "「between」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0048-beyond",
+    "type": "vocab",
+    "level": "basic",
+    "word": "beyond",
+    "meaning": "～を越えて",
+    "pos": "prep",
+    "question": "beyond",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "～を越えて",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The meaning of beyond depends on the words that follow it.",
+    "exampleJa": "「beyond」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0184-0168",
+    "type": "vocab",
+    "level": "basic",
+    "word": "big",
+    "meaning": "大きい",
+    "pos": "adj",
+    "question": "big",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "大きい",
+    "explanation": "",
+    "definitionEn": "large in size or extent",
+    "frequencyRank": 184,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The team chose a big approach to the problem.",
+    "exampleJa": "「big」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0887-0569",
+    "type": "vocab",
+    "level": "basic",
+    "word": "bill",
+    "meaning": "請求書",
+    "pos": "n",
+    "question": "bill",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "請求書",
+    "explanation": "",
+    "definitionEn": "a document that says how much money you owe for something you have bought or used",
+    "frequencyRank": 887,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The committee considered the bill before making its decision.",
+    "exampleJa": "「bill」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0185-bind",
+    "type": "vocab",
+    "level": "basic",
+    "word": "bind",
+    "meaning": "縛る；結びつける",
+    "pos": "v",
+    "question": "bind",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "縛る；結びつける",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "The researchers observed how the situation changed when they bind.",
+    "exampleJa": "「bind」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0352-0273",
+    "type": "vocab",
+    "level": "basic",
+    "word": "bit",
+    "meaning": "少し",
+    "pos": "n",
+    "question": "bit",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "少し",
+    "explanation": "",
+    "definitionEn": "a small piece of something",
+    "frequencyRank": 352,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the bit in detail.",
+    "exampleJa": "「bit」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0411-0306",
+    "type": "vocab",
+    "level": "basic",
+    "word": "black",
+    "meaning": "黒い",
+    "pos": "adj",
+    "question": "black",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "黒い",
+    "explanation": "",
+    "definitionEn": "having the very dark color of coal or the night sky",
+    "frequencyRank": 411,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the black characteristics of the system.",
+    "exampleJa": "「black」を使った自然な用例。"
+  },
+  {
+    "id": "v-mega-basic-0033",
+    "type": "vocab",
+    "level": "basic",
+    "word": "blame",
+    "meaning": "責める・責任を負わせる",
+    "pos": "v",
+    "explanation": "blame：責める・責任を負わせる",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The researchers observed how the situation changed when they blame.",
+    "exampleJa": "「blame」を使った自然な用例。"
+  },
+  {
+    "id": "v-curated-3723",
+    "type": "vocab",
+    "level": "basic",
+    "word": "blanket",
+    "meaning": "毛布",
+    "pos": "n",
+    "question": "blanket",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "毛布",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The report describes the blanket in detail.",
+    "exampleJa": "「blanket」を使った自然な用例。"
+  },
+  {
+    "id": "ngsl-2261",
+    "type": "vocab",
+    "word": "blind",
+    "meaning": "盲目",
+    "pos": "adj",
+    "level": "basic",
+    "rank": 2261,
+    "definition": "unable to see",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The report describes the blind characteristics of the system.",
+    "exampleJa": "「blind」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0049-block",
+    "type": "vocab",
+    "level": "basic",
+    "word": "block",
+    "meaning": "妨げる；区画；塊",
+    "pos": "v",
+    "question": "block",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "妨げる；区画；塊",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "The new policy could block the risk of accidents.",
+    "exampleJa": "「block」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-1016-0647",
+    "type": "vocab",
+    "level": "basic",
+    "word": "blood",
+    "meaning": "血液",
+    "pos": "n",
+    "question": "blood",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "血液",
+    "explanation": "",
+    "definitionEn": "the red liquid that flows through the bodies of people and animals",
+    "frequencyRank": 1016,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the blood in detail.",
+    "exampleJa": "「blood」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0857-0555",
+    "type": "vocab",
+    "level": "basic",
+    "word": "blue",
+    "meaning": "青",
+    "pos": "adj",
+    "question": "blue",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "青",
+    "explanation": "",
+    "definitionEn": "having the color of the clear sky",
+    "frequencyRank": 857,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the blue characteristics of the system.",
+    "exampleJa": "「blue」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0741-0490",
+    "type": "vocab",
+    "level": "basic",
+    "word": "board",
+    "meaning": "板",
+    "pos": "n",
+    "question": "board",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "板",
+    "explanation": "",
+    "definitionEn": "a long, thin, flat piece of wood",
+    "frequencyRank": 741,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "basic"
+    ],
+    "exampleSentence": "The board became an important part of the discussion.",
+    "exampleJa": "「board」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0401-0302",
+    "type": "vocab",
+    "level": "basic",
+    "word": "body",
+    "meaning": "体",
+    "pos": "n",
+    "question": "body",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "体",
+    "explanation": "",
+    "definitionEn": "a person's physical self",
+    "frequencyRank": 401,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the body in detail.",
+    "exampleJa": "「body」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0254-bond",
+    "type": "vocab",
+    "level": "basic",
+    "word": "bond",
+    "meaning": "結合；債券；結びつく",
+    "pos": "n",
+    "question": "bond",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "結合；債券；結びつく",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "The committee considered the bond before making its decision.",
+    "exampleJa": "「bond」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0171-0158",
+    "type": "vocab",
+    "level": "basic",
+    "word": "book",
+    "meaning": "本",
+    "pos": "n",
+    "question": "book",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "本",
+    "explanation": "",
+    "definitionEn": "a printed or written work that is bound together and has a cover",
+    "frequencyRank": 171,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The book became an important part of the discussion.",
+    "exampleJa": "「book」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0186-boost",
+    "type": "vocab",
+    "level": "basic",
+    "word": "boost",
+    "meaning": "高める；後押し",
+    "pos": "v",
+    "question": "boost",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "高める；後押し",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The process can boost under certain conditions.",
+    "exampleJa": "「boost」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0050-border",
+    "type": "vocab",
+    "level": "basic",
+    "word": "border",
+    "meaning": "国境；境界",
+    "pos": "n",
+    "question": "border",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "国境；境界",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "The researchers visited the border to collect information.",
+    "exampleJa": "「border」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-006",
+    "type": "vocab",
+    "level": "basic",
+    "word": "borrow",
+    "meaning": "借りる",
+    "question": "borrow",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "借りる",
+        "correct": true
+      },
+      {
+        "text": "貸す",
+        "correct": false
+      },
+      {
+        "text": "買い戻す",
+        "correct": false
+      },
+      {
+        "text": "売る",
+        "correct": false
+      }
+    ],
+    "answer": "借りる",
+    "explanation": "borrow = 借りる。例：borrow a book from the library",
+    "exampleSentence": "The researchers considered the borrow option before making a decision.",
+    "exampleJa": "「borrow」を使った自然な用例。"
+  },
+  {
+    "id": "v-curated-3728",
+    "type": "vocab",
+    "level": "basic",
+    "word": "borrow",
+    "meaning": "借りる",
+    "pos": "v",
+    "question": "borrow",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "借りる",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The process can borrow under certain conditions.",
+    "exampleJa": "「borrow」を使った自然な用例。"
+  },
+  {
+    "id": "v-standard-ngsl-1852-0483",
+    "type": "vocab",
+    "level": "basic",
+    "word": "boss",
+    "meaning": "社長",
+    "pos": "n",
+    "question": "boss",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "社長",
+    "explanation": "",
+    "definitionEn": "someone who is responsible for employees and tells them what to do",
+    "frequencyRank": 1852,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The committee considered the boss before making its decision.",
+    "exampleJa": "「boss」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0128-0120",
+    "type": "vocab",
+    "level": "basic",
+    "word": "both",
+    "meaning": "両方とも",
+    "pos": "det",
+    "question": "both",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "両方とも",
+    "explanation": "",
+    "definitionEn": "used to emphasis two things at the same time",
+    "frequencyRank": 128,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "Both methods produced similar results.",
+    "exampleJa": "「both」を使った自然な用例。"
+  },
+  {
+    "id": "v-standard-ngsl-1842-0474",
+    "type": "vocab",
+    "level": "basic",
+    "word": "bother",
+    "meaning": "悩ます",
+    "pos": "v",
+    "question": "bother",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "悩ます",
+    "explanation": "",
+    "definitionEn": "to make someone feel worried or upset",
+    "frequencyRank": 1842,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The process can bother under certain conditions.",
+    "exampleJa": "「bother」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0187-bound",
+    "type": "vocab",
+    "level": "basic",
+    "word": "bound",
+    "meaning": "～行きの；境界",
+    "pos": "adj",
+    "question": "bound",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "～行きの；境界",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "The report describes the bound characteristics of the system.",
+    "exampleJa": "「bound」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0860-0557",
+    "type": "vocab",
+    "level": "basic",
+    "word": "box",
+    "meaning": "箱",
+    "pos": "n",
+    "question": "box",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "箱",
+    "explanation": "",
+    "definitionEn": "a container that is made of a hard material (such as wood, metal, or cardboard) and that usually has four straight sides",
+    "frequencyRank": 860,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The box became an important part of the discussion.",
+    "exampleJa": "「box」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0510-0364",
+    "type": "vocab",
+    "level": "basic",
+    "word": "boy",
+    "meaning": "男の子",
+    "pos": "n",
+    "question": "boy",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "男の子",
+    "explanation": "",
+    "definitionEn": "a male child or youth, a young man",
+    "frequencyRank": 510,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the boy in detail.",
+    "exampleJa": "「boy」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0368-0283",
+    "type": "vocab",
+    "level": "basic",
+    "word": "break",
+    "meaning": "壊す",
+    "pos": "v",
+    "question": "break",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "壊す",
+    "explanation": "",
+    "definitionEn": "to separate into pieces",
+    "frequencyRank": 368,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "Many people break differently when the situation changes.",
+    "exampleJa": "「break」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0188-breakdown",
+    "type": "vocab",
+    "level": "basic",
+    "word": "breakdown",
+    "meaning": "崩壊；故障",
+    "pos": "n",
+    "question": "breakdown",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "崩壊；故障",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The breakdown became an important part of the discussion.",
+    "exampleJa": "「breakdown」を使った自然な用例。"
+  },
+  {
+    "id": "v-standard-ngsl-1609-0318",
+    "type": "vocab",
+    "level": "basic",
+    "word": "breath",
+    "meaning": "息",
+    "pos": "n",
+    "question": "breath",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "息",
+    "explanation": "",
+    "definitionEn": "the air that you take into your lungs and send out from your lungs when you breathe",
+    "frequencyRank": 1609,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The report describes the breath in detail.",
+    "exampleJa": "「breath」を使った自然な用例。"
+  },
+  {
+    "id": "v-standard-ngsl-1912-0519",
+    "type": "vocab",
+    "level": "basic",
+    "word": "breathe",
+    "meaning": "息をする",
+    "pos": "v",
+    "question": "breathe",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "息をする",
+    "explanation": "",
+    "definitionEn": "to move air into and out of your lungs",
+    "frequencyRank": 1912,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The team worked together to breathe the issue.",
+    "exampleJa": "「breathe」を使った自然な用例。"
+  },
+  {
+    "id": "v-curated-3734",
+    "type": "vocab",
+    "level": "basic",
+    "word": "brick",
+    "meaning": "れんが",
+    "pos": "n",
+    "question": "brick",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "れんが",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The brick became an important part of the discussion.",
+    "exampleJa": "「brick」を使った自然な用例。"
+  },
+  {
+    "id": "v-mega-basic-0005",
+    "type": "vocab",
+    "level": "basic",
+    "word": "brief",
+    "meaning": "短い・簡潔な",
+    "pos": "adj",
+    "explanation": "brief：短い・簡潔な",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "basic"
+    ],
+    "exampleSentence": "The team chose a brief approach to the problem.",
+    "exampleJa": "「brief」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0437-bright",
+    "type": "vocab",
+    "level": "basic",
+    "word": "bright",
+    "meaning": "明るい；賢い",
+    "pos": "adj",
+    "question": "bright",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "明るい；賢い",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "The report describes the bright characteristics of the system.",
+    "exampleJa": "「bright」を使った自然な用例。"
+  },
+  {
+    "id": "v-standard-ngsl-2198-0723",
+    "type": "vocab",
+    "level": "basic",
+    "word": "brilliant",
+    "meaning": "素晴らしい",
+    "pos": "adj",
+    "question": "brilliant",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "素晴らしい",
+    "explanation": "",
+    "definitionEn": "very good; extremely clever; full of light or color",
+    "frequencyRank": 2198,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The researchers considered the brilliant option before making a decision.",
+    "exampleJa": "「brilliant」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0196-0178",
+    "type": "vocab",
+    "level": "basic",
+    "word": "bring",
+    "meaning": "持っていく",
+    "pos": "v",
+    "question": "bring",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "持っていく",
+    "explanation": "",
+    "definitionEn": "to take or go with to a place,",
+    "frequencyRank": 196,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The process can bring under certain conditions.",
+    "exampleJa": "「bring」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0051-broad",
+    "type": "vocab",
+    "level": "basic",
+    "word": "broad",
+    "meaning": "広い；幅広い",
+    "pos": "adj",
+    "question": "broad",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "広い；幅広い",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic"
+    ],
+    "exampleSentence": "The report describes the broad characteristics of the system.",
+    "exampleJa": "「broad」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0820-0535",
+    "type": "vocab",
+    "level": "basic",
+    "word": "brother",
+    "meaning": "兄弟",
+    "pos": "n",
+    "question": "brother",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "兄弟",
+    "explanation": "",
+    "definitionEn": "a boy or man who has one or both of the same parents as you",
+    "frequencyRank": 820,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The brother became an important part of the discussion.",
+    "exampleJa": "「brother」を使った自然な用例。"
+  },
+  {
+    "id": "v-curated-3262",
+    "type": "vocab",
+    "level": "basic",
+    "word": "browser",
+    "meaning": "ブラウザ・閲覧ソフト",
+    "pos": "n",
+    "question": "browser",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "ブラウザ・閲覧ソフト",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "basic"
+    ],
+    "exampleSentence": "The report describes the browser in detail.",
+    "exampleJa": "「browser」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-106",
+    "type": "vocab",
+    "level": "basic",
+    "word": "build",
+    "meaning": "建てる・築く",
+    "question": "build",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "建てる・築く",
+        "correct": true
+      },
+      {
+        "text": "選ぶ",
+        "correct": false
+      },
+      {
+        "text": "公共の・公の",
+        "correct": false
+      },
+      {
+        "text": "申し出る・提供する",
+        "correct": false
+      }
+    ],
+    "answer": "建てる・築く",
+    "explanation": "build = 建てる・築く。例：build a house",
+    "exampleSentence": "The report describes the build characteristics of the system.",
+    "exampleJa": "「build」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0052-burden",
+    "type": "vocab",
+    "level": "basic",
+    "word": "burden",
+    "meaning": "負担；負担を負わせる",
+    "pos": "n",
+    "question": "burden",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "負担；負担を負わせる",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The burden became an important part of the discussion.",
+    "exampleJa": "「burden」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0810-0531",
+    "type": "vocab",
+    "level": "basic",
+    "word": "bus",
+    "meaning": "バス",
+    "pos": "n",
+    "question": "bus",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "バス",
+    "explanation": "",
+    "definitionEn": "a large vehicle that is used for carrying passengers especially along a particular route at particular times",
+    "frequencyRank": 810,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the bus in detail.",
+    "exampleJa": "「bus」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0211-0189",
+    "type": "vocab",
+    "level": "basic",
+    "word": "business",
+    "meaning": "ビジネス、商売",
+    "pos": "n",
+    "question": "business",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "ビジネス、商売",
+    "explanation": "",
+    "definitionEn": "the activity of making, buying, selling or providing goods",
+    "frequencyRank": 211,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "basic"
+    ],
+    "exampleSentence": "The committee considered the business before making its decision.",
+    "exampleJa": "「business」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0438-busy",
+    "type": "vocab",
+    "level": "basic",
+    "word": "busy",
+    "meaning": "忙しい",
+    "pos": "adj",
+    "question": "busy",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "忙しい",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "The researchers considered the busy option before making a decision.",
+    "exampleJa": "「busy」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0025-0025",
+    "type": "vocab",
+    "level": "basic",
+    "word": "but",
+    "meaning": "でも",
+    "pos": "conj",
+    "question": "but",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "でも",
+    "explanation": "",
+    "definitionEn": "used to contrast a statement with a to previous one",
+    "frequencyRank": 25,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The conjunction but can connect two related ideas in a sentence.",
+    "exampleJa": "「but」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0242-0206",
+    "type": "vocab",
+    "level": "basic",
+    "word": "buy",
+    "meaning": "買う",
+    "pos": "v",
+    "question": "buy",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "買う",
+    "explanation": "",
+    "definitionEn": "to get something by paying money for it;  purchase",
+    "frequencyRank": 242,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "Many people buy differently when the situation changes.",
+    "exampleJa": "「buy」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0027-0027",
+    "type": "vocab",
+    "level": "basic",
+    "word": "by",
+    "meaning": "の近くに",
+    "pos": "prep",
+    "question": "by",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "の近くに",
+    "explanation": "",
+    "definitionEn": "close to or next to, up to and beyond, beside a place",
+    "frequencyRank": 27,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The meaning of by depends on the words that follow it.",
+    "exampleJa": "「by」を使った自然な用例。"
+  },
+  {
+    "id": "v-curated-3741",
+    "type": "vocab",
+    "level": "basic",
+    "word": "calendar",
+    "meaning": "カレンダー",
+    "pos": "n",
+    "question": "calendar",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "カレンダー",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "The report describes the calendar in detail.",
+    "exampleJa": "「calendar」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0105-0103",
+    "type": "vocab",
+    "level": "basic",
+    "word": "call",
+    "meaning": "呼ぶ",
+    "pos": "v",
+    "question": "call",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "呼ぶ",
+    "explanation": "",
+    "definitionEn": "to speak, announce or shout in a loud voice",
+    "frequencyRank": 105,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "Many people call differently when the situation changes.",
+    "exampleJa": "「call」を使った自然な用例。"
+  },
+  {
+    "id": "v-mega-basic-0029",
+    "type": "vocab",
+    "level": "basic",
+    "word": "calm",
+    "meaning": "落ち着いた・落ち着く",
+    "pos": "adj",
+    "explanation": "calm：落ち着いた・落ち着く",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "The researchers considered the calm option before making a decision.",
+    "exampleJa": "「calm」を使った自然な用例。"
+  },
+  {
+    "id": "v-mega-standard-0285",
+    "type": "vocab",
+    "level": "basic",
+    "word": "campaign",
+    "meaning": "運動・運動する",
+    "pos": "n",
+    "explanation": "campaign：運動・運動する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The report describes the campaign in detail.",
+    "exampleJa": "「campaign」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0038-0038",
+    "type": "vocab",
+    "level": "basic",
+    "word": "can",
+    "meaning": "～できる",
+    "pos": "v",
+    "question": "can",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "～できる",
+    "explanation": "",
+    "definitionEn": "to be able to do something",
+    "frequencyRank": 38,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "Many people can differently when the situation changes.",
+    "exampleJa": "「can」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0190-cancel",
+    "type": "vocab",
+    "level": "basic",
+    "word": "cancel",
+    "meaning": "取り消す",
+    "pos": "v",
+    "question": "cancel",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "取り消す",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic"
+    ],
+    "exampleSentence": "The researchers observed how the situation changed when they cancel.",
+    "exampleJa": "「cancel」を使った自然な用例。"
+  },
+  {
+    "id": "v-curated-0405",
+    "type": "vocab",
+    "level": "basic",
+    "word": "capable",
+    "meaning": "有能な・可能な",
+    "pos": "adj",
+    "question": "capable",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "有能な・可能な",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "basic"
+    ],
+    "exampleSentence": "The method is considered capable for small experiments.",
+    "exampleJa": "「capable」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0789-0520",
+    "type": "vocab",
+    "level": "basic",
+    "word": "capital",
+    "meaning": "首都",
+    "pos": "n",
+    "question": "capital",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "首都",
+    "explanation": "",
+    "definitionEn": "having the main offices of a government",
+    "frequencyRank": 789,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The committee considered the capital before making its decision.",
+    "exampleJa": "「capital」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0260-0219",
+    "type": "vocab",
+    "level": "basic",
+    "word": "car",
+    "meaning": "車",
+    "pos": "n",
+    "question": "car",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "車",
+    "explanation": "",
+    "definitionEn": "a vehicle with four wheels and engine that can carry things",
+    "frequencyRank": 260,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The car became an important part of the discussion.",
+    "exampleJa": "「car」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0781-0514",
+    "type": "vocab",
+    "level": "basic",
+    "word": "card",
+    "meaning": "カード",
+    "pos": "n",
+    "question": "card",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "カード",
+    "explanation": "",
+    "definitionEn": "a small piece of stiff paper that is marked with symbols or pictures to show its value, comes in a set, and is used for playing games",
+    "frequencyRank": 781,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the card in detail.",
+    "exampleJa": "「card」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0313-0249",
+    "type": "vocab",
+    "level": "basic",
+    "word": "care",
+    "meaning": "注意",
+    "pos": "n",
+    "question": "care",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "注意",
+    "explanation": "",
+    "definitionEn": "effort made to do something correctly or well",
+    "frequencyRank": 313,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The committee considered the care before making its decision.",
+    "exampleJa": "「care」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0053-career",
+    "type": "vocab",
+    "level": "basic",
+    "word": "career",
+    "meaning": "職業；経歴",
+    "pos": "n",
+    "question": "career",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "職業；経歴",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic"
+    ],
+    "exampleSentence": "The career became an important part of the discussion.",
+    "exampleJa": "「career」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-03-careful",
+    "type": "vocab",
+    "level": "basic",
+    "word": "careful",
+    "meaning": "注意深い",
+    "pos": "adj",
+    "question": "careful",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "注意深い",
+    "explanation": "",
+    "exampleSentence": "The team chose a careful approach to the problem.",
+    "exampleJa": "その報告書はその問題について注意深い説明をしている。",
+    "family": "carefully",
+    "synonyms": [
+      "cautious",
+      "attentive"
+    ],
+    "tags": [
+      "basic",
+      "adj"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。careful の派生語: carefully."
+  },
+  {
+    "id": "v-basic-107",
+    "type": "vocab",
+    "level": "basic",
+    "word": "carry",
+    "meaning": "運ぶ",
+    "question": "carry",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "運ぶ",
+        "correct": true
+      },
+      {
+        "text": "建てる・築く",
+        "correct": false
+      },
+      {
+        "text": "起こる",
+        "correct": false
+      },
+      {
+        "text": "学ぶ・知る",
+        "correct": false
+      }
+    ],
+    "answer": "運ぶ",
+    "explanation": "carry = 運ぶ。例：carry a bag",
+    "exampleSentence": "The report describes the carry characteristics of the system.",
+    "exampleJa": "「carry」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0168-0155",
+    "type": "vocab",
+    "level": "basic",
+    "word": "case",
+    "meaning": "場合；事例；容器",
+    "pos": "n",
+    "question": "case",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "場合；事例；容器",
+    "explanation": "",
+    "definitionEn": "an example or instance of something",
+    "frequencyRank": 168,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The case became an important part of the discussion.",
+    "exampleJa": "「case」を使った自然な用例。"
+  },
+  {
+    "id": "v-curated-0470",
+    "type": "vocab",
+    "level": "basic",
+    "word": "casual",
+    "meaning": "偶然の・気軽な",
+    "pos": "adj",
+    "question": "casual",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "偶然の・気軽な",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "basic"
+    ],
+    "exampleSentence": "The team chose a casual approach to the problem.",
+    "exampleJa": "「casual」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0683-0460",
+    "type": "vocab",
+    "level": "basic",
+    "word": "catch",
+    "meaning": "捕まえる",
+    "pos": "v",
+    "question": "catch",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "捕まえる",
+    "explanation": "",
+    "definitionEn": "to use your hands to stop and hold",
+    "frequencyRank": 683,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "Many people catch differently when the situation changes.",
+    "exampleJa": "「catch」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-04-cause",
+    "type": "vocab",
+    "level": "basic",
+    "word": "cause",
+    "meaning": "原因",
+    "pos": "n",
+    "question": "cause",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "原因",
+    "explanation": "",
+    "exampleSentence": "The committee discussed the cause during the meeting.",
+    "exampleJa": "この文脈では「原因」という意味。",
+    "family": "cause;causes",
+    "synonyms": [],
+    "tags": [
+      "basic",
+      "n"
+    ],
+    "note": "入試・読解で見かけやすい重要語。"
+  },
+  {
+    "id": "v-basic-core-0308-ceiling",
+    "type": "vocab",
+    "level": "basic",
+    "word": "ceiling",
+    "meaning": "天井",
+    "pos": "n",
+    "question": "ceiling",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "天井",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic"
+    ],
+    "exampleSentence": "The report describes the ceiling in detail.",
+    "exampleJa": "「ceiling」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-03-celebrate",
+    "type": "vocab",
+    "level": "basic",
+    "word": "celebrate",
+    "meaning": "祝う",
+    "pos": "v",
+    "question": "celebrate",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "祝う",
+    "explanation": "",
+    "exampleSentence": "Many people celebrate differently when the situation changes.",
+    "exampleJa": "研究者たちは結論を出す前にその証拠を祝う。",
+    "family": "celebration",
+    "synonyms": [
+      "honor",
+      "observe"
+    ],
+    "tags": [
+      "basic",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。celebrate の派生語: celebration.",
+    "levelTags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "v-basic-ngsl-0629-0429",
+    "type": "vocab",
+    "level": "basic",
+    "word": "cell",
+    "meaning": "細胞",
+    "pos": "n",
+    "question": "cell",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "細胞",
+    "explanation": "",
+    "definitionEn": "the smallest living part of an animal or a plant",
+    "frequencyRank": 629,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The cell became an important part of the discussion.",
+    "exampleJa": "「cell」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0749-0496",
+    "type": "vocab",
+    "level": "basic",
+    "word": "cent",
+    "meaning": "セント",
+    "pos": "n",
+    "question": "cent",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "セント",
+    "explanation": "",
+    "definitionEn": "a unit of money that is equal to 1/100 of the basic unit of money",
+    "frequencyRank": 749,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the cent in detail.",
+    "exampleJa": "「cent」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0334-0261",
+    "type": "vocab",
+    "level": "basic",
+    "word": "center",
+    "meaning": "中央",
+    "pos": "n",
+    "question": "center",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "中央",
+    "explanation": "",
+    "definitionEn": "the middle point or part",
+    "frequencyRank": 334,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The committee considered the center before making its decision.",
+    "exampleJa": "「center」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0890-0571",
+    "type": "vocab",
+    "level": "basic",
+    "word": "central",
+    "meaning": "真ん中の",
+    "pos": "adj",
+    "question": "central",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "真ん中の",
+    "explanation": "",
+    "definitionEn": "in or near the center of a place or object",
+    "frequencyRank": 890,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "basic"
+    ],
+    "exampleSentence": "The researchers considered the central option before making a decision.",
+    "exampleJa": "「central」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0591-0407",
+    "type": "vocab",
+    "level": "basic",
+    "word": "century",
+    "meaning": "世紀",
+    "pos": "n",
+    "question": "century",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "世紀",
+    "explanation": "",
+    "definitionEn": "a period of 100 years",
+    "frequencyRank": 591,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the century in detail.",
+    "exampleJa": "「century」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0309-ceremony",
+    "type": "vocab",
+    "level": "basic",
+    "word": "ceremony",
+    "meaning": "式典",
+    "pos": "n",
+    "question": "ceremony",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "式典",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The committee considered the ceremony before making its decision.",
+    "exampleJa": "「ceremony」を使った自然な用例。"
+  },
+  {
+    "id": "v-max2-certainly",
+    "type": "vocab",
+    "level": "basic",
+    "word": "certainly",
+    "meaning": "確かに",
+    "pos": "adv",
+    "explanation": "certainly：確かに。",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-max2",
+      "常用語"
+    ],
+    "source": "curated-vocab-max2-2026",
+    "levelTags": [
+      "basic"
+    ],
+    "exampleSentence": "The researchers certainly reviewed the evidence before publishing their findings.",
+    "exampleJa": "「certainly」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-1058-0669",
+    "type": "vocab",
+    "level": "basic",
+    "word": "chair",
+    "meaning": "いす",
+    "pos": "n",
+    "question": "chair",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "いす",
+    "explanation": "",
+    "definitionEn": "a seat for one person that has a back and usually four legs",
+    "frequencyRank": 1058,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The report describes the chair in detail.",
+    "exampleJa": "「chair」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0560-0394",
+    "type": "vocab",
+    "level": "basic",
+    "word": "chance",
+    "meaning": "機会",
+    "pos": "n",
+    "question": "chance",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "機会",
+    "explanation": "",
+    "definitionEn": "an opportunity to do something;  an amount of time or a situation in which something can be done",
+    "frequencyRank": 560,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The committee considered the chance before making its decision.",
+    "exampleJa": "「chance」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-108",
+    "type": "vocab",
+    "level": "basic",
+    "word": "change",
+    "meaning": "変える・変化する",
+    "question": "change",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "公共の・公の",
+        "correct": false
+      },
+      {
+        "text": "変える・変化する",
+        "correct": true
+      },
+      {
+        "text": "理解する",
+        "correct": false
+      },
+      {
+        "text": "賛成する・同意する",
+        "correct": false
+      }
+    ],
+    "answer": "変える・変化する",
+    "explanation": "change = 変える・変化する。例：change the plan",
+    "exampleSentence": "The company plans to change the new system next year.",
+    "exampleJa": "「change」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0310-chapter",
+    "type": "vocab",
+    "level": "basic",
+    "word": "chapter",
+    "meaning": "章",
+    "pos": "n",
+    "question": "chapter",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "章",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "The report describes the chapter in detail.",
+    "exampleJa": "「chapter」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0054-character",
+    "type": "vocab",
+    "level": "basic",
+    "word": "character",
+    "meaning": "性格；登場人物；文字",
+    "pos": "n",
+    "question": "character",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "性格；登場人物；文字",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "A character was invited to speak at the event.",
+    "exampleJa": "「character」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0056-charge",
+    "type": "vocab",
+    "level": "basic",
+    "word": "charge",
+    "meaning": "料金；責任；充電する",
+    "pos": "n",
+    "question": "charge",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "料金；責任；充電する",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "The charge became an important part of the discussion.",
+    "exampleJa": "「charge」を使った自然な用例。"
+  },
+  {
+    "id": "ngsl-2352",
+    "type": "vocab",
+    "word": "charity",
+    "meaning": "慈善",
+    "pos": "n",
+    "level": "basic",
+    "rank": 2352,
+    "definition": "an official organization that gives money, food, or help to people who need it; money, food, or other help",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "basic",
+      "standard"
+    ],
+    "exampleSentence": "The report describes the charity in detail.",
+    "exampleJa": "「charity」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-core-0439-cheap",
+    "type": "vocab",
+    "level": "basic",
+    "word": "cheap",
+    "meaning": "安い",
+    "pos": "adj",
+    "question": "cheap",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "安い",
+    "explanation": "",
+    "tags": [
+      "basic",
+      "core",
+      "input-first"
+    ],
+    "source": "core-vocab-expansion-2026",
+    "exampleSentence": "The report describes the cheap characteristics of the system.",
+    "exampleJa": "「cheap」を使った自然な用例。"
+  },
+  {
+    "id": "v-basic-ngsl-0580-0401",
+    "type": "vocab",
+    "level": "basic",
+    "word": "check",
+    "meaning": "確認する",
+    "pos": "v",
+    "question": "check",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "確認する",
+    "explanation": "",
+    "definitionEn": "to look at (something) carefully to find mistakes, problems, etc.",
+    "frequencyRank": 580,
+    "tags": [
+      "basic",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "The researchers used several tests to check the cause of the problem.",
+    "exampleJa": "「check」を使った自然な用例。"
+  }
+]

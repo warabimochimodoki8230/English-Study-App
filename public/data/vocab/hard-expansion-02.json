@@ -1,0 +1,34 @@
+[
+  {
+    "id": "v-curated-hard-0001-contemptuous",
+    "type": "vocab",
+    "level": "hard",
+    "word": "contemptuous",
+    "meaning": "軽蔑的な",
+    "pos": "形",
+    "exampleSentence": "The researchers considered the contemptuous option before making a decision.",
+    "exampleJa": "その報告書はその問題について「軽蔑的な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0002-dilapidated",
+    "type": "vocab",
+    "level": "hard",
+    "word": "dilapidated",
+    "meaning": "荒廃した",
+    "pos": "形",
+    "exampleSentence": "The team chose a dilapidated approach to the problem.",
+    "exampleJa": "その報告書はその問題について「荒廃した」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  }
+]

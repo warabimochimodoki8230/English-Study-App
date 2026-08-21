@@ -1,0 +1,5090 @@
+[
+  {
+    "id": "v-curated-developed-0001-abide",
+    "type": "vocab",
+    "level": "developed",
+    "word": "abide",
+    "meaning": "従う、守る",
+    "pos": "動",
+    "exampleSentence": "The researchers observed how the situation changed when they abide.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「従う」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0002-abolish",
+    "type": "vocab",
+    "level": "developed",
+    "word": "abolish",
+    "meaning": "廃止する",
+    "pos": "動",
+    "exampleSentence": "The researchers need to abolish the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「廃止する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0003-abrupt",
+    "type": "vocab",
+    "level": "developed",
+    "word": "abrupt",
+    "meaning": "突然の、急な",
+    "pos": "形",
+    "exampleSentence": "The meeting came to an abrupt end when the fire alarm sounded.",
+    "exampleJa": "その報告書はその問題について「突然の」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0004-absorb",
+    "type": "vocab",
+    "level": "developed",
+    "word": "absorb",
+    "meaning": "吸収する、理解する",
+    "pos": "動",
+    "exampleSentence": "The company plans to absorb the new system next year.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「吸収する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0005-abundant",
+    "type": "vocab",
+    "level": "developed",
+    "word": "abundant",
+    "meaning": "豊富な",
+    "pos": "形",
+    "exampleSentence": "The team chose a abundant approach to the problem.",
+    "exampleJa": "その報告書はその問題について「豊富な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0006-accelerate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "accelerate",
+    "meaning": "加速する",
+    "pos": "動",
+    "exampleSentence": "The team worked together to accelerate the issue.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「加速する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0007-accessible",
+    "type": "vocab",
+    "level": "developed",
+    "word": "accessible",
+    "meaning": "利用しやすい、近づきやすい",
+    "pos": "形",
+    "exampleSentence": "The researchers considered the accessible option before making a decision.",
+    "exampleJa": "その報告書はその問題について「利用しやすい」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0008-accommodate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "accommodate",
+    "meaning": "収容する、適応する",
+    "pos": "動",
+    "exampleSentence": "The researchers need to accommodate the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「収容する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0009-accumulate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "accumulate",
+    "meaning": "蓄積する",
+    "pos": "動",
+    "exampleSentence": "The team worked together to accumulate the issue.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「蓄積する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0010-accurately",
+    "type": "vocab",
+    "level": "developed",
+    "word": "accurately",
+    "meaning": "正確に",
+    "pos": "副",
+    "exampleSentence": "The researchers accurately reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは利用可能な証拠を「正確に」調べた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0011-acknowledge",
+    "type": "vocab",
+    "level": "developed",
+    "word": "acknowledge",
+    "meaning": "認める、感謝する",
+    "pos": "動",
+    "exampleSentence": "The researchers need to acknowledge the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「認める」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0012-acquire",
+    "type": "vocab",
+    "level": "developed",
+    "word": "acquire",
+    "meaning": "獲得する",
+    "pos": "動",
+    "exampleSentence": "The team worked together to acquire the issue.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「獲得する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0013-adaptation",
+    "type": "vocab",
+    "level": "developed",
+    "word": "adaptation",
+    "meaning": "適応、改作",
+    "pos": "名",
+    "exampleSentence": "The adaptation became an important part of the discussion.",
+    "exampleJa": "その研究は現代社会における「適応」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0014-adequate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "adequate",
+    "meaning": "十分な、適切な",
+    "pos": "形",
+    "exampleSentence": "The method is considered adequate for small experiments.",
+    "exampleJa": "その報告書はその問題について「十分な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0015-adjacent",
+    "type": "vocab",
+    "level": "developed",
+    "word": "adjacent",
+    "meaning": "隣接した",
+    "pos": "形",
+    "exampleSentence": "The report describes the adjacent characteristics of the system.",
+    "exampleJa": "その報告書はその問題について「隣接した」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0016-adjust",
+    "type": "vocab",
+    "level": "developed",
+    "word": "adjust",
+    "meaning": "調整する",
+    "pos": "動",
+    "exampleSentence": "The company plans to adjust the new system next year.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「調整する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0017-advocate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "advocate",
+    "meaning": "主張する、支持する",
+    "pos": "動",
+    "exampleSentence": "Many scientists advocate stricter rules on air pollution.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「主張する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0018-aggregate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "aggregate",
+    "meaning": "集計する、総計する",
+    "pos": "動",
+    "exampleSentence": "The team worked together to aggregate the issue.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「集計する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0019-allocate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "allocate",
+    "meaning": "割り当てる",
+    "pos": "動",
+    "exampleSentence": "The city allocated more money to public transportation.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「割り当てる」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0020-alter",
+    "type": "vocab",
+    "level": "developed",
+    "word": "alter",
+    "meaning": "変える、改める",
+    "pos": "動",
+    "exampleSentence": "The editor altered the final paragraph before publication.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「変える」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0021-alternative",
+    "type": "vocab",
+    "level": "developed",
+    "word": "alternative",
+    "meaning": "代替案、選択肢",
+    "pos": "名",
+    "exampleSentence": "The committee considered the alternative before making its decision.",
+    "exampleJa": "その研究は現代社会における「代替案」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0022-ambiguous",
+    "type": "vocab",
+    "level": "developed",
+    "word": "ambiguous",
+    "meaning": "曖昧な",
+    "pos": "形",
+    "exampleSentence": "The researchers considered the ambiguous option before making a decision.",
+    "exampleJa": "その報告書はその問題について「曖昧な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0023-amend",
+    "type": "vocab",
+    "level": "developed",
+    "word": "amend",
+    "meaning": "修正する",
+    "pos": "動",
+    "exampleSentence": "The researchers need to amend the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「修正する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0024-analogy",
+    "type": "vocab",
+    "level": "developed",
+    "word": "analogy",
+    "meaning": "類推、類似",
+    "pos": "名",
+    "exampleSentence": "The committee considered the analogy before making its decision.",
+    "exampleJa": "その研究は現代社会における「類推」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0025-anticipate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "anticipate",
+    "meaning": "予想する",
+    "pos": "動",
+    "exampleSentence": "The company plans to anticipate the new system next year.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「予想する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0026-apparent",
+    "type": "vocab",
+    "level": "developed",
+    "word": "apparent",
+    "meaning": "明らかな、見かけ上の",
+    "pos": "形",
+    "exampleSentence": "The team chose a apparent approach to the problem.",
+    "exampleJa": "その報告書はその問題について「明らかな」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0027-applicable",
+    "type": "vocab",
+    "level": "developed",
+    "word": "applicable",
+    "meaning": "適用できる",
+    "pos": "形",
+    "exampleSentence": "The report describes the applicable characteristics of the system.",
+    "exampleJa": "その報告書はその問題について「適用できる」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0028-appreciable",
+    "type": "vocab",
+    "level": "developed",
+    "word": "appreciable",
+    "meaning": "かなりの、評価できる",
+    "pos": "形",
+    "exampleSentence": "The researchers considered the appreciable option before making a decision.",
+    "exampleJa": "その報告書はその問題について「かなりの」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0029-arbitrary",
+    "type": "vocab",
+    "level": "developed",
+    "word": "arbitrary",
+    "meaning": "恣意的な、任意の",
+    "pos": "形",
+    "exampleSentence": "The team chose a arbitrary approach to the problem.",
+    "exampleJa": "その報告書はその問題について「恣意的な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0030-assemble",
+    "type": "vocab",
+    "level": "developed",
+    "word": "assemble",
+    "meaning": "集める、組み立てる",
+    "pos": "動",
+    "exampleSentence": "The team worked together to assemble the issue.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「集める」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0031-assert",
+    "type": "vocab",
+    "level": "developed",
+    "word": "assert",
+    "meaning": "断言する",
+    "pos": "動",
+    "exampleSentence": "The company plans to assert the new system next year.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「断言する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0032-assess",
+    "type": "vocab",
+    "level": "developed",
+    "word": "assess",
+    "meaning": "評価する",
+    "pos": "動",
+    "exampleSentence": "The team worked carefully to assess the reliability of the data.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「評価する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0033-assign",
+    "type": "vocab",
+    "level": "developed",
+    "word": "assign",
+    "meaning": "割り当てる",
+    "pos": "動",
+    "exampleSentence": "The team worked together to assign the issue.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「割り当てる」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0034-assumption",
+    "type": "vocab",
+    "level": "developed",
+    "word": "assumption",
+    "meaning": "仮定、前提",
+    "pos": "名",
+    "exampleSentence": "The assumption became an important part of the discussion.",
+    "exampleJa": "その研究は現代社会における「仮定」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0035-attain",
+    "type": "vocab",
+    "level": "developed",
+    "word": "attain",
+    "meaning": "達成する",
+    "pos": "動",
+    "exampleSentence": "The researchers need to attain the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「達成する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0036-attribute",
+    "type": "vocab",
+    "level": "developed",
+    "word": "attribute",
+    "meaning": "～のせいにする、帰する",
+    "pos": "動",
+    "exampleSentence": "The team worked together to attribute the issue.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「～のせいにする」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0037-authentic",
+    "type": "vocab",
+    "level": "developed",
+    "word": "authentic",
+    "meaning": "本物の、真正な",
+    "pos": "形",
+    "exampleSentence": "The researchers considered the authentic option before making a decision.",
+    "exampleJa": "その報告書はその問題について「本物の」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0038-automate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "automate",
+    "meaning": "自動化する",
+    "pos": "動",
+    "exampleSentence": "The researchers need to automate the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「自動化する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0039-bias",
+    "type": "vocab",
+    "level": "developed",
+    "word": "bias",
+    "meaning": "偏見、偏り",
+    "pos": "名",
+    "exampleSentence": "The committee considered the bias before making its decision.",
+    "exampleJa": "その研究は現代社会における「偏見」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0040-boundary",
+    "type": "vocab",
+    "level": "developed",
+    "word": "boundary",
+    "meaning": "境界",
+    "pos": "名",
+    "exampleSentence": "The boundary became an important part of the discussion.",
+    "exampleJa": "その研究は現代社会における「境界」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0041-briefly",
+    "type": "vocab",
+    "level": "developed",
+    "word": "briefly",
+    "meaning": "簡潔に",
+    "pos": "副",
+    "exampleSentence": "The researchers briefly reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは利用可能な証拠を「簡潔に」調べた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0042-capacity",
+    "type": "vocab",
+    "level": "developed",
+    "word": "capacity",
+    "meaning": "能力、容量",
+    "pos": "名",
+    "exampleSentence": "The report provides a detailed estimate of the capacity.",
+    "exampleJa": "その研究は現代社会における「能力」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0043-cease",
+    "type": "vocab",
+    "level": "developed",
+    "word": "cease",
+    "meaning": "やめる、終わる",
+    "pos": "動",
+    "exampleSentence": "The researchers observed how the situation changed when they cease.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「やめる」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0044-clarify",
+    "type": "vocab",
+    "level": "developed",
+    "word": "clarify",
+    "meaning": "明確にする",
+    "pos": "動",
+    "exampleSentence": "The researchers need to clarify the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「明確にする」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0045-coherent",
+    "type": "vocab",
+    "level": "developed",
+    "word": "coherent",
+    "meaning": "一貫した、筋の通った",
+    "pos": "形",
+    "exampleSentence": "The report describes the coherent characteristics of the system.",
+    "exampleJa": "その報告書はその問題について「一貫した」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0046-coincide",
+    "type": "vocab",
+    "level": "developed",
+    "word": "coincide",
+    "meaning": "一致する、同時に起こる",
+    "pos": "動",
+    "exampleSentence": "The school festival will coincide with the town’s summer celebration.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「一致する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0047-collapse",
+    "type": "vocab",
+    "level": "developed",
+    "word": "collapse",
+    "meaning": "崩壊する",
+    "pos": "動",
+    "exampleSentence": "The old bridge collapsed after the earthquake.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「崩壊する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0048-commence",
+    "type": "vocab",
+    "level": "developed",
+    "word": "commence",
+    "meaning": "開始する",
+    "pos": "動",
+    "exampleSentence": "The school may commence the policy if the problem continues.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「開始する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0049-compatible",
+    "type": "vocab",
+    "level": "developed",
+    "word": "compatible",
+    "meaning": "両立する、互換性のある",
+    "pos": "形",
+    "exampleSentence": "The researchers considered the compatible option before making a decision.",
+    "exampleJa": "その報告書はその問題について「両立する」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0050-compel",
+    "type": "vocab",
+    "level": "developed",
+    "word": "compel",
+    "meaning": "強いる",
+    "pos": "動",
+    "exampleSentence": "The process can compel under certain conditions.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「強いる」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0051-compensate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "compensate",
+    "meaning": "補償する",
+    "pos": "動",
+    "exampleSentence": "The team worked together to compensate the issue.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「補償する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0052-compile",
+    "type": "vocab",
+    "level": "developed",
+    "word": "compile",
+    "meaning": "編集する、まとめる",
+    "pos": "動",
+    "exampleSentence": "The company plans to compile the new system next year.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「編集する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0053-complement",
+    "type": "vocab",
+    "level": "developed",
+    "word": "complement",
+    "meaning": "補完する",
+    "pos": "動",
+    "exampleSentence": "The researchers need to complement the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「補完する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0054-comprehensive",
+    "type": "vocab",
+    "level": "developed",
+    "word": "comprehensive",
+    "meaning": "包括的な",
+    "pos": "形",
+    "exampleSentence": "The report describes the comprehensive characteristics of the system.",
+    "exampleJa": "その報告書はその問題について「包括的な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0055-conceive",
+    "type": "vocab",
+    "level": "developed",
+    "word": "conceive",
+    "meaning": "考え出す、思いつく",
+    "pos": "動",
+    "exampleSentence": "The researchers observed how the situation changed when they conceive.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「考え出す」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0056-concentrate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "concentrate",
+    "meaning": "集中する",
+    "pos": "動",
+    "exampleSentence": "The researchers need to concentrate the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「集中する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0057-concurrent",
+    "type": "vocab",
+    "level": "developed",
+    "word": "concurrent",
+    "meaning": "同時に起こる",
+    "pos": "形",
+    "exampleSentence": "The report describes the concurrent characteristics of the system.",
+    "exampleJa": "その報告書はその問題について「同時に起こる」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0058-confer",
+    "type": "vocab",
+    "level": "developed",
+    "word": "confer",
+    "meaning": "相談する、授与する",
+    "pos": "動",
+    "exampleSentence": "The company plans to confer the new system next year.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「相談する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0059-confine",
+    "type": "vocab",
+    "level": "developed",
+    "word": "confine",
+    "meaning": "制限する、閉じ込める",
+    "pos": "動",
+    "exampleSentence": "The program is designed to confine pressure on local hospitals.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「制限する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0060-confront",
+    "type": "vocab",
+    "level": "developed",
+    "word": "confront",
+    "meaning": "直面する",
+    "pos": "動",
+    "exampleSentence": "The team worked together to confront the issue.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「直面する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0061-consent",
+    "type": "vocab",
+    "level": "developed",
+    "word": "consent",
+    "meaning": "同意",
+    "pos": "名",
+    "exampleSentence": "The consent became an important part of the discussion.",
+    "exampleJa": "その研究は現代社会における「同意」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0062-consecutive",
+    "type": "vocab",
+    "level": "developed",
+    "word": "consecutive",
+    "meaning": "連続した",
+    "pos": "形",
+    "exampleSentence": "The team chose a consecutive approach to the problem.",
+    "exampleJa": "その報告書はその問題について「連続した」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0063-considerable",
+    "type": "vocab",
+    "level": "developed",
+    "word": "considerable",
+    "meaning": "かなりの",
+    "pos": "形",
+    "exampleSentence": "The report describes the considerable characteristics of the system.",
+    "exampleJa": "その報告書はその問題について「かなりの」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0064-constitute",
+    "type": "vocab",
+    "level": "developed",
+    "word": "constitute",
+    "meaning": "構成する",
+    "pos": "動",
+    "exampleSentence": "The company plans to constitute the new system next year.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「構成する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0065-constraint",
+    "type": "vocab",
+    "level": "developed",
+    "word": "constraint",
+    "meaning": "制約",
+    "pos": "名",
+    "exampleSentence": "The report describes the constraint in detail.",
+    "exampleJa": "その研究は現代社会における「制約」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0066-consult",
+    "type": "vocab",
+    "level": "developed",
+    "word": "consult",
+    "meaning": "相談する、参照する",
+    "pos": "動",
+    "exampleSentence": "The team worked together to consult the issue.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「相談する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0067-consume",
+    "type": "vocab",
+    "level": "developed",
+    "word": "consume",
+    "meaning": "消費する",
+    "pos": "動",
+    "exampleSentence": "The average household consumes less water after the new system is installed.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「消費する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0068-contemporary",
+    "type": "vocab",
+    "level": "developed",
+    "word": "contemporary",
+    "meaning": "現代の、同時代の",
+    "pos": "形",
+    "exampleSentence": "The team chose a contemporary approach to the problem.",
+    "exampleJa": "その報告書はその問題について「現代の」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0069-contradict",
+    "type": "vocab",
+    "level": "developed",
+    "word": "contradict",
+    "meaning": "矛盾する",
+    "pos": "動",
+    "exampleSentence": "The team worked together to contradict the issue.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「矛盾する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0070-controversial",
+    "type": "vocab",
+    "level": "developed",
+    "word": "controversial",
+    "meaning": "論争を呼ぶ",
+    "pos": "形",
+    "exampleSentence": "The researchers considered the controversial option before making a decision.",
+    "exampleJa": "その報告書はその問題について「論争を呼ぶ」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0071-convey",
+    "type": "vocab",
+    "level": "developed",
+    "word": "convey",
+    "meaning": "伝える、運ぶ",
+    "pos": "動",
+    "exampleSentence": "The researchers need to convey the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「伝える」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0072-cooperate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "cooperate",
+    "meaning": "協力する",
+    "pos": "動",
+    "exampleSentence": "The team worked together to cooperate the issue.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「協力する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0073-correspond",
+    "type": "vocab",
+    "level": "developed",
+    "word": "correspond",
+    "meaning": "一致する、対応する",
+    "pos": "動",
+    "exampleSentence": "The change began to correspond after the new policy was introduced.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「一致する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0074-correspondence",
+    "type": "vocab",
+    "level": "developed",
+    "word": "correspondence",
+    "meaning": "一致、通信",
+    "pos": "名",
+    "exampleSentence": "The report describes the correspondence in detail.",
+    "exampleJa": "その研究は現代社会における「一致」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0075-crucial",
+    "type": "vocab",
+    "level": "developed",
+    "word": "crucial",
+    "meaning": "極めて重要な",
+    "pos": "形",
+    "exampleSentence": "The plan appears crucial after the latest review.",
+    "exampleJa": "その報告書はその問題について「極めて重要な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0076-cumulative",
+    "type": "vocab",
+    "level": "developed",
+    "word": "cumulative",
+    "meaning": "累積的な",
+    "pos": "形",
+    "exampleSentence": "The report considers the cumulative effect of small changes over time.",
+    "exampleJa": "その報告書はその問題について「累積的な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0077-dedicate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "dedicate",
+    "meaning": "ささげる、専念する",
+    "pos": "動",
+    "exampleSentence": "The researchers need to dedicate the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「ささげる」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0078-decline",
+    "type": "vocab",
+    "level": "developed",
+    "word": "decline",
+    "meaning": "減少する、断る",
+    "pos": "動",
+    "exampleSentence": "Sales declined sharply after the price increase.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「減少する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0079-deduce",
+    "type": "vocab",
+    "level": "developed",
+    "word": "deduce",
+    "meaning": "推論する",
+    "pos": "動",
+    "exampleSentence": "The company plans to deduce the new system next year.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「推論する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0080-emit",
+    "type": "vocab",
+    "level": "developed",
+    "word": "emit",
+    "meaning": "放出する",
+    "pos": "動",
+    "exampleSentence": "The researchers need to emit the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「放出する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0081-empirical",
+    "type": "vocab",
+    "level": "developed",
+    "word": "empirical",
+    "meaning": "経験的な",
+    "pos": "形",
+    "exampleSentence": "The report describes the empirical characteristics of the system.",
+    "exampleJa": "その報告書はその問題について「経験的な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0082-enforce",
+    "type": "vocab",
+    "level": "developed",
+    "word": "enforce",
+    "meaning": "施行する、強制する",
+    "pos": "動",
+    "exampleSentence": "The company plans to enforce the new system next year.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「施行する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0083-enhance",
+    "type": "vocab",
+    "level": "developed",
+    "word": "enhance",
+    "meaning": "高める",
+    "pos": "動",
+    "exampleSentence": "The process can enhance under certain conditions.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「高める」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0084-ensure",
+    "type": "vocab",
+    "level": "developed",
+    "word": "ensure",
+    "meaning": "確実にする",
+    "pos": "動",
+    "exampleSentence": "The team worked together to ensure the issue.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「確実にする」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0085-equivalent",
+    "type": "vocab",
+    "level": "developed",
+    "word": "equivalent",
+    "meaning": "同等の",
+    "pos": "形",
+    "exampleSentence": "The researchers considered the equivalent option before making a decision.",
+    "exampleJa": "その報告書はその問題について「同等の」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0086-eradicate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "eradicate",
+    "meaning": "根絶する",
+    "pos": "動",
+    "exampleSentence": "The researchers need to eradicate the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「根絶する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0087-essential",
+    "type": "vocab",
+    "level": "developed",
+    "word": "essential",
+    "meaning": "不可欠な",
+    "pos": "形",
+    "exampleSentence": "The report describes the essential characteristics of the system.",
+    "exampleJa": "その報告書はその問題について「不可欠な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0088-ethical",
+    "type": "vocab",
+    "level": "developed",
+    "word": "ethical",
+    "meaning": "倫理的な",
+    "pos": "形",
+    "exampleSentence": "The researchers considered the ethical option before making a decision.",
+    "exampleJa": "その報告書はその問題について「倫理的な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0089-evident",
+    "type": "vocab",
+    "level": "developed",
+    "word": "evident",
+    "meaning": "明白な",
+    "pos": "形",
+    "exampleSentence": "The team chose a evident approach to the problem.",
+    "exampleJa": "その報告書はその問題について「明白な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0090-exclude",
+    "type": "vocab",
+    "level": "developed",
+    "word": "exclude",
+    "meaning": "除外する",
+    "pos": "動",
+    "exampleSentence": "The team worked together to exclude the issue.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「除外する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0091-explicit",
+    "type": "vocab",
+    "level": "developed",
+    "word": "explicit",
+    "meaning": "明示的な",
+    "pos": "形",
+    "exampleSentence": "The instructions contain explicit warnings about the dangers of the chemical.",
+    "exampleJa": "その報告書はその問題について「明示的な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0092-exploit",
+    "type": "vocab",
+    "level": "developed",
+    "word": "exploit",
+    "meaning": "利用する、搾取する",
+    "pos": "動",
+    "exampleSentence": "The researchers need to exploit the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「利用する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0093-facilitate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "facilitate",
+    "meaning": "促進する",
+    "pos": "動",
+    "exampleSentence": "The online platform facilitates communication between teachers and students.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「促進する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0094-feasible",
+    "type": "vocab",
+    "level": "developed",
+    "word": "feasible",
+    "meaning": "実行可能な",
+    "pos": "形",
+    "exampleSentence": "The engineers concluded that the proposal was technically feasible.",
+    "exampleJa": "その報告書はその問題について「実行可能な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0095-flexible",
+    "type": "vocab",
+    "level": "developed",
+    "word": "flexible",
+    "meaning": "柔軟な",
+    "pos": "形",
+    "exampleSentence": "The team chose a flexible approach to the problem.",
+    "exampleJa": "その報告書はその問題について「柔軟な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0096-fluctuate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "fluctuate",
+    "meaning": "変動する",
+    "pos": "動",
+    "exampleSentence": "Prices fluctuate throughout the year as supply and demand change.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「変動する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0097-forthcoming",
+    "type": "vocab",
+    "level": "developed",
+    "word": "forthcoming",
+    "meaning": "来るべき、近日公開の",
+    "pos": "形",
+    "exampleSentence": "The researchers considered the forthcoming option before making a decision.",
+    "exampleJa": "その報告書はその問題について「来るべき」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0098-formulate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "formulate",
+    "meaning": "策定する",
+    "pos": "動",
+    "exampleSentence": "The researchers need to formulate the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「策定する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0099-forthwith",
+    "type": "vocab",
+    "level": "developed",
+    "word": "forthwith",
+    "meaning": "直ちに",
+    "pos": "副",
+    "exampleSentence": "The manager ordered the work to stop forthwith.",
+    "exampleJa": "研究者たちは利用可能な証拠を「直ちに」調べた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0100-fundamental",
+    "type": "vocab",
+    "level": "developed",
+    "word": "fundamental",
+    "meaning": "基本的な、根本的な",
+    "pos": "形",
+    "exampleSentence": "The researchers considered the fundamental option before making a decision.",
+    "exampleJa": "その報告書はその問題について「基本的な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0101-generate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "generate",
+    "meaning": "生み出す",
+    "pos": "動",
+    "exampleSentence": "The process can generate under certain conditions.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「生み出す」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0102-genuine",
+    "type": "vocab",
+    "level": "developed",
+    "word": "genuine",
+    "meaning": "本物の、心からの",
+    "pos": "形",
+    "exampleSentence": "The report describes the genuine characteristics of the system.",
+    "exampleJa": "その報告書はその問題について「本物の」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0103-grant",
+    "type": "vocab",
+    "level": "developed",
+    "word": "grant",
+    "meaning": "認める、与える",
+    "pos": "動",
+    "exampleSentence": "The researchers observed how the situation changed when they grant.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「認める」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0104-hierarchy",
+    "type": "vocab",
+    "level": "developed",
+    "word": "hierarchy",
+    "meaning": "階層",
+    "pos": "名",
+    "exampleSentence": "The company has a clear hierarchy of responsibility within each department.",
+    "exampleJa": "その研究は現代社会における「階層」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0105-hinder",
+    "type": "vocab",
+    "level": "developed",
+    "word": "hinder",
+    "meaning": "妨げる",
+    "pos": "動",
+    "exampleSentence": "Better planning can hinder unnecessary costs.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「妨げる」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0106-hypothesis",
+    "type": "vocab",
+    "level": "developed",
+    "word": "hypothesis",
+    "meaning": "仮説",
+    "pos": "名",
+    "exampleSentence": "The hypothesis became an important part of the discussion.",
+    "exampleJa": "その研究は現代社会における「仮説」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0107-implement",
+    "type": "vocab",
+    "level": "developed",
+    "word": "implement",
+    "meaning": "実施する",
+    "pos": "動",
+    "exampleSentence": "The researchers need to implement the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「実施する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0108-impose",
+    "type": "vocab",
+    "level": "developed",
+    "word": "impose",
+    "meaning": "課す",
+    "pos": "動",
+    "exampleSentence": "Many people impose differently when the situation changes.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「課す」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0109-incentive",
+    "type": "vocab",
+    "level": "developed",
+    "word": "incentive",
+    "meaning": "動機、奨励策",
+    "pos": "名",
+    "exampleSentence": "The incentive became an important part of the discussion.",
+    "exampleJa": "その研究は現代社会における「動機」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0110-incidence",
+    "type": "vocab",
+    "level": "developed",
+    "word": "incidence",
+    "meaning": "発生率、発生",
+    "pos": "名",
+    "exampleSentence": "The report describes the incidence in detail.",
+    "exampleJa": "その研究は現代社会における「発生率」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0111-incorporate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "incorporate",
+    "meaning": "組み込む",
+    "pos": "動",
+    "exampleSentence": "The revised textbook incorporates recent research on language learning.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「組み込む」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0112-induce",
+    "type": "vocab",
+    "level": "developed",
+    "word": "induce",
+    "meaning": "引き起こす、誘発する",
+    "pos": "動",
+    "exampleSentence": "The company plans to induce the new system next year.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「引き起こす」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0113-inevitable",
+    "type": "vocab",
+    "level": "developed",
+    "word": "inevitable",
+    "meaning": "避けられない",
+    "pos": "形",
+    "exampleSentence": "The team chose a inevitable approach to the problem.",
+    "exampleJa": "その報告書はその問題について「避けられない」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0114-infer",
+    "type": "vocab",
+    "level": "developed",
+    "word": "infer",
+    "meaning": "推論する",
+    "pos": "動",
+    "exampleSentence": "From the pattern of responses, the researchers inferred that the treatment had some effect.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「推論する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0115-inhibit",
+    "type": "vocab",
+    "level": "developed",
+    "word": "inhibit",
+    "meaning": "抑制する",
+    "pos": "動",
+    "exampleSentence": "The company plans to inhibit the new system next year.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「抑制する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0116-initially",
+    "type": "vocab",
+    "level": "developed",
+    "word": "initially",
+    "meaning": "最初は",
+    "pos": "副",
+    "exampleSentence": "The researchers initially reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは利用可能な証拠を「最初は」調べた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0117-innovative",
+    "type": "vocab",
+    "level": "developed",
+    "word": "innovative",
+    "meaning": "革新的な",
+    "pos": "形",
+    "exampleSentence": "The startup developed an innovative way to recycle used batteries.",
+    "exampleJa": "その報告書はその問題について「革新的な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0118-inspect",
+    "type": "vocab",
+    "level": "developed",
+    "word": "inspect",
+    "meaning": "検査する",
+    "pos": "動",
+    "exampleSentence": "The company plans to inspect the new system next year.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「検査する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0119-integral",
+    "type": "vocab",
+    "level": "developed",
+    "word": "integral",
+    "meaning": "不可欠な、積分の",
+    "pos": "形",
+    "exampleSentence": "Trust is an integral part of any successful team.",
+    "exampleJa": "その報告書はその問題について「不可欠な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0120-integrate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "integrate",
+    "meaning": "統合する",
+    "pos": "動",
+    "exampleSentence": "The team worked together to integrate the issue.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「統合する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0121-interpret",
+    "type": "vocab",
+    "level": "developed",
+    "word": "interpret",
+    "meaning": "解釈する",
+    "pos": "動",
+    "exampleSentence": "The company plans to interpret the new system next year.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「解釈する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0122-intervene",
+    "type": "vocab",
+    "level": "developed",
+    "word": "intervene",
+    "meaning": "介入する",
+    "pos": "動",
+    "exampleSentence": "The researchers need to intervene the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「介入する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0123-invoke",
+    "type": "vocab",
+    "level": "developed",
+    "word": "invoke",
+    "meaning": "発動する、呼び起こす",
+    "pos": "動",
+    "exampleSentence": "The lawyer invoked the principle of equality in her argument.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「発動する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0124-isolate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "isolate",
+    "meaning": "孤立させる、分離する",
+    "pos": "動",
+    "exampleSentence": "The company plans to isolate the new system next year.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「孤立させる」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0125-justify",
+    "type": "vocab",
+    "level": "developed",
+    "word": "justify",
+    "meaning": "正当化する",
+    "pos": "動",
+    "exampleSentence": "The researchers need to justify the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「正当化する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0126-likewise",
+    "type": "vocab",
+    "level": "developed",
+    "word": "likewise",
+    "meaning": "同様に",
+    "pos": "副",
+    "exampleSentence": "The researchers likewise reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは利用可能な証拠を「同様に」調べた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0127-magnitude",
+    "type": "vocab",
+    "level": "developed",
+    "word": "magnitude",
+    "meaning": "大きさ、規模",
+    "pos": "名",
+    "exampleSentence": "The magnitude became an important part of the discussion.",
+    "exampleJa": "その研究は現代社会における「大きさ」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0128-maximize",
+    "type": "vocab",
+    "level": "developed",
+    "word": "maximize",
+    "meaning": "最大化する",
+    "pos": "動",
+    "exampleSentence": "The researchers need to maximize the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「最大化する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0129-mechanism",
+    "type": "vocab",
+    "level": "developed",
+    "word": "mechanism",
+    "meaning": "仕組み、機構",
+    "pos": "名",
+    "exampleSentence": "The committee reviewed the mechanism before approving the plan.",
+    "exampleJa": "その研究は現代社会における「仕組み」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0130-mediate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "mediate",
+    "meaning": "仲介する",
+    "pos": "動",
+    "exampleSentence": "The company plans to mediate the new system next year.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「仲介する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0131-modify",
+    "type": "vocab",
+    "level": "developed",
+    "word": "modify",
+    "meaning": "修正する",
+    "pos": "動",
+    "exampleSentence": "The researchers need to modify the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「修正する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0132-mutual",
+    "type": "vocab",
+    "level": "developed",
+    "word": "mutual",
+    "meaning": "相互の、共通の",
+    "pos": "形",
+    "exampleSentence": "The two countries reached a mutual agreement to share scientific data.",
+    "exampleJa": "その報告書はその問題について「相互の」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0133-nevertheless",
+    "type": "vocab",
+    "level": "developed",
+    "word": "nevertheless",
+    "meaning": "それにもかかわらず",
+    "pos": "副",
+    "exampleSentence": "The researchers nevertheless reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは利用可能な証拠を「それにもかかわらず」調べた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0134-notion",
+    "type": "vocab",
+    "level": "developed",
+    "word": "notion",
+    "meaning": "概念、考え",
+    "pos": "名",
+    "exampleSentence": "She expressed her notion during the discussion.",
+    "exampleJa": "その研究は現代社会における「概念」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0135-objective",
+    "type": "vocab",
+    "level": "developed",
+    "word": "objective",
+    "meaning": "目的",
+    "pos": "名",
+    "exampleSentence": "The committee considered the objective before making its decision.",
+    "exampleJa": "その研究は現代社会における「目的」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0136-obtain",
+    "type": "vocab",
+    "level": "developed",
+    "word": "obtain",
+    "meaning": "得る",
+    "pos": "動",
+    "exampleSentence": "The company plans to obtain the new system next year.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「得る」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0137-ongoing",
+    "type": "vocab",
+    "level": "developed",
+    "word": "ongoing",
+    "meaning": "進行中の",
+    "pos": "形",
+    "exampleSentence": "The team chose a ongoing approach to the problem.",
+    "exampleJa": "その報告書はその問題について「進行中の」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0138-orient",
+    "type": "vocab",
+    "level": "developed",
+    "word": "orient",
+    "meaning": "方向づける",
+    "pos": "動",
+    "exampleSentence": "Many people orient differently when the situation changes.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「方向づける」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0139-outcome",
+    "type": "vocab",
+    "level": "developed",
+    "word": "outcome",
+    "meaning": "結果",
+    "pos": "名",
+    "exampleSentence": "The outcome of the experiment depended on how carefully the samples were prepared.",
+    "exampleJa": "その研究は現代社会における「結果」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0140-overall",
+    "type": "vocab",
+    "level": "developed",
+    "word": "overall",
+    "meaning": "全体的な",
+    "pos": "形",
+    "exampleSentence": "The team chose a overall approach to the problem.",
+    "exampleJa": "その報告書はその問題について「全体的な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0141-paradigm",
+    "type": "vocab",
+    "level": "developed",
+    "word": "paradigm",
+    "meaning": "枠組み、パラダイム",
+    "pos": "名",
+    "exampleSentence": "The discovery led scientists to reconsider the traditional paradigm of the field.",
+    "exampleJa": "その研究は現代社会における「枠組み」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0142-perceive",
+    "type": "vocab",
+    "level": "developed",
+    "word": "perceive",
+    "meaning": "認識する",
+    "pos": "動",
+    "exampleSentence": "Many students perceive that the new system will improve their study habits.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「認識する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0143-persistent",
+    "type": "vocab",
+    "level": "developed",
+    "word": "persistent",
+    "meaning": "持続する、粘り強い",
+    "pos": "形",
+    "exampleSentence": "The team chose a persistent approach to the problem.",
+    "exampleJa": "その報告書はその問題について「持続する」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0144-perspective",
+    "type": "vocab",
+    "level": "developed",
+    "word": "perspective",
+    "meaning": "観点、見方",
+    "pos": "名",
+    "exampleSentence": "The committee considered the perspective before making its decision.",
+    "exampleJa": "その研究は現代社会における「観点」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0145-preliminary",
+    "type": "vocab",
+    "level": "developed",
+    "word": "preliminary",
+    "meaning": "予備的な",
+    "pos": "形",
+    "exampleSentence": "The researchers considered the preliminary option before making a decision.",
+    "exampleJa": "その報告書はその問題について「予備的な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0146-predominant",
+    "type": "vocab",
+    "level": "developed",
+    "word": "predominant",
+    "meaning": "支配的な",
+    "pos": "形",
+    "exampleSentence": "The team chose a predominant approach to the problem.",
+    "exampleJa": "その報告書はその問題について「支配的な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0147-presume",
+    "type": "vocab",
+    "level": "developed",
+    "word": "presume",
+    "meaning": "推定する",
+    "pos": "動",
+    "exampleSentence": "The study aims to presume how the process works.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「推定する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0148-prioritize",
+    "type": "vocab",
+    "level": "developed",
+    "word": "prioritize",
+    "meaning": "優先する",
+    "pos": "動",
+    "exampleSentence": "The company plans to prioritize the new system next year.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「優先する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0149-profound",
+    "type": "vocab",
+    "level": "developed",
+    "word": "profound",
+    "meaning": "深い、重大な",
+    "pos": "形",
+    "exampleSentence": "The team chose a profound approach to the problem.",
+    "exampleJa": "その報告書はその問題について「深い」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0150-promote",
+    "type": "vocab",
+    "level": "developed",
+    "word": "promote",
+    "meaning": "促進する、昇進させる",
+    "pos": "動",
+    "exampleSentence": "Better planning can promote unnecessary costs.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「促進する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0151-proportion",
+    "type": "vocab",
+    "level": "developed",
+    "word": "proportion",
+    "meaning": "割合",
+    "pos": "名",
+    "exampleSentence": "The study measured the proportion for each group.",
+    "exampleJa": "その研究は現代社会における「割合」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0152-prospective",
+    "type": "vocab",
+    "level": "developed",
+    "word": "prospective",
+    "meaning": "将来の、見込みのある",
+    "pos": "形",
+    "exampleSentence": "The team chose a prospective approach to the problem.",
+    "exampleJa": "その報告書はその問題について「将来の」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0153-pursue",
+    "type": "vocab",
+    "level": "developed",
+    "word": "pursue",
+    "meaning": "追求する",
+    "pos": "動",
+    "exampleSentence": "The team worked together to pursue the issue.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「追求する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0154-rational",
+    "type": "vocab",
+    "level": "developed",
+    "word": "rational",
+    "meaning": "合理的な",
+    "pos": "形",
+    "exampleSentence": "The proposed solution is rational under the current conditions.",
+    "exampleJa": "その報告書はその問題について「合理的な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0155-refine",
+    "type": "vocab",
+    "level": "developed",
+    "word": "refine",
+    "meaning": "洗練する、精製する",
+    "pos": "動",
+    "exampleSentence": "The researchers need to refine the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「洗練する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0156-reinforce",
+    "type": "vocab",
+    "level": "developed",
+    "word": "reinforce",
+    "meaning": "強化する",
+    "pos": "動",
+    "exampleSentence": "Better planning can reinforce unnecessary costs.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「強化する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0157-reluctant",
+    "type": "vocab",
+    "level": "developed",
+    "word": "reluctant",
+    "meaning": "気が進まない",
+    "pos": "形",
+    "exampleSentence": "The researchers considered the reluctant option before making a decision.",
+    "exampleJa": "その報告書はその問題について「気が進まない」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0158-reside",
+    "type": "vocab",
+    "level": "developed",
+    "word": "reside",
+    "meaning": "住む、存在する",
+    "pos": "動",
+    "exampleSentence": "Similar problems may reside when the system is overloaded.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「住む」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0159-resolve",
+    "type": "vocab",
+    "level": "developed",
+    "word": "resolve",
+    "meaning": "解決する、決意する",
+    "pos": "動",
+    "exampleSentence": "The team worked together to resolve the issue.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「解決する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0160-retain",
+    "type": "vocab",
+    "level": "developed",
+    "word": "retain",
+    "meaning": "保持する",
+    "pos": "動",
+    "exampleSentence": "The company plans to retain the new system next year.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「保持する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0161-reveal",
+    "type": "vocab",
+    "level": "developed",
+    "word": "reveal",
+    "meaning": "明らかにする",
+    "pos": "動",
+    "exampleSentence": "The researchers need to reveal the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「明らかにする」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0162-rigid",
+    "type": "vocab",
+    "level": "developed",
+    "word": "rigid",
+    "meaning": "硬直した、厳格な",
+    "pos": "形",
+    "exampleSentence": "The report describes the rigid characteristics of the system.",
+    "exampleJa": "その報告書はその問題について「硬直した」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0163-robust",
+    "type": "vocab",
+    "level": "developed",
+    "word": "robust",
+    "meaning": "強固な、たくましい",
+    "pos": "形",
+    "exampleSentence": "The researchers considered the robust option before making a decision.",
+    "exampleJa": "その報告書はその問題について「強固な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0164-scarce",
+    "type": "vocab",
+    "level": "developed",
+    "word": "scarce",
+    "meaning": "乏しい",
+    "pos": "形",
+    "exampleSentence": "The team chose a scarce approach to the problem.",
+    "exampleJa": "その報告書はその問題について「乏しい」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0165-significant",
+    "type": "vocab",
+    "level": "developed",
+    "word": "significant",
+    "meaning": "重要な、かなりの",
+    "pos": "形",
+    "exampleSentence": "The plan appears significant after the latest review.",
+    "exampleJa": "その報告書はその問題について「重要な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0166-simultaneous",
+    "type": "vocab",
+    "level": "developed",
+    "word": "simultaneous",
+    "meaning": "同時の",
+    "pos": "形",
+    "exampleSentence": "The researchers considered the simultaneous option before making a decision.",
+    "exampleJa": "その報告書はその問題について「同時の」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0167-sole",
+    "type": "vocab",
+    "level": "developed",
+    "word": "sole",
+    "meaning": "唯一の",
+    "pos": "形",
+    "exampleSentence": "The team chose a sole approach to the problem.",
+    "exampleJa": "その報告書はその問題について「唯一の」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0168-somewhat",
+    "type": "vocab",
+    "level": "developed",
+    "word": "somewhat",
+    "meaning": "いくぶん",
+    "pos": "副",
+    "exampleSentence": "The researchers somewhat reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは利用可能な証拠を「いくぶん」調べた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0169-specify",
+    "type": "vocab",
+    "level": "developed",
+    "word": "specify",
+    "meaning": "明記する",
+    "pos": "動",
+    "exampleSentence": "The company plans to specify the new system next year.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「明記する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0170-stable",
+    "type": "vocab",
+    "level": "developed",
+    "word": "stable",
+    "meaning": "安定した",
+    "pos": "形",
+    "exampleSentence": "The patient is now in a stable condition.",
+    "exampleJa": "その報告書はその問題について「安定した」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0171-subordinate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "subordinate",
+    "meaning": "従属した",
+    "pos": "形",
+    "exampleSentence": "The report describes the subordinate characteristics of the system.",
+    "exampleJa": "その報告書はその問題について「従属した」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0172-subsequent",
+    "type": "vocab",
+    "level": "developed",
+    "word": "subsequent",
+    "meaning": "その後の",
+    "pos": "形",
+    "exampleSentence": "The researchers considered the subsequent option before making a decision.",
+    "exampleJa": "その報告書はその問題について「その後の」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0173-substitute",
+    "type": "vocab",
+    "level": "developed",
+    "word": "substitute",
+    "meaning": "代替物",
+    "pos": "名",
+    "exampleSentence": "The report describes the substitute in detail.",
+    "exampleJa": "その研究は現代社会における「代替物」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0174-sufficient",
+    "type": "vocab",
+    "level": "developed",
+    "word": "sufficient",
+    "meaning": "十分な",
+    "pos": "形",
+    "exampleSentence": "The report describes the sufficient characteristics of the system.",
+    "exampleJa": "その報告書はその問題について「十分な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0175-suppress",
+    "type": "vocab",
+    "level": "developed",
+    "word": "suppress",
+    "meaning": "抑える",
+    "pos": "動",
+    "exampleSentence": "The researchers observed how the situation changed when they suppress.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「抑える」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0176-sustain",
+    "type": "vocab",
+    "level": "developed",
+    "word": "sustain",
+    "meaning": "維持する、支える",
+    "pos": "動",
+    "exampleSentence": "The program is designed to sustain pressure on local hospitals.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「維持する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0177-target",
+    "type": "vocab",
+    "level": "developed",
+    "word": "target",
+    "meaning": "目標とする",
+    "pos": "動",
+    "exampleSentence": "The team worked together to target the issue.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「目標とする」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0178-terminate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "terminate",
+    "meaning": "終える",
+    "pos": "動",
+    "exampleSentence": "The researchers observed how the situation changed when they terminate.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「終える」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0179-thereby",
+    "type": "vocab",
+    "level": "developed",
+    "word": "thereby",
+    "meaning": "それによって",
+    "pos": "副",
+    "exampleSentence": "The researchers thereby reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは利用可能な証拠を「それによって」調べた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0180-therefore",
+    "type": "vocab",
+    "level": "developed",
+    "word": "therefore",
+    "meaning": "したがって",
+    "pos": "副",
+    "exampleSentence": "The researchers therefore reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは利用可能な証拠を「したがって」調べた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0181-threshold",
+    "type": "vocab",
+    "level": "developed",
+    "word": "threshold",
+    "meaning": "境界、しきい値",
+    "pos": "名",
+    "exampleSentence": "The threshold became an important part of the discussion.",
+    "exampleJa": "その研究は現代社会における「境界」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0182-transmit",
+    "type": "vocab",
+    "level": "developed",
+    "word": "transmit",
+    "meaning": "伝える、送る",
+    "pos": "動",
+    "exampleSentence": "The process can transmit under certain conditions.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「伝える」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0183-transform",
+    "type": "vocab",
+    "level": "developed",
+    "word": "transform",
+    "meaning": "変える、変換する",
+    "pos": "動",
+    "exampleSentence": "The team worked together to transform the issue.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「変える」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0184-undergo",
+    "type": "vocab",
+    "level": "developed",
+    "word": "undergo",
+    "meaning": "経験する、受ける",
+    "pos": "動",
+    "exampleSentence": "The bridge will undergo major repairs next year.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「経験する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0185-underlying",
+    "type": "vocab",
+    "level": "developed",
+    "word": "underlying",
+    "meaning": "根底にある",
+    "pos": "形",
+    "exampleSentence": "The team chose a underlying approach to the problem.",
+    "exampleJa": "その報告書はその問題について「根底にある」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0186-unify",
+    "type": "vocab",
+    "level": "developed",
+    "word": "unify",
+    "meaning": "統一する",
+    "pos": "動",
+    "exampleSentence": "The team worked together to unify the issue.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「統一する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0187-utilize",
+    "type": "vocab",
+    "level": "developed",
+    "word": "utilize",
+    "meaning": "利用する",
+    "pos": "動",
+    "exampleSentence": "The company plans to utilize the new system next year.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「利用する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0188-valid",
+    "type": "vocab",
+    "level": "developed",
+    "word": "valid",
+    "meaning": "妥当な、有効な",
+    "pos": "形",
+    "exampleSentence": "The method is considered valid for small experiments.",
+    "exampleJa": "その報告書はその問題について「妥当な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0189-vast",
+    "type": "vocab",
+    "level": "developed",
+    "word": "vast",
+    "meaning": "広大な、非常に大きい",
+    "pos": "形",
+    "exampleSentence": "The report describes the vast characteristics of the system.",
+    "exampleJa": "その報告書はその問題について「広大な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0190-virtually",
+    "type": "vocab",
+    "level": "developed",
+    "word": "virtually",
+    "meaning": "事実上、ほぼ",
+    "pos": "副",
+    "exampleSentence": "The researchers virtually reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは利用可能な証拠を「事実上」調べた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0191-voluntary",
+    "type": "vocab",
+    "level": "developed",
+    "word": "voluntary",
+    "meaning": "自発的な",
+    "pos": "形",
+    "exampleSentence": "Participation in the survey is voluntary, so students may refuse without penalty.",
+    "exampleJa": "その報告書はその問題について「自発的な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0192-widespread",
+    "type": "vocab",
+    "level": "developed",
+    "word": "widespread",
+    "meaning": "広く行き渡った",
+    "pos": "形",
+    "exampleSentence": "The report describes the widespread characteristics of the system.",
+    "exampleJa": "その報告書はその問題について「広く行き渡った」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0193-withdraw",
+    "type": "vocab",
+    "level": "developed",
+    "word": "withdraw",
+    "meaning": "撤回する、引き出す",
+    "pos": "動",
+    "exampleSentence": "The company decided to withdraw the product after several safety complaints.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「撤回する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0194-whereas",
+    "type": "vocab",
+    "level": "developed",
+    "word": "whereas",
+    "meaning": "～である一方",
+    "pos": "接",
+    "exampleSentence": "The conjunction whereas can connect two related ideas in a sentence.",
+    "exampleJa": "その報告書では「～である一方」の問題が論じられている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0195-whereby",
+    "type": "vocab",
+    "level": "developed",
+    "word": "whereby",
+    "meaning": "それによって",
+    "pos": "副",
+    "exampleSentence": "The researchers whereby reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは利用可能な証拠を「それによって」調べた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0196-abolition",
+    "type": "vocab",
+    "level": "developed",
+    "word": "abolition",
+    "meaning": "廃止",
+    "pos": "名",
+    "exampleSentence": "The abolition became an important part of the discussion.",
+    "exampleJa": "その研究は現代社会における「廃止」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0197-acceleration",
+    "type": "vocab",
+    "level": "developed",
+    "word": "acceleration",
+    "meaning": "加速",
+    "pos": "名",
+    "exampleSentence": "The report describes the acceleration in detail.",
+    "exampleJa": "その研究は現代社会における「加速」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0198-accessibility",
+    "type": "vocab",
+    "level": "developed",
+    "word": "accessibility",
+    "meaning": "利用しやすさ",
+    "pos": "名",
+    "exampleSentence": "The committee considered the accessibility before making its decision.",
+    "exampleJa": "その研究は現代社会における「利用しやすさ」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0199-accumulation",
+    "type": "vocab",
+    "level": "developed",
+    "word": "accumulation",
+    "meaning": "蓄積",
+    "pos": "名",
+    "exampleSentence": "The accumulation became an important part of the discussion.",
+    "exampleJa": "その研究は現代社会における「蓄積」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0200-adapt",
+    "type": "vocab",
+    "level": "developed",
+    "word": "adapt",
+    "meaning": "適応する",
+    "pos": "動",
+    "exampleSentence": "Animals must adapt to changes in their environment.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「適応する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0201-administrative",
+    "type": "vocab",
+    "level": "developed",
+    "word": "administrative",
+    "meaning": "行政上の",
+    "pos": "形",
+    "exampleSentence": "The report describes the administrative characteristics of the system.",
+    "exampleJa": "その報告書はその問題について「行政上の」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0202-advantageous",
+    "type": "vocab",
+    "level": "developed",
+    "word": "advantageous",
+    "meaning": "有利な",
+    "pos": "形",
+    "exampleSentence": "The researchers considered the advantageous option before making a decision.",
+    "exampleJa": "その報告書はその問題について「有利な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0203-adverse",
+    "type": "vocab",
+    "level": "developed",
+    "word": "adverse",
+    "meaning": "不利な、逆効果の",
+    "pos": "形",
+    "exampleSentence": "The treatment can have adverse effects in patients with certain allergies.",
+    "exampleJa": "その報告書はその問題について「不利な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0204-albeit",
+    "type": "vocab",
+    "level": "developed",
+    "word": "albeit",
+    "meaning": "～にもかかわらず",
+    "pos": "接",
+    "exampleSentence": "The conjunction albeit can connect two related ideas in a sentence.",
+    "exampleJa": "その報告書では「～にもかかわらず」の問題が論じられている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0205-alignment",
+    "type": "vocab",
+    "level": "developed",
+    "word": "alignment",
+    "meaning": "整列、連携",
+    "pos": "名",
+    "exampleSentence": "The alignment became an important part of the discussion.",
+    "exampleJa": "その研究は現代社会における「整列」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0206-allowance",
+    "type": "vocab",
+    "level": "developed",
+    "word": "allowance",
+    "meaning": "手当、許容量",
+    "pos": "名",
+    "exampleSentence": "The allowance changed significantly after the policy was introduced.",
+    "exampleJa": "その研究は現代社会における「手当」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0207-amplify",
+    "type": "vocab",
+    "level": "developed",
+    "word": "amplify",
+    "meaning": "増幅する",
+    "pos": "動",
+    "exampleSentence": "The team worked together to amplify the issue.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「増幅する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0208-appraisal",
+    "type": "vocab",
+    "level": "developed",
+    "word": "appraisal",
+    "meaning": "評価",
+    "pos": "名",
+    "exampleSentence": "The appraisal became an important part of the discussion.",
+    "exampleJa": "その研究は現代社会における「評価」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0209-articulate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "articulate",
+    "meaning": "明確に述べる",
+    "pos": "動",
+    "exampleSentence": "The report articulate why the policy was changed.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「明確に述べる」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0210-aspect",
+    "type": "vocab",
+    "level": "developed",
+    "word": "aspect",
+    "meaning": "側面",
+    "pos": "名",
+    "exampleSentence": "The committee considered the aspect before making its decision.",
+    "exampleJa": "その研究は現代社会における「側面」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0211-assure",
+    "type": "vocab",
+    "level": "developed",
+    "word": "assure",
+    "meaning": "保証する",
+    "pos": "動",
+    "exampleSentence": "The company plans to assure the new system next year.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「保証する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0212-attainment",
+    "type": "vocab",
+    "level": "developed",
+    "word": "attainment",
+    "meaning": "達成",
+    "pos": "名",
+    "exampleSentence": "The report describes the attainment in detail.",
+    "exampleJa": "その研究は現代社会における「達成」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0213-behalf",
+    "type": "vocab",
+    "level": "developed",
+    "word": "behalf",
+    "meaning": "代わり",
+    "pos": "名",
+    "exampleSentence": "The committee considered the behalf before making its decision.",
+    "exampleJa": "その研究は現代社会における「代わり」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0214-beneficial",
+    "type": "vocab",
+    "level": "developed",
+    "word": "beneficial",
+    "meaning": "有益な",
+    "pos": "形",
+    "exampleSentence": "The researchers considered the beneficial option before making a decision.",
+    "exampleJa": "その報告書はその問題について「有益な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0215-coexist",
+    "type": "vocab",
+    "level": "developed",
+    "word": "coexist",
+    "meaning": "共存する",
+    "pos": "動",
+    "exampleSentence": "The researchers need to coexist the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「共存する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0216-commodity",
+    "type": "vocab",
+    "level": "developed",
+    "word": "commodity",
+    "meaning": "商品、日用品",
+    "pos": "名",
+    "exampleSentence": "The committee considered the commodity before making its decision.",
+    "exampleJa": "その研究は現代社会における「商品」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0217-compelling",
+    "type": "vocab",
+    "level": "developed",
+    "word": "compelling",
+    "meaning": "説得力のある",
+    "pos": "形",
+    "exampleSentence": "The researchers considered the compelling option before making a decision.",
+    "exampleJa": "その報告書はその問題について「説得力のある」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0218-competent",
+    "type": "vocab",
+    "level": "developed",
+    "word": "competent",
+    "meaning": "有能な",
+    "pos": "形",
+    "exampleSentence": "The team chose a competent approach to the problem.",
+    "exampleJa": "その報告書はその問題について「有能な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0219-comprise",
+    "type": "vocab",
+    "level": "developed",
+    "word": "comprise",
+    "meaning": "構成する",
+    "pos": "動",
+    "exampleSentence": "The team worked together to comprise the issue.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「構成する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0220-conceivably",
+    "type": "vocab",
+    "level": "developed",
+    "word": "conceivably",
+    "meaning": "考えられる限りでは",
+    "pos": "副",
+    "exampleSentence": "The researchers conceivably reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは利用可能な証拠を「考えられる限りでは」調べた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0221-consensus",
+    "type": "vocab",
+    "level": "developed",
+    "word": "consensus",
+    "meaning": "合意",
+    "pos": "名",
+    "exampleSentence": "The report describes the consensus in detail.",
+    "exampleJa": "その研究は現代社会における「合意」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0222-constitutive",
+    "type": "vocab",
+    "level": "developed",
+    "word": "constitutive",
+    "meaning": "構成上の",
+    "pos": "形",
+    "exampleSentence": "The report describes the constitutive characteristics of the system.",
+    "exampleJa": "その報告書はその問題について「構成上の」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0223-constrain",
+    "type": "vocab",
+    "level": "developed",
+    "word": "constrain",
+    "meaning": "制約する",
+    "pos": "動",
+    "exampleSentence": "The company plans to constrain the new system next year.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「制約する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0224-consultation",
+    "type": "vocab",
+    "level": "developed",
+    "word": "consultation",
+    "meaning": "相談、協議",
+    "pos": "名",
+    "exampleSentence": "The report describes the consultation in detail.",
+    "exampleJa": "その研究は現代社会における「相談」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0225-contend",
+    "type": "vocab",
+    "level": "developed",
+    "word": "contend",
+    "meaning": "主張する、競う",
+    "pos": "動",
+    "exampleSentence": "The author contend the problem in the final chapter.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「主張する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0226-contrary",
+    "type": "vocab",
+    "level": "developed",
+    "word": "contrary",
+    "meaning": "反対の",
+    "pos": "形",
+    "exampleSentence": "The researchers considered the contrary option before making a decision.",
+    "exampleJa": "その報告書はその問題について「反対の」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0227-contribute",
+    "type": "vocab",
+    "level": "developed",
+    "word": "contribute",
+    "meaning": "貢献する",
+    "pos": "動",
+    "exampleSentence": "The researchers need to contribute the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「貢献する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0228-conversion",
+    "type": "vocab",
+    "level": "developed",
+    "word": "conversion",
+    "meaning": "転換",
+    "pos": "名",
+    "exampleSentence": "The committee considered the conversion before making its decision.",
+    "exampleJa": "その研究は現代社会における「転換」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0229-coordinate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "coordinate",
+    "meaning": "調整する",
+    "pos": "動",
+    "exampleSentence": "The company plans to coordinate the new system next year.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「調整する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0230-credible",
+    "type": "vocab",
+    "level": "developed",
+    "word": "credible",
+    "meaning": "信頼できる",
+    "pos": "形",
+    "exampleSentence": "The team chose a credible approach to the problem.",
+    "exampleJa": "その報告書はその問題について「信頼できる」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0231-criterion",
+    "type": "vocab",
+    "level": "developed",
+    "word": "criterion",
+    "meaning": "基準",
+    "pos": "名",
+    "exampleSentence": "The committee considered the criterion before making its decision.",
+    "exampleJa": "その研究は現代社会における「基準」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0232-crucially",
+    "type": "vocab",
+    "level": "developed",
+    "word": "crucially",
+    "meaning": "極めて重要なことに",
+    "pos": "副",
+    "exampleSentence": "The results were crucially different from the earlier findings.",
+    "exampleJa": "研究者たちは利用可能な証拠を「極めて重要なことに」調べた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0233-currency",
+    "type": "vocab",
+    "level": "developed",
+    "word": "currency",
+    "meaning": "通貨",
+    "pos": "名",
+    "exampleSentence": "The report describes the currency in detail.",
+    "exampleJa": "その研究は現代社会における「通貨」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0234-deduction",
+    "type": "vocab",
+    "level": "developed",
+    "word": "deduction",
+    "meaning": "控除、推論",
+    "pos": "名",
+    "exampleSentence": "The committee considered the deduction before making its decision.",
+    "exampleJa": "その研究は現代社会における「控除」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0235-depict",
+    "type": "vocab",
+    "level": "developed",
+    "word": "depict",
+    "meaning": "描く、描写する",
+    "pos": "動",
+    "exampleSentence": "The company plans to depict the new system next year.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「描く」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0236-depreciate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "depreciate",
+    "meaning": "価値が下がる",
+    "pos": "動",
+    "exampleSentence": "The process can depreciate under certain conditions.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「価値が下がる」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0237-deprive",
+    "type": "vocab",
+    "level": "developed",
+    "word": "deprive",
+    "meaning": "奪う",
+    "pos": "動",
+    "exampleSentence": "Many people deprive differently when the situation changes.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「奪う」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0238-devote",
+    "type": "vocab",
+    "level": "developed",
+    "word": "devote",
+    "meaning": "ささげる",
+    "pos": "動",
+    "exampleSentence": "The researchers observed how the situation changed when they devote.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「ささげる」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0239-discrete",
+    "type": "vocab",
+    "level": "developed",
+    "word": "discrete",
+    "meaning": "個別の",
+    "pos": "形",
+    "exampleSentence": "The team chose a discrete approach to the problem.",
+    "exampleJa": "その報告書はその問題について「個別の」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0240-discriminate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "discriminate",
+    "meaning": "差別する、識別する",
+    "pos": "動",
+    "exampleSentence": "The team worked together to discriminate the issue.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「差別する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0241-display",
+    "type": "vocab",
+    "level": "developed",
+    "word": "display",
+    "meaning": "示す",
+    "pos": "動",
+    "exampleSentence": "The researchers observed how the situation changed when they display.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「示す」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0242-distinct",
+    "type": "vocab",
+    "level": "developed",
+    "word": "distinct",
+    "meaning": "明確に異なる",
+    "pos": "形",
+    "exampleSentence": "The team chose a distinct approach to the problem.",
+    "exampleJa": "その報告書はその問題について「明確に異なる」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0243-distribute",
+    "type": "vocab",
+    "level": "developed",
+    "word": "distribute",
+    "meaning": "分配する",
+    "pos": "動",
+    "exampleSentence": "The team worked together to distribute the issue.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「分配する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0244-diverse",
+    "type": "vocab",
+    "level": "developed",
+    "word": "diverse",
+    "meaning": "多様な",
+    "pos": "形",
+    "exampleSentence": "The researchers considered the diverse option before making a decision.",
+    "exampleJa": "その報告書はその問題について「多様な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0245-dominant",
+    "type": "vocab",
+    "level": "developed",
+    "word": "dominant",
+    "meaning": "支配的な",
+    "pos": "形",
+    "exampleSentence": "The team chose a dominant approach to the problem.",
+    "exampleJa": "その報告書はその問題について「支配的な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0246-dynamic",
+    "type": "vocab",
+    "level": "developed",
+    "word": "dynamic",
+    "meaning": "動的な",
+    "pos": "形",
+    "exampleSentence": "The report describes the dynamic characteristics of the system.",
+    "exampleJa": "その報告書はその問題について「動的な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0247-elaborate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "elaborate",
+    "meaning": "入念な",
+    "pos": "形",
+    "exampleSentence": "The architect designed an elaborate entrance for the new museum.",
+    "exampleJa": "その報告書はその問題について「入念な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0248-eligible",
+    "type": "vocab",
+    "level": "developed",
+    "word": "eligible",
+    "meaning": "資格のある",
+    "pos": "形",
+    "exampleSentence": "The team chose a eligible approach to the problem.",
+    "exampleJa": "その報告書はその問題について「資格のある」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0249-embody",
+    "type": "vocab",
+    "level": "developed",
+    "word": "embody",
+    "meaning": "具体化する、体現する",
+    "pos": "動",
+    "exampleSentence": "The team worked together to embody the issue.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「具体化する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0250-emerge",
+    "type": "vocab",
+    "level": "developed",
+    "word": "emerge",
+    "meaning": "現れる",
+    "pos": "動",
+    "exampleSentence": "Several problems emerged during the experiment.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「現れる」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0251-emphasize",
+    "type": "vocab",
+    "level": "developed",
+    "word": "emphasize",
+    "meaning": "強調する",
+    "pos": "動",
+    "exampleSentence": "The researchers need to emphasize the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「強調する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0252-encounter",
+    "type": "vocab",
+    "level": "developed",
+    "word": "encounter",
+    "meaning": "遭遇する",
+    "pos": "動",
+    "exampleSentence": "The team worked together to encounter the issue.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「遭遇する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0253-endure",
+    "type": "vocab",
+    "level": "developed",
+    "word": "endure",
+    "meaning": "耐える",
+    "pos": "動",
+    "exampleSentence": "The researchers observed how the situation changed when they endure.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「耐える」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0254-entail",
+    "type": "vocab",
+    "level": "developed",
+    "word": "entail",
+    "meaning": "伴う、必要とする",
+    "pos": "動",
+    "exampleSentence": "The new job entails working long hours during the busy season.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「伴う」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0255-entity",
+    "type": "vocab",
+    "level": "developed",
+    "word": "entity",
+    "meaning": "実体、存在",
+    "pos": "名",
+    "exampleSentence": "The committee considered the entity before making its decision.",
+    "exampleJa": "その研究は現代社会における「実体」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0256-exceed",
+    "type": "vocab",
+    "level": "developed",
+    "word": "exceed",
+    "meaning": "超える",
+    "pos": "動",
+    "exampleSentence": "The researchers observed how the situation changed when they exceed.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「超える」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0257-exhibit",
+    "type": "vocab",
+    "level": "developed",
+    "word": "exhibit",
+    "meaning": "示す、展示する",
+    "pos": "動",
+    "exampleSentence": "The researchers need to exhibit the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「示す」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0258-expand",
+    "type": "vocab",
+    "level": "developed",
+    "word": "expand",
+    "meaning": "拡大する",
+    "pos": "動",
+    "exampleSentence": "The company plans to expand its business overseas.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「拡大する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0259-expenditure",
+    "type": "vocab",
+    "level": "developed",
+    "word": "expenditure",
+    "meaning": "支出",
+    "pos": "名",
+    "exampleSentence": "The expenditure became an important part of the discussion.",
+    "exampleJa": "その研究は現代社会における「支出」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0260-explicitly",
+    "type": "vocab",
+    "level": "developed",
+    "word": "explicitly",
+    "meaning": "明示的に",
+    "pos": "副",
+    "exampleSentence": "The researchers explicitly reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは利用可能な証拠を「明示的に」調べた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0261-exposure",
+    "type": "vocab",
+    "level": "developed",
+    "word": "exposure",
+    "meaning": "さらされること、暴露",
+    "pos": "名",
+    "exampleSentence": "The committee considered the exposure before making its decision.",
+    "exampleJa": "その研究は現代社会における「さらされること」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0262-extract",
+    "type": "vocab",
+    "level": "developed",
+    "word": "extract",
+    "meaning": "抽出する",
+    "pos": "動",
+    "exampleSentence": "The company plans to extract the new system next year.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「抽出する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0263-fluctuation",
+    "type": "vocab",
+    "level": "developed",
+    "word": "fluctuation",
+    "meaning": "変動",
+    "pos": "名",
+    "exampleSentence": "The report describes the fluctuation in detail.",
+    "exampleJa": "その研究は現代社会における「変動」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0264-framework",
+    "type": "vocab",
+    "level": "developed",
+    "word": "framework",
+    "meaning": "枠組み",
+    "pos": "名",
+    "exampleSentence": "The new law provides a legal framework for regulating the industry.",
+    "exampleJa": "その研究は現代社会における「枠組み」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0265-fundamentally",
+    "type": "vocab",
+    "level": "developed",
+    "word": "fundamentally",
+    "meaning": "根本的に",
+    "pos": "副",
+    "exampleSentence": "The researchers fundamentally reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは利用可能な証拠を「根本的に」調べた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0266-identical",
+    "type": "vocab",
+    "level": "developed",
+    "word": "identical",
+    "meaning": "同一の",
+    "pos": "形",
+    "exampleSentence": "The team chose a identical approach to the problem.",
+    "exampleJa": "その報告書はその問題について「同一の」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0267-inherent",
+    "type": "vocab",
+    "level": "developed",
+    "word": "inherent",
+    "meaning": "固有の",
+    "pos": "形",
+    "exampleSentence": "Every method has inherent limitations that researchers need to consider.",
+    "exampleJa": "その報告書はその問題について「固有の」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0268-innovation",
+    "type": "vocab",
+    "level": "developed",
+    "word": "innovation",
+    "meaning": "革新",
+    "pos": "名",
+    "exampleSentence": "The innovation became an important part of the discussion.",
+    "exampleJa": "その研究は現代社会における「革新」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0269-insight",
+    "type": "vocab",
+    "level": "developed",
+    "word": "insight",
+    "meaning": "洞察",
+    "pos": "名",
+    "exampleSentence": "The report describes the insight in detail.",
+    "exampleJa": "その研究は現代社会における「洞察」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0270-intact",
+    "type": "vocab",
+    "level": "developed",
+    "word": "intact",
+    "meaning": "損なわれていない",
+    "pos": "形",
+    "exampleSentence": "The report describes the intact characteristics of the system.",
+    "exampleJa": "その報告書はその問題について「損なわれていない」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0271-intermediate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "intermediate",
+    "meaning": "中間の",
+    "pos": "形",
+    "exampleSentence": "The researchers considered the intermediate option before making a decision.",
+    "exampleJa": "その報告書はその問題について「中間の」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0272-intrinsic",
+    "type": "vocab",
+    "level": "developed",
+    "word": "intrinsic",
+    "meaning": "本質的な",
+    "pos": "形",
+    "exampleSentence": "The researchers argue that curiosity has intrinsic value even when it leads to no immediate reward.",
+    "exampleJa": "その報告書はその問題について「本質的な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0273-legitimate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "legitimate",
+    "meaning": "正当な、合法の",
+    "pos": "形",
+    "exampleSentence": "The report describes the legitimate characteristics of the system.",
+    "exampleJa": "その報告書はその問題について「正当な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0274-likelihood",
+    "type": "vocab",
+    "level": "developed",
+    "word": "likelihood",
+    "meaning": "可能性",
+    "pos": "名",
+    "exampleSentence": "The likelihood became an important part of the discussion.",
+    "exampleJa": "その研究は現代社会における「可能性」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0275-marginal",
+    "type": "vocab",
+    "level": "developed",
+    "word": "marginal",
+    "meaning": "ごくわずかな、周辺の",
+    "pos": "形",
+    "exampleSentence": "The team chose a marginal approach to the problem.",
+    "exampleJa": "その報告書はその問題について「ごくわずかな」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0276-merely",
+    "type": "vocab",
+    "level": "developed",
+    "word": "merely",
+    "meaning": "単に",
+    "pos": "副",
+    "exampleSentence": "The researchers merely reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは利用可能な証拠を「単に」調べた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0277-moderate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "moderate",
+    "meaning": "適度な",
+    "pos": "形",
+    "exampleSentence": "The researchers considered the moderate option before making a decision.",
+    "exampleJa": "その報告書はその問題について「適度な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0278-nonetheless",
+    "type": "vocab",
+    "level": "developed",
+    "word": "nonetheless",
+    "meaning": "それでもなお",
+    "pos": "副",
+    "exampleSentence": "The researchers nonetheless reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは利用可能な証拠を「それでもなお」調べた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0279-offset",
+    "type": "vocab",
+    "level": "developed",
+    "word": "offset",
+    "meaning": "相殺する",
+    "pos": "動",
+    "exampleSentence": "The team worked together to offset the issue.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「相殺する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0280-predetermine",
+    "type": "vocab",
+    "level": "developed",
+    "word": "predetermine",
+    "meaning": "あらかじめ決める",
+    "pos": "動",
+    "exampleSentence": "The committee decided to predetermine the new plan next month.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「あらかじめ決める」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0281-presumably",
+    "type": "vocab",
+    "level": "developed",
+    "word": "presumably",
+    "meaning": "おそらく",
+    "pos": "副",
+    "exampleSentence": "The researchers presumably reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは利用可能な証拠を「おそらく」調べた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0282-prevalent",
+    "type": "vocab",
+    "level": "developed",
+    "word": "prevalent",
+    "meaning": "普及している",
+    "pos": "形",
+    "exampleSentence": "The report describes the prevalent characteristics of the system.",
+    "exampleJa": "その報告書はその問題について「普及している」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0283-proceed",
+    "type": "vocab",
+    "level": "developed",
+    "word": "proceed",
+    "meaning": "進む",
+    "pos": "動",
+    "exampleSentence": "The researchers observed how the situation changed when they proceed.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「進む」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0284-prohibit",
+    "type": "vocab",
+    "level": "developed",
+    "word": "prohibit",
+    "meaning": "禁止する",
+    "pos": "動",
+    "exampleSentence": "The researchers need to prohibit the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「禁止する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0285-proportionate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "proportionate",
+    "meaning": "釣り合いの取れた",
+    "pos": "形",
+    "exampleSentence": "The report describes the proportionate characteristics of the system.",
+    "exampleJa": "その報告書はその問題について「釣り合いの取れた」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0286-protocol",
+    "type": "vocab",
+    "level": "developed",
+    "word": "protocol",
+    "meaning": "手順、議定書",
+    "pos": "名",
+    "exampleSentence": "The protocol became an important part of the discussion.",
+    "exampleJa": "その研究は現代社会における「手順」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0287-promptly",
+    "type": "vocab",
+    "level": "developed",
+    "word": "promptly",
+    "meaning": "すぐに",
+    "pos": "副",
+    "exampleSentence": "The manager ordered the work to stop promptly.",
+    "exampleJa": "研究者たちは利用可能な証拠を「すぐに」調べた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0288-radical",
+    "type": "vocab",
+    "level": "developed",
+    "word": "radical",
+    "meaning": "根本的な、急進的な",
+    "pos": "形",
+    "exampleSentence": "The report describes the radical characteristics of the system.",
+    "exampleJa": "その報告書はその問題について「根本的な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0289-reconcile",
+    "type": "vocab",
+    "level": "developed",
+    "word": "reconcile",
+    "meaning": "調和させる",
+    "pos": "動",
+    "exampleSentence": "The company plans to reconcile the new system next year.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「調和させる」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0290-regulate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "regulate",
+    "meaning": "規制する",
+    "pos": "動",
+    "exampleSentence": "The researchers need to regulate the problem before drawing a conclusion.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「規制する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0291-relatively",
+    "type": "vocab",
+    "level": "developed",
+    "word": "relatively",
+    "meaning": "比較的",
+    "pos": "副",
+    "exampleSentence": "The researchers relatively reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは利用可能な証拠を「比較的」調べた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0292-reluctance",
+    "type": "vocab",
+    "level": "developed",
+    "word": "reluctance",
+    "meaning": "気乗りしないこと",
+    "pos": "名",
+    "exampleSentence": "The reluctance became an important part of the discussion.",
+    "exampleJa": "その研究は現代社会における「気乗りしないこと」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0293-respective",
+    "type": "vocab",
+    "level": "developed",
+    "word": "respective",
+    "meaning": "それぞれの",
+    "pos": "形",
+    "exampleSentence": "The team chose a respective approach to the problem.",
+    "exampleJa": "その報告書はその問題について「それぞれの」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0294-restore",
+    "type": "vocab",
+    "level": "developed",
+    "word": "restore",
+    "meaning": "回復させる",
+    "pos": "動",
+    "exampleSentence": "The team worked together to restore the issue.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「回復させる」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0295-restrict",
+    "type": "vocab",
+    "level": "developed",
+    "word": "restrict",
+    "meaning": "制限する",
+    "pos": "動",
+    "exampleSentence": "The new policy could restrict the risk of accidents.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「制限する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0296-reliable",
+    "type": "vocab",
+    "level": "developed",
+    "word": "reliable",
+    "meaning": "信頼できる",
+    "pos": "形",
+    "exampleSentence": "The team chose a reliable approach to the problem.",
+    "exampleJa": "その報告書はその問題について「信頼できる」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0297-scenario",
+    "type": "vocab",
+    "level": "developed",
+    "word": "scenario",
+    "meaning": "想定、筋書き",
+    "pos": "名",
+    "exampleSentence": "The committee considered the scenario before making its decision.",
+    "exampleJa": "その研究は現代社会における「想定」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0298-significance",
+    "type": "vocab",
+    "level": "developed",
+    "word": "significance",
+    "meaning": "重要性",
+    "pos": "名",
+    "exampleSentence": "The significance became an important part of the discussion.",
+    "exampleJa": "その研究は現代社会における「重要性」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0299-similarly",
+    "type": "vocab",
+    "level": "developed",
+    "word": "similarly",
+    "meaning": "同様に",
+    "pos": "副",
+    "exampleSentence": "The researchers similarly reviewed the evidence before publishing their findings.",
+    "exampleJa": "研究者たちは利用可能な証拠を「同様に」調べた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0300-specialize",
+    "type": "vocab",
+    "level": "developed",
+    "word": "specialize",
+    "meaning": "専門化する",
+    "pos": "動",
+    "exampleSentence": "The team worked together to specialize the issue.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「専門化する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0301-specified",
+    "type": "vocab",
+    "level": "developed",
+    "word": "specified",
+    "meaning": "明記された",
+    "pos": "形",
+    "exampleSentence": "The researchers considered the specified option before making a decision.",
+    "exampleJa": "その報告書はその問題について「明記された」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0302-statistical",
+    "type": "vocab",
+    "level": "developed",
+    "word": "statistical",
+    "meaning": "統計の",
+    "pos": "形",
+    "exampleSentence": "The team chose a statistical approach to the problem.",
+    "exampleJa": "その報告書はその問題について「統計の」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0303-strategic",
+    "type": "vocab",
+    "level": "developed",
+    "word": "strategic",
+    "meaning": "戦略的な",
+    "pos": "形",
+    "exampleSentence": "The report describes the strategic characteristics of the system.",
+    "exampleJa": "その報告書はその問題について「戦略的な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0304-substantial",
+    "type": "vocab",
+    "level": "developed",
+    "word": "substantial",
+    "meaning": "かなりの、実質的な",
+    "pos": "形",
+    "exampleSentence": "The researchers considered the substantial option before making a decision.",
+    "exampleJa": "その報告書はその問題について「かなりの」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0305-successive",
+    "type": "vocab",
+    "level": "developed",
+    "word": "successive",
+    "meaning": "連続する",
+    "pos": "形",
+    "exampleSentence": "The team chose a successive approach to the problem.",
+    "exampleJa": "その報告書はその問題について「連続する」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0306-supplement",
+    "type": "vocab",
+    "level": "developed",
+    "word": "supplement",
+    "meaning": "補う",
+    "pos": "動",
+    "exampleSentence": "Many people supplement differently when the situation changes.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「補う」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0307-transformation",
+    "type": "vocab",
+    "level": "developed",
+    "word": "transformation",
+    "meaning": "変換、変革",
+    "pos": "名",
+    "exampleSentence": "The transformation became an important part of the discussion.",
+    "exampleJa": "その研究は現代社会における「変換」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0308-trigger",
+    "type": "vocab",
+    "level": "developed",
+    "word": "trigger",
+    "meaning": "引き起こす",
+    "pos": "動",
+    "exampleSentence": "The process can trigger under certain conditions.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「引き起こす」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0309-ultimate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "ultimate",
+    "meaning": "究極の、最終的な",
+    "pos": "形",
+    "exampleSentence": "The report describes the ultimate characteristics of the system.",
+    "exampleJa": "その報告書はその問題について「究極の」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0310-undertake",
+    "type": "vocab",
+    "level": "developed",
+    "word": "undertake",
+    "meaning": "引き受ける",
+    "pos": "動",
+    "exampleSentence": "The researchers observed how the situation changed when they undertake.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「引き受ける」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0311-unprecedented",
+    "type": "vocab",
+    "level": "developed",
+    "word": "unprecedented",
+    "meaning": "前例のない",
+    "pos": "形",
+    "exampleSentence": "The city experienced unprecedented rainfall during the summer storm.",
+    "exampleJa": "その報告書はその問題について「前例のない」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0312-uphold",
+    "type": "vocab",
+    "level": "developed",
+    "word": "uphold",
+    "meaning": "支持する、維持する",
+    "pos": "動",
+    "exampleSentence": "The team worked together to uphold the issue.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「支持する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0313-validity",
+    "type": "vocab",
+    "level": "developed",
+    "word": "validity",
+    "meaning": "妥当性",
+    "pos": "名",
+    "exampleSentence": "The validity became an important part of the discussion.",
+    "exampleJa": "その研究は現代社会における「妥当性」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0314-versatile",
+    "type": "vocab",
+    "level": "developed",
+    "word": "versatile",
+    "meaning": "多才な、多用途の",
+    "pos": "形",
+    "exampleSentence": "A tablet is a versatile tool that can be used for study, communication, and entertainment.",
+    "exampleJa": "その報告書はその問題について「多才な」説明を示している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0315-virtue",
+    "type": "vocab",
+    "level": "developed",
+    "word": "virtue",
+    "meaning": "美徳、長所",
+    "pos": "名",
+    "exampleSentence": "The committee considered the virtue before making its decision.",
+    "exampleJa": "その研究は現代社会における「美徳」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0316-warrant",
+    "type": "vocab",
+    "level": "developed",
+    "word": "warrant",
+    "meaning": "正当化する",
+    "pos": "動",
+    "exampleSentence": "The company plans to warrant the new system next year.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「正当化する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0317-withdrawal",
+    "type": "vocab",
+    "level": "developed",
+    "word": "withdrawal",
+    "meaning": "撤回、引き出し",
+    "pos": "名",
+    "exampleSentence": "The report describes the withdrawal in detail.",
+    "exampleJa": "その研究は現代社会における「撤回」の役割を調べている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0318-worsen",
+    "type": "vocab",
+    "level": "developed",
+    "word": "worsen",
+    "meaning": "悪化する",
+    "pos": "動",
+    "exampleSentence": "Better planning can worsen unnecessary costs.",
+    "exampleJa": "研究者たちはしばしば変化の要因を「悪化する」。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  }
+]
