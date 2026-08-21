@@ -1,0 +1,18 @@
+{
+  "total_vocab_records": 6034,
+  "pos_counts": {
+    "n": 2443,
+    "v": 1424,
+    "adj": 1667,
+    "adv": 361,
+    "prep": 57,
+    "det": 11,
+    "pron": 33,
+    "ord": 4,
+    "conj": 26,
+    "article": 2,
+    "interj": 6
+  },
+  "missing_pos": [],
+  "example_translation_missing": []
+}

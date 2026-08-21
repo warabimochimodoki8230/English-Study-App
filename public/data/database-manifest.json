@@ -1,0 +1,29 @@
+{
+  "generated": "2026-08-21",
+  "productVersion": "v22-2-restored-safe-dedupe",
+  "vocabTotal": 6034,
+  "idiomTotal": 839,
+  "grammarOverviewTotal": 25,
+  "grammarQuizTotal": 1683,
+  "readingPassageTotal": 80,
+  "readingQuestionTotal": 400,
+  "totalRecords": 9061,
+  "source": "v14 validated database, global grammar stem deduplication, original v15 grammar polish set",
+  "deduped": true,
+  "static": true,
+  "version": "20260821-v22-2",
+  "features": {
+    "grammarDedup": "Globally normalized question stems; retained one best-complete record per stem.",
+    "readingTranslation": "Full passage translation appears only after answering the final question of a passage.",
+    "readingTimer": "Each passage has a target reading time and a pauseable count-up stopwatch.",
+    "learningAnalytics": "Local progress analytics show actual mistakes, level accuracy, coverage, and review-risk candidates.",
+    "examples": "Each vocabulary word and idiom has a semantically tailored one-sentence usage example.",
+    "smartChoices": "Prioritizes same part of speech, nearby difficulty, and problem mode; family questions use the target derivative part of speech."
+  },
+  "expansion": {
+    "grammarAdded": 330,
+    "grammarRemovedAsDuplicates": 1422,
+    "familyDerivedAdded": 58
+  },
+  "notes": " v22-2 restores the known-good v22 vocabulary payload; duplicate warnings are handled in validation without destructive data removal."
+}

@@ -1,0 +1,11 @@
+{
+  "version": "v22-2",
+  "recovery": "Restored v22 known-good vocabulary payload after v22-1 destructive dedupe caused question availability regression.",
+  "vocabTotal": 6034,
+  "idiomTotal": 839,
+  "grammarQuizTotal": 1683,
+  "readingQuestionTotal": 400,
+  "runtimeFailures": 0,
+  "dedupePolicy": "Do not delete vocabulary records solely to silence duplicate warnings; validator reports repeated headword/pos as informational overlap.",
+  "validatorWarnings": 0
+}

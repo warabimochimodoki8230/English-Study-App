@@ -1,0 +1,17 @@
+{
+  "version": "v22",
+  "changes": {
+    "all_vocab_levels_support_advanced_modes": true,
+    "family_mode_same_pos_distractors": true,
+    "pos_assigned_to_all_vocab": true,
+    "family_pos_hidden_in_ui": true,
+    "example_translation_audit": true
+  },
+  "verified": {
+    "vocab_records": 6034,
+    "runtime_records": 8981,
+    "runtime_failures": 0,
+    "missing_pos": 0,
+    "missing_example_translation": 0
+  }
+}
