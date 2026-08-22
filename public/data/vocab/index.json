@@ -1,0 +1,42 @@
+{
+  "version": "20260822-v30",
+  "levels": {
+    "basic": {
+      "count": 1360,
+      "files": [
+        "basic-01.json"
+      ]
+    },
+    "standard": {
+      "count": 1729,
+      "files": [
+        "standard-01.json"
+      ]
+    },
+    "developed": {
+      "count": 467,
+      "files": [
+        "developed-01.json"
+      ]
+    },
+    "advanced": {
+      "count": 1181,
+      "files": [
+        "advanced-01.json",
+        "advanced-v29-6000.json",
+        "mass-v27-final.json"
+      ]
+    },
+    "hard": {
+      "count": 1263,
+      "files": [
+        "hard-01.json",
+        "hard-v26-bulk.json",
+        "hard-v27-bulk.json",
+        "hard-v27-final.json",
+        "hard-v29-6000.json"
+      ]
+    }
+  },
+  "totalCount": 6000
+}

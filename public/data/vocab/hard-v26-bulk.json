@@ -1,0 +1,1274 @@
+[
+  {
+    "id": "v26-bulk-0001",
+    "type": "vocab",
+    "level": "hard",
+    "word": "abate",
+    "meaning": "和らぐ;弱まる",
+    "pos": "v",
+    "question": "abate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "和らぐ;弱まる",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "The storm began to abate before dawn.",
+    "exampleJa": "嵐は夜明け前に弱まり始めた。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v26-bulk-0002",
+    "type": "vocab",
+    "level": "hard",
+    "word": "abhor",
+    "meaning": "ひどく嫌う",
+    "pos": "v",
+    "question": "abhor",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "ひどく嫌う",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "The witness said that she abhorred cruelty toward animals.",
+    "exampleJa": "その証人は、動物への残虐行為をひどく嫌うと述べた。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v26-bulk-0003",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "accede",
+    "meaning": "応じる;就任する",
+    "pos": "v",
+    "question": "accede",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "応じる;就任する",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The committee may accede the assessment criteria if new evidence emerges.",
+    "exampleJa": "新しい証拠が現れれば、委員会はthe assessment criteriaを応じる;就任するする可能性がある。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v26-bulk-0004",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "accentuate",
+    "meaning": "強調する",
+    "pos": "v",
+    "question": "accentuate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "強調する",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The final report explains why researchers chose to accentuate the field survey.",
+    "exampleJa": "最終報告書は、研究者たちがなぜthe field surveyを強調するすることを選んだのかを説明している。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v26-bulk-0005",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "accrue",
+    "meaning": "蓄積する;生じる",
+    "pos": "v",
+    "question": "accrue",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "蓄積する;生じる",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "Over the next decade, the agency intends to accrue the training program more systematically.",
+    "exampleJa": "今後10年間、当局はthe training programをより体系的に蓄積する;生じるする方針だ。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v26-bulk-0006",
+    "type": "vocab",
+    "level": "hard",
+    "word": "adept",
+    "meaning": "熟達した",
+    "pos": "adj",
+    "question": "adept",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "熟達した",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "The engineer was adept at solving unexpected problems under pressure.",
+    "exampleJa": "その技術者は、プレッシャーの中で予想外の問題を解決するのが得意だった。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v26-bulk-0009",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "denounce",
+    "meaning": "非難する",
+    "pos": "v",
+    "question": "denounce",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "非難する",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The final report explains why researchers chose to denounce the manuscript.",
+    "exampleJa": "最終報告書は、研究者たちがなぜthe manuscriptを非難するすることを選んだのかを説明している。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v26-bulk-0010",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "deplore",
+    "meaning": "遺憾に思う",
+    "pos": "v",
+    "question": "deplore",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "遺憾に思う",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "Over the next decade, the agency intends to deplore the archival record more systematically.",
+    "exampleJa": "今後10年間、当局はthe archival recordをより体系的に遺憾に思うする方針だ。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v26-bulk-0012",
+    "type": "vocab",
+    "level": "hard",
+    "word": "discern",
+    "meaning": "見分ける;理解する",
+    "pos": "v",
+    "question": "discern",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "見分ける;理解する",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "The researchers could discern a slight difference between the two samples.",
+    "exampleJa": "研究者たちは、2つの試料の間にわずかな違いを見分けることができた。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v26-bulk-0014",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "fortify",
+    "meaning": "強化する",
+    "pos": "v",
+    "question": "fortify",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "強化する",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The final report explains why researchers chose to fortify the public hearing.",
+    "exampleJa": "最終報告書は、研究者たちがなぜthe public hearingを強化するすることを選んだのかを説明している。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v26-bulk-0016",
+    "type": "vocab",
+    "level": "hard",
+    "word": "notorious",
+    "meaning": "悪名高い",
+    "pos": "adj",
+    "question": "notorious",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "悪名高い",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "The district was once notorious for frequent smuggling across the border.",
+    "exampleJa": "その地区はかつて、国境を越える密輸が頻発することで悪名高かった。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v26-bulk-0018",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "rectify",
+    "meaning": "是正する",
+    "pos": "v",
+    "question": "rectify",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "是正する",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The committee may rectify the outreach campaign if new evidence emerges.",
+    "exampleJa": "新しい証拠が現れれば、委員会はthe outreach campaignを是正するする可能性がある。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v26-bulk-0020",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "vigilant",
+    "meaning": "警戒を怠らない",
+    "pos": "adj",
+    "question": "vigilant",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "警戒を怠らない",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "Security officers remained vigilant throughout the crowded event.",
+    "exampleJa": "警備員は混雑した行事の間、警戒を怠らなかった。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v26-bulk-0021",
+    "type": "vocab",
+    "level": "hard",
+    "word": "catalyst",
+    "meaning": "触媒;きっかけ",
+    "pos": "n",
+    "question": "catalyst",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "触媒;きっかけ",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "The committee cited catalyst as a major reason for revising the revised policy.",
+    "exampleJa": "委員会はthe revised policyを改訂する主な理由としてcatalystを挙げた。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v26-bulk-0022",
+    "type": "vocab",
+    "level": "hard",
+    "word": "doctrine",
+    "meaning": "教義;原則",
+    "pos": "n",
+    "question": "doctrine",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "教義;原則",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "Researchers measured doctrine before drawing conclusions about the investment plan.",
+    "exampleJa": "研究者たちはthe investment planについて結論を出す前にdoctrineを測定した。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v26-bulk-0024",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "faculty",
+    "meaning": "能力;学部",
+    "pos": "n",
+    "question": "faculty",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "能力;学部",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The article examines how faculty has shaped the field survey over time.",
+    "exampleJa": "その論文は、facultyが時間とともにthe field surveyをどのように形作ってきたかを検討している。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v26-bulk-0025",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "prerequisite",
+    "meaning": "前提条件",
+    "pos": "n",
+    "question": "prerequisite",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "前提条件",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "Experts disagree about whether prerequisite will influence the training program in the long term.",
+    "exampleJa": "専門家たちは、長期的にprerequisiteがthe training programに影響するかどうかで意見が分かれている。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v26-bulk-0026",
+    "type": "vocab",
+    "level": "hard",
+    "word": "repertoire",
+    "meaning": "レパートリー;使える技術の範囲",
+    "pos": "n",
+    "question": "repertoire",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "レパートリー;使える技術の範囲",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "The committee cited repertoire as a major reason for revising the emergency plan.",
+    "exampleJa": "委員会はthe emergency planを改訂する主な理由としてrepertoireを挙げた。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v26-bulk-0027",
+    "type": "vocab",
+    "level": "hard",
+    "word": "testament",
+    "meaning": "証拠;遺言",
+    "pos": "n",
+    "question": "testament",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "証拠;遺言",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "Researchers measured testament before drawing conclusions about the disputed proposal.",
+    "exampleJa": "研究者たちはthe disputed proposalについて結論を出す前にtestamentを測定した。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v26-bulk-0029",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "allocate",
+    "meaning": "割り当てる",
+    "pos": "v",
+    "question": "allocate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "割り当てる",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The final report explains why researchers chose to allocate the manuscript.",
+    "exampleJa": "最終報告書は、研究者たちがなぜthe manuscriptを割り当てるすることを選んだのかを説明している。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v26-bulk-0031",
+    "type": "vocab",
+    "level": "hard",
+    "word": "convey",
+    "meaning": "伝える",
+    "pos": "v",
+    "question": "convey",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "伝える",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "The diagram was designed to convey the main idea clearly.",
+    "exampleJa": "その図は要点を明確に伝えるように作られていた。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v26-bulk-0032",
+    "type": "vocab",
+    "level": "hard",
+    "word": "evokes",
+    "meaning": "呼び起こす",
+    "pos": "v",
+    "question": "evokes",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "呼び起こす",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "The old photograph evokes memories of the town before the redevelopment.",
+    "exampleJa": "その古い写真は、再開発前の町の記憶を呼び起こす。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v26-bulk-0033",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "prevail",
+    "meaning": "普及する;勝る",
+    "pos": "v",
+    "question": "prevail",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "普及する;勝る",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The committee may prevail the safety protocol if new evidence emerges.",
+    "exampleJa": "新しい証拠が現れれば、委員会はthe safety protocolを普及する;勝るする可能性がある。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v26-bulk-0034",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "coincidentally",
+    "meaning": "偶然にも",
+    "pos": "adv",
+    "question": "coincidentally",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "偶然にも",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The agency coincidentally released the figures after completing an internal review.",
+    "exampleJa": "当局は内部審査を終えた後、数値を偶然にも公表した。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v26-bulk-0035",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "inherently",
+    "meaning": "本質的に",
+    "pos": "adv",
+    "question": "inherently",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "本質的に",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The two indicators moved in opposite directions and were inherently interpreted.",
+    "exampleJa": "2つの指標は逆方向に動き、本質的に解釈された。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v26-bulk-0036",
+    "type": "vocab",
+    "level": "hard",
+    "word": "ostensibly",
+    "meaning": "表面上は",
+    "pos": "adv",
+    "question": "ostensibly",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "表面上は",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "The new method performed ostensibly better under laboratory conditions.",
+    "exampleJa": "新しい方法は実験室条件下で表面上は良い性能を示した。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v26-bulk-0037",
+    "type": "vocab",
+    "level": "hard",
+    "word": "contempt",
+    "meaning": "軽蔑",
+    "pos": "n",
+    "question": "contempt",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "軽蔑",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "Researchers measured contempt before drawing conclusions about the restoration project.",
+    "exampleJa": "研究者たちはthe restoration projectについて結論を出す前にcontemptを測定した。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v26-bulk-0038",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "conspicuity",
+    "meaning": "目立つこと",
+    "pos": "n",
+    "question": "conspicuity",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "目立つこと",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "A shortage of conspicuity delayed the implementation of the outreach campaign.",
+    "exampleJa": "conspicuityの不足によってthe outreach campaignの実施が遅れた。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v26-bulk-0039",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "refutation",
+    "meaning": "反証",
+    "pos": "n",
+    "question": "refutation",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "反証",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The article examines how refutation has shaped the migration data over time.",
+    "exampleJa": "その論文は、refutationが時間とともにthe migration dataをどのように形作ってきたかを検討している。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v26-bulk-0040",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "agile",
+    "meaning": "機敏な",
+    "pos": "adj",
+    "question": "agile",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "機敏な",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The small design team stayed agile as the project requirements changed.",
+    "exampleJa": "その小規模な設計チームは、プロジェクトの要件が変化しても柔軟に対応した。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v26-bulk-0041",
+    "type": "vocab",
+    "level": "hard",
+    "word": "plentiful",
+    "meaning": "豊富な",
+    "pos": "adj",
+    "question": "plentiful",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "豊富な",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "Fresh water was plentiful after the heavy winter snowfall.",
+    "exampleJa": "厳しい冬の降雪の後には、淡水が豊富にあった。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v26-bulk-0042",
+    "type": "vocab",
+    "level": "hard",
+    "word": "provisional",
+    "meaning": "暫定的な",
+    "pos": "adj",
+    "question": "provisional",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "暫定的な",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "The committee reached a provisional agreement pending further negotiations.",
+    "exampleJa": "委員会は、さらなる交渉を待つ暫定的な合意に達した。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v26-bulk-0043",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "unbiased",
+    "meaning": "偏りのない",
+    "pos": "adj",
+    "question": "unbiased",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "偏りのない",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The latest review found the approach surprisingly unbiased for its intended purpose.",
+    "exampleJa": "最新の審査では、その方法は目的に対して驚くほど偏りのないだと分かった。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v26-bulk-0044",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "notify",
+    "meaning": "通知する",
+    "pos": "v",
+    "question": "notify",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "通知する",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The final report explains why researchers chose to notify the field survey.",
+    "exampleJa": "最終報告書は、研究者たちがなぜthe field surveyを通知するすることを選んだのかを説明している。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v26-bulk-0045",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "reinstate",
+    "meaning": "復活させる",
+    "pos": "v",
+    "question": "reinstate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "復活させる",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "Over the next decade, the agency intends to reinstate the training program more systematically.",
+    "exampleJa": "今後10年間、当局はthe training programをより体系的に復活させるする方針だ。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v26-bulk-0047",
+    "type": "vocab",
+    "level": "hard",
+    "word": "belittle",
+    "meaning": "軽視する",
+    "pos": "v",
+    "question": "belittle",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "軽視する",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "The review did not belittle the contribution of earlier researchers.",
+    "exampleJa": "その論評は、先行研究者たちの貢献を軽視しなかった。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v26-bulk-0049",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "expound",
+    "meaning": "詳しく説明する",
+    "pos": "v",
+    "question": "expound",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "詳しく説明する",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The final report explains why researchers chose to expound the manuscript.",
+    "exampleJa": "最終報告書は、研究者たちがなぜthe manuscriptを詳しく説明するすることを選んだのかを説明している。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v26-bulk-0051",
+    "type": "vocab",
+    "level": "hard",
+    "word": "moderate",
+    "meaning": "和らげる",
+    "pos": "v",
+    "question": "moderate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "和らげる",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "The chair moderated the discussion so that every member could speak.",
+    "exampleJa": "議長は全員が発言できるように議論を調整した。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v26-bulk-0052",
+    "type": "vocab",
+    "level": "hard",
+    "word": "recur",
+    "meaning": "再発する",
+    "pos": "v",
+    "question": "recur",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "再発する",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "The same error continued to recur in later versions of the program.",
+    "exampleJa": "同じ誤りは、その後のプログラムの版でも繰り返し発生した。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v26-bulk-0053",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "resort",
+    "meaning": "頼る",
+    "pos": "v",
+    "question": "resort",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "頼る",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The committee may resort the safety protocol if new evidence emerges.",
+    "exampleJa": "新しい証拠が現れれば、委員会はthe safety protocolを頼るする可能性がある。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v26-bulk-0054",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "abridged",
+    "meaning": "要約された",
+    "pos": "adj",
+    "question": "abridged",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "要約された",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "Observers considered the decision abridged because it relied on unusually strong evidence.",
+    "exampleJa": "観察者たちは、異例に強い証拠に基づいていたため、その判断は要約されただと考えた。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v26-bulk-0056",
+    "type": "vocab",
+    "level": "hard",
+    "word": "accentuation",
+    "meaning": "強調",
+    "pos": "n",
+    "question": "accentuation",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "強調",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "The committee cited accentuation as a major reason for revising the annual report.",
+    "exampleJa": "委員会はthe annual reportを改訂する主な理由としてaccentuationを挙げた。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v26-bulk-0057",
+    "type": "vocab",
+    "level": "hard",
+    "word": "assertiveness",
+    "meaning": "自己主張の強さ",
+    "pos": "n",
+    "question": "assertiveness",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "自己主張の強さ",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "Researchers measured assertiveness before drawing conclusions about the restoration project.",
+    "exampleJa": "研究者たちはthe restoration projectについて結論を出す前にassertivenessを測定した。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v26-bulk-0058",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "decision-making",
+    "meaning": "意思決定",
+    "pos": "n",
+    "question": "decision-making",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "意思決定",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "A shortage of decision-making delayed the implementation of the outreach campaign.",
+    "exampleJa": "decision-makingの不足によってthe outreach campaignの実施が遅れた。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v26-bulk-0059",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "mobilization",
+    "meaning": "動員",
+    "pos": "n",
+    "question": "mobilization",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "動員",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The article examines how mobilization has shaped the migration data over time.",
+    "exampleJa": "その論文は、mobilizationが時間とともにthe migration dataをどのように形作ってきたかを検討している。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v26-bulk-0060",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "objectivity",
+    "meaning": "客観性",
+    "pos": "n",
+    "question": "objectivity",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "客観性",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "Experts disagree about whether objectivity will influence the funding request in the long term.",
+    "exampleJa": "専門家たちは、長期的にobjectivityがthe funding requestに影響するかどうかで意見が分かれている。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v26-bulk-0061",
+    "type": "vocab",
+    "level": "hard",
+    "word": "reassessment",
+    "meaning": "再評価",
+    "pos": "n",
+    "question": "reassessment",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "再評価",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "The committee cited reassessment as a major reason for revising the revised policy.",
+    "exampleJa": "委員会はthe revised policyを改訂する主な理由としてreassessmentを挙げた。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v26-bulk-0062",
+    "type": "vocab",
+    "level": "hard",
+    "word": "reformulation",
+    "meaning": "再定式化",
+    "pos": "n",
+    "question": "reformulation",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "再定式化",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "Researchers measured reformulation before drawing conclusions about the investment plan.",
+    "exampleJa": "研究者たちはthe investment planについて結論を出す前にreformulationを測定した。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v26-bulk-0063",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "reorganization",
+    "meaning": "再編",
+    "pos": "n",
+    "question": "reorganization",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "再編",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "A shortage of reorganization delayed the implementation of the assessment criteria.",
+    "exampleJa": "reorganizationの不足によってthe assessment criteriaの実施が遅れた。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v26-bulk-0064",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "abstractly",
+    "meaning": "抽象的に",
+    "pos": "adv",
+    "question": "abstractly",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "抽象的に",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The new method performed abstractly better under laboratory conditions.",
+    "exampleJa": "新しい方法は実験室条件下で抽象的に良い性能を示した。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v26-bulk-0065",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "demonstrably",
+    "meaning": "明らかに",
+    "pos": "adv",
+    "question": "demonstrably",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "明らかに",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The researchers demonstrably compared the two samples before running the final test.",
+    "exampleJa": "研究者たちは最終試験を行う前に、2つの試料を明らかに比較した。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v26-bulk-0066",
+    "type": "vocab",
+    "level": "hard",
+    "word": "incrementally",
+    "meaning": "漸進的に",
+    "pos": "adv",
+    "question": "incrementally",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "漸進的に",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "The agency incrementally released the figures after completing an internal review.",
+    "exampleJa": "当局は内部審査を終えた後、数値を漸進的に公表した。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v26-bulk-0067",
+    "type": "vocab",
+    "level": "hard",
+    "word": "prospectively",
+    "meaning": "将来を見据えて",
+    "pos": "adv",
+    "question": "prospectively",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "将来を見据えて",
+    "explanation": "",
+    "tags": [
+      "v26-bulk-expansion"
+    ],
+    "source": "curated-v26-bulk-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "The two indicators moved in opposite directions and were prospectively interpreted.",
+    "exampleJa": "2つの指標は逆方向に動き、将来を見据えて解釈された。",
+    "levels": [
+      "hard"
+    ]
+  }
+]

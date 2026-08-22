@@ -1,0 +1,1490 @@
+[
+  {
+    "id": "v27-final-0012",
+    "type": "vocab",
+    "level": "hard",
+    "word": "brusque",
+    "meaning": "そっけない",
+    "pos": "adj",
+    "question": "brusque",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "そっけない",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "Several readers found the article brusque, even though its conclusion was clear.",
+    "exampleJa": "結論は明確だったものの、複数の読者はその論文をそっけないだと感じた。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v27-final-0013",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "byzantine",
+    "meaning": "複雑怪奇な",
+    "pos": "adj",
+    "question": "byzantine",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "複雑怪奇な",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The agency’s byzantine approval process delayed the project for months.",
+    "exampleJa": "その機関の非常に複雑な承認手続きのせいで、計画は何か月も遅れた。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v27-final-0014",
+    "type": "vocab",
+    "level": "hard",
+    "word": "clemency",
+    "meaning": "寛大な処置",
+    "pos": "n",
+    "question": "clemency",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "寛大な処置",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "Researchers recorded the level of clemency during the observation period.",
+    "exampleJa": "研究者たちは観察期間中のclemencyの水準を記録した。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v27-final-0018",
+    "type": "vocab",
+    "level": "hard",
+    "word": "decorum",
+    "meaning": "礼儀;品位",
+    "pos": "n",
+    "question": "decorum",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "礼儀;品位",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "Researchers recorded the level of decorum during the observation period.",
+    "exampleJa": "研究者たちは観察期間中のdecorumの水準を記録した。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v27-final-0021",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "dereliction",
+    "meaning": "怠慢;放棄",
+    "pos": "n",
+    "question": "dereliction",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "怠慢;放棄",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The report described the missing safety inspections as a serious dereliction of duty.",
+    "exampleJa": "その報告書は、実施されなかった安全点検を重大な職務怠慢だとした。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v27-final-0022",
+    "type": "vocab",
+    "level": "hard",
+    "word": "dogged",
+    "meaning": "粘り強い",
+    "pos": "adj",
+    "question": "dogged",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "粘り強い",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "The dogged reporter continued investigating the case despite repeated setbacks.",
+    "exampleJa": "その粘り強い記者は、何度も妨害を受けながらも事件の調査を続けた。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v27-final-0038",
+    "type": "vocab",
+    "level": "hard",
+    "word": "jocular",
+    "meaning": "冗談好きな",
+    "pos": "adj",
+    "question": "jocular",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "冗談好きな",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "The speaker adopted a jocular tone to relax the audience before the serious discussion.",
+    "exampleJa": "その話者は、本格的な議論の前に聴衆を和ませるため、冗談めいた口調を取った。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v27-final-0041",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "orthodox",
+    "meaning": "正統的な",
+    "pos": "adj",
+    "question": "orthodox",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "正統的な",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The physician followed an orthodox approach to treating the condition.",
+    "exampleJa": "その医師は、その病状の治療に正統的な方法を用いた。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v27-final-0044",
+    "type": "vocab",
+    "level": "hard",
+    "word": "perfidy",
+    "meaning": "背信",
+    "pos": "n",
+    "question": "perfidy",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "背信",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "A sudden rise in perfidy altered the schedule for the restoration effort.",
+    "exampleJa": "perfidyの急増によってthe restoration effortの予定が変わった。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v27-final-0049",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "portentous",
+    "meaning": "不吉な;重大そうな",
+    "pos": "adj",
+    "question": "portentous",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "不吉な;重大そうな",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The sudden silence gave the announcement a portentous atmosphere.",
+    "exampleJa": "突然の静けさが、その発表に不吉で重大そうな雰囲気を与えた。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v27-final-0050",
+    "type": "vocab",
+    "level": "hard",
+    "word": "pristine",
+    "meaning": "原始のままの;汚れのない",
+    "pos": "adj",
+    "question": "pristine",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "原始のままの;汚れのない",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "The researchers found a pristine lake far from the nearest settlement.",
+    "exampleJa": "研究者たちは最寄りの集落から遠く離れた、汚れのない湖を発見した。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v27-final-0053",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "quiescent",
+    "meaning": "休止中の;静かな",
+    "pos": "adj",
+    "question": "quiescent",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "休止中の;静かな",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The volcano remained quiescent for decades before showing signs of activity.",
+    "exampleJa": "その火山は活動の兆候を示すまで数十年間、静穏な状態にあった。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v27-final-0054",
+    "type": "vocab",
+    "level": "hard",
+    "word": "rancor",
+    "meaning": "恨み;悪意",
+    "pos": "n",
+    "question": "rancor",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "恨み;悪意",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "Researchers recorded the level of rancor during the observation period.",
+    "exampleJa": "研究者たちは観察期間中のrancorの水準を記録した。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v27-final-0055",
+    "type": "vocab",
+    "level": "hard",
+    "word": "recant",
+    "meaning": "撤回する",
+    "pos": "v",
+    "question": "recant",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "撤回する",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "The scientist refused to recant the statement without new evidence.",
+    "exampleJa": "その科学者は、新しい証拠がない限り、その発言を撤回することを拒んだ。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v27-final-0057",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "replete",
+    "meaning": "満ちた",
+    "pos": "adj",
+    "question": "replete",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "満ちた",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The archive is replete with documents from the early twentieth century.",
+    "exampleJa": "その資料館には20世紀初頭の文書が豊富に残っている。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v27-final-0059",
+    "type": "vocab",
+    "level": "hard",
+    "word": "sacrosanct",
+    "meaning": "神聖不可侵の",
+    "pos": "adj",
+    "question": "sacrosanct",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "神聖不可侵の",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "The committee rejected the sacrosanct interpretation of the environmental assessment.",
+    "exampleJa": "委員会はthe environmental assessmentについての神聖不可侵のな解釈を退けた。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v27-final-0061",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "sanctimonious",
+    "meaning": "独善的に道徳を装う",
+    "pos": "adj",
+    "question": "sanctimonious",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "独善的に道徳を装う",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The politician’s sanctimonious speech drew criticism from several journalists.",
+    "exampleJa": "その政治家の独善的で道徳を装った演説は、複数の記者から批判を受けた。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v27-final-0065",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "stoic",
+    "meaning": "禁欲的な;平然とした",
+    "pos": "adj",
+    "question": "stoic",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "禁欲的な;平然とした",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The patient remained stoic despite the prolonged discomfort.",
+    "exampleJa": "その患者は長引く不快感にもかかわらず、平然としていた。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v27-final-0068",
+    "type": "vocab",
+    "level": "hard",
+    "word": "temerity",
+    "meaning": "向こう見ずな大胆さ",
+    "pos": "n",
+    "question": "temerity",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "向こう見ずな大胆さ",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "A sudden rise in temerity altered the schedule for the restoration effort.",
+    "exampleJa": "temerityの急増によってthe restoration effortの予定が変わった。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v27-final-0069",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "transitory",
+    "meaning": "一時的な",
+    "pos": "adj",
+    "question": "transitory",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "一時的な",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The cooling effect was transitory and disappeared within a few minutes.",
+    "exampleJa": "冷却効果は一時的なもので、数分以内に消えた。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v27-final-0077",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "wretched",
+    "meaning": "惨めな",
+    "pos": "adj",
+    "question": "wretched",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "惨めな",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The refugees were living in wretched conditions with little access to clean water.",
+    "exampleJa": "その難民たちは、きれいな水をほとんど利用できない悲惨な環境で暮らしていた。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v27-final-0079",
+    "type": "vocab",
+    "level": "hard",
+    "word": "apostasy",
+    "meaning": "背教;転向",
+    "pos": "n",
+    "question": "apostasy",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "背教;転向",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "The debate centered on whether apostasy could change the environmental assessment.",
+    "exampleJa": "議論の焦点は、apostasyがthe environmental assessmentを変えうるかどうかだった。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v27-final-0082",
+    "type": "vocab",
+    "level": "hard",
+    "word": "assiduity",
+    "meaning": "勤勉さ",
+    "pos": "n",
+    "question": "assiduity",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "勤勉さ",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "Researchers recorded the level of assiduity during the observation period.",
+    "exampleJa": "研究者たちは観察期間中のassiduityの水準を記録した。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v27-final-0083",
+    "type": "vocab",
+    "level": "hard",
+    "word": "benefactor",
+    "meaning": "後援者",
+    "pos": "n",
+    "question": "benefactor",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "後援者",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "The debate centered on whether benefactor could change the environmental assessment.",
+    "exampleJa": "議論の焦点は、benefactorがthe environmental assessmentを変えうるかどうかだった。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v27-final-0085",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "confluence",
+    "meaning": "合流;融合",
+    "pos": "n",
+    "question": "confluence",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "合流;融合",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The city grew at the confluence of two major rivers.",
+    "exampleJa": "その都市は、2本の大河が合流する地点で発展した。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v27-final-0086",
+    "type": "vocab",
+    "level": "hard",
+    "word": "contrition",
+    "meaning": "後悔;悔恨",
+    "pos": "n",
+    "question": "contrition",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "後悔;悔恨",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "Researchers recorded the level of contrition during the observation period.",
+    "exampleJa": "研究者たちは観察期間中のcontritionの水準を記録した。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v27-final-0088",
+    "type": "vocab",
+    "level": "hard",
+    "word": "denouement",
+    "meaning": "結末",
+    "pos": "n",
+    "question": "denouement",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "結末",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "A sudden rise in denouement altered the schedule for the restoration effort.",
+    "exampleJa": "denouementの急増によってthe restoration effortの予定が変わった。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v27-final-0089",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "dichotomy",
+    "meaning": "二分法",
+    "pos": "n",
+    "question": "dichotomy",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "二分法",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The article questions the simple dichotomy between tradition and modernity.",
+    "exampleJa": "その記事は、伝統と近代性を単純に二分する見方に疑問を呈している。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v27-final-0090",
+    "type": "vocab",
+    "level": "hard",
+    "word": "digression",
+    "meaning": "脱線",
+    "pos": "n",
+    "question": "digression",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "脱線",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "Researchers recorded the level of digression during the observation period.",
+    "exampleJa": "研究者たちは観察期間中のdigressionの水準を記録した。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v27-final-0092",
+    "type": "vocab",
+    "level": "hard",
+    "word": "edifice",
+    "meaning": "建造物;体系",
+    "pos": "n",
+    "question": "edifice",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "建造物;体系",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "A sudden rise in edifice altered the schedule for the restoration effort.",
+    "exampleJa": "edificeの急増によってthe restoration effortの予定が変わった。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v27-final-0093",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "effigy",
+    "meaning": "肖像;人形",
+    "pos": "n",
+    "question": "effigy",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "肖像;人形",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "Villagers carried an effigy through the streets during the annual festival.",
+    "exampleJa": "村人たちは毎年の祭りで人形を通りに運んだ。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v27-final-0094",
+    "type": "vocab",
+    "level": "hard",
+    "word": "elegy",
+    "meaning": "哀歌",
+    "pos": "n",
+    "question": "elegy",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "哀歌",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "Researchers recorded the level of elegy during the observation period.",
+    "exampleJa": "研究者たちは観察期間中のelegyの水準を記録した。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v27-final-0095",
+    "type": "vocab",
+    "level": "hard",
+    "word": "embezzlement",
+    "meaning": "横領",
+    "pos": "n",
+    "question": "embezzlement",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "横領",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "The debate centered on whether embezzlement could change the environmental assessment.",
+    "exampleJa": "議論の焦点は、embezzlementがthe environmental assessmentを変えうるかどうかだった。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v27-final-0096",
+    "type": "vocab",
+    "level": "hard",
+    "word": "enigma",
+    "meaning": "謎",
+    "pos": "n",
+    "question": "enigma",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "謎",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "A sudden rise in enigma altered the schedule for the restoration effort.",
+    "exampleJa": "enigmaの急増によってthe restoration effortの予定が変わった。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v27-final-0098",
+    "type": "vocab",
+    "level": "hard",
+    "word": "equivocation",
+    "meaning": "曖昧な言い逃れ",
+    "pos": "n",
+    "question": "equivocation",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "曖昧な言い逃れ",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "Researchers recorded the level of equivocation during the observation period.",
+    "exampleJa": "研究者たちは観察期間中のequivocationの水準を記録した。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v27-final-0099",
+    "type": "vocab",
+    "level": "hard",
+    "word": "exodus",
+    "meaning": "大量脱出",
+    "pos": "n",
+    "question": "exodus",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "大量脱出",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "The debate centered on whether exodus could change the environmental assessment.",
+    "exampleJa": "議論の焦点は、exodusがthe environmental assessmentを変えうるかどうかだった。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v27-final-0101",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "iconoclasm",
+    "meaning": "因習打破",
+    "pos": "n",
+    "question": "iconoclasm",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "因習打破",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The historian examined the period of iconoclasm in the region.",
+    "exampleJa": "その歴史学者は、その地域の偶像破壊運動の時期を調べた。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v27-final-0102",
+    "type": "vocab",
+    "level": "hard",
+    "word": "impasse",
+    "meaning": "行き詰まり",
+    "pos": "n",
+    "question": "impasse",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "行き詰まり",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "Researchers recorded the level of impasse during the observation period.",
+    "exampleJa": "研究者たちは観察期間中のimpasseの水準を記録した。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v27-final-0103",
+    "type": "vocab",
+    "level": "hard",
+    "word": "incursion",
+    "meaning": "侵入;急襲",
+    "pos": "n",
+    "question": "incursion",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "侵入;急襲",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "The debate centered on whether incursion could change the environmental assessment.",
+    "exampleJa": "議論の焦点は、incursionがthe environmental assessmentを変えうるかどうかだった。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v27-final-0105",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "ingenuity",
+    "meaning": "創意工夫",
+    "pos": "n",
+    "question": "ingenuity",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "創意工夫",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The device was developed through considerable ingenuity and patience.",
+    "exampleJa": "その装置は、かなりの創意工夫と忍耐によって開発された。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v27-final-0106",
+    "type": "vocab",
+    "level": "hard",
+    "word": "inoculation",
+    "meaning": "接種",
+    "pos": "n",
+    "question": "inoculation",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "接種",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "Researchers recorded the level of inoculation during the observation period.",
+    "exampleJa": "研究者たちは観察期間中のinoculationの水準を記録した。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v27-final-0108",
+    "type": "vocab",
+    "level": "hard",
+    "word": "jurisprudence",
+    "meaning": "法学;法体系",
+    "pos": "n",
+    "question": "jurisprudence",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "法学;法体系",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "A sudden rise in jurisprudence altered the schedule for the restoration effort.",
+    "exampleJa": "jurisprudenceの急増によってthe restoration effortの予定が変わった。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v27-final-0109",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "machination",
+    "meaning": "陰謀;策略",
+    "pos": "n",
+    "question": "machination",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "陰謀;策略",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The novel describes a series of political machinations behind the succession.",
+    "exampleJa": "その小説は、後継者決定の背後で繰り広げられる一連の政治的策略を描いている。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v27-final-0110",
+    "type": "vocab",
+    "level": "hard",
+    "word": "magnate",
+    "meaning": "大物;有力者",
+    "pos": "n",
+    "question": "magnate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "大物;有力者",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "Researchers recorded the level of magnate during the observation period.",
+    "exampleJa": "研究者たちは観察期間中のmagnateの水準を記録した。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v27-final-0111",
+    "type": "vocab",
+    "level": "hard",
+    "word": "manifesto",
+    "meaning": "宣言書",
+    "pos": "n",
+    "question": "manifesto",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "宣言書",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "The debate centered on whether manifesto could change the environmental assessment.",
+    "exampleJa": "議論の焦点は、manifestoがthe environmental assessmentを変えうるかどうかだった。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v27-final-0112",
+    "type": "vocab",
+    "level": "hard",
+    "word": "nomenclature",
+    "meaning": "命名法",
+    "pos": "n",
+    "question": "nomenclature",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "命名法",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "A sudden rise in nomenclature altered the schedule for the restoration effort.",
+    "exampleJa": "nomenclatureの急増によってthe restoration effortの予定が変わった。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v27-final-0113",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "ostracism",
+    "meaning": "村八分;追放",
+    "pos": "n",
+    "question": "ostracism",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "村八分;追放",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The student experienced social ostracism after the disagreement.",
+    "exampleJa": "その学生は意見の対立の後、社会的な仲間外れを経験した。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v27-final-0116",
+    "type": "vocab",
+    "level": "hard",
+    "word": "penance",
+    "meaning": "償い",
+    "pos": "n",
+    "question": "penance",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "償い",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "A sudden rise in penance altered the schedule for the restoration effort.",
+    "exampleJa": "penanceの急増によってthe restoration effortの予定が変わった。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v27-final-0117",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "piety",
+    "meaning": "敬虔さ",
+    "pos": "n",
+    "question": "piety",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "敬虔さ",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The memoir describes her quiet piety and devotion to the community.",
+    "exampleJa": "その回想録は、彼女の静かな敬虔さと地域社会への献身を描いている。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v27-final-0118",
+    "type": "vocab",
+    "level": "hard",
+    "word": "plenitude",
+    "meaning": "豊富さ",
+    "pos": "n",
+    "question": "plenitude",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "豊富さ",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "Researchers recorded the level of plenitude during the observation period.",
+    "exampleJa": "研究者たちは観察期間中のplenitudeの水準を記録した。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v27-final-0120",
+    "type": "vocab",
+    "level": "hard",
+    "word": "preeminence",
+    "meaning": "卓越",
+    "pos": "n",
+    "question": "preeminence",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "卓越",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "A sudden rise in preeminence altered the schedule for the restoration effort.",
+    "exampleJa": "preeminenceの急増によってthe restoration effortの予定が変わった。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v27-final-0121",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "rhetoric",
+    "meaning": "修辞;美辞麗句",
+    "pos": "n",
+    "question": "rhetoric",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "修辞;美辞麗句",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The candidate’s rhetoric changed noticeably during the campaign.",
+    "exampleJa": "その候補者の修辞的な表現は、選挙運動中に目立って変化した。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v27-final-0123",
+    "type": "vocab",
+    "level": "hard",
+    "word": "sanctity",
+    "meaning": "神聖さ",
+    "pos": "n",
+    "question": "sanctity",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "神聖さ",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "The debate centered on whether sanctity could change the environmental assessment.",
+    "exampleJa": "議論の焦点は、sanctityがthe environmental assessmentを変えうるかどうかだった。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v27-final-0124",
+    "type": "vocab",
+    "level": "hard",
+    "word": "semblance",
+    "meaning": "外見;類似",
+    "pos": "n",
+    "question": "semblance",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "外見;類似",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "A sudden rise in semblance altered the schedule for the restoration effort.",
+    "exampleJa": "semblanceの急増によってthe restoration effortの予定が変わった。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v27-final-0125",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "sovereignty",
+    "meaning": "主権",
+    "pos": "n",
+    "question": "sovereignty",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "主権",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The agreement recognized the nation’s sovereignty over the coastal waters.",
+    "exampleJa": "その協定は、沿岸水域に対するその国の主権を認めた。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v27-final-0126",
+    "type": "vocab",
+    "level": "hard",
+    "word": "stratification",
+    "meaning": "階層化",
+    "pos": "n",
+    "question": "stratification",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "階層化",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "Researchers recorded the level of stratification during the observation period.",
+    "exampleJa": "研究者たちは観察期間中のstratificationの水準を記録した。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v27-final-0127",
+    "type": "vocab",
+    "level": "hard",
+    "word": "subjugation",
+    "meaning": "征服;服従",
+    "pos": "n",
+    "question": "subjugation",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "征服;服従",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "The debate centered on whether subjugation could change the environmental assessment.",
+    "exampleJa": "議論の焦点は、subjugationがthe environmental assessmentを変えうるかどうかだった。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v27-final-0128",
+    "type": "vocab",
+    "level": "hard",
+    "word": "sustenance",
+    "meaning": "生計;栄養",
+    "pos": "n",
+    "question": "sustenance",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "生計;栄養",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "A sudden rise in sustenance altered the schedule for the restoration effort.",
+    "exampleJa": "sustenanceの急増によってthe restoration effortの予定が変わった。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v27-final-0129",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "tenacity",
+    "meaning": "粘り強さ",
+    "pos": "n",
+    "question": "tenacity",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "粘り強さ",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "Her tenacity helped the team finish the project after several setbacks.",
+    "exampleJa": "彼女の粘り強さがあったからこそ、チームは何度も挫折しながら計画を終えることができた。",
+    "levels": [
+      "advanced"
+    ]
+  },
+  {
+    "id": "v27-final-0130",
+    "type": "vocab",
+    "level": "hard",
+    "word": "timidity",
+    "meaning": "臆病さ",
+    "pos": "n",
+    "question": "timidity",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "臆病さ",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "Researchers recorded the level of timidity during the observation period.",
+    "exampleJa": "研究者たちは観察期間中のtimidityの水準を記録した。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v27-final-0131",
+    "type": "vocab",
+    "level": "hard",
+    "word": "tyranny",
+    "meaning": "専制政治",
+    "pos": "n",
+    "question": "tyranny",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "専制政治",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "The debate centered on whether tyranny could change the environmental assessment.",
+    "exampleJa": "議論の焦点は、tyrannyがthe environmental assessmentを変えうるかどうかだった。",
+    "levels": [
+      "hard"
+    ]
+  },
+  {
+    "id": "v27-final-0133",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "zenith",
+    "meaning": "絶頂",
+    "pos": "n",
+    "question": "zenith",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "絶頂",
+    "explanation": "",
+    "tags": [
+      "v27-final-expansion"
+    ],
+    "source": "curated-v27-final-expansion",
+    "levelTags": [
+      "advanced"
+    ],
+    "exampleSentence": "The empire reached its zenith during the reign of the third ruler.",
+    "exampleJa": "その帝国は第3代統治者の治世に絶頂期を迎えた。",
+    "levels": [
+      "advanced"
+    ]
+  }
+]
