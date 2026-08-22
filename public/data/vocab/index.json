@@ -1,0 +1,36 @@
+{
+  "version": "20260822-v31",
+  "levels": {
+    "basic": {
+      "count": 1360,
+      "files": [
+        "basic-01.json"
+      ]
+    },
+    "standard": {
+      "count": 1730,
+      "files": [
+        "standard-01.json"
+      ]
+    },
+    "developed": {
+      "count": 467,
+      "files": [
+        "developed-01.json"
+      ]
+    },
+    "advanced": {
+      "count": 1115,
+      "files": [
+        "advanced-01.json"
+      ]
+    },
+    "hard": {
+      "count": 1328,
+      "files": [
+        "hard-01.json"
+      ]
+    }
+  },
+  "totalCount": 6000
+}
