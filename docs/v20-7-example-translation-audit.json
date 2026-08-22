@@ -1,8 +1,0 @@
-{
-  "version": "v20-7",
-  "vocab_records": 5976,
-  "idiom_records": 839,
-  "bad_meta_or_missing_ja": 0,
-  "duplicate_ja_for_distinct_sentences": 241,
-  "node_check": true
-}
