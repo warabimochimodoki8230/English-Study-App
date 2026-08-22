@@ -1,0 +1,802 @@
+[
+  {
+    "id": "r-v12-normal-01",
+    "type": "reading",
+    "level": "normal",
+    "title": "The Value of Early Tests",
+    "passage": "A group of students compared two ways of designing school projects. One group tried to produce a polished result immediately. The other built a rough model, tested it, recorded problems, and revised it several times. The second group spent more time during the first week, but its final project required fewer major changes. The students concluded that early experiments were useful because they exposed hidden problems before those problems became expensive to fix. The experiment did not show that slow work is always better. Rather, it suggested that when a task is uncertain, a small test early in the process can reduce the risk of a large mistake later.",
+    "questions": [
+      {
+        "id": "r-v12-normal-01-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "Early small tests can reveal hidden problems.",
+          "The second group spent more time in the first week.",
+          "The passage argues that one simple solution always works.",
+          "The writer says evidence is unnecessary."
+        ],
+        "answer": "Early small tests can reveal hidden problems.",
+        "explanation": "本文中の根拠と正解「Early small tests can reveal hidden problems.」が一致する箇所を確認する。",
+        "passageId": "r-v12-normal-01",
+        "passageQuestionIndex": 1,
+        "passageQuestionTotal": 5,
+        "isLastInPassage": false
+      },
+      {
+        "id": "r-v12-normal-01-q02",
+        "type": "reading",
+        "question": "According to the passage, which statement is true?",
+        "choices": [
+          "The second group spent more time in the first week.",
+          "Early small tests can reveal hidden problems.",
+          "The passage says this never happens.",
+          "The writer rejects the issue entirely."
+        ],
+        "answer": "The second group spent more time in the first week.",
+        "explanation": "本文中の根拠と正解「The second group spent more time in the first week.」が一致する箇所を確認する。",
+        "passageId": "r-v12-normal-01",
+        "passageQuestionIndex": 2,
+        "passageQuestionTotal": 5,
+        "isLastInPassage": false
+      },
+      {
+        "id": "r-v12-normal-01-q03",
+        "type": "reading",
+        "question": "What can reasonably be inferred from the passage?",
+        "choices": [
+          "The study did not prove that slow work is always better.",
+          "The topic has only one possible explanation.",
+          "Every case must produce the same result.",
+          "The author claims further evidence is impossible."
+        ],
+        "answer": "The study did not prove that slow work is always better.",
+        "explanation": "本文中の根拠と正解「The study did not prove that slow work is always better.」が一致する箇所を確認する。",
+        "passageId": "r-v12-normal-01",
+        "passageQuestionIndex": 3,
+        "passageQuestionTotal": 5,
+        "isLastInPassage": false
+      },
+      {
+        "id": "r-v12-normal-01-q04",
+        "type": "reading",
+        "question": "In this passage, which option best expresses the meaning of 'rather'?",
+        "choices": [
+          "instead / more accurately",
+          "because",
+          "afterward",
+          "without exception"
+        ],
+        "answer": "instead / more accurately",
+        "explanation": "本文中の根拠と正解「instead / more accurately」が一致する箇所を確認する。",
+        "passageId": "r-v12-normal-01",
+        "passageQuestionIndex": 4,
+        "passageQuestionTotal": 5,
+        "isLastInPassage": false
+      },
+      {
+        "id": "r-v12-normal-01-q05",
+        "type": "reading",
+        "question": "What is the writer's main purpose?",
+        "choices": [
+          "to explain a balanced idea and its practical implication",
+          "to prove that one method is always correct",
+          "to tell a fictional personal story",
+          "to argue that evidence is unnecessary"
+        ],
+        "answer": "to explain a balanced idea and its practical implication",
+        "explanation": "本文中の根拠と正解「to explain a balanced idea and its practical implication」が一致する箇所を確認する。",
+        "passageId": "r-v12-normal-01",
+        "passageQuestionIndex": 5,
+        "passageQuestionTotal": 5,
+        "isLastInPassage": true,
+        "passageTranslation": "ある生徒グループが、学校の課題を設計する二つの方法を比較した。一方のグループは最初から完成度の高い成果物を作ろうとした。もう一方は粗い試作品を作り、試し、問題を記録し、何度も修正した。後者は最初の週により多くの時間を費やしたが、最終的な課題では大きな変更が少なくて済んだ。生徒たちは、早い段階の実験は、問題が修正しにくくなる前に隠れた問題を明らかにするので有用だと結論づけた。この実験は、時間をかけて作業することが常に優れていることを示したわけではない。むしろ、不確実な課題では、早い段階で小さなテストをすることが、後の大きな失敗のリスクを減らせることを示唆した。"
+      }
+    ],
+    "tags": [
+      "reading-v12",
+      "normal"
+    ],
+    "passageTranslation": "ある生徒グループが、学校の課題を設計する二つの方法を比較した。一方のグループは最初から完成度の高い成果物を作ろうとした。もう一方は粗い試作品を作り、試し、問題を記録し、何度も修正した。後者は最初の週により多くの時間を費やしたが、最終的な課題では大きな変更が少なくて済んだ。生徒たちは、早い段階の実験は、問題が修正しにくくなる前に隠れた問題を明らかにするので有用だと結論づけた。この実験は、時間をかけて作業することが常に優れていることを示したわけではない。むしろ、不確実な課題では、早い段階で小さなテストをすることが、後の大きな失敗のリスクを減らせることを示唆した。"
+  },
+  {
+    "id": "r-v12-normal-02",
+    "type": "reading",
+    "level": "normal",
+    "title": "A Forest as a Network",
+    "passage": "People sometimes describe a forest by counting its trees, but ecologists often focus on relationships. Birds distribute seeds, fungi connect roots to soil, and fallen leaves return nutrients to the ground. When one part of this network changes, other parts may change as well. For example, removing a species that eats certain insects can indirectly affect plants because the insect population may grow. This does not mean every forest responds in exactly the same way. Climate, soil, and species differ from place to place. Still, the network view helps explain why protecting a forest often requires more than protecting individual trees.",
+    "questions": [
+      {
+        "id": "r-v12-normal-02-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "Ecologists often focus on relationships.",
+          "Birds and fungi perform ecological functions.",
+          "The passage argues that one simple solution always works.",
+          "The writer says evidence is unnecessary."
+        ],
+        "answer": "Ecologists often focus on relationships.",
+        "explanation": "本文中の根拠と正解「Ecologists often focus on relationships.」が一致する箇所を確認する。",
+        "passageId": "r-v12-normal-02",
+        "passageQuestionIndex": 1,
+        "passageQuestionTotal": 5,
+        "isLastInPassage": false
+      },
+      {
+        "id": "r-v12-normal-02-q02",
+        "type": "reading",
+        "question": "According to the passage, which statement is true?",
+        "choices": [
+          "Birds and fungi perform ecological functions.",
+          "Ecologists often focus on relationships.",
+          "The passage says this never happens.",
+          "The writer rejects the issue entirely."
+        ],
+        "answer": "Birds and fungi perform ecological functions.",
+        "explanation": "本文中の根拠と正解「Birds and fungi perform ecological functions.」が一致する箇所を確認する。",
+        "passageId": "r-v12-normal-02",
+        "passageQuestionIndex": 2,
+        "passageQuestionTotal": 5,
+        "isLastInPassage": false
+      },
+      {
+        "id": "r-v12-normal-02-q03",
+        "type": "reading",
+        "question": "What can reasonably be inferred from the passage?",
+        "choices": [
+          "Forests can respond differently in different places.",
+          "The topic has only one possible explanation.",
+          "Every case must produce the same result.",
+          "The author claims further evidence is impossible."
+        ],
+        "answer": "Forests can respond differently in different places.",
+        "explanation": "本文中の根拠と正解「Forests can respond differently in different places.」が一致する箇所を確認する。",
+        "passageId": "r-v12-normal-02",
+        "passageQuestionIndex": 3,
+        "passageQuestionTotal": 5,
+        "isLastInPassage": false
+      },
+      {
+        "id": "r-v12-normal-02-q04",
+        "type": "reading",
+        "question": "In this passage, which option best expresses the meaning of 'rather'?",
+        "choices": [
+          "instead / more accurately",
+          "because",
+          "afterward",
+          "without exception"
+        ],
+        "answer": "instead / more accurately",
+        "explanation": "本文中の根拠と正解「instead / more accurately」が一致する箇所を確認する。",
+        "passageId": "r-v12-normal-02",
+        "passageQuestionIndex": 4,
+        "passageQuestionTotal": 5,
+        "isLastInPassage": false
+      },
+      {
+        "id": "r-v12-normal-02-q05",
+        "type": "reading",
+        "question": "What is the writer's main purpose?",
+        "choices": [
+          "to explain a balanced idea and its practical implication",
+          "to prove that one method is always correct",
+          "to tell a fictional personal story",
+          "to argue that evidence is unnecessary"
+        ],
+        "answer": "to explain a balanced idea and its practical implication",
+        "explanation": "本文中の根拠と正解「to explain a balanced idea and its practical implication」が一致する箇所を確認する。",
+        "passageId": "r-v12-normal-02",
+        "passageQuestionIndex": 5,
+        "passageQuestionTotal": 5,
+        "isLastInPassage": true,
+        "passageTranslation": "人々は森林を木の本数で説明することがあるが、生態学者はしばしば生物どうしの関係に注目する。鳥は種子を運び、菌類は根と土壌をつなぎ、落ち葉は栄養分を地面に戻す。このネットワークの一部が変化すると、ほかの部分も変化することがある。たとえば、ある昆虫を食べる種を取り除くと、その昆虫の個体数が増えて植物に間接的な影響を与える可能性がある。だからといって、すべての森林がまったく同じように反応するわけではない。気候、土壌、生息する種は場所によって異なる。それでも、ネットワークとして見ることで、森林を守るには個々の木を守る以上のことが必要になる理由を説明できる。"
+      }
+    ],
+    "tags": [
+      "reading-v12",
+      "normal"
+    ],
+    "passageTranslation": "人々は森林を木の本数で説明することがあるが、生態学者はしばしば生物どうしの関係に注目する。鳥は種子を運び、菌類は根と土壌をつなぎ、落ち葉は栄養分を地面に戻す。このネットワークの一部が変化すると、ほかの部分も変化することがある。たとえば、ある昆虫を食べる種を取り除くと、その昆虫の個体数が増えて植物に間接的な影響を与える可能性がある。だからといって、すべての森林がまったく同じように反応するわけではない。気候、土壌、生息する種は場所によって異なる。それでも、ネットワークとして見ることで、森林を守るには個々の木を守る以上のことが必要になる理由を説明できる。"
+  },
+  {
+    "id": "r-v12-normal-03",
+    "type": "reading",
+    "level": "normal",
+    "title": "Why Forgetting Can Help",
+    "passage": "Forgetting is often treated as a failure, yet memory research suggests that some forgetting is normal and useful. Information that is never revisited becomes harder to retrieve, especially when similar information competes for attention. A brief attempt to recall an idea can strengthen later retrieval more effectively than simply rereading the same page. Spacing such attempts over time can also help. The important point is not to eliminate forgetting completely. Instead, learners can use the moment when an idea feels difficult to remember as a signal to practice retrieval again.",
+    "questions": [
+      {
+        "id": "r-v12-normal-03-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "Some forgetting is normal.",
+          "Recall practice can be more effective than rereading.",
+          "The passage argues that one simple solution always works.",
+          "The writer says evidence is unnecessary."
+        ],
+        "answer": "Some forgetting is normal.",
+        "explanation": "本文中の根拠と正解「Some forgetting is normal.」が一致する箇所を確認する。",
+        "passageId": "r-v12-normal-03",
+        "passageQuestionIndex": 1,
+        "passageQuestionTotal": 5,
+        "isLastInPassage": false
+      },
+      {
+        "id": "r-v12-normal-03-q02",
+        "type": "reading",
+        "question": "According to the passage, which statement is true?",
+        "choices": [
+          "Recall practice can be more effective than rereading.",
+          "Some forgetting is normal.",
+          "The passage says this never happens.",
+          "The writer rejects the issue entirely."
+        ],
+        "answer": "Recall practice can be more effective than rereading.",
+        "explanation": "本文中の根拠と正解「Recall practice can be more effective than rereading.」が一致する箇所を確認する。",
+        "passageId": "r-v12-normal-03",
+        "passageQuestionIndex": 2,
+        "passageQuestionTotal": 5,
+        "isLastInPassage": false
+      },
+      {
+        "id": "r-v12-normal-03-q03",
+        "type": "reading",
+        "question": "What can reasonably be inferred from the passage?",
+        "choices": [
+          "Spacing practice over time can help learning.",
+          "The topic has only one possible explanation.",
+          "Every case must produce the same result.",
+          "The author claims further evidence is impossible."
+        ],
+        "answer": "Spacing practice over time can help learning.",
+        "explanation": "本文中の根拠と正解「Spacing practice over time can help learning.」が一致する箇所を確認する。",
+        "passageId": "r-v12-normal-03",
+        "passageQuestionIndex": 3,
+        "passageQuestionTotal": 5,
+        "isLastInPassage": false
+      },
+      {
+        "id": "r-v12-normal-03-q04",
+        "type": "reading",
+        "question": "In this passage, which option best expresses the meaning of 'rather'?",
+        "choices": [
+          "instead / more accurately",
+          "because",
+          "afterward",
+          "without exception"
+        ],
+        "answer": "instead / more accurately",
+        "explanation": "本文中の根拠と正解「instead / more accurately」が一致する箇所を確認する。",
+        "passageId": "r-v12-normal-03",
+        "passageQuestionIndex": 4,
+        "passageQuestionTotal": 5,
+        "isLastInPassage": false
+      },
+      {
+        "id": "r-v12-normal-03-q05",
+        "type": "reading",
+        "question": "What is the writer's main purpose?",
+        "choices": [
+          "to explain a balanced idea and its practical implication",
+          "to prove that one method is always correct",
+          "to tell a fictional personal story",
+          "to argue that evidence is unnecessary"
+        ],
+        "answer": "to explain a balanced idea and its practical implication",
+        "explanation": "本文中の根拠と正解「to explain a balanced idea and its practical implication」が一致する箇所を確認する。",
+        "passageId": "r-v12-normal-03",
+        "passageQuestionIndex": 5,
+        "passageQuestionTotal": 5,
+        "isLastInPassage": true,
+        "passageTranslation": "忘却は失敗とみなされがちだが、記憶研究によれば、ある程度忘れることは正常で役に立つ。二度と振り返らない情報は思い出しにくくなり、とくに似た情報が注意を奪い合う場合はその傾向が強い。ある考えを短時間思い出そうとすることは、同じページを読み返すだけよりも、その後の想起を強めることがある。そのような想起練習を時間を空けて行うことも役立つ。重要なのは忘却を完全になくすことではない。むしろ、思い出すのが難しいと感じた瞬間を、もう一度想起練習をする合図として利用できる。"
+      }
+    ],
+    "tags": [
+      "reading-v12",
+      "normal"
+    ],
+    "passageTranslation": "忘却は失敗とみなされがちだが、記憶研究によれば、ある程度忘れることは正常で役に立つ。二度と振り返らない情報は思い出しにくくなり、とくに似た情報が注意を奪い合う場合はその傾向が強い。ある考えを短時間思い出そうとすることは、同じページを読み返すだけよりも、その後の想起を強めることがある。そのような想起練習を時間を空けて行うことも役立つ。重要なのは忘却を完全になくすことではない。むしろ、思い出すのが難しいと感じた瞬間を、もう一度想起練習をする合図として利用できる。"
+  },
+  {
+    "id": "r-v12-normal-04",
+    "type": "reading",
+    "level": "normal",
+    "title": "Quiet Does Not Mean Silent",
+    "passage": "A quiet public space is not necessarily a silent one. Designers may use vegetation, building shape, and surface materials to reduce harsh sounds while allowing ordinary conversation. Such spaces can be useful near schools, hospitals, and busy streets. People’s perception also matters: a steady natural sound may feel less disturbing than an unpredictable mechanical noise even when the measured volume is similar. Good acoustic design therefore considers both physical sound levels and how people experience them.",
+    "questions": [
+      {
+        "id": "r-v12-normal-04-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "A quiet space need not be completely silent.",
+          "Design can change how sound is experienced.",
+          "The passage argues that one simple solution always works.",
+          "The writer says evidence is unnecessary."
+        ],
+        "answer": "A quiet space need not be completely silent.",
+        "explanation": "本文中の根拠と正解「A quiet space need not be completely silent.」が一致する箇所を確認する。",
+        "passageId": "r-v12-normal-04",
+        "passageQuestionIndex": 1,
+        "passageQuestionTotal": 5,
+        "isLastInPassage": false
+      },
+      {
+        "id": "r-v12-normal-04-q02",
+        "type": "reading",
+        "question": "According to the passage, which statement is true?",
+        "choices": [
+          "Design can change how sound is experienced.",
+          "A quiet space need not be completely silent.",
+          "The passage says this never happens.",
+          "The writer rejects the issue entirely."
+        ],
+        "answer": "Design can change how sound is experienced.",
+        "explanation": "本文中の根拠と正解「Design can change how sound is experienced.」が一致する箇所を確認する。",
+        "passageId": "r-v12-normal-04",
+        "passageQuestionIndex": 2,
+        "passageQuestionTotal": 5,
+        "isLastInPassage": false
+      },
+      {
+        "id": "r-v12-normal-04-q03",
+        "type": "reading",
+        "question": "What can reasonably be inferred from the passage?",
+        "choices": [
+          "Perception is relevant to acoustic design.",
+          "The topic has only one possible explanation.",
+          "Every case must produce the same result.",
+          "The author claims further evidence is impossible."
+        ],
+        "answer": "Perception is relevant to acoustic design.",
+        "explanation": "本文中の根拠と正解「Perception is relevant to acoustic design.」が一致する箇所を確認する。",
+        "passageId": "r-v12-normal-04",
+        "passageQuestionIndex": 3,
+        "passageQuestionTotal": 5,
+        "isLastInPassage": false
+      },
+      {
+        "id": "r-v12-normal-04-q04",
+        "type": "reading",
+        "question": "In this passage, which option best expresses the meaning of 'rather'?",
+        "choices": [
+          "instead / more accurately",
+          "because",
+          "afterward",
+          "without exception"
+        ],
+        "answer": "instead / more accurately",
+        "explanation": "本文中の根拠と正解「instead / more accurately」が一致する箇所を確認する。",
+        "passageId": "r-v12-normal-04",
+        "passageQuestionIndex": 4,
+        "passageQuestionTotal": 5,
+        "isLastInPassage": false
+      },
+      {
+        "id": "r-v12-normal-04-q05",
+        "type": "reading",
+        "question": "What is the writer's main purpose?",
+        "choices": [
+          "to explain a balanced idea and its practical implication",
+          "to prove that one method is always correct",
+          "to tell a fictional personal story",
+          "to argue that evidence is unnecessary"
+        ],
+        "answer": "to explain a balanced idea and its practical implication",
+        "explanation": "本文中の根拠と正解「to explain a balanced idea and its practical implication」が一致する箇所を確認する。",
+        "passageId": "r-v12-normal-04",
+        "passageQuestionIndex": 5,
+        "passageQuestionTotal": 5,
+        "isLastInPassage": true,
+        "passageTranslation": "静かな公共空間が、必ずしも無音であるとは限らない。設計者は植物、建物の形、表面の素材などを利用して耳障りな音を減らしながら、普通の会話はできるようにすることがある。そのような空間は学校、病院、交通量の多い道路の近くなどで役立つ。人々の感じ方も重要で、測定された音量が同程度でも、一定した自然音は予測できない機械音より気にならないことがある。したがって、優れた音響設計では、物理的な音量だけでなく、人が音をどう感じるかも考慮する。"
+      }
+    ],
+    "tags": [
+      "reading-v12",
+      "normal"
+    ],
+    "passageTranslation": "静かな公共空間が、必ずしも無音であるとは限らない。設計者は植物、建物の形、表面の素材などを利用して耳障りな音を減らしながら、普通の会話はできるようにすることがある。そのような空間は学校、病院、交通量の多い道路の近くなどで役立つ。人々の感じ方も重要で、測定された音量が同程度でも、一定した自然音は予測できない機械音より気にならないことがある。したがって、優れた音響設計では、物理的な音量だけでなく、人が音をどう感じるかも考慮する。"
+  },
+  {
+    "id": "r-v12-normal-05",
+    "type": "reading",
+    "level": "normal",
+    "title": "The Hidden Cost of Convenience",
+    "passage": "Convenience can save time, but it can also hide other costs. A disposable product may be quick to use yet require resources to manufacture and dispose of. A digital service may reduce paperwork while increasing energy demand in data centers. The point is not that convenient products are bad. Rather, decisions become more informed when users consider the whole chain from production to disposal. In some cases, a small inconvenience, such as repairing an item instead of replacing it, can reduce total resource use.",
+    "questions": [
+      {
+        "id": "r-v12-normal-05-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "Convenience can have hidden costs.",
+          "Digital services can require energy in data centers.",
+          "The passage argues that one simple solution always works.",
+          "The writer says evidence is unnecessary."
+        ],
+        "answer": "Convenience can have hidden costs.",
+        "explanation": "本文中の根拠と正解「Convenience can have hidden costs.」が一致する箇所を確認する。",
+        "passageId": "r-v12-normal-05",
+        "passageQuestionIndex": 1,
+        "passageQuestionTotal": 5,
+        "isLastInPassage": false
+      },
+      {
+        "id": "r-v12-normal-05-q02",
+        "type": "reading",
+        "question": "According to the passage, which statement is true?",
+        "choices": [
+          "Digital services can require energy in data centers.",
+          "Convenience can have hidden costs.",
+          "The passage says this never happens.",
+          "The writer rejects the issue entirely."
+        ],
+        "answer": "Digital services can require energy in data centers.",
+        "explanation": "本文中の根拠と正解「Digital services can require energy in data centers.」が一致する箇所を確認する。",
+        "passageId": "r-v12-normal-05",
+        "passageQuestionIndex": 2,
+        "passageQuestionTotal": 5,
+        "isLastInPassage": false
+      },
+      {
+        "id": "r-v12-normal-05-q03",
+        "type": "reading",
+        "question": "What can reasonably be inferred from the passage?",
+        "choices": [
+          "Repair can sometimes reduce total resource use.",
+          "The topic has only one possible explanation.",
+          "Every case must produce the same result.",
+          "The author claims further evidence is impossible."
+        ],
+        "answer": "Repair can sometimes reduce total resource use.",
+        "explanation": "本文中の根拠と正解「Repair can sometimes reduce total resource use.」が一致する箇所を確認する。",
+        "passageId": "r-v12-normal-05",
+        "passageQuestionIndex": 3,
+        "passageQuestionTotal": 5,
+        "isLastInPassage": false
+      },
+      {
+        "id": "r-v12-normal-05-q04",
+        "type": "reading",
+        "question": "In this passage, which option best expresses the meaning of 'rather'?",
+        "choices": [
+          "instead / more accurately",
+          "because",
+          "afterward",
+          "without exception"
+        ],
+        "answer": "instead / more accurately",
+        "explanation": "本文中の根拠と正解「instead / more accurately」が一致する箇所を確認する。",
+        "passageId": "r-v12-normal-05",
+        "passageQuestionIndex": 4,
+        "passageQuestionTotal": 5,
+        "isLastInPassage": false
+      },
+      {
+        "id": "r-v12-normal-05-q05",
+        "type": "reading",
+        "question": "What is the writer's main purpose?",
+        "choices": [
+          "to explain a balanced idea and its practical implication",
+          "to prove that one method is always correct",
+          "to tell a fictional personal story",
+          "to argue that evidence is unnecessary"
+        ],
+        "answer": "to explain a balanced idea and its practical implication",
+        "explanation": "本文中の根拠と正解「to explain a balanced idea and its practical implication」が一致する箇所を確認する。",
+        "passageId": "r-v12-normal-05",
+        "passageQuestionIndex": 5,
+        "passageQuestionTotal": 5,
+        "isLastInPassage": true,
+        "passageTranslation": "便利さは時間を節約できる一方で、別のコストを見えにくくすることもある。使い捨て製品はすぐに使えても、製造や廃棄のために資源を必要とすることがある。デジタルサービスは書類作業を減らす一方で、データセンターのエネルギー需要を増やすこともある。便利な製品が悪いというのではない。生産から廃棄までの全体の流れを考えることで、より informed な判断ができるということだ。場合によっては、物を買い替える代わりに修理するような小さな不便が、資源全体の使用量を減らすこともある。"
+      }
+    ],
+    "tags": [
+      "reading-v12",
+      "normal"
+    ],
+    "passageTranslation": "便利さは時間を節約できる一方で、別のコストを見えにくくすることもある。使い捨て製品はすぐに使えても、製造や廃棄のために資源を必要とすることがある。デジタルサービスは書類作業を減らす一方で、データセンターのエネルギー需要を増やすこともある。便利な製品が悪いというのではない。生産から廃棄までの全体の流れを考えることで、より informed な判断ができるということだ。場合によっては、物を買い替える代わりに修理するような小さな不便が、資源全体の使用量を減らすこともある。"
+  },
+  {
+    "id": "r-v12-normal-06",
+    "type": "reading",
+    "level": "normal",
+    "title": "Maps and Attention",
+    "passage": "A map is not a neutral copy of a place. Every map selects some information and leaves out other information. A map for hikers may emphasize trails and elevation, while a map for delivery drivers may emphasize roads and building entrances. The same city can therefore appear very different depending on the purpose of the map. A useful map is one whose choices match the task for which it is being used.",
+    "questions": [
+      {
+        "id": "r-v12-normal-06-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "Maps select information.",
+          "Different users need different information.",
+          "The passage argues that one simple solution always works.",
+          "The writer says evidence is unnecessary."
+        ],
+        "answer": "Maps select information.",
+        "explanation": "本文中の根拠と正解「Maps select information.」が一致する箇所を確認する。",
+        "passageId": "r-v12-normal-06",
+        "passageQuestionIndex": 1,
+        "passageQuestionTotal": 5,
+        "isLastInPassage": false
+      },
+      {
+        "id": "r-v12-normal-06-q02",
+        "type": "reading",
+        "question": "According to the passage, which statement is true?",
+        "choices": [
+          "Different users need different information.",
+          "Maps select information.",
+          "The passage says this never happens.",
+          "The writer rejects the issue entirely."
+        ],
+        "answer": "Different users need different information.",
+        "explanation": "本文中の根拠と正解「Different users need different information.」が一致する箇所を確認する。",
+        "passageId": "r-v12-normal-06",
+        "passageQuestionIndex": 2,
+        "passageQuestionTotal": 5,
+        "isLastInPassage": false
+      },
+      {
+        "id": "r-v12-normal-06-q03",
+        "type": "reading",
+        "question": "What can reasonably be inferred from the passage?",
+        "choices": [
+          "A map is useful when its choices match its purpose.",
+          "The topic has only one possible explanation.",
+          "Every case must produce the same result.",
+          "The author claims further evidence is impossible."
+        ],
+        "answer": "A map is useful when its choices match its purpose.",
+        "explanation": "本文中の根拠と正解「A map is useful when its choices match its purpose.」が一致する箇所を確認する。",
+        "passageId": "r-v12-normal-06",
+        "passageQuestionIndex": 3,
+        "passageQuestionTotal": 5,
+        "isLastInPassage": false
+      },
+      {
+        "id": "r-v12-normal-06-q04",
+        "type": "reading",
+        "question": "In this passage, which option best expresses the meaning of 'rather'?",
+        "choices": [
+          "instead / more accurately",
+          "because",
+          "afterward",
+          "without exception"
+        ],
+        "answer": "instead / more accurately",
+        "explanation": "本文中の根拠と正解「instead / more accurately」が一致する箇所を確認する。",
+        "passageId": "r-v12-normal-06",
+        "passageQuestionIndex": 4,
+        "passageQuestionTotal": 5,
+        "isLastInPassage": false
+      },
+      {
+        "id": "r-v12-normal-06-q05",
+        "type": "reading",
+        "question": "What is the writer's main purpose?",
+        "choices": [
+          "to explain a balanced idea and its practical implication",
+          "to prove that one method is always correct",
+          "to tell a fictional personal story",
+          "to argue that evidence is unnecessary"
+        ],
+        "answer": "to explain a balanced idea and its practical implication",
+        "explanation": "本文中の根拠と正解「to explain a balanced idea and its practical implication」が一致する箇所を確認する。",
+        "passageId": "r-v12-normal-06",
+        "passageQuestionIndex": 5,
+        "passageQuestionTotal": 5,
+        "isLastInPassage": true,
+        "passageTranslation": "地図は場所をそのまま写した中立的な複製ではない。どの地図もある情報を選び、別の情報を省いている。ハイカー向けの地図は道や標高を強調するかもしれないが、配達員向けの地図は道路や建物の入口を強調するかもしれない。そのため、同じ都市でも、目的によってまったく違って見える。有用な地図とは、その用途に合うように情報を選んだ地図である。"
+      }
+    ],
+    "tags": [
+      "reading-v12",
+      "normal"
+    ],
+    "passageTranslation": "地図は場所をそのまま写した中立的な複製ではない。どの地図もある情報を選び、別の情報を省いている。ハイカー向けの地図は道や標高を強調するかもしれないが、配達員向けの地図は道路や建物の入口を強調するかもしれない。そのため、同じ都市でも、目的によってまったく違って見える。有用な地図とは、その用途に合うように情報を選んだ地図である。"
+  },
+  {
+    "id": "r-v12-normal-07",
+    "type": "reading",
+    "level": "normal",
+    "title": "Tools Shape Habits",
+    "passage": "Tools influence behavior as well as enabling it. A calendar makes appointments visible, a checklist makes omissions easier to detect, and a search engine changes how people look for information. Because tools shape attention, their design can influence habits. This is not always negative. A well-designed reminder can reduce the mental effort required to remember a routine task. Tools should therefore be evaluated not only by what they allow users to do, but also by what patterns of behavior they encourage.",
+    "questions": [
+      {
+        "id": "r-v12-normal-07-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "Tools can influence habits.",
+          "Checklists can make omissions easier to notice.",
+          "The passage argues that one simple solution always works.",
+          "The writer says evidence is unnecessary."
+        ],
+        "answer": "Tools can influence habits.",
+        "explanation": "本文中の根拠と正解「Tools can influence habits.」が一致する箇所を確認する。",
+        "passageId": "r-v12-normal-07",
+        "passageQuestionIndex": 1,
+        "passageQuestionTotal": 5,
+        "isLastInPassage": false
+      },
+      {
+        "id": "r-v12-normal-07-q02",
+        "type": "reading",
+        "question": "According to the passage, which statement is true?",
+        "choices": [
+          "Checklists can make omissions easier to notice.",
+          "Tools can influence habits.",
+          "The passage says this never happens.",
+          "The writer rejects the issue entirely."
+        ],
+        "answer": "Checklists can make omissions easier to notice.",
+        "explanation": "本文中の根拠と正解「Checklists can make omissions easier to notice.」が一致する箇所を確認する。",
+        "passageId": "r-v12-normal-07",
+        "passageQuestionIndex": 2,
+        "passageQuestionTotal": 5,
+        "isLastInPassage": false
+      },
+      {
+        "id": "r-v12-normal-07-q03",
+        "type": "reading",
+        "question": "What can reasonably be inferred from the passage?",
+        "choices": [
+          "Design can affect patterns of behavior.",
+          "The topic has only one possible explanation.",
+          "Every case must produce the same result.",
+          "The author claims further evidence is impossible."
+        ],
+        "answer": "Design can affect patterns of behavior.",
+        "explanation": "本文中の根拠と正解「Design can affect patterns of behavior.」が一致する箇所を確認する。",
+        "passageId": "r-v12-normal-07",
+        "passageQuestionIndex": 3,
+        "passageQuestionTotal": 5,
+        "isLastInPassage": false
+      },
+      {
+        "id": "r-v12-normal-07-q04",
+        "type": "reading",
+        "question": "In this passage, which option best expresses the meaning of 'rather'?",
+        "choices": [
+          "instead / more accurately",
+          "because",
+          "afterward",
+          "without exception"
+        ],
+        "answer": "instead / more accurately",
+        "explanation": "本文中の根拠と正解「instead / more accurately」が一致する箇所を確認する。",
+        "passageId": "r-v12-normal-07",
+        "passageQuestionIndex": 4,
+        "passageQuestionTotal": 5,
+        "isLastInPassage": false
+      },
+      {
+        "id": "r-v12-normal-07-q05",
+        "type": "reading",
+        "question": "What is the writer's main purpose?",
+        "choices": [
+          "to explain a balanced idea and its practical implication",
+          "to prove that one method is always correct",
+          "to tell a fictional personal story",
+          "to argue that evidence is unnecessary"
+        ],
+        "answer": "to explain a balanced idea and its practical implication",
+        "explanation": "本文中の根拠と正解「to explain a balanced idea and its practical implication」が一致する箇所を確認する。",
+        "passageId": "r-v12-normal-07",
+        "passageQuestionIndex": 5,
+        "passageQuestionTotal": 5,
+        "isLastInPassage": true,
+        "passageTranslation": "道具は、利用者に何かを可能にするだけでなく、行動にも影響を与える。予定表は約束を見えるようにし、チェックリストは見落としを発見しやすくし、検索エンジンは情報の探し方を変える。道具は注意の向け方を形作るため、その設計は習慣にも影響しうる。これは必ずしも悪いことではない。よく設計されたリマインダーは、決まった作業を思い出すための精神的な負担を減らせる。したがって道具は、何ができるかだけでなく、どのような行動パターンを促すかという点からも評価すべきである。"
+      }
+    ],
+    "tags": [
+      "reading-v12",
+      "normal"
+    ],
+    "passageTranslation": "道具は、利用者に何かを可能にするだけでなく、行動にも影響を与える。予定表は約束を見えるようにし、チェックリストは見落としを発見しやすくし、検索エンジンは情報の探し方を変える。道具は注意の向け方を形作るため、その設計は習慣にも影響しうる。これは必ずしも悪いことではない。よく設計されたリマインダーは、決まった作業を思い出すための精神的な負担を減らせる。したがって道具は、何ができるかだけでなく、どのような行動パターンを促すかという点からも評価すべきである。"
+  },
+  {
+    "id": "r-v12-normal-08",
+    "type": "reading",
+    "level": "normal",
+    "title": "When Measurements Mislead",
+    "passage": "A measurement can be precise without being meaningful. Suppose a school tracks the number of books students borrow and uses that number as the only measure of reading ability. The count may be easy to collect, but it does not show whether students understood the books. A better system could combine several forms of evidence, such as summaries, discussions, and longer-term projects. Measurements are valuable when they capture the feature that actually matters.",
+    "questions": [
+      {
+        "id": "r-v12-normal-08-q01",
+        "type": "reading",
+        "question": "Which statement best summarizes the passage?",
+        "choices": [
+          "A precise measurement can still be a poor measure.",
+          "Book-borrowing counts do not prove understanding.",
+          "The passage argues that one simple solution always works.",
+          "The writer says evidence is unnecessary."
+        ],
+        "answer": "A precise measurement can still be a poor measure.",
+        "explanation": "本文中の根拠と正解「A precise measurement can still be a poor measure.」が一致する箇所を確認する。",
+        "passageId": "r-v12-normal-08",
+        "passageQuestionIndex": 1,
+        "passageQuestionTotal": 5,
+        "isLastInPassage": false
+      },
+      {
+        "id": "r-v12-normal-08-q02",
+        "type": "reading",
+        "question": "According to the passage, which statement is true?",
+        "choices": [
+          "Book-borrowing counts do not prove understanding.",
+          "A precise measurement can still be a poor measure.",
+          "The passage says this never happens.",
+          "The writer rejects the issue entirely."
+        ],
+        "answer": "Book-borrowing counts do not prove understanding.",
+        "explanation": "本文中の根拠と正解「Book-borrowing counts do not prove understanding.」が一致する箇所を確認する。",
+        "passageId": "r-v12-normal-08",
+        "passageQuestionIndex": 2,
+        "passageQuestionTotal": 5,
+        "isLastInPassage": false
+      },
+      {
+        "id": "r-v12-normal-08-q03",
+        "type": "reading",
+        "question": "What can reasonably be inferred from the passage?",
+        "choices": [
+          "Several forms of evidence can be combined.",
+          "The topic has only one possible explanation.",
+          "Every case must produce the same result.",
+          "The author claims further evidence is impossible."
+        ],
+        "answer": "Several forms of evidence can be combined.",
+        "explanation": "本文中の根拠と正解「Several forms of evidence can be combined.」が一致する箇所を確認する。",
+        "passageId": "r-v12-normal-08",
+        "passageQuestionIndex": 3,
+        "passageQuestionTotal": 5,
+        "isLastInPassage": false
+      },
+      {
+        "id": "r-v12-normal-08-q04",
+        "type": "reading",
+        "question": "In this passage, which option best expresses the meaning of 'rather'?",
+        "choices": [
+          "instead / more accurately",
+          "because",
+          "afterward",
+          "without exception"
+        ],
+        "answer": "instead / more accurately",
+        "explanation": "本文中の根拠と正解「instead / more accurately」が一致する箇所を確認する。",
+        "passageId": "r-v12-normal-08",
+        "passageQuestionIndex": 4,
+        "passageQuestionTotal": 5,
+        "isLastInPassage": false
+      },
+      {
+        "id": "r-v12-normal-08-q05",
+        "type": "reading",
+        "question": "What is the writer's main purpose?",
+        "choices": [
+          "to explain a balanced idea and its practical implication",
+          "to prove that one method is always correct",
+          "to tell a fictional personal story",
+          "to argue that evidence is unnecessary"
+        ],
+        "answer": "to explain a balanced idea and its practical implication",
+        "explanation": "本文中の根拠と正解「to explain a balanced idea and its practical implication」が一致する箇所を確認する。",
+        "passageId": "r-v12-normal-08",
+        "passageQuestionIndex": 5,
+        "passageQuestionTotal": 5,
+        "isLastInPassage": true,
+        "passageTranslation": "測定値は正確でも、意味があるとは限らない。たとえば、学校が生徒の本の貸出冊数を記録し、それだけを読解力の指標にするとする。冊数は簡単に集計できても、生徒が本を理解したかどうかは示さない。よりよい仕組みでは、要約、話し合い、長期的な課題など、複数の証拠を組み合わせられる。測定は、本当に重要な特徴を捉えているときに価値を持つ。"
+      }
+    ],
+    "tags": [
+      "reading-v12",
+      "normal"
+    ],
+    "passageTranslation": "測定値は正確でも、意味があるとは限らない。たとえば、学校が生徒の本の貸出冊数を記録し、それだけを読解力の指標にするとする。冊数は簡単に集計できても、生徒が本を理解したかどうかは示さない。よりよい仕組みでは、要約、話し合い、長期的な課題など、複数の証拠を組み合わせられる。測定は、本当に重要な特徴を捉えているときに価値を持つ。"
+  }
+]

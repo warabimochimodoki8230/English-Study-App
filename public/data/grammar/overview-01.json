@@ -1,0 +1,272 @@
+[
+  {
+    "id": "g-overview-001",
+    "type": "grammar",
+    "level": "overview",
+    "question": "I ___ in Tokyo since 2020.",
+    "prompt": "時制",
+    "choices": [
+      {
+        "text": "have lived",
+        "correct": true
+      },
+      {
+        "text": "lived",
+        "correct": false
+      },
+      {
+        "text": "am living",
+        "correct": false
+      },
+      {
+        "text": "was lived",
+        "correct": false
+      }
+    ],
+    "answer": "have lived",
+    "explanation": "since 2020 が現在完了「ずっと～している」を示す。"
+  },
+  {
+    "id": "g-overview-002",
+    "type": "grammar",
+    "level": "overview",
+    "question": "English ___ in many countries.",
+    "prompt": "受動態",
+    "choices": [
+      {
+        "text": "is spoken",
+        "correct": true
+      },
+      {
+        "text": "speaks",
+        "correct": false
+      },
+      {
+        "text": "spoke",
+        "correct": false
+      },
+      {
+        "text": "has speaking",
+        "correct": false
+      }
+    ],
+    "answer": "is spoken",
+    "explanation": "主語 English が「話される」側なので受動態。"
+  },
+  {
+    "id": "g-overview-003",
+    "type": "grammar",
+    "level": "overview",
+    "question": "I decided ___ the offer.",
+    "prompt": "不定詞",
+    "choices": [
+      {
+        "text": "to accept",
+        "correct": true
+      },
+      {
+        "text": "accepting",
+        "correct": false
+      },
+      {
+        "text": "accepted",
+        "correct": false
+      },
+      {
+        "text": "to accepting",
+        "correct": false
+      }
+    ],
+    "answer": "to accept",
+    "explanation": "decide は to 不定詞を目的語に取る。"
+  },
+  {
+    "id": "g-overview-004",
+    "type": "grammar",
+    "level": "overview",
+    "question": "She enjoys ___ novels.",
+    "prompt": "動名詞",
+    "choices": [
+      {
+        "text": "reading",
+        "correct": true
+      },
+      {
+        "text": "to read",
+        "correct": false
+      },
+      {
+        "text": "read",
+        "correct": false
+      },
+      {
+        "text": "reads",
+        "correct": false
+      }
+    ],
+    "answer": "reading",
+    "explanation": "enjoy は動名詞を目的語に取る。"
+  },
+  {
+    "id": "g-overview-005",
+    "type": "grammar",
+    "level": "overview",
+    "question": "The man ___ by the window is my teacher.",
+    "prompt": "分詞",
+    "choices": [
+      {
+        "text": "standing",
+        "correct": true
+      },
+      {
+        "text": "stood",
+        "correct": false
+      },
+      {
+        "text": "stands",
+        "correct": false
+      },
+      {
+        "text": "to stand",
+        "correct": false
+      }
+    ],
+    "answer": "standing",
+    "explanation": "名詞 man を修飾する現在分詞。"
+  },
+  {
+    "id": "g-overview-006",
+    "type": "grammar",
+    "level": "overview",
+    "question": "This is the book ___ I bought yesterday.",
+    "prompt": "関係詞",
+    "choices": [
+      {
+        "text": "that",
+        "correct": true
+      },
+      {
+        "text": "what",
+        "correct": false
+      },
+      {
+        "text": "where",
+        "correct": false
+      },
+      {
+        "text": "who",
+        "correct": false
+      }
+    ],
+    "answer": "that",
+    "explanation": "先行詞が物で、関係代名詞 that が目的語になる。"
+  },
+  {
+    "id": "g-overview-007",
+    "type": "grammar",
+    "level": "overview",
+    "question": "This problem is ___ than I expected.",
+    "prompt": "比較",
+    "choices": [
+      {
+        "text": "more difficult",
+        "correct": true
+      },
+      {
+        "text": "most difficult",
+        "correct": false
+      },
+      {
+        "text": "difficultest",
+        "correct": false
+      },
+      {
+        "text": "as difficult",
+        "correct": false
+      }
+    ],
+    "answer": "more difficult",
+    "explanation": "than があるので比較級。"
+  },
+  {
+    "id": "g-overview-008",
+    "type": "grammar",
+    "level": "overview",
+    "question": "If I ___ you, I would apologize.",
+    "prompt": "仮定法",
+    "choices": [
+      {
+        "text": "were",
+        "correct": true
+      },
+      {
+        "text": "am",
+        "correct": false
+      },
+      {
+        "text": "was",
+        "correct": false
+      },
+      {
+        "text": "be",
+        "correct": false
+      }
+    ],
+    "answer": "were",
+    "explanation": "現実と異なる仮定では be 動詞を were にするのが基本。"
+  },
+  {
+    "id": "g-overview-009",
+    "type": "grammar",
+    "level": "overview",
+    "question": "You ___ finish it by tomorrow.",
+    "prompt": "助動詞",
+    "choices": [
+      {
+        "text": "must",
+        "correct": true
+      },
+      {
+        "text": "might have",
+        "correct": false
+      },
+      {
+        "text": "used to",
+        "correct": false
+      },
+      {
+        "text": "would rather",
+        "correct": false
+      }
+    ],
+    "answer": "must",
+    "explanation": "強い義務を表す must。"
+  },
+  {
+    "id": "g-overview-010",
+    "type": "grammar",
+    "level": "overview",
+    "question": "I stayed home ___ it was raining.",
+    "prompt": "接続詞",
+    "choices": [
+      {
+        "text": "because",
+        "correct": true
+      },
+      {
+        "text": "despite",
+        "correct": false
+      },
+      {
+        "text": "during",
+        "correct": false
+      },
+      {
+        "text": "unless",
+        "correct": false
+      }
+    ],
+    "answer": "because",
+    "explanation": "because は「～なので」を表す接続詞。"
+  }
+]
