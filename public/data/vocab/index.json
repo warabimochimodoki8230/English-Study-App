@@ -1,0 +1,206 @@
+{
+  "version": "20260822-v29-6000",
+  "files": [
+    {
+      "file": "advanced-01.json",
+      "level": "advanced",
+      "count": 689
+    },
+    {
+      "file": "advanced-02.json",
+      "level": "",
+      "count": 0
+    },
+    {
+      "file": "advanced-expansion-01.json",
+      "level": "",
+      "count": 0
+    },
+    {
+      "file": "advanced-expansion-02.json",
+      "level": "",
+      "count": 0
+    },
+    {
+      "file": "advanced-expansion-03.json",
+      "level": "",
+      "count": 0
+    },
+    {
+      "file": "advanced-v29-6000.json",
+      "level": "advanced",
+      "count": 285
+    },
+    {
+      "file": "basic-01.json",
+      "level": "basic",
+      "count": 1360
+    },
+    {
+      "file": "basic-02.json",
+      "level": "",
+      "count": 0
+    },
+    {
+      "file": "basic-03.json",
+      "level": "",
+      "count": 0
+    },
+    {
+      "file": "basic-04.json",
+      "level": "",
+      "count": 0
+    },
+    {
+      "file": "basic-05.json",
+      "level": "",
+      "count": 0
+    },
+    {
+      "file": "basic-06.json",
+      "level": "",
+      "count": 0
+    },
+    {
+      "file": "developed-01.json",
+      "level": "developed",
+      "count": 467
+    },
+    {
+      "file": "developed-expansion-01.json",
+      "level": "",
+      "count": 0
+    },
+    {
+      "file": "developed-expansion-02.json",
+      "level": "",
+      "count": 0
+    },
+    {
+      "file": "developed-expansion-03.json",
+      "level": "",
+      "count": 0
+    },
+    {
+      "file": "developed-expansion-04.json",
+      "level": "",
+      "count": 0
+    },
+    {
+      "file": "developed-expansion-05.json",
+      "level": "",
+      "count": 0
+    },
+    {
+      "file": "family-v21-advanced.json",
+      "level": "",
+      "count": 0
+    },
+    {
+      "file": "family-v21-developed.json",
+      "level": "",
+      "count": 0
+    },
+    {
+      "file": "family-v21-hard.json",
+      "level": "",
+      "count": 0
+    },
+    {
+      "file": "family-v21-standard.json",
+      "level": "",
+      "count": 0
+    },
+    {
+      "file": "hard-01.json",
+      "level": "hard",
+      "count": 767
+    },
+    {
+      "file": "hard-02.json",
+      "level": "",
+      "count": 0
+    },
+    {
+      "file": "hard-expansion-01.json",
+      "level": "",
+      "count": 0
+    },
+    {
+      "file": "hard-expansion-02.json",
+      "level": "",
+      "count": 0
+    },
+    {
+      "file": "hard-massive-03.json",
+      "level": "",
+      "count": 0
+    },
+    {
+      "file": "hard-v13-expansion.json",
+      "level": "",
+      "count": 0
+    },
+    {
+      "file": "hard-v26-bulk.json",
+      "level": "hard",
+      "count": 53
+    },
+    {
+      "file": "hard-v27-bulk.json",
+      "level": "hard",
+      "count": 50
+    },
+    {
+      "file": "hard-v27-final.json",
+      "level": "hard",
+      "count": 62
+    },
+    {
+      "file": "hard-v29-6000.json",
+      "level": "hard",
+      "count": 331
+    },
+    {
+      "file": "mass-v27-final.json",
+      "level": "advanced",
+      "count": 207
+    },
+    {
+      "file": "standard-01.json",
+      "level": "standard",
+      "count": 1729
+    },
+    {
+      "file": "standard-02.json",
+      "level": "",
+      "count": 0
+    },
+    {
+      "file": "standard-03.json",
+      "level": "",
+      "count": 0
+    },
+    {
+      "file": "standard-04.json",
+      "level": "",
+      "count": 0
+    },
+    {
+      "file": "standard-05.json",
+      "level": "",
+      "count": 0
+    },
+    {
+      "file": "standard-06.json",
+      "level": "",
+      "count": 0
+    },
+    {
+      "file": "standard-07.json",
+      "level": "",
+      "count": 0
+    }
+  ],
+  "totalCount": 6000
+}
