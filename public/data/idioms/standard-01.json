@@ -1,0 +1,1428 @@
+[
+  {
+    "id": "i-hard-112",
+    "type": "idiom",
+    "level": "standard",
+    "word": "account for",
+    "meaning": "～の説明となる・～を占める",
+    "question": "account for",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～寸前で",
+        "correct": false
+      },
+      {
+        "text": "～に従って",
+        "correct": false
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      },
+      {
+        "text": "～の説明となる・～を占める",
+        "correct": true
+      }
+    ],
+    "answer": "～の説明となる・～を占める",
+    "explanation": "",
+    "tags": [],
+    "levelTags": [
+      "hard",
+      "standard"
+    ],
+    "exampleSentence": "During the 2011 exam season at a technology center, the two groups reached an agreement after discussing how to account for.",
+    "exampleJa": "2011年の試験期間では、2つのグループは、～の説明となる方法について話し合った後、合意に達した。"
+  },
+  {
+    "id": "i-standard-102",
+    "type": "idiom",
+    "level": "standard",
+    "word": "apply for",
+    "meaning": "～に申し込む",
+    "question": "apply for",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を説明する・～を占める",
+        "correct": false
+      },
+      {
+        "text": "配る・尽きる",
+        "correct": false
+      },
+      {
+        "text": "～に申し込む",
+        "correct": true
+      },
+      {
+        "text": "～を実行する",
+        "correct": false
+      }
+    ],
+    "answer": "～に申し込む",
+    "explanation": "",
+    "exampleSentence": "The team decided to apply for the issue before the meeting.",
+    "exampleJa": "チームは会議の前にその問題について～に申し込むことにした。"
+  },
+  {
+    "id": "i-standard-129",
+    "type": "idiom",
+    "level": "standard",
+    "word": "as a result",
+    "meaning": "その結果",
+    "question": "as a result",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を楽しみに待つ",
+        "correct": false
+      },
+      {
+        "text": "その結果",
+        "correct": true
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      }
+    ],
+    "answer": "その結果",
+    "explanation": "",
+    "exampleSentence": "The road was flooded; as a result, the bus service was suspended.",
+    "exampleJa": "道路が冠水した。その結果、バスの運行は停止された。"
+  },
+  {
+    "id": "i-standard-130",
+    "type": "idiom",
+    "level": "standard",
+    "word": "at least",
+    "meaning": "少なくとも",
+    "question": "at least",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "少なくとも",
+        "correct": true
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を断る・音量を下げる",
+        "correct": false
+      },
+      {
+        "text": "～に加えて",
+        "correct": false
+      }
+    ],
+    "answer": "少なくとも",
+    "explanation": "",
+    "exampleSentence": "During the 2010 final presentation at a science museum, the task will take at least two hours.",
+    "exampleJa": "2010年の最終発表では、その作業には少なくとも2時間かかる。"
+  },
+  {
+    "id": "i-standard-131",
+    "type": "idiom",
+    "level": "standard",
+    "word": "at most",
+    "meaning": "せいぜい",
+    "question": "at most",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "せいぜい",
+        "correct": true
+      },
+      {
+        "text": "屈する",
+        "correct": false
+      },
+      {
+        "text": "～とは対照的に",
+        "correct": false
+      },
+      {
+        "text": "～を埋め合わせる",
+        "correct": false
+      }
+    ],
+    "answer": "せいぜい",
+    "explanation": "",
+    "exampleSentence": "During the 2010 final presentation at a public school, the task will take at most two hours.",
+    "exampleJa": "2010年の最終発表では、その作業には長くても2時間しかかからない。"
+  },
+  {
+    "id": "i-standard-132",
+    "type": "idiom",
+    "level": "standard",
+    "word": "by means of",
+    "meaning": "～によって",
+    "question": "by means of",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～によって",
+        "correct": true
+      },
+      {
+        "text": "～を実行する",
+        "correct": false
+      },
+      {
+        "text": "その結果",
+        "correct": false
+      }
+    ],
+    "answer": "～によって",
+    "explanation": "",
+    "exampleSentence": "The committee changed the plan by means of the new evidence.",
+    "exampleJa": "委員会は新しい証拠を踏まえて計画を変更した。"
+  },
+  {
+    "id": "i-standard-103",
+    "type": "idiom",
+    "level": "standard",
+    "word": "call for",
+    "meaning": "～を必要とする・要求する",
+    "question": "call for",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "判明する・結果となる",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする・要求する",
+        "correct": true
+      },
+      {
+        "text": "～を表す",
+        "correct": false
+      },
+      {
+        "text": "その結果",
+        "correct": false
+      }
+    ],
+    "answer": "～を必要とする・要求する",
+    "explanation": "",
+    "exampleSentence": "During the 2013 classroom discussion at a public library, the situation calls for immediate action.",
+    "exampleJa": "2013年の教室での議論に公共図書館で、その状況は直ちに行動することを求めている。"
+  },
+  {
+    "id": "i-standard-104",
+    "type": "idiom",
+    "level": "standard",
+    "word": "carry out",
+    "meaning": "～を実行する",
+    "question": "carry out",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "うまくいく・解決する",
+        "correct": false
+      },
+      {
+        "text": "～を断る・音量を下げる",
+        "correct": false
+      },
+      {
+        "text": "配る・尽きる",
+        "correct": false
+      },
+      {
+        "text": "～を実行する",
+        "correct": true
+      }
+    ],
+    "answer": "～を実行する",
+    "explanation": "",
+    "exampleSentence": "During the 2011 summer program at a community center, the team decided to carry out the issue before the meeting.",
+    "exampleJa": "2011年の夏のプログラムでは、チームは会議の前にその問題について～を実行することにした。"
+  },
+  {
+    "id": "i-standard-105",
+    "type": "idiom",
+    "level": "standard",
+    "word": "come up with",
+    "meaning": "～を思いつく",
+    "question": "come up with",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "少なくとも",
+        "correct": false
+      },
+      {
+        "text": "～を設立する・設定する",
+        "correct": false
+      },
+      {
+        "text": "～を埋め合わせる",
+        "correct": false
+      },
+      {
+        "text": "～を思いつく",
+        "correct": true
+      }
+    ],
+    "answer": "～を思いつく",
+    "explanation": "",
+    "exampleSentence": "During the 2013 research project at a local school, the team came up with a practical solution to the problem.",
+    "exampleJa": "2013年の研究プロジェクトに地元の学校で、チームはその問題に対する実用的な解決策を考え出した。"
+  },
+  {
+    "id": "i-entrance-102",
+    "type": "idiom",
+    "level": "standard",
+    "word": "consist of",
+    "meaning": "～から成る",
+    "question": "consist of",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～から生じる",
+        "correct": false
+      },
+      {
+        "text": "～から成る",
+        "correct": true
+      },
+      {
+        "text": "～を受け入れる",
+        "correct": false
+      },
+      {
+        "text": "～に貢献する・～の一因となる",
+        "correct": false
+      }
+    ],
+    "answer": "～から成る",
+    "explanation": "",
+    "tags": [],
+    "levelTags": [
+      "entrance",
+      "standard"
+    ],
+    "exampleSentence": "During the 2011 research project at a technology center, the two groups reached an agreement after discussing how to consist of.",
+    "exampleJa": "2011年の研究プロジェクトでは、2つのグループは、～から成る方法について話し合った後、合意に達した。"
+  },
+  {
+    "id": "i-entrance-103",
+    "type": "idiom",
+    "level": "standard",
+    "word": "contribute to",
+    "meaning": "～に貢献する・～の一因となる",
+    "question": "contribute to",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～がない場合に",
+        "correct": false
+      },
+      {
+        "text": "～を受ける・～の対象となる",
+        "correct": false
+      },
+      {
+        "text": "～に貢献する・～の一因となる",
+        "correct": true
+      },
+      {
+        "text": "～を考慮に入れる",
+        "correct": false
+      }
+    ],
+    "answer": "～に貢献する・～の一因となる",
+    "explanation": "",
+    "tags": [],
+    "levelTags": [
+      "entrance",
+      "standard"
+    ],
+    "exampleSentence": "During the 2011 research project at a community festival, the two groups reached an agreement after discussing how to contribute to.",
+    "exampleJa": "2011年の研究プロジェクトでは、2つのグループは、～に貢献する方法について話し合った後、合意に達した。"
+  },
+  {
+    "id": "i-standard-106",
+    "type": "idiom",
+    "level": "standard",
+    "word": "cut down on",
+    "meaning": "～を減らす",
+    "question": "cut down on",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を必要とする・要求する",
+        "correct": false
+      },
+      {
+        "text": "～を引き継ぐ",
+        "correct": false
+      },
+      {
+        "text": "～を設立する・設定する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": true
+      }
+    ],
+    "answer": "～を減らす",
+    "explanation": "",
+    "exampleSentence": "During the 2010 summer program at the city office, he is trying to cut down on sugar for health reasons.",
+    "exampleJa": "2010年の夏のプログラムでは、彼は健康上の理由から砂糖の摂取量を減らそうとしている。"
+  },
+  {
+    "id": "i-standard-107",
+    "type": "idiom",
+    "level": "standard",
+    "word": "figure out",
+    "meaning": "～を理解する・解決する",
+    "question": "figure out",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "その結果",
+        "correct": false
+      },
+      {
+        "text": "～を理解する・解決する",
+        "correct": true
+      },
+      {
+        "text": "判明する・結果となる",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      }
+    ],
+    "answer": "～を理解する・解決する",
+    "explanation": "",
+    "exampleSentence": "During the 2013 autumn term at a museum, we finally figured out how to fix the machine.",
+    "exampleJa": "2013年の秋学期に博物館で、私たちはついにその機械を修理する方法を見つけた。"
+  },
+  {
+    "id": "i-standard-138",
+    "type": "idiom",
+    "level": "standard",
+    "word": "for the sake of",
+    "meaning": "～のために",
+    "question": "for the sake of",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を表す",
+        "correct": false
+      },
+      {
+        "text": "～の点で",
+        "correct": false
+      },
+      {
+        "text": "～のために",
+        "correct": true
+      },
+      {
+        "text": "～を断る・音量を下げる",
+        "correct": false
+      }
+    ],
+    "answer": "～のために",
+    "explanation": "",
+    "exampleSentence": "During the 2010 field study at a public library, the committee changed the plan for the sake of the new evidence.",
+    "exampleJa": "2010年の実地調査では、委員会は新しい証拠を踏まえて計画を変更した。"
+  },
+  {
+    "id": "i-standard-108",
+    "type": "idiom",
+    "level": "standard",
+    "word": "get rid of",
+    "meaning": "～を取り除く",
+    "question": "get rid of",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を使い果たす",
+        "correct": false
+      },
+      {
+        "text": "せいぜい",
+        "correct": false
+      },
+      {
+        "text": "～を取り除く",
+        "correct": true
+      },
+      {
+        "text": "～を断る・音量を下げる",
+        "correct": false
+      }
+    ],
+    "answer": "～を取り除く",
+    "explanation": "",
+    "exampleSentence": "During the 2011 summer program at a science museum, the team decided to get rid of the issue before the meeting.",
+    "exampleJa": "2011年の夏のプログラムでは、チームは会議の前にその問題について～を取り除くことにした。"
+  },
+  {
+    "id": "i-standard-109",
+    "type": "idiom",
+    "level": "standard",
+    "word": "give in",
+    "meaning": "屈する",
+    "question": "give in",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～の点で",
+        "correct": false
+      },
+      {
+        "text": "屈する",
+        "correct": true
+      },
+      {
+        "text": "～を保持する",
+        "correct": false
+      },
+      {
+        "text": "～を設立する・設定する",
+        "correct": false
+      }
+    ],
+    "answer": "屈する",
+    "explanation": "",
+    "exampleSentence": "She give in the issue during the discussion.",
+    "exampleJa": "彼女は議論の中で、その問題をその問題屈した。"
+  },
+  {
+    "id": "i-standard-110",
+    "type": "idiom",
+    "level": "standard",
+    "word": "give out",
+    "meaning": "配る・尽きる",
+    "question": "give out",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "少なくとも",
+        "correct": false
+      },
+      {
+        "text": "～とは対照的に",
+        "correct": false
+      },
+      {
+        "text": "配る・尽きる",
+        "correct": true
+      },
+      {
+        "text": "～を表す",
+        "correct": false
+      }
+    ],
+    "answer": "配る・尽きる",
+    "explanation": "",
+    "exampleSentence": "The students give out a better solution after several attempts.",
+    "exampleJa": "学生たちは何度か試した後、より良い解決策をその提案配る・尽きる。"
+  },
+  {
+    "id": "i-standard-111",
+    "type": "idiom",
+    "level": "standard",
+    "word": "hold on to",
+    "meaning": "～を保持する",
+    "question": "hold on to",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を必要とする・要求する",
+        "correct": false
+      },
+      {
+        "text": "～の点で",
+        "correct": false
+      },
+      {
+        "text": "～を保持する",
+        "correct": true
+      },
+      {
+        "text": "屈する",
+        "correct": false
+      }
+    ],
+    "answer": "～を保持する",
+    "explanation": "",
+    "exampleSentence": "The manager hold on to the new plan after lunch.",
+    "exampleJa": "管理者は昼食後、新しい計画をその計画を保持する。"
+  },
+  {
+    "id": "i-standard-133",
+    "type": "idiom",
+    "level": "standard",
+    "word": "in addition to",
+    "meaning": "～に加えて",
+    "question": "in addition to",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "その結果",
+        "correct": false
+      },
+      {
+        "text": "～に我慢する",
+        "correct": false
+      },
+      {
+        "text": "～を設立する・設定する",
+        "correct": false
+      },
+      {
+        "text": "～に加えて",
+        "correct": true
+      }
+    ],
+    "answer": "～に加えて",
+    "explanation": "",
+    "exampleSentence": "During the 2010 winter session at a training center, in addition to English, she studies Spanish at university.",
+    "exampleJa": "2010年の冬の講座では、彼女は英語に加えて、大学でスペイン語を学んでいる。"
+  },
+  {
+    "id": "i-entrance-007",
+    "type": "idiom",
+    "level": "standard",
+    "word": "in contrast to",
+    "meaning": "～と対照的に",
+    "question": "in contrast to",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～と対照的に",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～と対照的に",
+    "explanation": "",
+    "tags": [],
+    "levelTags": [
+      "entrance",
+      "standard"
+    ],
+    "exampleSentence": "During the 2010 orientation week at a local university, in contrast to his brother, Ken enjoys working alone.",
+    "exampleJa": "2010年のオリエンテーション期間では、兄とは対照的に、ケンは一人で働くことを好む。"
+  },
+  {
+    "id": "i-standard-140",
+    "type": "idiom",
+    "level": "standard",
+    "word": "in response to",
+    "meaning": "～に応じて",
+    "question": "in response to",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～によって",
+        "correct": false
+      },
+      {
+        "text": "～に応じて",
+        "correct": true
+      },
+      {
+        "text": "～を使い果たす",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      }
+    ],
+    "answer": "～に応じて",
+    "explanation": "",
+    "exampleSentence": "During the 2010 field study at a community festival, the committee changed the plan in response to the new evidence.",
+    "exampleJa": "2010年の実地調査では、委員会は新しい証拠を踏まえて計画を変更した。"
+  },
+  {
+    "id": "i-standard-134",
+    "type": "idiom",
+    "level": "standard",
+    "word": "in spite of",
+    "meaning": "～にもかかわらず",
+    "question": "in spite of",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を使い果たす",
+        "correct": false
+      },
+      {
+        "text": "～にもかかわらず",
+        "correct": true
+      },
+      {
+        "text": "～を実行する",
+        "correct": false
+      },
+      {
+        "text": "その結果",
+        "correct": false
+      }
+    ],
+    "answer": "～にもかかわらず",
+    "explanation": "",
+    "exampleSentence": "The match continued in spite of the heavy rain.",
+    "exampleJa": "大雨にもかかわらず、試合は続いた。"
+  },
+  {
+    "id": "i-entrance-005",
+    "type": "idiom",
+    "level": "standard",
+    "word": "in terms of",
+    "meaning": "～の観点では・～に関して",
+    "question": "in terms of",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～の観点では・～に関して",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～の観点では・～に関して",
+    "explanation": "",
+    "tags": [],
+    "levelTags": [
+      "entrance",
+      "standard"
+    ],
+    "exampleSentence": "During the 2010 laboratory trial at a museum, the report evaluates the two plans in terms of cost and safety.",
+    "exampleJa": "2010年の研究室での試験では、その報告書は費用と安全性の点から2つの計画を評価している。"
+  },
+  {
+    "id": "i-standard-112",
+    "type": "idiom",
+    "level": "standard",
+    "word": "keep up with",
+    "meaning": "～についていく",
+    "question": "keep up with",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～についていく",
+        "correct": true
+      },
+      {
+        "text": "その結果",
+        "correct": false
+      },
+      {
+        "text": "～に応じて",
+        "correct": false
+      },
+      {
+        "text": "～とは対照的に",
+        "correct": false
+      }
+    ],
+    "answer": "～についていく",
+    "explanation": "",
+    "exampleSentence": "During the 2011 autumn term at a technology center, the team decided to keep up with the issue before the meeting.",
+    "exampleJa": "2011年の秋学期では、チームは会議の前にその問題について～についていくことにした。"
+  },
+  {
+    "id": "i-standard-114",
+    "type": "idiom",
+    "level": "standard",
+    "word": "look forward to",
+    "meaning": "～を楽しみに待つ",
+    "question": "look forward to",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～という結果になる",
+        "correct": false
+      },
+      {
+        "text": "配る・尽きる",
+        "correct": false
+      },
+      {
+        "text": "せいぜい",
+        "correct": false
+      },
+      {
+        "text": "～を楽しみに待つ",
+        "correct": true
+      }
+    ],
+    "answer": "～を楽しみに待つ",
+    "explanation": "",
+    "exampleSentence": "The team look forward to the proposal before the meeting ended.",
+    "exampleJa": "チームは会議が終わる前に、その提案をその提案を楽しみに待つ。"
+  },
+  {
+    "id": "i-standard-113",
+    "type": "idiom",
+    "level": "standard",
+    "word": "look into",
+    "meaning": "～を調査する",
+    "question": "look into",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～に申し込む",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": true
+      },
+      {
+        "text": "～を実行する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする・要求する",
+        "correct": false
+      }
+    ],
+    "answer": "～を調査する",
+    "explanation": "",
+    "exampleSentence": "The doctor look into the evidence during the interview.",
+    "exampleJa": "医師はその証拠をを調査したインタビュー中に。"
+  },
+  {
+    "id": "i-entrance-002",
+    "type": "idiom",
+    "level": "standard",
+    "word": "make up for",
+    "meaning": "～を埋め合わせる",
+    "question": "make up for",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を埋め合わせる",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～を埋め合わせる",
+    "explanation": "",
+    "tags": [],
+    "levelTags": [
+      "entrance",
+      "standard"
+    ],
+    "exampleSentence": "During the 2010 public lecture at a technology center, the decision may make up for a real difference to local residents.",
+    "exampleJa": "2010年の公開講座では、その決定は地元住民にとって大きな違いを生む可能性がある。"
+  },
+  {
+    "id": "i-entrance-010",
+    "type": "idiom",
+    "level": "standard",
+    "word": "on behalf of",
+    "meaning": "～を代表して",
+    "question": "on behalf of",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を代表して",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～を代表して",
+    "explanation": "",
+    "tags": [],
+    "levelTags": [
+      "entrance",
+      "standard"
+    ],
+    "exampleSentence": "The lawyer spoke on behalf of the residents.",
+    "exampleJa": "その弁護士は住民を代表して話した。"
+  },
+  {
+    "id": "i-standard-009",
+    "type": "idiom",
+    "level": "standard",
+    "word": "prevent A from doing",
+    "meaning": "Aが～するのを防ぐ",
+    "question": "prevent A from doing",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "Aが～するのを防ぐ",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "Aが～するのを防ぐ",
+    "explanation": "",
+    "exampleSentence": "The fence prevents children from entering the construction site.",
+    "exampleJa": "その柵は子どもたちが建設現場に入るのを防いでいる。"
+  },
+  {
+    "id": "i-entrance-117",
+    "type": "idiom",
+    "level": "standard",
+    "word": "provide A with B",
+    "meaning": "AにBを与える",
+    "question": "provide A with B",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を処分する",
+        "correct": false
+      },
+      {
+        "text": "AにBを与える",
+        "correct": true
+      },
+      {
+        "text": "～に賛成して",
+        "correct": false
+      },
+      {
+        "text": "～を考慮に入れる",
+        "correct": false
+      }
+    ],
+    "answer": "AにBを与える",
+    "explanation": "",
+    "tags": [],
+    "levelTags": [
+      "entrance",
+      "standard"
+    ],
+    "exampleSentence": "The program provides students with useful information about scholarships.",
+    "exampleJa": "そのプログラムは学生に奨学金について役立つ情報を提供する。"
+  },
+  {
+    "id": "i-standard-116",
+    "type": "idiom",
+    "level": "standard",
+    "word": "put off",
+    "meaning": "～を延期する",
+    "question": "put off",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～によって",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": true
+      },
+      {
+        "text": "うまくいく・解決する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      }
+    ],
+    "answer": "～を延期する",
+    "explanation": "",
+    "exampleSentence": "During the 2011 autumn term at a public school, the team decided to put off the issue before the meeting.",
+    "exampleJa": "2011年の秋学期では、チームは会議の前にその問題について～を延期することにした。"
+  },
+  {
+    "id": "i-entrance-003",
+    "type": "idiom",
+    "level": "standard",
+    "word": "put up with",
+    "meaning": "～を我慢する",
+    "question": "put up with",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を我慢する",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～を我慢する",
+    "explanation": "",
+    "tags": [],
+    "levelTags": [
+      "entrance",
+      "standard"
+    ],
+    "exampleSentence": "During the 2010 winter session at a research center, i cannot put up with that noise any longer.",
+    "exampleJa": "2010年の冬の講座では、私はもうあの騒音に耐えられない。"
+  },
+  {
+    "id": "i-standard-005",
+    "type": "idiom",
+    "level": "standard",
+    "word": "refer to",
+    "meaning": "～を指す・言及する",
+    "question": "refer to",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を指す・言及する",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～を指す・言及する",
+    "explanation": "",
+    "tags": [],
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "During the 2011 winter session at a community center, the team decided to refer to the issue before the meeting.",
+    "exampleJa": "2011年の冬の講座では、チームは会議の前にその問題について～を指すことにした。"
+  },
+  {
+    "id": "i-standard-007",
+    "type": "idiom",
+    "level": "standard",
+    "word": "result from",
+    "meaning": "～に起因する",
+    "question": "result from",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～に起因する",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～に起因する",
+    "explanation": "",
+    "tags": [],
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "During the 2010 orientation week in a laboratory, many accidents result from simple mistakes.",
+    "exampleJa": "2010年のオリエンテーション期間では、多くの事故は単純なミスから生じる。"
+  },
+  {
+    "id": "i-standard-006",
+    "type": "idiom",
+    "level": "standard",
+    "word": "result in",
+    "meaning": "～という結果になる",
+    "question": "result in",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～という結果になる",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～という結果になる",
+    "explanation": "",
+    "tags": [],
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "During the 2010 exam season at a museum, poor planning can result in serious delays.",
+    "exampleJa": "2010年の試験期間では、計画が不十分だと、深刻な遅れにつながることがある。"
+  },
+  {
+    "id": "i-standard-121",
+    "type": "idiom",
+    "level": "standard",
+    "word": "run out of",
+    "meaning": "～を使い果たす",
+    "question": "run out of",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～によって",
+        "correct": false
+      },
+      {
+        "text": "～を説明する・～を占める",
+        "correct": false
+      },
+      {
+        "text": "～の点で",
+        "correct": false
+      },
+      {
+        "text": "～を使い果たす",
+        "correct": true
+      }
+    ],
+    "answer": "～を使い果たす",
+    "explanation": "",
+    "exampleSentence": "During the 2011 winter session at a regional hospital, the team decided to run out of the issue before the meeting.",
+    "exampleJa": "2011年の冬の講座では、チームは会議の前にその問題について～を使い果たすことにした。"
+  },
+  {
+    "id": "i-standard-122",
+    "type": "idiom",
+    "level": "standard",
+    "word": "set up",
+    "meaning": "～を設立する・設定する",
+    "question": "set up",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を設立する・設定する",
+        "correct": true
+      },
+      {
+        "text": "うまくいく・解決する",
+        "correct": false
+      },
+      {
+        "text": "～のために",
+        "correct": false
+      },
+      {
+        "text": "～という結果になる",
+        "correct": false
+      }
+    ],
+    "answer": "～を設立する・設定する",
+    "explanation": "",
+    "exampleSentence": "The team set up the proposal before the meeting ended.",
+    "exampleJa": "チームは会議が終わる前に、その提案をその提案を設立する・設定する。"
+  },
+  {
+    "id": "i-standard-123",
+    "type": "idiom",
+    "level": "standard",
+    "word": "stand for",
+    "meaning": "～を表す",
+    "question": "stand for",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～に関して",
+        "correct": false
+      },
+      {
+        "text": "～を表す",
+        "correct": true
+      },
+      {
+        "text": "～のために",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする・要求する",
+        "correct": false
+      }
+    ],
+    "answer": "～を表す",
+    "explanation": "",
+    "exampleSentence": "During the 2011 public lecture at a community center, what does this abbreviation stand for?",
+    "exampleJa": "2011年の公開講座では、この略語は何を意味しますか。"
+  },
+  {
+    "id": "i-standard-124",
+    "type": "idiom",
+    "level": "standard",
+    "word": "take advantage of",
+    "meaning": "～を利用する",
+    "question": "take advantage of",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を必要とする・要求する",
+        "correct": false
+      },
+      {
+        "text": "～を思いつく",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": true
+      },
+      {
+        "text": "～についていく",
+        "correct": false
+      }
+    ],
+    "answer": "～を利用する",
+    "explanation": "",
+    "exampleSentence": "During the 2011 winter session at a conference hall, the team decided to take advantage of the issue before the meeting.",
+    "exampleJa": "2011年の冬の講座では、チームは会議の前にその問題について～を利用することにした。"
+  },
+  {
+    "id": "i-standard-125",
+    "type": "idiom",
+    "level": "standard",
+    "word": "take over",
+    "meaning": "～を引き継ぐ",
+    "question": "take over",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を引き継ぐ",
+        "correct": true
+      },
+      {
+        "text": "せいぜい",
+        "correct": false
+      },
+      {
+        "text": "配る・尽きる",
+        "correct": false
+      },
+      {
+        "text": "～を断る・音量を下げる",
+        "correct": false
+      }
+    ],
+    "answer": "～を引き継ぐ",
+    "explanation": "",
+    "exampleSentence": "The students take over a better solution after several attempts.",
+    "exampleJa": "学生たちは何度か試した後、より良い解決策をその提案を引き継ぐ。"
+  },
+  {
+    "id": "i-standard-126",
+    "type": "idiom",
+    "level": "standard",
+    "word": "turn down",
+    "meaning": "～を断る・音量を下げる",
+    "question": "turn down",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を断る・音量を下げる",
+        "correct": true
+      },
+      {
+        "text": "うまくいく・解決する",
+        "correct": false
+      },
+      {
+        "text": "屈する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      }
+    ],
+    "answer": "～を断る・音量を下げる",
+    "explanation": "",
+    "exampleSentence": "During the 2011 orientation week at company headquarters, the team decided to turn down the issue before the meeting.",
+    "exampleJa": "2011年のオリエンテーション期間では、チームは会議の前にその問題について～を断ることにした。"
+  },
+  {
+    "id": "i-standard-127",
+    "type": "idiom",
+    "level": "standard",
+    "word": "turn out",
+    "meaning": "判明する・結果となる",
+    "question": "turn out",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を利用する",
+        "correct": false
+      },
+      {
+        "text": "～とは対照的に",
+        "correct": false
+      },
+      {
+        "text": "～を使い果たす",
+        "correct": false
+      },
+      {
+        "text": "判明する・結果となる",
+        "correct": true
+      }
+    ],
+    "answer": "判明する・結果となる",
+    "explanation": "",
+    "exampleSentence": "During the 2011 orientation week at a newspaper office, the team decided to turn out the issue before the meeting.",
+    "exampleJa": "2011年のオリエンテーション期間では、チームは会議の前にその問題について判明することにした。"
+  },
+  {
+    "id": "i-entrance-006",
+    "type": "idiom",
+    "level": "standard",
+    "word": "with regard to",
+    "meaning": "～に関して",
+    "question": "with regard to",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～に関して",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～に関して",
+    "explanation": "",
+    "tags": [],
+    "levelTags": [
+      "entrance",
+      "standard"
+    ],
+    "exampleSentence": "During the 2010 field study at a local university, the committee changed its plan with regard to local needs.",
+    "exampleJa": "2010年の実地調査では、委員会は地域のニーズを考慮して計画を変更した。"
+  },
+  {
+    "id": "i-standard-128",
+    "type": "idiom",
+    "level": "standard",
+    "word": "work out",
+    "meaning": "うまくいく・解決する",
+    "question": "work out",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～のために",
+        "correct": false
+      },
+      {
+        "text": "～に関して",
+        "correct": false
+      },
+      {
+        "text": "うまくいく・解決する",
+        "correct": true
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      }
+    ],
+    "answer": "うまくいく・解決する",
+    "explanation": "",
+    "exampleSentence": "During the 2011 training course at a technology center, the two groups reached an agreement after discussing how to work out.",
+    "exampleJa": "2011年の研修コースでは、2つのグループは、うまくいく方法について話し合った後、合意に達した。"
+  }
+]

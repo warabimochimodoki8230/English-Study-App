@@ -1,0 +1,420 @@
+[
+  {
+    "id": "v-idiom-hard-v20-4x-0001",
+    "type": "idiom",
+    "level": "hard",
+    "word": "be consistent with",
+    "phrase": "be consistent with",
+    "meaning": "〜と一致している・一貫している",
+    "question": "be consistent with",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "〜と一致している・一貫している",
+    "choices": [
+      "〜と一致している・一貫している"
+    ],
+    "explanation": "",
+    "exampleSentence": "The system be consistent with sudden changes in temperature.",
+    "exampleJa": "そのシステムは急激な温度変化にその提案と一致している・一貫している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "v20-4"
+    ]
+  },
+  {
+    "id": "v-idiom-entrance-v20-4x-0002",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "be regarded as",
+    "phrase": "be regarded as",
+    "meaning": "〜とみなされる",
+    "question": "be regarded as",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "〜とみなされる",
+    "choices": [
+      "〜とみなされる"
+    ],
+    "explanation": "",
+    "exampleSentence": "She be regarded as the possible risks before the trip.",
+    "exampleJa": "彼女は旅行前に考えられる危険に考えられる危険とみなされる。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "v20-4"
+    ]
+  },
+  {
+    "id": "v-idiom-entrance-v20-4x-0003",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "come close to",
+    "phrase": "come close to",
+    "meaning": "〜しそうになる・〜に近づく",
+    "question": "come close to",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "〜しそうになる・〜に近づく",
+    "choices": [
+      "〜しそうになる・〜に近づく"
+    ],
+    "explanation": "",
+    "exampleSentence": "The manager come close to the new plan after lunch.",
+    "exampleJa": "管理者は昼食後、新しい計画をその計画しそうになる・〜に近づく。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "v20-4"
+    ]
+  },
+  {
+    "id": "v-idiom-hard-v20-4x-0004",
+    "type": "idiom",
+    "level": "hard",
+    "word": "concern oneself with",
+    "phrase": "concern oneself with",
+    "meaning": "〜に関心を持つ・〜に取り組む",
+    "question": "concern oneself with",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "〜に関心を持つ・〜に取り組む",
+    "choices": [
+      "〜に関心を持つ・〜に取り組む"
+    ],
+    "explanation": "",
+    "exampleSentence": "The article concerns itself with the causes of urban poverty.",
+    "exampleJa": "その記事は都市の貧困の原因を扱っている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "v20-4"
+    ]
+  },
+  {
+    "id": "v-idiom-hard-v20-4x-0005",
+    "type": "idiom",
+    "level": "hard",
+    "word": "consist in",
+    "phrase": "consist in",
+    "meaning": "〜にある・〜に存する",
+    "question": "consist in",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "〜にある・〜に存する",
+    "choices": [
+      "〜にある・〜に存する"
+    ],
+    "explanation": "",
+    "exampleSentence": "The value of the plan consists in its flexibility.",
+    "exampleJa": "その計画の価値は柔軟性にある。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "v20-4"
+    ]
+  },
+  {
+    "id": "v-idiom-hard-v20-4x-0006",
+    "type": "idiom",
+    "level": "hard",
+    "word": "derive A from B",
+    "phrase": "derive A from B",
+    "meaning": "BからAを得る・AをBに由来させる",
+    "question": "derive A from B",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "BからAを得る・AをBに由来させる",
+    "choices": [
+      "BからAを得る・AをBに由来させる"
+    ],
+    "explanation": "",
+    "exampleSentence": "The researchers derived A from B by comparing the two data sets.",
+    "exampleJa": "研究者たちは2つのデータセットを比較して、AをBから導き出した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "v20-4"
+    ]
+  },
+  {
+    "id": "v-idiom-entrance-v20-4x-0007",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "have an impact on",
+    "phrase": "have an impact on",
+    "meaning": "〜に影響を与える",
+    "question": "have an impact on",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "〜に影響を与える",
+    "choices": [
+      "〜に影響を与える"
+    ],
+    "explanation": "",
+    "exampleSentence": "Sleep has a major impact on concentration.",
+    "exampleJa": "睡眠は集中力に大きな影響を与える。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "v20-4"
+    ]
+  },
+  {
+    "id": "v-idiom-entrance-v20-4x-0008",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "keep an eye on",
+    "phrase": "keep an eye on",
+    "meaning": "〜を注意して見る",
+    "question": "keep an eye on",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "〜を注意して見る",
+    "choices": [
+      "〜を注意して見る"
+    ],
+    "explanation": "",
+    "exampleSentence": "The students keep an eye on a better solution after several attempts.",
+    "exampleJa": "学生たちは何度か試した後、より良い解決策をその提案を注意して見る。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "v20-4"
+    ]
+  },
+  {
+    "id": "v-idiom-entrance-v20-4x-0009",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "make sense of",
+    "phrase": "make sense of",
+    "meaning": "〜を理解する",
+    "question": "make sense of",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "〜を理解する",
+    "choices": [
+      "〜を理解する"
+    ],
+    "explanation": "",
+    "exampleSentence": "She make sense of the issue during the discussion.",
+    "exampleJa": "彼女は議論の中で、その問題をその問題を理解する。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "v20-4"
+    ]
+  },
+  {
+    "id": "v-idiom-entrance-v20-4x-0010",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "make up one's mind",
+    "phrase": "make up one's mind",
+    "meaning": "決心する",
+    "question": "make up one's mind",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "決心する",
+    "choices": [
+      "決心する"
+    ],
+    "explanation": "",
+    "exampleSentence": "The manager make up one's mind the new plan after lunch.",
+    "exampleJa": "管理者は昼食後、新しい計画をその計画決心した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "v20-4"
+    ]
+  },
+  {
+    "id": "v-idiom-hard-v20-4x-0011",
+    "type": "idiom",
+    "level": "hard",
+    "word": "on the basis of",
+    "phrase": "on the basis of",
+    "meaning": "〜に基づいて",
+    "question": "on the basis of",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "〜に基づいて",
+    "choices": [
+      "〜に基づいて"
+    ],
+    "explanation": "",
+    "exampleSentence": "The decision was made on the basis of the available evidence.",
+    "exampleJa": "その決定は入手できる証拠に基づいて行われた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "v20-4"
+    ]
+  },
+  {
+    "id": "v-idiom-hard-v20-4x-0012",
+    "type": "idiom",
+    "level": "hard",
+    "word": "put an end to",
+    "phrase": "put an end to",
+    "meaning": "〜を終わらせる",
+    "question": "put an end to",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "〜を終わらせる",
+    "choices": [
+      "〜を終わらせる"
+    ],
+    "explanation": "",
+    "exampleSentence": "She put an end to the issue during the discussion.",
+    "exampleJa": "彼女は議論の中で、その問題をその問題を終わらせる。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "v20-4"
+    ]
+  },
+  {
+    "id": "v-idiom-entrance-v20-4x-0013",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "serve as",
+    "phrase": "serve as",
+    "meaning": "〜として役立つ",
+    "question": "serve as",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "〜として役立つ",
+    "choices": [
+      "〜として役立つ"
+    ],
+    "explanation": "",
+    "exampleSentence": "The old building now serves as a community center.",
+    "exampleJa": "その古い建物は現在、地域センターとして使われている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "v20-4"
+    ]
+  },
+  {
+    "id": "v-idiom-hard-v20-4x-0014",
+    "type": "idiom",
+    "level": "hard",
+    "word": "take measures to do",
+    "phrase": "take measures to do",
+    "meaning": "〜するための措置を講じる",
+    "question": "take measures to do",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "〜するための措置を講じる",
+    "choices": [
+      "〜するための措置を講じる"
+    ],
+    "explanation": "",
+    "exampleSentence": "The team take measures to do the proposal before the meeting ended.",
+    "exampleJa": "チームは会議が終わる前に、その提案をその提案するための措置を講じる。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "v20-4"
+    ]
+  },
+  {
+    "id": "v-idiom-entrance-v20-4x-0015",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "take on",
+    "phrase": "take on",
+    "meaning": "〜を引き受ける・帯びる",
+    "question": "take on",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "〜を引き受ける・帯びる",
+    "choices": [
+      "〜を引き受ける・帯びる"
+    ],
+    "explanation": "",
+    "exampleSentence": "She take on the issue during the discussion.",
+    "exampleJa": "彼女は議論の中で、その問題をその問題を引き受ける・帯びる。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "v20-4"
+    ]
+  },
+  {
+    "id": "v-idiom-hard-v20-4x-0016",
+    "type": "idiom",
+    "level": "hard",
+    "word": "take over from",
+    "phrase": "take over from",
+    "meaning": "〜から引き継ぐ",
+    "question": "take over from",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "〜から引き継ぐ",
+    "choices": [
+      "〜から引き継ぐ"
+    ],
+    "explanation": "",
+    "exampleSentence": "The students take over from a better solution after several attempts.",
+    "exampleJa": "学生たちは何度か試した後、より良い解決策をその提案から引き継ぐ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "v20-4"
+    ]
+  },
+  {
+    "id": "v-idiom-hard-v20-4x-0017",
+    "type": "idiom",
+    "level": "hard",
+    "word": "take stock of",
+    "phrase": "take stock of",
+    "meaning": "〜を評価する・見直す",
+    "question": "take stock of",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "〜を評価する・見直す",
+    "choices": [
+      "〜を評価する・見直す"
+    ],
+    "explanation": "",
+    "exampleSentence": "The students take stock of a better solution after several attempts.",
+    "exampleJa": "学生たちは何度か試した後、より良い解決策をその提案を評価する・見直す。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "v20-4"
+    ]
+  },
+  {
+    "id": "v-idiom-entrance-v20-4x-0018",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "think of A as B",
+    "phrase": "think of A as B",
+    "meaning": "AをBと考える",
+    "question": "think of A as B",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "AをBと考える",
+    "choices": [
+      "AをBと考える"
+    ],
+    "explanation": "",
+    "exampleSentence": "Many people think of the river as a symbol of the city.",
+    "exampleJa": "多くの人がその川を都市の象徴と考えている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "v20-4"
+    ]
+  },
+  {
+    "id": "v-idiom-hard-v20-4x-0020",
+    "type": "idiom",
+    "level": "hard",
+    "word": "without regard to",
+    "phrase": "without regard to",
+    "meaning": "〜に関係なく",
+    "question": "without regard to",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "〜に関係なく",
+    "choices": [
+      "〜に関係なく"
+    ],
+    "explanation": "",
+    "exampleSentence": "The committee changed the plan without regard to the new evidence.",
+    "exampleJa": "委員会は新しい証拠を踏まえて計画を変更した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "v20-4"
+    ]
+  }
+]

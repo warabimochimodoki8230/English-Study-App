@@ -1,0 +1,31 @@
+{
+  "generated": "2026-08-21",
+  "productVersion": "v24-Mob-re02",
+  "vocabTotal": 6034,
+  "idiomTotal": 839,
+  "grammarOverviewTotal": 25,
+  "grammarQuizTotal": 1683,
+  "readingPassageTotal": 80,
+  "readingQuestionTotal": 400,
+  "totalRecords": 8981,
+  "source": "v14 validated database, global grammar stem deduplication, original v15 grammar polish set",
+  "deduped": true,
+  "static": true,
+  "version": "20260822-v24",
+  "features": {
+    "grammarDedup": "Globally normalized question stems; retained one best-complete record per stem.",
+    "readingTranslation": "Full passage translation appears only after answering the final question of a passage.",
+    "readingTimer": "Each passage has a target reading time and a pauseable count-up stopwatch.",
+    "learningAnalytics": "Local progress analytics show actual mistakes, level accuracy, coverage, and review-risk candidates.",
+    "examples": "Natural, entry-specific usage examples with matching Japanese translations; repeated templates minimized.",
+    "smartChoices": "Same-part-of-speech distractors are prioritized; family questions use the target derivative part of speech.",
+    "allVocabModes": "Context, synonym, and family question types are available at every vocabulary level.",
+    "posLabels": "Vocabulary items expose normalized part-of-speech labels such as [n], [v], [adj], [adv].",
+    "mobileUX": "Next button remains visible but disabled before answering; mobile progress reset is available.",
+    "tagSearch": "Tag search is intentionally omitted."
+  },
+  "expansion": {
+    "grammarAdded": 330,
+    "grammarRemovedAsDuplicates": 1422
+  }
+}

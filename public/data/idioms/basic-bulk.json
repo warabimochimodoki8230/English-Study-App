@@ -1,0 +1,1770 @@
+[
+  {
+    "id": "i-bulk-0003",
+    "type": "idiom",
+    "level": "basic",
+    "word": "add to",
+    "meaning": "～を増やす・～に加える",
+    "question": "add to",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～を増やす・～に加える",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～を増やす・～に加える",
+        "correct": true
+      },
+      {
+        "text": "～をよく知っている",
+        "correct": false
+      },
+      {
+        "text": "～に反対している",
+        "correct": false
+      },
+      {
+        "text": "～することになっている",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "During the 2013 autumn term at a public library, the new evidence added to the confusion surrounding the case.",
+    "exampleJa": "2013年の秋学期に公共図書館で、新しい証拠がその事件をめぐる混乱をさらに大きくした。"
+  },
+  {
+    "id": "i-bulk-0004",
+    "type": "idiom",
+    "level": "basic",
+    "word": "agree with",
+    "meaning": "～に賛成する・～と一致する",
+    "question": "agree with",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～に賛成する・～と一致する",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～に賛成する・～と一致する",
+        "correct": true
+      },
+      {
+        "text": "うまくいく・解決する",
+        "correct": false
+      },
+      {
+        "text": "～を守る",
+        "correct": false
+      },
+      {
+        "text": "～と対立して",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "During the 2011 spring semester at a museum, the team decided to agree with the issue before the meeting.",
+    "exampleJa": "2011年の春学期では、チームは会議の前にその問題について～に賛成することにした。"
+  },
+  {
+    "id": "i-bulk-0010",
+    "type": "idiom",
+    "level": "basic",
+    "word": "as for",
+    "meaning": "～については",
+    "question": "as for",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～については",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～については",
+        "correct": true
+      },
+      {
+        "text": "意味をなす・筋が通る",
+        "correct": false
+      },
+      {
+        "text": "～に反対する",
+        "correct": false
+      },
+      {
+        "text": "～という理由で",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "As for the second proposal, we need more evidence.",
+    "exampleJa": "2つ目の提案については、さらに証拠が必要だ。"
+  },
+  {
+    "id": "i-bulk-0012",
+    "type": "idiom",
+    "level": "basic",
+    "word": "at first",
+    "meaning": "最初は",
+    "question": "at first",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "最初は",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "最初は",
+        "correct": true
+      },
+      {
+        "text": "～の前に",
+        "correct": false
+      },
+      {
+        "text": "～の代わりに",
+        "correct": false
+      },
+      {
+        "text": "～を聞く",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "The committee changed the plan at first the new evidence.",
+    "exampleJa": "委員会は新しい証拠を踏まえて計画を変更した。"
+  },
+  {
+    "id": "i-bulk-0013",
+    "type": "idiom",
+    "level": "basic",
+    "word": "at once",
+    "meaning": "すぐに",
+    "question": "at once",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "すぐに",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "すぐに",
+        "correct": true
+      },
+      {
+        "text": "～の影響を受けやすい",
+        "correct": false
+      },
+      {
+        "text": "～を心に留める",
+        "correct": false
+      },
+      {
+        "text": "決して～ない",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "During the 2010 exam season at a research center, please leave the building at once if you smell smoke.",
+    "exampleJa": "2010年の試験期間では、煙のにおいがしたら、すぐに建物を出てください。"
+  },
+  {
+    "id": "i-bulk-0014",
+    "type": "idiom",
+    "level": "basic",
+    "word": "at present",
+    "meaning": "現在は",
+    "question": "at present",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "現在は",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "現在は",
+        "correct": true
+      },
+      {
+        "text": "すぐに",
+        "correct": false
+      },
+      {
+        "text": "危険にさらされて",
+        "correct": false
+      },
+      {
+        "text": "～を支援する・バックアップする",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "The committee changed the plan at present the new evidence.",
+    "exampleJa": "委員会は新しい証拠を踏まえて計画を変更した。"
+  },
+  {
+    "id": "i-bulk-0018",
+    "type": "idiom",
+    "level": "basic",
+    "word": "be aware of",
+    "meaning": "～に気づいている",
+    "question": "be aware of",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～に気づいている",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～に気づいている",
+        "correct": true
+      },
+      {
+        "text": "突然始まる・発生する",
+        "correct": false
+      },
+      {
+        "text": "～を育てる・話題に出す",
+        "correct": false
+      },
+      {
+        "text": "～を中止する",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "During the 2010 classroom discussion at a city museum, the hikers were aware of the approaching storm and returned early.",
+    "exampleJa": "2010年の教室での議論では、ハイカーたちは近づいている嵐に気づき、早めに戻った。"
+  },
+  {
+    "id": "i-bulk-0022",
+    "type": "idiom",
+    "level": "basic",
+    "word": "be eager to do",
+    "meaning": "～したがっている",
+    "question": "be eager to do",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～したがっている",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～したがっている",
+        "correct": true
+      },
+      {
+        "text": "～に専念している",
+        "correct": false
+      },
+      {
+        "text": "～に関係している",
+        "correct": false
+      },
+      {
+        "text": "～に関わっている",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "The system be eager to do sudden changes in temperature.",
+    "exampleJa": "そのシステムは急激な温度変化にその提案したがっている。"
+  },
+  {
+    "id": "i-bulk-0024",
+    "type": "idiom",
+    "level": "basic",
+    "word": "be familiar with",
+    "meaning": "～をよく知っている",
+    "question": "be familiar with",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～をよく知っている",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～をよく知っている",
+        "correct": true
+      },
+      {
+        "text": "～を脇に置く・取っておく",
+        "correct": false
+      },
+      {
+        "text": "～を指す・～を参照する",
+        "correct": false
+      },
+      {
+        "text": "～に偶然出会う・衝突する",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "During the 2010 career seminar at a public school, the new policy is familiar with for small organizations.",
+    "exampleJa": "2010年のキャリアセミナーでは、その新しい方針は小規模な組織にとって～をよく知っている。"
+  },
+  {
+    "id": "i-bulk-0026",
+    "type": "idiom",
+    "level": "basic",
+    "word": "be likely to do",
+    "meaning": "～しそうである",
+    "question": "be likely to do",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～しそうである",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～しそうである",
+        "correct": true
+      },
+      {
+        "text": "～しようとし始める",
+        "correct": false
+      },
+      {
+        "text": "現れる",
+        "correct": false
+      },
+      {
+        "text": "目立つ",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "The researchers be likely to do the new safety rules.",
+    "exampleJa": "研究者たちは新しい安全規則に新しい安全規則しそうである。"
+  },
+  {
+    "id": "i-bulk-0028",
+    "type": "idiom",
+    "level": "basic",
+    "word": "be supposed to do",
+    "meaning": "～することになっている",
+    "question": "be supposed to do",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～することになっている",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～することになっている",
+        "correct": true
+      },
+      {
+        "text": "～の期待に応える",
+        "correct": false
+      },
+      {
+        "text": "意味をなす・筋が通る",
+        "correct": false
+      },
+      {
+        "text": "～に反対する",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "The system be supposed to do sudden changes in temperature.",
+    "exampleJa": "そのシステムは急激な温度変化にその提案することになっている。"
+  },
+  {
+    "id": "i-bulk-0038",
+    "type": "idiom",
+    "level": "basic",
+    "word": "catch up with",
+    "meaning": "～に追いつく",
+    "question": "catch up with",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～に追いつく",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～に追いつく",
+        "correct": true
+      },
+      {
+        "text": "AとBを比較する",
+        "correct": false
+      },
+      {
+        "text": "～に対処する・～を扱う",
+        "correct": false
+      },
+      {
+        "text": "～に依存する・～次第である",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "She worked hard to catch up with the rest of the class.",
+    "exampleJa": "彼女はクラスの他の生徒に追いつくために一生懸命勉強した。"
+  },
+  {
+    "id": "i-bulk-0041",
+    "type": "idiom",
+    "level": "basic",
+    "word": "compare A with B",
+    "meaning": "AとBを比較する",
+    "question": "compare A with B",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "AとBを比較する",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "AとBを比較する",
+        "correct": true
+      },
+      {
+        "text": "～に由来する",
+        "correct": false
+      },
+      {
+        "text": "～したがっている",
+        "correct": false
+      },
+      {
+        "text": "～にさらされる",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "The researchers compared A with B to identify the main difference.",
+    "exampleJa": "研究者たちは主な違いを見つけるためにAとBを比較した。"
+  },
+  {
+    "id": "i-bulk-0053",
+    "type": "idiom",
+    "level": "basic",
+    "word": "except for",
+    "meaning": "～を除けば",
+    "question": "except for",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～を除けば",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～を除けば",
+        "correct": true
+      },
+      {
+        "text": "待つ・持ちこたえる",
+        "correct": false
+      },
+      {
+        "text": "～の場合に",
+        "correct": false
+      },
+      {
+        "text": "～を担当して",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "The report was excellent except for a few spelling errors.",
+    "exampleJa": "その報告書は、いくつかのスペルミスを除けば素晴らしかった。"
+  },
+  {
+    "id": "i-bulk-0055",
+    "type": "idiom",
+    "level": "basic",
+    "word": "fill out",
+    "meaning": "～に記入する",
+    "question": "fill out",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～に記入する",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～に記入する",
+        "correct": true
+      },
+      {
+        "text": "～することになっている",
+        "correct": false
+      },
+      {
+        "text": "～に属する",
+        "correct": false
+      },
+      {
+        "text": "故障する・分解する",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "During the 2011 field study at a science museum, the two groups reached an agreement after discussing how to fill out.",
+    "exampleJa": "2011年の実地調査では、2つのグループは、～に記入する方法について話し合った後、合意に達した。"
+  },
+  {
+    "id": "i-bulk-0058",
+    "type": "idiom",
+    "level": "basic",
+    "word": "from now on",
+    "meaning": "これからは",
+    "question": "from now on",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "これからは",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "これからは",
+        "correct": true
+      },
+      {
+        "text": "～を探す",
+        "correct": false
+      },
+      {
+        "text": "～のように見える",
+        "correct": false
+      },
+      {
+        "text": "間違える",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "From now on, all visitors must sign in at the entrance.",
+    "exampleJa": "これからは、すべての訪問者が入口で記名しなければならない。"
+  },
+  {
+    "id": "i-bulk-0063",
+    "type": "idiom",
+    "level": "basic",
+    "word": "go over",
+    "meaning": "～を詳しく調べる・復習する",
+    "question": "go over",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～を詳しく調べる・復習する",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～を詳しく調べる・復習する",
+        "correct": true
+      },
+      {
+        "text": "～を除けば",
+        "correct": false
+      },
+      {
+        "text": "～に記入する",
+        "correct": false
+      },
+      {
+        "text": "～のあら探しをする",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "The students go over a better solution after several attempts.",
+    "exampleJa": "学生たちは何度か試した後、より良い解決策をその提案を詳しく調べる・復習する。"
+  },
+  {
+    "id": "i-bulk-0065",
+    "type": "idiom",
+    "level": "basic",
+    "word": "grow up",
+    "meaning": "成長する",
+    "question": "grow up",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "成長する",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "成長する",
+        "correct": true
+      },
+      {
+        "text": "～を理解する・解決する",
+        "correct": false
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      },
+      {
+        "text": "屈する",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "He grew up in a small town near the coast.",
+    "exampleJa": "彼は海岸近くの小さな町で育った。"
+  },
+  {
+    "id": "i-bulk-0066",
+    "type": "idiom",
+    "level": "basic",
+    "word": "have an effect on",
+    "meaning": "～に影響を与える",
+    "question": "have an effect on",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～に影響を与える",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～に影響を与える",
+        "correct": true
+      },
+      {
+        "text": "現在は",
+        "correct": false
+      },
+      {
+        "text": "危険にさらされて",
+        "correct": false
+      },
+      {
+        "text": "～を支援する・バックアップする",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "Lack of sleep can have an effect on memory.",
+    "exampleJa": "睡眠不足は記憶に影響を与えることがある。"
+  },
+  {
+    "id": "i-bulk-0069",
+    "type": "idiom",
+    "level": "basic",
+    "word": "hold on",
+    "meaning": "待つ・持ちこたえる",
+    "question": "hold on",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "待つ・持ちこたえる",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "待つ・持ちこたえる",
+        "correct": true
+      },
+      {
+        "text": "～するのを楽しみにする",
+        "correct": false
+      },
+      {
+        "text": "～を尊敬する",
+        "correct": false
+      },
+      {
+        "text": "違いを生む・重要である",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "The students hold on a better solution after several attempts.",
+    "exampleJa": "学生たちは何度か試した後、より良い解決策をその提案待つ・持ちこたえる。"
+  },
+  {
+    "id": "i-bulk-0073",
+    "type": "idiom",
+    "level": "basic",
+    "word": "in charge of",
+    "meaning": "～を担当して",
+    "question": "in charge of",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～を担当して",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～を担当して",
+        "correct": true
+      },
+      {
+        "text": "～に関して",
+        "correct": false
+      },
+      {
+        "text": "うまくいく・解決する",
+        "correct": false
+      },
+      {
+        "text": "～を守る",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "The committee changed the plan in charge of the new evidence.",
+    "exampleJa": "委員会は新しい証拠を踏まえて計画を変更した。"
+  },
+  {
+    "id": "i-bulk-0083",
+    "type": "idiom",
+    "level": "basic",
+    "word": "lead to",
+    "meaning": "～につながる",
+    "question": "lead to",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～につながる",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～につながる",
+        "correct": true
+      },
+      {
+        "text": "～と両立する・互換性がある",
+        "correct": false
+      },
+      {
+        "text": "～を促進する",
+        "correct": false
+      },
+      {
+        "text": "～次第である",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "Poor communication can lead to serious misunderstandings.",
+    "exampleJa": "意思疎通の不足は深刻な誤解につながることがある。"
+  },
+  {
+    "id": "i-bulk-0088",
+    "type": "idiom",
+    "level": "basic",
+    "word": "look forward to doing",
+    "meaning": "～するのを楽しみにする",
+    "question": "look forward to doing",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～するのを楽しみにする",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～するのを楽しみにする",
+        "correct": true
+      },
+      {
+        "text": "～を見下す",
+        "correct": false
+      },
+      {
+        "text": "～を尊敬する",
+        "correct": false
+      },
+      {
+        "text": "違いを生む・重要である",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "The students look forward to doing a better solution after several attempts.",
+    "exampleJa": "学生たちは何度か試した後、より良い解決策をその提案するのを楽しみにした。"
+  },
+  {
+    "id": "i-bulk-0095",
+    "type": "idiom",
+    "level": "basic",
+    "word": "mean to do",
+    "meaning": "～するつもりである",
+    "question": "mean to do",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～するつもりである",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～するつもりである",
+        "correct": true
+      },
+      {
+        "text": "～を考慮すると",
+        "correct": false
+      },
+      {
+        "text": "～がない場合に",
+        "correct": false
+      },
+      {
+        "text": "～の過程で",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "I did not mean to hurt her feelings.",
+    "exampleJa": "私は彼女の気持ちを傷つけるつもりはなかった。"
+  },
+  {
+    "id": "i-bulk-0097",
+    "type": "idiom",
+    "level": "basic",
+    "word": "next to",
+    "meaning": "～の隣に",
+    "question": "next to",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～の隣に",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～の隣に",
+        "correct": true
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～次第である・～に頼る",
+        "correct": false
+      },
+      {
+        "text": "～を見つけ出す",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "The pharmacy is next to the post office.",
+    "exampleJa": "薬局は郵便局の隣にある。"
+  },
+  {
+    "id": "i-bulk-0102",
+    "type": "idiom",
+    "level": "basic",
+    "word": "on average",
+    "meaning": "平均して",
+    "question": "on average",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "平均して",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "平均して",
+        "correct": true
+      },
+      {
+        "text": "～を経由して・～の方法で",
+        "correct": false
+      },
+      {
+        "text": "永久に",
+        "correct": false
+      },
+      {
+        "text": "～を探して",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "During the 2010 final presentation at a city museum, the students study on average for two hours a day.",
+    "exampleJa": "2010年の最終発表では、学生たちは平均して1日2時間勉強する。"
+  },
+  {
+    "id": "i-bulk-0103",
+    "type": "idiom",
+    "level": "basic",
+    "word": "on purpose",
+    "meaning": "わざと",
+    "question": "on purpose",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "わざと",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "わざと",
+        "correct": true
+      },
+      {
+        "text": "～を逃す",
+        "correct": false
+      },
+      {
+        "text": "～の隣に",
+        "correct": false
+      },
+      {
+        "text": "～することに反対する",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "During the 2011 training course at company headquarters, the two groups reached an agreement after discussing how to on purpose.",
+    "exampleJa": "2011年の研修コースでは、2つのグループは、わざと方法について話し合った後、合意に達した。"
+  },
+  {
+    "id": "i-bulk-0105",
+    "type": "idiom",
+    "level": "basic",
+    "word": "open up",
+    "meaning": "開く・心を開く",
+    "question": "open up",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "開く・心を開く",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "開く・心を開く",
+        "correct": true
+      },
+      {
+        "text": "働き始める・影響し始める",
+        "correct": false
+      },
+      {
+        "text": "～に真剣に取り組む",
+        "correct": false
+      },
+      {
+        "text": "激しい批判を浴びる",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "The new library opened up more opportunities for local students.",
+    "exampleJa": "新しい図書館によって地元の生徒たちにより多くの機会が開かれた。"
+  },
+  {
+    "id": "i-bulk-0110",
+    "type": "idiom",
+    "level": "basic",
+    "word": "pay attention to",
+    "meaning": "～に注意を払う",
+    "question": "pay attention to",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～に注意を払う",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～に注意を払う",
+        "correct": true
+      },
+      {
+        "text": "～の代わりに",
+        "correct": false
+      },
+      {
+        "text": "～を聞く",
+        "correct": false
+      },
+      {
+        "text": "～の世話をする",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "The team decided to pay attention to the issue before the meeting.",
+    "exampleJa": "チームは会議の前にその問題について～に注意を払うことにした。"
+  },
+  {
+    "id": "i-bulk-0111",
+    "type": "idiom",
+    "level": "basic",
+    "word": "pick up",
+    "meaning": "拾う・身につける・迎えに行く",
+    "question": "pick up",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "拾う・身につける・迎えに行く",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "拾う・身につける・迎えに行く",
+        "correct": true
+      },
+      {
+        "text": "～を守る",
+        "correct": false
+      },
+      {
+        "text": "～と対立して",
+        "correct": false
+      },
+      {
+        "text": "～を犠牲にして",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "During the 2011 training course in a laboratory, the two groups reached an agreement after discussing how to pick up.",
+    "exampleJa": "2011年の研修コースでは、2つのグループは、拾う方法について話し合った後、合意に達した。"
+  },
+  {
+    "id": "i-bulk-0117",
+    "type": "idiom",
+    "level": "basic",
+    "word": "rely on",
+    "meaning": "～に頼る",
+    "question": "rely on",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～に頼る",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～に頼る",
+        "correct": true
+      },
+      {
+        "text": "～に気づいている",
+        "correct": false
+      },
+      {
+        "text": "～する能力がある",
+        "correct": false
+      },
+      {
+        "text": "～に関係している・～を心配している",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "The team decided to rely on the issue before the meeting.",
+    "exampleJa": "チームは会議の前にその問題について～に頼ることにした。"
+  },
+  {
+    "id": "i-bulk-0125",
+    "type": "idiom",
+    "level": "basic",
+    "word": "show up",
+    "meaning": "現れる",
+    "question": "show up",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "現れる",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "現れる",
+        "correct": true
+      },
+      {
+        "text": "～に偶然出会う・見つける",
+        "correct": false
+      },
+      {
+        "text": "AとBを比較する",
+        "correct": false
+      },
+      {
+        "text": "～に対処する・～を扱う",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "Only half of the registered students showed up for the lecture.",
+    "exampleJa": "登録した生徒の半数しか講義に現れなかった。"
+  },
+  {
+    "id": "i-bulk-0129",
+    "type": "idiom",
+    "level": "basic",
+    "word": "succeed in doing",
+    "meaning": "～することに成功する",
+    "question": "succeed in doing",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～することに成功する",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～することに成功する",
+        "correct": true
+      },
+      {
+        "text": "～のおかげで・～によって",
+        "correct": false
+      },
+      {
+        "text": "働き始める・影響し始める",
+        "correct": false
+      },
+      {
+        "text": "～に真剣に取り組む",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "She succeeded in solving the problem without outside help.",
+    "exampleJa": "彼女は外部の助けを借りずにその問題を解決することに成功した。"
+  },
+  {
+    "id": "i-bulk-0130",
+    "type": "idiom",
+    "level": "basic",
+    "word": "such as",
+    "meaning": "～のような",
+    "question": "such as",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～のような",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～のような",
+        "correct": true
+      },
+      {
+        "text": "長い目で見れば",
+        "correct": false
+      },
+      {
+        "text": "順番に・結果として",
+        "correct": false
+      },
+      {
+        "text": "Aが～するのを妨げる",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "Students can study subjects such as biology and chemistry.",
+    "exampleJa": "学生たちは、～のようなような行動をした。"
+  },
+  {
+    "id": "i-bulk-0137",
+    "type": "idiom",
+    "level": "basic",
+    "word": "take up",
+    "meaning": "～を始める・占める",
+    "question": "take up",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～を始める・占める",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～を始める・占める",
+        "correct": true
+      },
+      {
+        "text": "～に責任がある",
+        "correct": false
+      },
+      {
+        "text": "～を受けやすい・～に従う",
+        "correct": false
+      },
+      {
+        "text": "発効する",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "The students take up a better solution after several attempts.",
+    "exampleJa": "学生たちは何度か試した後、より良い解決策をその提案を始める・占める。"
+  },
+  {
+    "id": "i-bulk-0138",
+    "type": "idiom",
+    "level": "basic",
+    "word": "thanks to",
+    "meaning": "～のおかげで",
+    "question": "thanks to",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～のおかげで",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～のおかげで",
+        "correct": true
+      },
+      {
+        "text": "～に反対している",
+        "correct": false
+      },
+      {
+        "text": "～することになっている",
+        "correct": false
+      },
+      {
+        "text": "～に属する",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "During the 2011 training course at a newspaper office, the two groups reached an agreement after discussing how to thanks to.",
+    "exampleJa": "2011年の研修コースでは、2つのグループは、～のおかげで方法について話し合った後、合意に達した。"
+  },
+  {
+    "id": "i-bulk-0139",
+    "type": "idiom",
+    "level": "basic",
+    "word": "think of",
+    "meaning": "～を思いつく・～について考える",
+    "question": "think of",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～を思いつく・～について考える",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～を思いつく・～について考える",
+        "correct": true
+      },
+      {
+        "text": "～に偶然出会う・衝突する",
+        "correct": false
+      },
+      {
+        "text": "～に気をつける・取り計らう",
+        "correct": false
+      },
+      {
+        "text": "～を取っておく・脇に置く",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "The team decided to think of the issue before the meeting.",
+    "exampleJa": "チームは会議の前にその問題について～を思いつくことにした。"
+  },
+  {
+    "id": "i-bulk-0140",
+    "type": "idiom",
+    "level": "basic",
+    "word": "throw away",
+    "meaning": "～を捨てる",
+    "question": "throw away",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～を捨てる",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～を捨てる",
+        "correct": true
+      },
+      {
+        "text": "～にもかかわらず",
+        "correct": false
+      },
+      {
+        "text": "～の観点では・～に関して",
+        "correct": false
+      },
+      {
+        "text": "～についていく",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "Do not throw away the receipt until you have checked the item.",
+    "exampleJa": "商品を確認するまで、そのレシートを捨てないでください。"
+  },
+  {
+    "id": "i-bulk-0141",
+    "type": "idiom",
+    "level": "basic",
+    "word": "try on",
+    "meaning": "～を試着する",
+    "question": "try on",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～を試着する",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～を試着する",
+        "correct": true
+      },
+      {
+        "text": "間違える",
+        "correct": false
+      },
+      {
+        "text": "確かめる・確実にする",
+        "correct": false
+      },
+      {
+        "text": "～の代金を払う",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "She tried on the jacket before buying it.",
+    "exampleJa": "彼女はそのジャケットを買う前に試着した。"
+  },
+  {
+    "id": "i-bulk-0146",
+    "type": "idiom",
+    "level": "basic",
+    "word": "used to do",
+    "meaning": "以前は～したものだ",
+    "question": "used to do",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "以前は～したものだ",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "以前は～したものだ",
+        "correct": true
+      },
+      {
+        "text": "～に関わっている",
+        "correct": false
+      },
+      {
+        "text": "～しそうである",
+        "correct": false
+      },
+      {
+        "text": "～に責任がある",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "He used to live in Kyoto before moving to Tokyo.",
+    "exampleJa": "彼は東京に引っ越す前、京都に住んでいた。"
+  },
+  {
+    "id": "i-bulk-0149",
+    "type": "idiom",
+    "level": "basic",
+    "word": "write down",
+    "meaning": "～を書き留める",
+    "question": "write down",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～を書き留める",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～を書き留める",
+        "correct": true
+      },
+      {
+        "text": "～を脇に置く・取っておく",
+        "correct": false
+      },
+      {
+        "text": "～を指す・～を参照する",
+        "correct": false
+      },
+      {
+        "text": "～に偶然出会う・衝突する",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "Please write down your name and phone number.",
+    "exampleJa": "氏名と電話番号を書き留めてください。"
+  },
+  {
+    "id": "i-bulk-0150",
+    "type": "idiom",
+    "level": "basic",
+    "word": "according to",
+    "meaning": "～によれば・～に従って",
+    "question": "according to",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～によれば・～に従って",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～によれば・～に従って",
+        "correct": true
+      },
+      {
+        "text": "～に注意を払う",
+        "correct": false
+      },
+      {
+        "text": "拾う・身につける・迎えに行く",
+        "correct": false
+      },
+      {
+        "text": "～を指摘する",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "According to the report, the number of applicants has increased.",
+    "exampleJa": "報告書によると、応募者数は増加している。"
+  },
+  {
+    "id": "i-bulk-0158",
+    "type": "idiom",
+    "level": "basic",
+    "word": "rather than",
+    "meaning": "～よりむしろ",
+    "question": "rather than",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～よりむしろ",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～よりむしろ",
+        "correct": true
+      },
+      {
+        "text": "～に影響を与える",
+        "correct": false
+      },
+      {
+        "text": "～とは何の関係もない",
+        "correct": false
+      },
+      {
+        "text": "待つ・持ちこたえる",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "She chose to walk rather than take a taxi.",
+    "exampleJa": "彼女はタクシーに乗るのではなく、歩くことを選んだ。"
+  },
+  {
+    "id": "i-bulk-0160",
+    "type": "idiom",
+    "level": "basic",
+    "word": "similar to",
+    "meaning": "～に似ている",
+    "question": "similar to",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～に似ている",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～に似ている",
+        "correct": true
+      },
+      {
+        "text": "永久に",
+        "correct": false
+      },
+      {
+        "text": "～を探して",
+        "correct": false
+      },
+      {
+        "text": "～よりむしろ",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "The new material is similar to the original in strength and color.",
+    "exampleJa": "新しい素材は強度も色も元の素材に似ている。"
+  },
+  {
+    "id": "i-bulk-0163",
+    "type": "idiom",
+    "level": "basic",
+    "word": "as long as",
+    "meaning": "～する限り・～である限り",
+    "question": "as long as",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～する限り・～である限り",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～する限り・～である限り",
+        "correct": true
+      },
+      {
+        "text": "長い目で見れば",
+        "correct": false
+      },
+      {
+        "text": "順番に・結果として",
+        "correct": false
+      },
+      {
+        "text": "Aが～するのを妨げる",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "During the 2011 exam season at an university hospital, the two groups reached an agreement after discussing how to as long as.",
+    "exampleJa": "2011年の試験期間では、2つのグループは、～する限り方法について話し合った後、合意に達した。"
+  },
+  {
+    "id": "i-bulk-0164",
+    "type": "idiom",
+    "level": "basic",
+    "word": "as soon as",
+    "meaning": "～するとすぐに",
+    "question": "as soon as",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～するとすぐに",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～するとすぐに",
+        "correct": true
+      },
+      {
+        "text": "以前は～したものだ",
+        "correct": false
+      },
+      {
+        "text": "うまくいく・計算する・解決する",
+        "correct": false
+      },
+      {
+        "text": "～を書き留める",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "During the 2011 exam season at a city museum, the two groups reached an agreement after discussing how to as soon as.",
+    "exampleJa": "2011年の試験期間では、2つのグループは、～するとすぐに方法について話し合った後、合意に達した。"
+  },
+  {
+    "id": "i-bulk-0165",
+    "type": "idiom",
+    "level": "basic",
+    "word": "as well as",
+    "meaning": "～だけでなく・～と同様に",
+    "question": "as well as",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～だけでなく・～と同様に",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～だけでなく・～と同様に",
+        "correct": true
+      },
+      {
+        "text": "～を処分する",
+        "correct": false
+      },
+      {
+        "text": "AとBを区別する",
+        "correct": false
+      },
+      {
+        "text": "～に頼る",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "During the 2011 exam season at a language school, the two groups reached an agreement after discussing how to as well as.",
+    "exampleJa": "2011年の試験期間では、2つのグループは、～だけでなく方法について話し合った後、合意に達した。"
+  },
+  {
+    "id": "i-bulk-0166",
+    "type": "idiom",
+    "level": "basic",
+    "word": "even if",
+    "meaning": "たとえ～でも",
+    "question": "even if",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "たとえ～でも",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "たとえ～でも",
+        "correct": true
+      },
+      {
+        "text": "～に所属する",
+        "correct": false
+      },
+      {
+        "text": "～の出身である・～に由来する",
+        "correct": false
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "During the 2011 field study at a training center, the two groups reached an agreement after discussing how to even if.",
+    "exampleJa": "2011年の実地調査では、2つのグループは、たとえ～でも方法について話し合った後、合意に達した。"
+  },
+  {
+    "id": "i-bulk-0167",
+    "type": "idiom",
+    "level": "basic",
+    "word": "even though",
+    "meaning": "～であるけれども",
+    "question": "even though",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～であるけれども",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～であるけれども",
+        "correct": true
+      },
+      {
+        "text": "～を示している",
+        "correct": false
+      },
+      {
+        "text": "～に本来備わっている",
+        "correct": false
+      },
+      {
+        "text": "～の影響を受けやすい",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "During the 2011 field study at a newspaper office, the two groups reached an agreement after discussing how to even though.",
+    "exampleJa": "2011年の実地調査では、2つのグループは、～であるけれども方法について話し合った後、合意に達した。"
+  },
+  {
+    "id": "i-bulk-0170",
+    "type": "idiom",
+    "level": "basic",
+    "word": "no longer",
+    "meaning": "もはや～ない",
+    "question": "no longer",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "もはや～ない",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "もはや～ない",
+        "correct": true
+      },
+      {
+        "text": "～するほど愚かではない",
+        "correct": false
+      },
+      {
+        "text": "～につながる",
+        "correct": false
+      },
+      {
+        "text": "～を見下す",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "During the 2011 training course at a regional hospital, the two groups reached an agreement after discussing how to no longer.",
+    "exampleJa": "2011年の研修コースでは、2つのグループは、もはや～ない方法について話し合った後、合意に達した。"
+  },
+  {
+    "id": "i-bulk-0171",
+    "type": "idiom",
+    "level": "basic",
+    "word": "not A but B",
+    "meaning": "AではなくB",
+    "question": "not A but B",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "AではなくB",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "AではなくB",
+        "correct": true
+      },
+      {
+        "text": "～を必要とする・要求する",
+        "correct": false
+      },
+      {
+        "text": "～を実行する",
+        "correct": false
+      },
+      {
+        "text": "～を思いつく",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "The solution requires not A but B.",
+    "exampleJa": "その解決策に必要なのはAではなくBだ。"
+  },
+  {
+    "id": "i-bulk-0172",
+    "type": "idiom",
+    "level": "basic",
+    "word": "not only A but also B",
+    "meaning": "AだけでなくBも",
+    "question": "not only A but also B",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "AだけでなくBも",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "AだけでなくBも",
+        "correct": true
+      },
+      {
+        "text": "～が原因で",
+        "correct": false
+      },
+      {
+        "text": "結局～することになる",
+        "correct": false
+      },
+      {
+        "text": "～を除けば",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "The course teaches not only A but also B.",
+    "exampleJa": "その講座ではAだけでなくBも教えている。"
+  }
+]

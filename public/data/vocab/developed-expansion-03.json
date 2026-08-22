@@ -1,0 +1,498 @@
+[
+  {
+    "id": "v-curated-developed-extra-0001-additive",
+    "type": "vocab",
+    "level": "developed",
+    "word": "additive",
+    "meaning": "添加物、付加物",
+    "pos": "n",
+    "exampleSentence": "The team discussed the additive during the afternoon session.",
+    "exampleJa": "チームは午後のセッションでその添加物、付加物について話し合った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0002-briefing",
+    "type": "vocab",
+    "level": "developed",
+    "word": "briefing",
+    "meaning": "説明会、概要説明",
+    "pos": "n",
+    "exampleSentence": "The team discussed the briefing during the afternoon session.",
+    "exampleJa": "チームは午後のセッションでその説明会、概要説明について話し合った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0003-comparative",
+    "type": "vocab",
+    "level": "developed",
+    "word": "comparative",
+    "meaning": "比較の",
+    "pos": "adj",
+    "exampleSentence": "The decision was comparative under the circumstances.",
+    "exampleJa": "その状況では、その決定は比較のだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0004-compensatory",
+    "type": "vocab",
+    "level": "developed",
+    "word": "compensatory",
+    "meaning": "補償の",
+    "pos": "adj",
+    "exampleSentence": "The decision was compensatory under the circumstances.",
+    "exampleJa": "その状況では、その決定は補償のだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0005-decompose",
+    "type": "vocab",
+    "level": "developed",
+    "word": "decompose",
+    "meaning": "分解する",
+    "pos": "v",
+    "exampleSentence": "The team decided to decompose the proposal after a long discussion.",
+    "exampleJa": "チームは長い話し合いの後、その提案を分解することにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0006-deterioration",
+    "type": "vocab",
+    "level": "developed",
+    "word": "deterioration",
+    "meaning": "悪化",
+    "pos": "n",
+    "exampleSentence": "The team discussed the deterioration during the afternoon session.",
+    "exampleJa": "チームは午後のセッションでその悪化について話し合った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0007-estimated",
+    "type": "vocab",
+    "level": "developed",
+    "word": "estimated",
+    "meaning": "推定された",
+    "pos": "adj",
+    "exampleSentence": "The decision was estimated under the circumstances.",
+    "exampleJa": "その状況では、その決定は推定されただった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0008-domestically",
+    "type": "vocab",
+    "level": "developed",
+    "word": "domestically",
+    "meaning": "国内で",
+    "pos": "adv",
+    "exampleSentence": "The team domestically reached an agreement.",
+    "exampleJa": "チームは国内で合意に達した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0009-exceedingly",
+    "type": "vocab",
+    "level": "developed",
+    "word": "exceedingly",
+    "meaning": "非常に",
+    "pos": "adv",
+    "exampleSentence": "The technician checked the equipment exceedingly.",
+    "exampleJa": "技術者は設備を非常に確認した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0010-expandable",
+    "type": "vocab",
+    "level": "developed",
+    "word": "expandable",
+    "meaning": "拡張可能な",
+    "pos": "adj",
+    "exampleSentence": "The result was expandable after the final review.",
+    "exampleJa": "最終確認の結果、その結果は拡張可能だった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0011-individualism",
+    "type": "vocab",
+    "level": "developed",
+    "word": "individualism",
+    "meaning": "個人主義",
+    "pos": "n",
+    "exampleSentence": "Individualism can strongly influence how people make personal decisions.",
+    "exampleJa": "個人主義は、人々が個人的な決定を下す方法に大きな影響を与えることがある。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0012-inspectable",
+    "type": "vocab",
+    "level": "developed",
+    "word": "inspectable",
+    "meaning": "検査可能な",
+    "pos": "adj",
+    "exampleSentence": "The result was inspectable after the final review.",
+    "exampleJa": "最終確認の結果、その結果は検査可能だった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0013-intuitive",
+    "type": "vocab",
+    "level": "developed",
+    "word": "intuitive",
+    "meaning": "直感的な",
+    "pos": "adj",
+    "exampleSentence": "The researchers used an intuitive approach to the problem.",
+    "exampleJa": "研究者たちはその問題に対して直感的方法を用いた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0014-literal",
+    "type": "vocab",
+    "level": "developed",
+    "word": "literal",
+    "meaning": "文字通りの",
+    "pos": "adj",
+    "exampleSentence": "The decision was literal under the circumstances.",
+    "exampleJa": "その状況では、その決定は文字通りのだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0015-locally",
+    "type": "vocab",
+    "level": "developed",
+    "word": "locally",
+    "meaning": "局地的に",
+    "pos": "adv",
+    "exampleSentence": "The technician checked the equipment locally.",
+    "exampleJa": "技術者は設備を局地的に確認した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0016-mainstream",
+    "type": "vocab",
+    "level": "developed",
+    "word": "mainstream",
+    "meaning": "主流",
+    "pos": "n",
+    "exampleSentence": "The mainstream affected the final result.",
+    "exampleJa": "その主流は最終結果に影響した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0017-measurable",
+    "type": "vocab",
+    "level": "developed",
+    "word": "measurable",
+    "meaning": "測定可能な",
+    "pos": "adj",
+    "exampleSentence": "The result was measurable after the final review.",
+    "exampleJa": "最終確認の結果、その結果は測定可能だった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0018-phenomenal",
+    "type": "vocab",
+    "level": "developed",
+    "word": "phenomenal",
+    "meaning": "並外れた",
+    "pos": "adj",
+    "exampleSentence": "The decision was phenomenal under the circumstances.",
+    "exampleJa": "その状況では、その決定は並外れただった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0019-philosophical",
+    "type": "vocab",
+    "level": "developed",
+    "word": "philosophical",
+    "meaning": "哲学的な",
+    "pos": "adj",
+    "exampleSentence": "The researchers used a philosophical approach to the problem.",
+    "exampleJa": "研究者たちはその問題に対して哲学的方法を用いた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0020-proceeding",
+    "type": "vocab",
+    "level": "developed",
+    "word": "proceeding",
+    "meaning": "手続き、進行",
+    "pos": "n",
+    "exampleSentence": "She covered the wound near her proceeding.",
+    "exampleJa": "彼女は手続き、進行の近くの傷を覆った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0021-recognizable",
+    "type": "vocab",
+    "level": "developed",
+    "word": "recognizable",
+    "meaning": "認識できる",
+    "pos": "adj",
+    "exampleSentence": "The decision was recognizable under the circumstances.",
+    "exampleJa": "その状況では、その決定は認識できるだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0022-revolutionize",
+    "type": "vocab",
+    "level": "developed",
+    "word": "revolutionize",
+    "meaning": "一新する",
+    "pos": "v",
+    "exampleSentence": "The team decided to revolutionize the proposal after a long discussion.",
+    "exampleJa": "チームは長い話し合いの後、その提案を一新することにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0023-societal",
+    "type": "vocab",
+    "level": "developed",
+    "word": "societal",
+    "meaning": "社会の",
+    "pos": "adj",
+    "exampleSentence": "The researchers used a societal approach to the problem.",
+    "exampleJa": "研究者たちはその問題に対して社会の方法を用いた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0024-sociological",
+    "type": "vocab",
+    "level": "developed",
+    "word": "sociological",
+    "meaning": "社会学の",
+    "pos": "adj",
+    "exampleSentence": "The researchers used a sociological approach to the problem.",
+    "exampleJa": "研究者たちはその問題に対して社会学の方法を用いた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0025-specialized",
+    "type": "vocab",
+    "level": "developed",
+    "word": "specialized",
+    "meaning": "専門化した",
+    "pos": "adj",
+    "exampleSentence": "The decision was specialized under the circumstances.",
+    "exampleJa": "その状況では、その決定は専門化しただった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0026-stimulation",
+    "type": "vocab",
+    "level": "developed",
+    "word": "stimulation",
+    "meaning": "刺激",
+    "pos": "n",
+    "exampleSentence": "The team discussed the stimulation during the afternoon session.",
+    "exampleJa": "チームは午後のセッションでその刺激について話し合った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0027-superior",
+    "type": "vocab",
+    "level": "developed",
+    "word": "superior",
+    "meaning": "優れた",
+    "pos": "adj",
+    "exampleSentence": "The decision was superior under the circumstances.",
+    "exampleJa": "その状況では、その決定は優れただった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0028-uniquely",
+    "type": "vocab",
+    "level": "developed",
+    "word": "uniquely",
+    "meaning": "独特に",
+    "pos": "adv",
+    "exampleSentence": "She spoke uniquely during the interview.",
+    "exampleJa": "彼女は面接中に独特に話した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0029-universalism",
+    "type": "vocab",
+    "level": "developed",
+    "word": "universalism",
+    "meaning": "普遍主義",
+    "pos": "n",
+    "exampleSentence": "The universalism affected the final result.",
+    "exampleJa": "その普遍主義は最終結果に影響した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0030-validly",
+    "type": "vocab",
+    "level": "developed",
+    "word": "validly",
+    "meaning": "妥当に",
+    "pos": "adv",
+    "exampleSentence": "The technician checked the equipment validly.",
+    "exampleJa": "技術者は設備を妥当に確認した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0031-visualize",
+    "type": "vocab",
+    "level": "developed",
+    "word": "visualize",
+    "meaning": "可視化する",
+    "pos": "v",
+    "exampleSentence": "The researchers tried to visualize the problem before publishing the paper.",
+    "exampleJa": "研究者たちは論文を発表する前に、その問題を可視化することを試みた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  }
+]

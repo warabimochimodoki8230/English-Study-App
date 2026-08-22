@@ -1,0 +1,266 @@
+[
+  {
+    "id": "v-idiom-entrance-v20-4-0001",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "allow for",
+    "phrase": "allow for",
+    "meaning": "〜を考慮に入れる",
+    "question": "allow for",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "〜を考慮に入れる",
+    "choices": [
+      "〜を考慮に入れる"
+    ],
+    "explanation": "",
+    "exampleSentence": "The schedule allows for extra time in case of delays.",
+    "exampleJa": "その予定には、遅れが生じた場合の追加時間が考慮されている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "v20-4"
+    ]
+  },
+  {
+    "id": "v-idiom-hard-v20-4-0002",
+    "type": "idiom",
+    "level": "hard",
+    "word": "bring to light",
+    "phrase": "bring to light",
+    "meaning": "〜を明るみに出す",
+    "question": "bring to light",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "〜を明るみに出す",
+    "choices": [
+      "〜を明るみに出す"
+    ],
+    "explanation": "",
+    "exampleSentence": "The students bring to light a better solution after several attempts.",
+    "exampleJa": "学生たちは何度か試した後、より良い解決策をその提案を明るみに出す。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "v20-4"
+    ]
+  },
+  {
+    "id": "v-idiom-entrance-v20-4-0003",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "comply with",
+    "phrase": "comply with",
+    "meaning": "〜に従う",
+    "question": "comply with",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "〜に従う",
+    "choices": [
+      "〜に従う"
+    ],
+    "explanation": "",
+    "exampleSentence": "All factories must comply with the new safety standards.",
+    "exampleJa": "すべての工場は新しい安全基準に従わなければならない。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "v20-4"
+    ]
+  },
+  {
+    "id": "v-idiom-entrance-v20-4-0004",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "end up ~ing",
+    "phrase": "end up ~ing",
+    "meaning": "結局〜することになる",
+    "question": "end up ~ing",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "結局〜することになる",
+    "choices": [
+      "結局〜することになる"
+    ],
+    "explanation": "",
+    "exampleSentence": "The students end up ~ing a better solution after several attempts.",
+    "exampleJa": "学生たちは何度か試した後、より良い解決策をその提案結局〜することになる。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "v20-4"
+    ]
+  },
+  {
+    "id": "v-idiom-entrance-v20-4-0005",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "be essential to",
+    "phrase": "be essential to",
+    "meaning": "〜に不可欠である",
+    "question": "be essential to",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "〜に不可欠である",
+    "choices": [
+      "〜に不可欠である"
+    ],
+    "explanation": "",
+    "exampleSentence": "The researchers be essential to the new safety rules.",
+    "exampleJa": "研究者たちは新しい安全規則に新しい安全規則に不可欠である。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "v20-4"
+    ]
+  },
+  {
+    "id": "v-idiom-entrance-v20-4-0006",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "fall behind",
+    "phrase": "fall behind",
+    "meaning": "遅れをとる",
+    "question": "fall behind",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "遅れをとる",
+    "choices": [
+      "遅れをとる"
+    ],
+    "explanation": "",
+    "exampleSentence": "The student fell behind after missing several classes.",
+    "exampleJa": "その生徒は何度か授業を欠席した後、学習に遅れをとった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "v20-4"
+    ]
+  },
+  {
+    "id": "v-idiom-hard-v20-4-0007",
+    "type": "idiom",
+    "level": "hard",
+    "word": "keep pace with",
+    "phrase": "keep pace with",
+    "meaning": "〜に遅れずについていく",
+    "question": "keep pace with",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "〜に遅れずについていく",
+    "choices": [
+      "〜に遅れずについていく"
+    ],
+    "explanation": "",
+    "exampleSentence": "The students keep pace with a better solution after several attempts.",
+    "exampleJa": "学生たちは何度か試した後、より良い解決策をその提案に遅れずについていく。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "v20-4"
+    ]
+  },
+  {
+    "id": "v-idiom-hard-v20-4-0008",
+    "type": "idiom",
+    "level": "hard",
+    "word": "lay the foundation for",
+    "phrase": "lay the foundation for",
+    "meaning": "〜の基礎を築く",
+    "question": "lay the foundation for",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "〜の基礎を築く",
+    "choices": [
+      "〜の基礎を築く"
+    ],
+    "explanation": "",
+    "exampleSentence": "The program laid the foundation for future research.",
+    "exampleJa": "そのプログラムは将来の研究の基礎を築いた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "v20-4"
+    ]
+  },
+  {
+    "id": "v-idiom-entrance-v20-4-0009",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "meet the needs of",
+    "phrase": "meet the needs of",
+    "meaning": "〜の需要を満たす",
+    "question": "meet the needs of",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "〜の需要を満たす",
+    "choices": [
+      "〜の需要を満たす"
+    ],
+    "explanation": "",
+    "exampleSentence": "The new service is designed to meet the needs of elderly residents.",
+    "exampleJa": "その新しいサービスは高齢の住民のニーズを満たすよう設計されている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "v20-4"
+    ]
+  },
+  {
+    "id": "v-idiom-entrance-v20-4-0010",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "regard A as B",
+    "phrase": "regard A as B",
+    "meaning": "AをBとみなす",
+    "question": "regard A as B",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "AをBとみなす",
+    "choices": [
+      "AをBとみなす"
+    ],
+    "explanation": "",
+    "exampleSentence": "Many residents regard the park as an important part of the neighborhood.",
+    "exampleJa": "多くの住民はその公園を地域に欠かせないものとみなしている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "v20-4"
+    ]
+  },
+  {
+    "id": "v-idiom-entrance-v20-4-0011",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "think highly of",
+    "phrase": "think highly of",
+    "meaning": "〜を高く評価する",
+    "question": "think highly of",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "〜を高く評価する",
+    "choices": [
+      "〜を高く評価する"
+    ],
+    "explanation": "",
+    "exampleSentence": "The team decided to think highly of the issue before the meeting.",
+    "exampleJa": "チームは会議の前にその問題についてを高く評価することにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "v20-4"
+    ]
+  },
+  {
+    "id": "v-idiom-hard-v20-4-0012",
+    "type": "idiom",
+    "level": "hard",
+    "word": "with respect to",
+    "phrase": "with respect to",
+    "meaning": "〜に関して",
+    "question": "with respect to",
+    "prompt": "最も適切な日本語の意味を選べ。",
+    "answer": "〜に関して",
+    "choices": [
+      "〜に関して"
+    ],
+    "explanation": "",
+    "exampleSentence": "The report explains the new policy with respect to cost and safety.",
+    "exampleJa": "その報告書は、費用と安全の点から新しい政策を説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "v20-4"
+    ]
+  }
+]

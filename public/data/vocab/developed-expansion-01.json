@@ -1,0 +1,5090 @@
+[
+  {
+    "id": "v-curated-developed-0001-abide",
+    "type": "vocab",
+    "level": "developed",
+    "word": "abide",
+    "meaning": "従う、守る",
+    "pos": "v",
+    "exampleSentence": "The new rule is intended to abide further damage.",
+    "exampleJa": "新しい規則はさらなる被害を従う、守るために作られている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0002-abolish",
+    "type": "vocab",
+    "level": "developed",
+    "word": "abolish",
+    "meaning": "廃止する",
+    "pos": "v",
+    "exampleSentence": "The company plans to abolish the process next year.",
+    "exampleJa": "その会社は来年、その工程を廃止する予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0003-abrupt",
+    "type": "vocab",
+    "level": "developed",
+    "word": "abrupt",
+    "meaning": "突然の、急な",
+    "pos": "adj",
+    "exampleSentence": "The decision was abrupt under the circumstances.",
+    "exampleJa": "その状況では、その決定は突然の、急だった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0004-absorb",
+    "type": "vocab",
+    "level": "developed",
+    "word": "absorb",
+    "meaning": "吸収する、理解する",
+    "pos": "v",
+    "exampleSentence": "The new rule is intended to absorb further damage.",
+    "exampleJa": "新しい規則はさらなる被害を吸収する、理解するために作られている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0005-abundant",
+    "type": "vocab",
+    "level": "developed",
+    "word": "abundant",
+    "meaning": "豊富な",
+    "pos": "adj",
+    "exampleSentence": "The decision was abundant under the circumstances.",
+    "exampleJa": "その状況では、その決定は豊富だった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0006-accelerate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "accelerate",
+    "meaning": "加速する",
+    "pos": "v",
+    "exampleSentence": "The researchers tried to accelerate the problem before publishing the paper.",
+    "exampleJa": "研究者たちは論文を発表する前に、その問題を加速することを試みた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0007-accessible",
+    "type": "vocab",
+    "level": "developed",
+    "word": "accessible",
+    "meaning": "利用しやすい、近づきやすい",
+    "pos": "adj",
+    "exampleSentence": "The decision was accessible under the circumstances.",
+    "exampleJa": "その状況では、その決定は利用しやすい、近づきやすいだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0008-accommodate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "accommodate",
+    "meaning": "収容する、適応する",
+    "pos": "v",
+    "exampleSentence": "The researchers tried to accommodate the problem before publishing the paper.",
+    "exampleJa": "研究者たちは論文を発表する前に、その問題を収容する、適応することを試みた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0009-accumulate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "accumulate",
+    "meaning": "蓄積する",
+    "pos": "v",
+    "exampleSentence": "During the 2010 community project at the city office, the new rule is intended to accumulate further damage.",
+    "exampleJa": "2010年の地域プロジェクトでは、新しい規則はさらなる被害を蓄積するために作られている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0010-accurately",
+    "type": "vocab",
+    "level": "developed",
+    "word": "accurately",
+    "meaning": "正確に",
+    "pos": "adv",
+    "exampleSentence": "She spoke accurately during the interview.",
+    "exampleJa": "彼女は面接中に正確に話した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0011-acknowledge",
+    "type": "vocab",
+    "level": "developed",
+    "word": "acknowledge",
+    "meaning": "認める、感謝する",
+    "pos": "v",
+    "exampleSentence": "The researchers tried to acknowledge the problem before publishing the paper.",
+    "exampleJa": "研究者たちは論文を発表する前に、その問題を認める、感謝することを試みた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0012-acquire",
+    "type": "vocab",
+    "level": "developed",
+    "word": "acquire",
+    "meaning": "獲得する",
+    "pos": "v",
+    "exampleSentence": "The researchers tried to acquire the problem before publishing the paper.",
+    "exampleJa": "研究者たちは論文を発表する前に、その問題を獲得することを試みた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0013-adaptation",
+    "type": "vocab",
+    "level": "developed",
+    "word": "adaptation",
+    "meaning": "適応、改作",
+    "pos": "n",
+    "exampleSentence": "The adaptation affected the final result.",
+    "exampleJa": "その適応、改作は最終結果に影響した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0014-adequate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "adequate",
+    "meaning": "十分な、適切な",
+    "pos": "adj",
+    "exampleSentence": "The result was adequate after the final review.",
+    "exampleJa": "最終確認の結果、その結果は十分な、適切だった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0015-adjacent",
+    "type": "vocab",
+    "level": "developed",
+    "word": "adjacent",
+    "meaning": "隣接した",
+    "pos": "adj",
+    "exampleSentence": "During the 2010 annual meeting at a community center, the decision was adjacent under the circumstances.",
+    "exampleJa": "2010年の年次会議に地域センターで、その状況では、その決定は隣接しただった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0016-adjust",
+    "type": "vocab",
+    "level": "developed",
+    "word": "adjust",
+    "meaning": "調整する",
+    "pos": "v",
+    "exampleSentence": "The researchers tried to adjust the problem before publishing the paper.",
+    "exampleJa": "研究者たちは論文を発表する前に、その問題を調整することを試みた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0017-advocate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "advocate",
+    "meaning": "主張する、支持する",
+    "pos": "v",
+    "exampleSentence": "The team decided to advocate the proposal after a long discussion.",
+    "exampleJa": "チームは長い話し合いの後、その提案を主張する、支持することにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0018-aggregate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "aggregate",
+    "meaning": "集計する、総計する",
+    "pos": "v",
+    "exampleSentence": "The researchers tried to aggregate the problem before publishing the paper.",
+    "exampleJa": "研究者たちは論文を発表する前に、その問題を集計する、総計することを試みた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0019-allocate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "allocate",
+    "meaning": "割り当てる",
+    "pos": "v",
+    "exampleSentence": "The team decided to allocate the proposal after a long discussion.",
+    "exampleJa": "チームは長い話し合いの後、その提案を割り当てることにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0020-alter",
+    "type": "vocab",
+    "level": "developed",
+    "word": "alter",
+    "meaning": "変える、改める",
+    "pos": "v",
+    "exampleSentence": "The new rule is intended to alter further damage.",
+    "exampleJa": "新しい規則はさらなる被害を変える、改めるために作られている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0021-alternative",
+    "type": "vocab",
+    "level": "developed",
+    "word": "alternative",
+    "meaning": "代替案、選択肢",
+    "pos": "n",
+    "exampleSentence": "The alternative affected the final result.",
+    "exampleJa": "その代替案、選択肢は最終結果に影響した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0022-ambiguous",
+    "type": "vocab",
+    "level": "developed",
+    "word": "ambiguous",
+    "meaning": "曖昧な",
+    "pos": "adj",
+    "exampleSentence": "The decision was ambiguous under the circumstances.",
+    "exampleJa": "その状況では、その決定は曖昧だった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0023-amend",
+    "type": "vocab",
+    "level": "developed",
+    "word": "amend",
+    "meaning": "修正する",
+    "pos": "v",
+    "exampleSentence": "The researchers tried to amend the problem before publishing the paper.",
+    "exampleJa": "研究者たちは論文を発表する前に、その問題を修正することを試みた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0024-analogy",
+    "type": "vocab",
+    "level": "developed",
+    "word": "analogy",
+    "meaning": "類推、類似",
+    "pos": "n",
+    "exampleSentence": "The analogy affected the final result.",
+    "exampleJa": "その類推、類似は最終結果に影響した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0025-anticipate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "anticipate",
+    "meaning": "予想する",
+    "pos": "v",
+    "exampleSentence": "During the 2010 online workshop at a museum, the researchers tried to anticipate the problem before publishing the paper.",
+    "exampleJa": "2010年のオンライン講習では、研究者たちは論文を発表する前に、その問題を予想することを試みた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0026-apparent",
+    "type": "vocab",
+    "level": "developed",
+    "word": "apparent",
+    "meaning": "明らかな、見かけ上の",
+    "pos": "adj",
+    "exampleSentence": "The decision was apparent under the circumstances.",
+    "exampleJa": "その状況では、その決定は明らかな、見かけ上のだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0027-applicable",
+    "type": "vocab",
+    "level": "developed",
+    "word": "applicable",
+    "meaning": "適用できる",
+    "pos": "adj",
+    "exampleSentence": "The decision was applicable under the circumstances.",
+    "exampleJa": "その状況では、その決定は適用できるだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0028-appreciable",
+    "type": "vocab",
+    "level": "developed",
+    "word": "appreciable",
+    "meaning": "かなりの、評価できる",
+    "pos": "adj",
+    "exampleSentence": "The decision was appreciable under the circumstances.",
+    "exampleJa": "その状況では、その決定はかなりの、評価できるだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0029-arbitrary",
+    "type": "vocab",
+    "level": "developed",
+    "word": "arbitrary",
+    "meaning": "恣意的な、任意の",
+    "pos": "adj",
+    "exampleSentence": "The researchers used an arbitrary approach to the problem.",
+    "exampleJa": "研究者たちはその問題に対して恣意的な、任意の方法を用いた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0030-assemble",
+    "type": "vocab",
+    "level": "developed",
+    "word": "assemble",
+    "meaning": "集める、組み立てる",
+    "pos": "v",
+    "exampleSentence": "The new rule is intended to assemble further damage.",
+    "exampleJa": "新しい規則はさらなる被害を集める、組み立てるために作られている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0031-assert",
+    "type": "vocab",
+    "level": "developed",
+    "word": "assert",
+    "meaning": "断言する",
+    "pos": "v",
+    "exampleSentence": "The company plans to assert the process next year.",
+    "exampleJa": "その会社は来年、その工程を断言する予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0032-assess",
+    "type": "vocab",
+    "level": "developed",
+    "word": "assess",
+    "meaning": "評価する",
+    "pos": "v",
+    "exampleSentence": "The team decided to assess the proposal after a long discussion.",
+    "exampleJa": "チームは長い話し合いの後、その提案を評価することにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0033-assign",
+    "type": "vocab",
+    "level": "developed",
+    "word": "assign",
+    "meaning": "割り当てる",
+    "pos": "v",
+    "exampleSentence": "The new rule is intended to assign further damage.",
+    "exampleJa": "新しい規則はさらなる被害を割り当てるために作られている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0034-assumption",
+    "type": "vocab",
+    "level": "developed",
+    "word": "assumption",
+    "meaning": "仮定、前提",
+    "pos": "n",
+    "exampleSentence": "During the 2010 laboratory trial at a training center, the report includes a section on assumption.",
+    "exampleJa": "2010年の研究室での試験では、その報告書には仮定、前提についての節がある。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0035-attain",
+    "type": "vocab",
+    "level": "developed",
+    "word": "attain",
+    "meaning": "達成する",
+    "pos": "v",
+    "exampleSentence": "The researchers tried to attain the problem before publishing the paper.",
+    "exampleJa": "研究者たちは論文を発表する前に、その問題を達成することを試みた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0036-attribute",
+    "type": "vocab",
+    "level": "developed",
+    "word": "attribute",
+    "meaning": "～のせいにする、帰する",
+    "pos": "v",
+    "exampleSentence": "The new rule is intended to attribute further damage.",
+    "exampleJa": "新しい規則はさらなる被害を～のせいにする、帰するために作られている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0037-authentic",
+    "type": "vocab",
+    "level": "developed",
+    "word": "authentic",
+    "meaning": "本物の、真正な",
+    "pos": "adj",
+    "exampleSentence": "The decision was authentic under the circumstances.",
+    "exampleJa": "その状況では、その決定は本物の、真正だった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0038-automate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "automate",
+    "meaning": "自動化する",
+    "pos": "v",
+    "exampleSentence": "The team decided to automate the proposal after a long discussion.",
+    "exampleJa": "チームは長い話し合いの後、その提案を自動化することにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0039-bias",
+    "type": "vocab",
+    "level": "developed",
+    "word": "bias",
+    "meaning": "偏見、偏り",
+    "pos": "n",
+    "exampleSentence": "During the 2010 laboratory trial at a newspaper office, the report includes a section on bias.",
+    "exampleJa": "2010年の研究室での試験では、その報告書には偏見、偏りについての節がある。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0040-boundary",
+    "type": "vocab",
+    "level": "developed",
+    "word": "boundary",
+    "meaning": "境界",
+    "pos": "n",
+    "exampleSentence": "The team discussed the boundary during the afternoon session.",
+    "exampleJa": "チームは午後のセッションでその境界について話し合った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0041-briefly",
+    "type": "vocab",
+    "level": "developed",
+    "word": "briefly",
+    "meaning": "簡潔に",
+    "pos": "adv",
+    "exampleSentence": "She spoke briefly during the interview.",
+    "exampleJa": "彼女は面接中に簡潔に話した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0042-capacity",
+    "type": "vocab",
+    "level": "developed",
+    "word": "capacity",
+    "meaning": "能力、容量",
+    "pos": "n",
+    "exampleSentence": "The report includes a section on capacity.",
+    "exampleJa": "その報告書には能力、容量についての節がある。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0043-cease",
+    "type": "vocab",
+    "level": "developed",
+    "word": "cease",
+    "meaning": "やめる、終わる",
+    "pos": "v",
+    "exampleSentence": "The team decided to cease the proposal after a long discussion.",
+    "exampleJa": "チームは長い話し合いの後、その提案をやめる、終わることにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0044-clarify",
+    "type": "vocab",
+    "level": "developed",
+    "word": "clarify",
+    "meaning": "明確にする",
+    "pos": "v",
+    "exampleSentence": "The team decided to clarify the proposal after a long discussion.",
+    "exampleJa": "チームは長い話し合いの後、その提案を明確にすることにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0045-coherent",
+    "type": "vocab",
+    "level": "developed",
+    "word": "coherent",
+    "meaning": "一貫した、筋の通った",
+    "pos": "adj",
+    "exampleSentence": "During the 2010 spring semester in a laboratory, the decision was coherent under the circumstances.",
+    "exampleJa": "2010年の春学期に研究室で、その状況では、その決定は一貫した、筋の通っただった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0046-coincide",
+    "type": "vocab",
+    "level": "developed",
+    "word": "coincide",
+    "meaning": "一致する、同時に起こる",
+    "pos": "v",
+    "exampleSentence": "The new rule is intended to coincide further damage.",
+    "exampleJa": "新しい規則はさらなる被害を一致する、同時に起こるために作られている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0047-collapse",
+    "type": "vocab",
+    "level": "developed",
+    "word": "collapse",
+    "meaning": "崩壊する",
+    "pos": "v",
+    "exampleSentence": "During the 2010 online workshop at a conference hall, the researchers tried to collapse the problem before publishing the paper.",
+    "exampleJa": "2010年のオンライン講習では、研究者たちは論文を発表する前に、その問題を崩壊することを試みた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0048-commence",
+    "type": "vocab",
+    "level": "developed",
+    "word": "commence",
+    "meaning": "開始する",
+    "pos": "v",
+    "exampleSentence": "During the 2010 field study at a public school, the company plans to commence the process next year.",
+    "exampleJa": "2010年の実地調査では、その会社は来年、その工程を開始する予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0049-compatible",
+    "type": "vocab",
+    "level": "developed",
+    "word": "compatible",
+    "meaning": "両立する、互換性のある",
+    "pos": "adj",
+    "exampleSentence": "The decision was compatible under the circumstances.",
+    "exampleJa": "その状況では、その決定は両立する、互換性のあるだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0050-compel",
+    "type": "vocab",
+    "level": "developed",
+    "word": "compel",
+    "meaning": "強いる",
+    "pos": "v",
+    "exampleSentence": "The team decided to compel the proposal after a long discussion.",
+    "exampleJa": "チームは長い話し合いの後、その提案を強いることにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0051-compensate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "compensate",
+    "meaning": "補償する",
+    "pos": "v",
+    "exampleSentence": "The new rule is intended to compensate further damage.",
+    "exampleJa": "新しい規則はさらなる被害を補償するために作られている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0052-compile",
+    "type": "vocab",
+    "level": "developed",
+    "word": "compile",
+    "meaning": "編集する、まとめる",
+    "pos": "v",
+    "exampleSentence": "The researchers tried to compile the problem before publishing the paper.",
+    "exampleJa": "研究者たちは論文を発表する前に、その問題を編集する、まとめることを試みた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0053-complement",
+    "type": "vocab",
+    "level": "developed",
+    "word": "complement",
+    "meaning": "補完する",
+    "pos": "v",
+    "exampleSentence": "During the 2010 classroom discussion at a community center, the two colors complement each other well in the new design.",
+    "exampleJa": "2010年の教室での議論に地域センターで、その2つの色は新しいデザインの中で互いをよく引き立てている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0054-comprehensive",
+    "type": "vocab",
+    "level": "developed",
+    "word": "comprehensive",
+    "meaning": "包括的な",
+    "pos": "adj",
+    "exampleSentence": "During the 2010 classroom discussion at the city office, the researchers used a comprehensive approach to the problem.",
+    "exampleJa": "2010年の教室での議論に市役所で、研究者たちはその問題に対して包括的方法を用いた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0055-conceive",
+    "type": "vocab",
+    "level": "developed",
+    "word": "conceive",
+    "meaning": "考え出す、思いつく",
+    "pos": "v",
+    "exampleSentence": "The company plans to conceive the process next year.",
+    "exampleJa": "その会社は来年、その工程を考え出す、思いつく予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0056-concentrate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "concentrate",
+    "meaning": "集中する",
+    "pos": "v",
+    "exampleSentence": "The researchers tried to concentrate the problem before publishing the paper.",
+    "exampleJa": "研究者たちは論文を発表する前に、その問題を集中することを試みた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0057-concurrent",
+    "type": "vocab",
+    "level": "developed",
+    "word": "concurrent",
+    "meaning": "同時に起こる",
+    "pos": "adj",
+    "exampleSentence": "The decision was concurrent under the circumstances.",
+    "exampleJa": "その状況では、その決定は同時に起こるだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0058-confer",
+    "type": "vocab",
+    "level": "developed",
+    "word": "confer",
+    "meaning": "相談する、授与する",
+    "pos": "v",
+    "exampleSentence": "During the 2010 training course at a local university, the company plans to confer the process next year.",
+    "exampleJa": "2010年の研修コースでは、その会社は来年、その工程を相談する、授与する予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0059-confine",
+    "type": "vocab",
+    "level": "developed",
+    "word": "confine",
+    "meaning": "制限する、閉じ込める",
+    "pos": "v",
+    "exampleSentence": "The new rule is intended to confine further damage.",
+    "exampleJa": "新しい規則はさらなる被害を制限する、閉じ込めるために作られている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0060-confront",
+    "type": "vocab",
+    "level": "developed",
+    "word": "confront",
+    "meaning": "直面する",
+    "pos": "v",
+    "exampleSentence": "The team decided to confront the proposal after a long discussion.",
+    "exampleJa": "チームは長い話し合いの後、その提案を直面することにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0061-consent",
+    "type": "vocab",
+    "level": "developed",
+    "word": "consent",
+    "meaning": "同意",
+    "pos": "n",
+    "exampleSentence": "During the 2010 field study in a laboratory, the committee gave its consent to the proposed change.",
+    "exampleJa": "2010年の実地調査に研究室で、委員会は提案された変更に同意した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0062-consecutive",
+    "type": "vocab",
+    "level": "developed",
+    "word": "consecutive",
+    "meaning": "連続した",
+    "pos": "adj",
+    "exampleSentence": "During the 2010 autumn term in a laboratory, the decision was consecutive under the circumstances.",
+    "exampleJa": "2010年の秋学期に研究室で、その状況では、その決定は連続しただった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0063-considerable",
+    "type": "vocab",
+    "level": "developed",
+    "word": "considerable",
+    "meaning": "かなりの",
+    "pos": "adj",
+    "exampleSentence": "During the 2010 spring semester at a museum, the result was considerable after the final review.",
+    "exampleJa": "2010年の春学期に博物館で、最終確認の結果、その結果はかなりのだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0064-constitute",
+    "type": "vocab",
+    "level": "developed",
+    "word": "constitute",
+    "meaning": "構成する",
+    "pos": "v",
+    "exampleSentence": "During the 2010 training course at a research center, the company plans to constitute the process next year.",
+    "exampleJa": "2010年の研修コースでは、その会社は来年、その工程を構成する予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0065-constraint",
+    "type": "vocab",
+    "level": "developed",
+    "word": "constraint",
+    "meaning": "制約",
+    "pos": "n",
+    "exampleSentence": "During the 2010 public lecture at a research center, the constraint affected the final result.",
+    "exampleJa": "2010年の公開講座では、その制約は最終結果に影響した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0066-consult",
+    "type": "vocab",
+    "level": "developed",
+    "word": "consult",
+    "meaning": "相談する、参照する",
+    "pos": "v",
+    "exampleSentence": "During the 2010 training course at a community center, the company plans to consult the process next year.",
+    "exampleJa": "2010年の研修コースでは、その会社は来年、その工程を相談する、参照する予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0067-consume",
+    "type": "vocab",
+    "level": "developed",
+    "word": "consume",
+    "meaning": "消費する",
+    "pos": "v",
+    "exampleSentence": "The team decided to consume the proposal after a long discussion.",
+    "exampleJa": "チームは長い話し合いの後、その提案を消費することにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0068-contemporary",
+    "type": "vocab",
+    "level": "developed",
+    "word": "contemporary",
+    "meaning": "現代の、同時代の",
+    "pos": "adj",
+    "exampleSentence": "During the 2010 public lecture in a laboratory, the decision was contemporary under the circumstances.",
+    "exampleJa": "2010年の公開講座に研究室で、その状況では、その決定は現代の、同時代のだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0069-contradict",
+    "type": "vocab",
+    "level": "developed",
+    "word": "contradict",
+    "meaning": "矛盾する",
+    "pos": "v",
+    "exampleSentence": "The team decided to contradict the proposal after a long discussion.",
+    "exampleJa": "チームは長い話し合いの後、その提案を矛盾することにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0070-controversial",
+    "type": "vocab",
+    "level": "developed",
+    "word": "controversial",
+    "meaning": "論争を呼ぶ",
+    "pos": "adj",
+    "exampleSentence": "During the 2011 spring semester at a local university, the decision was controversial under the circumstances.",
+    "exampleJa": "2011年の春学期に地元の大学で、その状況では、その決定は論争を呼ぶだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0071-convey",
+    "type": "vocab",
+    "level": "developed",
+    "word": "convey",
+    "meaning": "伝える、運ぶ",
+    "pos": "v",
+    "exampleSentence": "The new rule is intended to convey further damage.",
+    "exampleJa": "新しい規則はさらなる被害を伝える、運ぶために作られている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0072-cooperate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "cooperate",
+    "meaning": "協力する",
+    "pos": "v",
+    "exampleSentence": "The team decided to cooperate the proposal after a long discussion.",
+    "exampleJa": "チームは長い話し合いの後、その提案を協力することにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0073-correspond",
+    "type": "vocab",
+    "level": "developed",
+    "word": "correspond",
+    "meaning": "一致する、対応する",
+    "pos": "v",
+    "exampleSentence": "During the 2011 summer program at a local school, the team decided to correspond the proposal after a long discussion.",
+    "exampleJa": "2011年の夏のプログラムでは、チームは長い話し合いの後、その提案を一致する、対応することにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0074-correspondence",
+    "type": "vocab",
+    "level": "developed",
+    "word": "correspondence",
+    "meaning": "一致、通信",
+    "pos": "n",
+    "exampleSentence": "The report includes a section on correspondence.",
+    "exampleJa": "その報告書には一致、通信についての節がある。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0075-crucial",
+    "type": "vocab",
+    "level": "developed",
+    "word": "crucial",
+    "meaning": "極めて重要な",
+    "pos": "adj",
+    "exampleSentence": "During the 2010 policy review in a laboratory, the result was crucial after the final review.",
+    "exampleJa": "2010年の政策の見直しに研究室で、最終確認の結果、その結果は極めて重要だった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0076-cumulative",
+    "type": "vocab",
+    "level": "developed",
+    "word": "cumulative",
+    "meaning": "累積的な",
+    "pos": "adj",
+    "exampleSentence": "During the 2012 summer program at a public library, the researchers used a cumulative approach to the problem.",
+    "exampleJa": "2012年の夏のプログラムに公共図書館で、研究者たちはその問題に対して累積的方法を用いた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0077-dedicate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "dedicate",
+    "meaning": "ささげる、専念する",
+    "pos": "v",
+    "exampleSentence": "The new rule is intended to dedicate further damage.",
+    "exampleJa": "新しい規則はさらなる被害をささげる、専念するために作られている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0078-decline",
+    "type": "vocab",
+    "level": "developed",
+    "word": "decline",
+    "meaning": "減少する、断る",
+    "pos": "v",
+    "exampleSentence": "During the 2010 spring semester at a community center, the population began to decline after the factory closed.",
+    "exampleJa": "2010年の春学期に地域センターで、工場が閉鎖された後、人口は減少し始めた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0079-deduce",
+    "type": "vocab",
+    "level": "developed",
+    "word": "deduce",
+    "meaning": "推論する",
+    "pos": "v",
+    "exampleSentence": "During the 2010 summer program at a community center, from the evidence, the researchers deduced that the sample had been contaminated.",
+    "exampleJa": "2010年の夏のプログラムに地域センターで、研究者たちは証拠から、その試料が汚染されていたと推論した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0080-emit",
+    "type": "vocab",
+    "level": "developed",
+    "word": "emit",
+    "meaning": "放出する",
+    "pos": "v",
+    "exampleSentence": "The team decided to emit the proposal after a long discussion.",
+    "exampleJa": "チームは長い話し合いの後、その提案を放出することにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0081-empirical",
+    "type": "vocab",
+    "level": "developed",
+    "word": "empirical",
+    "meaning": "経験的な",
+    "pos": "adj",
+    "exampleSentence": "During the 2011 autumn term at a local university, the researchers used an empirical approach to the problem.",
+    "exampleJa": "2011年の秋学期に地元の大学で、研究者たちはその問題に対して経験的方法を用いた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0082-enforce",
+    "type": "vocab",
+    "level": "developed",
+    "word": "enforce",
+    "meaning": "施行する、強制する",
+    "pos": "v",
+    "exampleSentence": "During the 2012 research project at a research center, the government introduced new measures to enforce the safety regulations.",
+    "exampleJa": "2012年の研究プロジェクトに研究センターで、政府は安全規則を徹底させるために新しい対策を導入した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0083-enhance",
+    "type": "vocab",
+    "level": "developed",
+    "word": "enhance",
+    "meaning": "高める",
+    "pos": "v",
+    "exampleSentence": "The team decided to enhance the proposal after a long discussion.",
+    "exampleJa": "チームは長い話し合いの後、その提案を高めることにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0084-ensure",
+    "type": "vocab",
+    "level": "developed",
+    "word": "ensure",
+    "meaning": "確実にする",
+    "pos": "v",
+    "exampleSentence": "The team decided to ensure the proposal after a long discussion.",
+    "exampleJa": "チームは長い話し合いの後、その提案を確実にすることにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0085-equivalent",
+    "type": "vocab",
+    "level": "developed",
+    "word": "equivalent",
+    "meaning": "同等の",
+    "pos": "adj",
+    "exampleSentence": "During the 2010 autumn term at a museum, the decision was equivalent under the circumstances.",
+    "exampleJa": "2010年の秋学期に博物館で、その状況では、その決定は同等のだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0086-eradicate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "eradicate",
+    "meaning": "根絶する",
+    "pos": "v",
+    "exampleSentence": "The researchers tried to eradicate the problem before publishing the paper.",
+    "exampleJa": "研究者たちは論文を発表する前に、その問題を根絶することを試みた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0087-essential",
+    "type": "vocab",
+    "level": "developed",
+    "word": "essential",
+    "meaning": "不可欠な",
+    "pos": "adj",
+    "exampleSentence": "During the 2010 autumn term at a local university, the decision was essential under the circumstances.",
+    "exampleJa": "2010年の秋学期に地元の大学で、その状況では、その決定は不可欠だった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0088-ethical",
+    "type": "vocab",
+    "level": "developed",
+    "word": "ethical",
+    "meaning": "倫理的な",
+    "pos": "adj",
+    "exampleSentence": "During the 2011 training course at a museum, the researchers used an ethical approach to the problem.",
+    "exampleJa": "2011年の研修コースに博物館で、研究者たちはその問題に対して倫理的方法を用いた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0089-evident",
+    "type": "vocab",
+    "level": "developed",
+    "word": "evident",
+    "meaning": "明白な",
+    "pos": "adj",
+    "exampleSentence": "During the 2011 public lecture at a museum, the decision was evident under the circumstances.",
+    "exampleJa": "2011年の公開講座に博物館で、その状況では、その決定は明白だった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0090-exclude",
+    "type": "vocab",
+    "level": "developed",
+    "word": "exclude",
+    "meaning": "除外する",
+    "pos": "v",
+    "exampleSentence": "The company plans to exclude the process next year.",
+    "exampleJa": "その会社は来年、その工程を除外する予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0091-explicit",
+    "type": "vocab",
+    "level": "developed",
+    "word": "explicit",
+    "meaning": "明示的な",
+    "pos": "adj",
+    "exampleSentence": "The researchers used an explicit approach to the problem.",
+    "exampleJa": "研究者たちはその問題に対して明示的方法を用いた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0092-exploit",
+    "type": "vocab",
+    "level": "developed",
+    "word": "exploit",
+    "meaning": "利用する、搾取する",
+    "pos": "v",
+    "exampleSentence": "The team decided to exploit the proposal after a long discussion.",
+    "exampleJa": "チームは長い話し合いの後、その提案を利用する、搾取することにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0093-facilitate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "facilitate",
+    "meaning": "促進する",
+    "pos": "v",
+    "exampleSentence": "The team decided to facilitate the proposal after a long discussion.",
+    "exampleJa": "チームは長い話し合いの後、その提案を促進することにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0094-feasible",
+    "type": "vocab",
+    "level": "developed",
+    "word": "feasible",
+    "meaning": "実行可能な",
+    "pos": "adj",
+    "exampleSentence": "During the 2011 policy review at a museum, the result was feasible after the final review.",
+    "exampleJa": "2011年の政策の見直しに博物館で、最終確認の結果、その結果は実行可能だった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0095-flexible",
+    "type": "vocab",
+    "level": "developed",
+    "word": "flexible",
+    "meaning": "柔軟な",
+    "pos": "adj",
+    "exampleSentence": "During the 2011 research project at a museum, the decision was flexible under the circumstances.",
+    "exampleJa": "2011年の研究プロジェクトに博物館で、その状況では、その決定は柔軟だった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0096-fluctuate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "fluctuate",
+    "meaning": "変動する",
+    "pos": "v",
+    "exampleSentence": "The researchers tried to fluctuate the problem before publishing the paper.",
+    "exampleJa": "研究者たちは論文を発表する前に、その問題を変動することを試みた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0097-forthcoming",
+    "type": "vocab",
+    "level": "developed",
+    "word": "forthcoming",
+    "meaning": "来るべき、近日公開の",
+    "pos": "adj",
+    "exampleSentence": "During the 2010 winter session at a museum, the decision was forthcoming under the circumstances.",
+    "exampleJa": "2010年の冬の講座に博物館で、その状況では、その決定は来るべき、近日公開のだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0098-formulate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "formulate",
+    "meaning": "策定する",
+    "pos": "v",
+    "exampleSentence": "During the 2010 community project at a technology center, the new rule is intended to formulate further damage.",
+    "exampleJa": "2010年の地域プロジェクトでは、新しい規則はさらなる被害を策定するために作られている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0099-forthwith",
+    "type": "vocab",
+    "level": "developed",
+    "word": "forthwith",
+    "meaning": "直ちに",
+    "pos": "adv",
+    "exampleSentence": "The team forthwith reached an agreement.",
+    "exampleJa": "チームは直ちに合意に達した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0100-fundamental",
+    "type": "vocab",
+    "level": "developed",
+    "word": "fundamental",
+    "meaning": "基本的な、根本的な",
+    "pos": "adj",
+    "exampleSentence": "During the 2011 winter session at a local university, the researchers used a fundamental approach to the problem.",
+    "exampleJa": "2011年の冬の講座に地元の大学で、研究者たちはその問題に対して基本的な、根本的方法を用いた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0101-generate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "generate",
+    "meaning": "生み出す",
+    "pos": "v",
+    "exampleSentence": "The company plans to generate the process next year.",
+    "exampleJa": "その会社は来年、その工程を生み出す予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0102-genuine",
+    "type": "vocab",
+    "level": "developed",
+    "word": "genuine",
+    "meaning": "本物の、心からの",
+    "pos": "adj",
+    "exampleSentence": "During the 2011 classroom discussion at a museum, the decision was genuine under the circumstances.",
+    "exampleJa": "2011年の教室での議論に博物館で、その状況では、その決定は本物の、心からのだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0103-grant",
+    "type": "vocab",
+    "level": "developed",
+    "word": "grant",
+    "meaning": "認める、与える",
+    "pos": "v",
+    "exampleSentence": "The team decided to grant the proposal after a long discussion.",
+    "exampleJa": "チームは長い話し合いの後、その提案を認める、与えることにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0104-hierarchy",
+    "type": "vocab",
+    "level": "developed",
+    "word": "hierarchy",
+    "meaning": "階層",
+    "pos": "n",
+    "exampleSentence": "During the 2010 online workshop at a research center, the report includes a section on hierarchy.",
+    "exampleJa": "2010年のオンライン講習では、その報告書には階層についての節がある。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0105-hinder",
+    "type": "vocab",
+    "level": "developed",
+    "word": "hinder",
+    "meaning": "妨げる",
+    "pos": "v",
+    "exampleSentence": "During the 2010 community project at a community festival, the new rule is intended to hinder further damage.",
+    "exampleJa": "2010年の地域プロジェクトでは、新しい規則はさらなる被害を妨げるために作られている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0106-hypothesis",
+    "type": "vocab",
+    "level": "developed",
+    "word": "hypothesis",
+    "meaning": "仮説",
+    "pos": "n",
+    "exampleSentence": "The hypothesis affected the final result.",
+    "exampleJa": "その仮説は最終結果に影響した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0107-implement",
+    "type": "vocab",
+    "level": "developed",
+    "word": "implement",
+    "meaning": "実施する",
+    "pos": "v",
+    "exampleSentence": "During the 2010 training course at a training center, the company plans to implement the process next year.",
+    "exampleJa": "2010年の研修コースでは、その会社は来年、その工程を実施する予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0108-impose",
+    "type": "vocab",
+    "level": "developed",
+    "word": "impose",
+    "meaning": "課す",
+    "pos": "v",
+    "exampleSentence": "The company plans to impose the process next year.",
+    "exampleJa": "その会社は来年、その工程を課す予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0109-incentive",
+    "type": "vocab",
+    "level": "developed",
+    "word": "incentive",
+    "meaning": "動機、奨励策",
+    "pos": "n",
+    "exampleSentence": "The report includes a section on incentive.",
+    "exampleJa": "その報告書には動機、奨励策についての節がある。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0110-incidence",
+    "type": "vocab",
+    "level": "developed",
+    "word": "incidence",
+    "meaning": "発生率、発生",
+    "pos": "n",
+    "exampleSentence": "During the 2010 online workshop at a community center, the report includes a section on incidence.",
+    "exampleJa": "2010年のオンライン講習では、その報告書には発生率、発生についての節がある。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0111-incorporate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "incorporate",
+    "meaning": "組み込む",
+    "pos": "v",
+    "exampleSentence": "The new rule is intended to incorporate further damage.",
+    "exampleJa": "新しい規則はさらなる被害を組み込むために作られている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0112-induce",
+    "type": "vocab",
+    "level": "developed",
+    "word": "induce",
+    "meaning": "引き起こす、誘発する",
+    "pos": "v",
+    "exampleSentence": "The new rule is intended to induce further damage.",
+    "exampleJa": "新しい規則はさらなる被害を引き起こす、誘発するために作られている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0113-inevitable",
+    "type": "vocab",
+    "level": "developed",
+    "word": "inevitable",
+    "meaning": "避けられない",
+    "pos": "adj",
+    "exampleSentence": "During the 2010 field study at a museum, the decision was inevitable under the circumstances.",
+    "exampleJa": "2010年の実地調査に博物館で、その状況では、その決定は避けられないだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0114-infer",
+    "type": "vocab",
+    "level": "developed",
+    "word": "infer",
+    "meaning": "推論する",
+    "pos": "v",
+    "exampleSentence": "The researchers tried to infer the problem before publishing the paper.",
+    "exampleJa": "研究者たちは論文を発表する前に、その問題を推論することを試みた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0115-inhibit",
+    "type": "vocab",
+    "level": "developed",
+    "word": "inhibit",
+    "meaning": "抑制する",
+    "pos": "v",
+    "exampleSentence": "The researchers tried to inhibit the problem before publishing the paper.",
+    "exampleJa": "研究者たちは論文を発表する前に、その問題を抑制することを試みた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0116-initially",
+    "type": "vocab",
+    "level": "developed",
+    "word": "initially",
+    "meaning": "最初は",
+    "pos": "adv",
+    "exampleSentence": "During the 2011 exam season at a museum, the team initially reached an agreement.",
+    "exampleJa": "2011年の試験期間では、チームは最初は合意に達した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0117-innovative",
+    "type": "vocab",
+    "level": "developed",
+    "word": "innovative",
+    "meaning": "革新的な",
+    "pos": "adj",
+    "exampleSentence": "During the 2011 training course at a local university, the researchers used an innovative approach to the problem.",
+    "exampleJa": "2011年の研修コースに地元の大学で、研究者たちはその問題に対して革新的方法を用いた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0118-inspect",
+    "type": "vocab",
+    "level": "developed",
+    "word": "inspect",
+    "meaning": "検査する",
+    "pos": "v",
+    "exampleSentence": "During the 2010 training course at a newspaper office, the company plans to inspect the process next year.",
+    "exampleJa": "2010年の研修コースでは、その会社は来年、その工程を検査する予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0119-integral",
+    "type": "vocab",
+    "level": "developed",
+    "word": "integral",
+    "meaning": "不可欠な、積分の",
+    "pos": "adj",
+    "exampleSentence": "During the 2011 public lecture at a local university, the decision was integral under the circumstances.",
+    "exampleJa": "2011年の公開講座に地元の大学で、その状況では、その決定は不可欠な、積分のだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0120-integrate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "integrate",
+    "meaning": "統合する",
+    "pos": "v",
+    "exampleSentence": "The researchers tried to integrate the problem before publishing the paper.",
+    "exampleJa": "研究者たちは論文を発表する前に、その問題を統合することを試みた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0121-interpret",
+    "type": "vocab",
+    "level": "developed",
+    "word": "interpret",
+    "meaning": "解釈する",
+    "pos": "v",
+    "exampleSentence": "During the 2010 online workshop at a community festival, the researchers tried to interpret the problem before publishing the paper.",
+    "exampleJa": "2010年のオンライン講習では、研究者たちは論文を発表する前に、その問題を解釈することを試みた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0122-intervene",
+    "type": "vocab",
+    "level": "developed",
+    "word": "intervene",
+    "meaning": "介入する",
+    "pos": "v",
+    "exampleSentence": "The researchers tried to intervene the problem before publishing the paper.",
+    "exampleJa": "研究者たちは論文を発表する前に、その問題を介入することを試みた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0123-invoke",
+    "type": "vocab",
+    "level": "developed",
+    "word": "invoke",
+    "meaning": "発動する、呼び起こす",
+    "pos": "v",
+    "exampleSentence": "The researchers tried to invoke the problem before publishing the paper.",
+    "exampleJa": "研究者たちは論文を発表する前に、その問題を発動する、呼び起こすことを試みた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0124-isolate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "isolate",
+    "meaning": "孤立させる、分離する",
+    "pos": "v",
+    "exampleSentence": "During the 2010 field study at the city office, the doctors isolated the patient to prevent the infection from spreading.",
+    "exampleJa": "2010年の実地調査に市役所で、医師たちは感染の拡大を防ぐため、その患者を隔離した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0125-justify",
+    "type": "vocab",
+    "level": "developed",
+    "word": "justify",
+    "meaning": "正当化する",
+    "pos": "v",
+    "exampleSentence": "The new rule is intended to justify further damage.",
+    "exampleJa": "新しい規則はさらなる被害を正当化するために作られている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0126-likewise",
+    "type": "vocab",
+    "level": "developed",
+    "word": "likewise",
+    "meaning": "同様に",
+    "pos": "adv",
+    "exampleSentence": "The team likewise reached an agreement.",
+    "exampleJa": "チームは同様に合意に達した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0127-magnitude",
+    "type": "vocab",
+    "level": "developed",
+    "word": "magnitude",
+    "meaning": "大きさ、規模",
+    "pos": "n",
+    "exampleSentence": "The team discussed the magnitude during the afternoon session.",
+    "exampleJa": "チームは午後のセッションでその大きさ、規模について話し合った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0128-maximize",
+    "type": "vocab",
+    "level": "developed",
+    "word": "maximize",
+    "meaning": "最大化する",
+    "pos": "v",
+    "exampleSentence": "The company plans to maximize the process next year.",
+    "exampleJa": "その会社は来年、その工程を最大化する予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0129-mechanism",
+    "type": "vocab",
+    "level": "developed",
+    "word": "mechanism",
+    "meaning": "仕組み、機構",
+    "pos": "n",
+    "exampleSentence": "The team discussed the mechanism during the afternoon session.",
+    "exampleJa": "チームは午後のセッションでその仕組み、機構について話し合った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0130-mediate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "mediate",
+    "meaning": "仲介する",
+    "pos": "v",
+    "exampleSentence": "The company plans to mediate the process next year.",
+    "exampleJa": "その会社は来年、その工程を仲介する予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0131-modify",
+    "type": "vocab",
+    "level": "developed",
+    "word": "modify",
+    "meaning": "修正する",
+    "pos": "v",
+    "exampleSentence": "The researchers tried to modify the problem before publishing the paper.",
+    "exampleJa": "研究者たちは論文を発表する前に、その問題を修正することを試みた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0132-mutual",
+    "type": "vocab",
+    "level": "developed",
+    "word": "mutual",
+    "meaning": "相互の、共通の",
+    "pos": "adj",
+    "exampleSentence": "The decision was mutual under the circumstances.",
+    "exampleJa": "その状況では、その決定は相互の、共通のだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0133-nevertheless",
+    "type": "vocab",
+    "level": "developed",
+    "word": "nevertheless",
+    "meaning": "それにもかかわらず",
+    "pos": "adv",
+    "exampleSentence": "During the 2011 exam season in a laboratory, the team nevertheless reached an agreement.",
+    "exampleJa": "2011年の試験期間では、チームはそれにもかかわらず合意に達した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0134-notion",
+    "type": "vocab",
+    "level": "developed",
+    "word": "notion",
+    "meaning": "概念、考え",
+    "pos": "n",
+    "exampleSentence": "The researchers collected data on notion over five years.",
+    "exampleJa": "研究者たちは5年間にわたり概念、考えに関するデータを集めた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0135-objective",
+    "type": "vocab",
+    "level": "developed",
+    "word": "objective",
+    "meaning": "目的",
+    "pos": "n",
+    "exampleSentence": "The doctor examined her objective carefully.",
+    "exampleJa": "医師は彼女の目的を注意深く診察した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0136-obtain",
+    "type": "vocab",
+    "level": "developed",
+    "word": "obtain",
+    "meaning": "得る",
+    "pos": "v",
+    "exampleSentence": "The new rule is intended to obtain further damage.",
+    "exampleJa": "新しい規則はさらなる被害を得るために作られている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0137-ongoing",
+    "type": "vocab",
+    "level": "developed",
+    "word": "ongoing",
+    "meaning": "進行中の",
+    "pos": "adj",
+    "exampleSentence": "The decision was ongoing under the circumstances.",
+    "exampleJa": "その状況では、その決定は進行中のだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0138-orient",
+    "type": "vocab",
+    "level": "developed",
+    "word": "orient",
+    "meaning": "方向づける",
+    "pos": "v",
+    "exampleSentence": "The guide helped the new students orient themselves on campus.",
+    "exampleJa": "案内係は新入生がキャンパス内の位置関係を把握できるよう手助けした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0139-outcome",
+    "type": "vocab",
+    "level": "developed",
+    "word": "outcome",
+    "meaning": "結果",
+    "pos": "n",
+    "exampleSentence": "During the 2010 summer program at a local university, the outcome of the experiment depended on how carefully the samples were prepared.",
+    "exampleJa": "2010年の夏のプログラムに地元の大学で、その実験の結果は、試料をどれだけ慎重に準備したかに左右された。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0140-overall",
+    "type": "vocab",
+    "level": "developed",
+    "word": "overall",
+    "meaning": "全体的な",
+    "pos": "adj",
+    "exampleSentence": "During the 2011 summer program at a research center, the researchers used an overall approach to the problem.",
+    "exampleJa": "2011年の夏のプログラムに研究センターで、研究者たちはその問題に対して全体的方法を用いた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0141-paradigm",
+    "type": "vocab",
+    "level": "developed",
+    "word": "paradigm",
+    "meaning": "枠組み、パラダイム",
+    "pos": "n",
+    "exampleSentence": "During the 2011 exam season at a local school, the team discussed the paradigm during the afternoon session.",
+    "exampleJa": "2011年の試験期間では、チームは午後のセッションでその枠組み、パラダイムについて話し合った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0142-perceive",
+    "type": "vocab",
+    "level": "developed",
+    "word": "perceive",
+    "meaning": "認識する",
+    "pos": "v",
+    "exampleSentence": "The new rule is intended to perceive further damage.",
+    "exampleJa": "新しい規則はさらなる被害を認識するために作られている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0143-persistent",
+    "type": "vocab",
+    "level": "developed",
+    "word": "persistent",
+    "meaning": "持続する、粘り強い",
+    "pos": "adj",
+    "exampleSentence": "The decision was persistent under the circumstances.",
+    "exampleJa": "その状況では、その決定は持続する、粘り強いだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0144-perspective",
+    "type": "vocab",
+    "level": "developed",
+    "word": "perspective",
+    "meaning": "観点、見方",
+    "pos": "n",
+    "exampleSentence": "During the 2010 museum visit at a newspaper office, the perspective affected the final result.",
+    "exampleJa": "2010年の博物館の見学では、その観点、見方は最終結果に影響した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0145-preliminary",
+    "type": "vocab",
+    "level": "developed",
+    "word": "preliminary",
+    "meaning": "予備的な",
+    "pos": "adj",
+    "exampleSentence": "During the 2011 field study at the city office, the researchers used a preliminary approach to the problem.",
+    "exampleJa": "2011年の実地調査に市役所で、研究者たちはその問題に対して予備的方法を用いた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0146-predominant",
+    "type": "vocab",
+    "level": "developed",
+    "word": "predominant",
+    "meaning": "支配的な",
+    "pos": "adj",
+    "exampleSentence": "During the 2011 research project at the city office, the researchers used a predominant approach to the problem.",
+    "exampleJa": "2011年の研究プロジェクトに市役所で、研究者たちはその問題に対して支配的方法を用いた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0147-presume",
+    "type": "vocab",
+    "level": "developed",
+    "word": "presume",
+    "meaning": "推定する",
+    "pos": "v",
+    "exampleSentence": "The team decided to presume the proposal after a long discussion.",
+    "exampleJa": "チームは長い話し合いの後、その提案を推定することにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0148-prioritize",
+    "type": "vocab",
+    "level": "developed",
+    "word": "prioritize",
+    "meaning": "優先する",
+    "pos": "v",
+    "exampleSentence": "The researchers tried to prioritize the problem before publishing the paper.",
+    "exampleJa": "研究者たちは論文を発表する前に、その問題を優先することを試みた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0149-profound",
+    "type": "vocab",
+    "level": "developed",
+    "word": "profound",
+    "meaning": "深い、重大な",
+    "pos": "adj",
+    "exampleSentence": "During the 2012 policy review in a laboratory, the decision was profound under the circumstances.",
+    "exampleJa": "2012年の政策の見直しに研究室で、その状況では、その決定は深い、重大だった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0150-promote",
+    "type": "vocab",
+    "level": "developed",
+    "word": "promote",
+    "meaning": "促進する、昇進させる",
+    "pos": "v",
+    "exampleSentence": "During the 2010 online workshop at a language school, the researchers tried to promote the problem before publishing the paper.",
+    "exampleJa": "2010年のオンライン講習では、研究者たちは論文を発表する前に、その問題を促進する、昇進させることを試みた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0151-proportion",
+    "type": "vocab",
+    "level": "developed",
+    "word": "proportion",
+    "meaning": "割合",
+    "pos": "n",
+    "exampleSentence": "The committee discussed proportion before making a final decision.",
+    "exampleJa": "委員会は最終決定を下す前に、割合について議論した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0152-prospective",
+    "type": "vocab",
+    "level": "developed",
+    "word": "prospective",
+    "meaning": "将来の、見込みのある",
+    "pos": "adj",
+    "exampleSentence": "During the 2010 annual meeting at the city office, the decision was prospective under the circumstances.",
+    "exampleJa": "2010年の年次会議に市役所で、その状況では、その決定は将来の、見込みのあるだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0153-pursue",
+    "type": "vocab",
+    "level": "developed",
+    "word": "pursue",
+    "meaning": "追求する",
+    "pos": "v",
+    "exampleSentence": "The researchers tried to pursue the problem before publishing the paper.",
+    "exampleJa": "研究者たちは論文を発表する前に、その問題を追求することを試みた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0154-rational",
+    "type": "vocab",
+    "level": "developed",
+    "word": "rational",
+    "meaning": "合理的な",
+    "pos": "adj",
+    "exampleSentence": "During the 2011 annual meeting at a local university, the researchers used a rational approach to the problem.",
+    "exampleJa": "2011年の年次会議に地元の大学で、研究者たちはその問題に対して合理的方法を用いた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0155-refine",
+    "type": "vocab",
+    "level": "developed",
+    "word": "refine",
+    "meaning": "洗練する、精製する",
+    "pos": "v",
+    "exampleSentence": "The researchers tried to refine the problem before publishing the paper.",
+    "exampleJa": "研究者たちは論文を発表する前に、その問題を洗練する、精製することを試みた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0156-reinforce",
+    "type": "vocab",
+    "level": "developed",
+    "word": "reinforce",
+    "meaning": "強化する",
+    "pos": "v",
+    "exampleSentence": "During the 2010 community project at a science museum, the new rule is intended to reinforce further damage.",
+    "exampleJa": "2010年の地域プロジェクトでは、新しい規則はさらなる被害を強化するために作られている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0157-reluctant",
+    "type": "vocab",
+    "level": "developed",
+    "word": "reluctant",
+    "meaning": "気が進まない",
+    "pos": "adj",
+    "exampleSentence": "During the 2011 policy review at the city office, the student remained reluctant during the interview.",
+    "exampleJa": "2011年の政策の見直しに市役所で、その生徒は面接中も気が進まないままだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0158-reside",
+    "type": "vocab",
+    "level": "developed",
+    "word": "reside",
+    "meaning": "住む、存在する",
+    "pos": "v",
+    "exampleSentence": "The team decided to reside the proposal after a long discussion.",
+    "exampleJa": "チームは長い話し合いの後、その提案を住む、存在することにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0159-resolve",
+    "type": "vocab",
+    "level": "developed",
+    "word": "resolve",
+    "meaning": "解決する、決意する",
+    "pos": "v",
+    "exampleSentence": "The company plans to resolve the process next year.",
+    "exampleJa": "その会社は来年、その工程を解決する、決意する予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0160-retain",
+    "type": "vocab",
+    "level": "developed",
+    "word": "retain",
+    "meaning": "保持する",
+    "pos": "v",
+    "exampleSentence": "During the 2010 online workshop at a science museum, the researchers tried to retain the problem before publishing the paper.",
+    "exampleJa": "2010年のオンライン講習では、研究者たちは論文を発表する前に、その問題を保持することを試みた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0161-reveal",
+    "type": "vocab",
+    "level": "developed",
+    "word": "reveal",
+    "meaning": "明らかにする",
+    "pos": "v",
+    "exampleSentence": "The company plans to reveal the process next year.",
+    "exampleJa": "その会社は来年、その工程を明らかにする予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0162-rigid",
+    "type": "vocab",
+    "level": "developed",
+    "word": "rigid",
+    "meaning": "硬直した、厳格な",
+    "pos": "adj",
+    "exampleSentence": "During the 2010 public lecture at a museum, the result was rigid after the final review.",
+    "exampleJa": "2010年の公開講座に博物館で、最終確認の結果、その結果は硬直した、厳格だった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0163-robust",
+    "type": "vocab",
+    "level": "developed",
+    "word": "robust",
+    "meaning": "強固な、たくましい",
+    "pos": "adj",
+    "exampleSentence": "During the 2012 spring semester at a local university, the decision was robust under the circumstances.",
+    "exampleJa": "2012年の春学期に地元の大学で、その状況では、その決定は強固な、たくましいだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0164-scarce",
+    "type": "vocab",
+    "level": "developed",
+    "word": "scarce",
+    "meaning": "乏しい",
+    "pos": "adj",
+    "exampleSentence": "During the 2012 autumn term at a community center, the decision was scarce under the circumstances.",
+    "exampleJa": "2012年の秋学期に地域センターで、その状況では、その決定は乏しいだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0165-significant",
+    "type": "vocab",
+    "level": "developed",
+    "word": "significant",
+    "meaning": "重要な、かなりの",
+    "pos": "adj",
+    "exampleSentence": "During the 2012 research project at a community center, the result was significant after the final review.",
+    "exampleJa": "2012年の研究プロジェクトに地域センターで、最終確認の結果、その結果は重要な、かなりのだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0166-simultaneous",
+    "type": "vocab",
+    "level": "developed",
+    "word": "simultaneous",
+    "meaning": "同時の",
+    "pos": "adj",
+    "exampleSentence": "During the 2010 policy review at the city office, the decision was simultaneous under the circumstances.",
+    "exampleJa": "2010年の政策の見直しに市役所で、その状況では、その決定は同時のだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0167-sole",
+    "type": "vocab",
+    "level": "developed",
+    "word": "sole",
+    "meaning": "唯一の",
+    "pos": "adj",
+    "exampleSentence": "During the 2012 training course at a research center, the decision was sole under the circumstances.",
+    "exampleJa": "2012年の研修コースに研究センターで、その状況では、その決定は唯一のだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0168-somewhat",
+    "type": "vocab",
+    "level": "developed",
+    "word": "somewhat",
+    "meaning": "いくぶん",
+    "pos": "adv",
+    "exampleSentence": "During the 2011 exam season at a newspaper office, the technician checked the equipment somewhat.",
+    "exampleJa": "2011年の試験期間では、技術者は設備をいくぶん確認した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0169-specify",
+    "type": "vocab",
+    "level": "developed",
+    "word": "specify",
+    "meaning": "明記する",
+    "pos": "v",
+    "exampleSentence": "The new rule is intended to specify further damage.",
+    "exampleJa": "新しい規則はさらなる被害を明記するために作られている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0170-stable",
+    "type": "vocab",
+    "level": "developed",
+    "word": "stable",
+    "meaning": "安定した",
+    "pos": "adj",
+    "exampleSentence": "During the 2011 research project in a laboratory, the decision was stable under the circumstances.",
+    "exampleJa": "2011年の研究プロジェクトに研究室で、その状況では、その決定は安定しただった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0171-subordinate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "subordinate",
+    "meaning": "従属した",
+    "pos": "adj",
+    "exampleSentence": "During the 2012 autumn term in a laboratory, the decision was subordinate under the circumstances.",
+    "exampleJa": "2012年の秋学期に研究室で、その状況では、その決定は従属しただった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0172-subsequent",
+    "type": "vocab",
+    "level": "developed",
+    "word": "subsequent",
+    "meaning": "その後の",
+    "pos": "adj",
+    "exampleSentence": "During the 2010 policy review at a museum, the decision was subsequent under the circumstances.",
+    "exampleJa": "2010年の政策の見直しに博物館で、その状況では、その決定はその後のだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0173-substitute",
+    "type": "vocab",
+    "level": "developed",
+    "word": "substitute",
+    "meaning": "代替物",
+    "pos": "n",
+    "exampleSentence": "The report includes a section on substitute.",
+    "exampleJa": "その報告書には代替物についての節がある。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0174-sufficient",
+    "type": "vocab",
+    "level": "developed",
+    "word": "sufficient",
+    "meaning": "十分な",
+    "pos": "adj",
+    "exampleSentence": "During the 2011 public lecture in a laboratory, the result was sufficient after the final review.",
+    "exampleJa": "2011年の公開講座に研究室で、最終確認の結果、その結果は十分だった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0175-suppress",
+    "type": "vocab",
+    "level": "developed",
+    "word": "suppress",
+    "meaning": "抑える",
+    "pos": "v",
+    "exampleSentence": "The team decided to suppress the proposal after a long discussion.",
+    "exampleJa": "チームは長い話し合いの後、その提案を抑えることにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0176-sustain",
+    "type": "vocab",
+    "level": "developed",
+    "word": "sustain",
+    "meaning": "維持する、支える",
+    "pos": "v",
+    "exampleSentence": "During the 2010 museum visit at a local university, the new rule is intended to sustain further damage.",
+    "exampleJa": "2010年の博物館の見学では、新しい規則はさらなる被害を維持する、支えるために作られている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0177-target",
+    "type": "vocab",
+    "level": "developed",
+    "word": "target",
+    "meaning": "目標とする",
+    "pos": "v",
+    "exampleSentence": "The company plans to target the process next year.",
+    "exampleJa": "その会社は来年、その工程を目標とする予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0178-terminate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "terminate",
+    "meaning": "終える",
+    "pos": "v",
+    "exampleSentence": "The researchers tried to terminate the problem before publishing the paper.",
+    "exampleJa": "研究者たちは論文を発表する前に、その問題を終えることを試みた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0179-thereby",
+    "type": "vocab",
+    "level": "developed",
+    "word": "thereby",
+    "meaning": "それによって",
+    "pos": "adv",
+    "exampleSentence": "During the 2010 autumn term at a local university, the company reduced its energy use and thereby lowered its operating costs.",
+    "exampleJa": "2010年の秋学期に地元の大学で、その会社はエネルギー使用量を減らし、それによって運営費を下げた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0180-therefore",
+    "type": "vocab",
+    "level": "developed",
+    "word": "therefore",
+    "meaning": "したがって",
+    "pos": "adv",
+    "exampleSentence": "The technician checked the equipment therefore.",
+    "exampleJa": "技術者は設備をしたがって確認した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0181-threshold",
+    "type": "vocab",
+    "level": "developed",
+    "word": "threshold",
+    "meaning": "境界、しきい値",
+    "pos": "n",
+    "exampleSentence": "The report includes a section on threshold.",
+    "exampleJa": "その報告書には境界、しきい値についての節がある。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0182-transmit",
+    "type": "vocab",
+    "level": "developed",
+    "word": "transmit",
+    "meaning": "伝える、送る",
+    "pos": "v",
+    "exampleSentence": "During the 2011 orientation week at a public library, the team decided to transmit the proposal after a long discussion.",
+    "exampleJa": "2011年のオリエンテーション期間では、チームは長い話し合いの後、その提案を伝える、送ることにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0183-transform",
+    "type": "vocab",
+    "level": "developed",
+    "word": "transform",
+    "meaning": "変える、変換する",
+    "pos": "v",
+    "exampleSentence": "During the 2011 orientation week at the city office, the team decided to transform the proposal after a long discussion.",
+    "exampleJa": "2011年のオリエンテーション期間では、チームは長い話し合いの後、その提案を変える、変換することにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0184-undergo",
+    "type": "vocab",
+    "level": "developed",
+    "word": "undergo",
+    "meaning": "経験する、受ける",
+    "pos": "v",
+    "exampleSentence": "The new rule is intended to undergo further damage.",
+    "exampleJa": "新しい規則はさらなる被害を経験する、受けるために作られている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0185-underlying",
+    "type": "vocab",
+    "level": "developed",
+    "word": "underlying",
+    "meaning": "根底にある",
+    "pos": "adj",
+    "exampleSentence": "During the 2012 field study at a research center, the decision was underlying under the circumstances.",
+    "exampleJa": "2012年の実地調査に研究センターで、その状況では、その決定は根底にあるだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0186-unify",
+    "type": "vocab",
+    "level": "developed",
+    "word": "unify",
+    "meaning": "統一する",
+    "pos": "v",
+    "exampleSentence": "During the 2010 interview process at a community center, the researchers tried to unify the problem before publishing the paper.",
+    "exampleJa": "2010年の面接の過程では、研究者たちは論文を発表する前に、その問題を統一することを試みた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0187-utilize",
+    "type": "vocab",
+    "level": "developed",
+    "word": "utilize",
+    "meaning": "利用する",
+    "pos": "v",
+    "exampleSentence": "The researchers tried to utilize the problem before publishing the paper.",
+    "exampleJa": "研究者たちは論文を発表する前に、その問題を利用することを試みた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0188-valid",
+    "type": "vocab",
+    "level": "developed",
+    "word": "valid",
+    "meaning": "妥当な、有効な",
+    "pos": "adj",
+    "exampleSentence": "The result was valid after the final review.",
+    "exampleJa": "最終確認の結果、その結果は妥当な、有効だった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0189-vast",
+    "type": "vocab",
+    "level": "developed",
+    "word": "vast",
+    "meaning": "広大な、非常に大きい",
+    "pos": "adj",
+    "exampleSentence": "During the 2011 classroom discussion in a laboratory, the decision was vast under the circumstances.",
+    "exampleJa": "2011年の教室での議論に研究室で、その状況では、その決定は広大な、非常に大きいだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0190-virtually",
+    "type": "vocab",
+    "level": "developed",
+    "word": "virtually",
+    "meaning": "事実上、ほぼ",
+    "pos": "adv",
+    "exampleSentence": "During the 2010 research project at a public library, she spoke virtually during the interview.",
+    "exampleJa": "2010年の研究プロジェクトでは、彼女は面接中に事実上、ほぼ話した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0191-voluntary",
+    "type": "vocab",
+    "level": "developed",
+    "word": "voluntary",
+    "meaning": "自発的な",
+    "pos": "adj",
+    "exampleSentence": "During the 2011 summer program at a community center, the researchers used a voluntary approach to the problem.",
+    "exampleJa": "2011年の夏のプログラムに地域センターで、研究者たちはその問題に対して自発的方法を用いた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0192-widespread",
+    "type": "vocab",
+    "level": "developed",
+    "word": "widespread",
+    "meaning": "広く行き渡った",
+    "pos": "adj",
+    "exampleSentence": "During the 2011 autumn term at a community center, the decision was widespread under the circumstances.",
+    "exampleJa": "2011年の秋学期に地域センターで、その状況では、その決定は広く行き渡っただった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0193-withdraw",
+    "type": "vocab",
+    "level": "developed",
+    "word": "withdraw",
+    "meaning": "撤回する、引き出す",
+    "pos": "v",
+    "exampleSentence": "The company plans to withdraw the process next year.",
+    "exampleJa": "その会社は来年、その工程を撤回する、引き出す予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0194-whereas",
+    "type": "vocab",
+    "level": "developed",
+    "word": "whereas",
+    "meaning": "～である一方",
+    "pos": "conj",
+    "exampleSentence": "The team continued the experiment, whereas the weather became worse.",
+    "exampleJa": "天候が悪化したである一方、チームは実験を続けた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0195-whereby",
+    "type": "vocab",
+    "level": "developed",
+    "word": "whereby",
+    "meaning": "それによって",
+    "pos": "adv",
+    "exampleSentence": "During the 2010 research project at a regional hospital, she spoke whereby during the interview.",
+    "exampleJa": "2010年の研究プロジェクトでは、彼女は面接中にそれによって話した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0196-abolition",
+    "type": "vocab",
+    "level": "developed",
+    "word": "abolition",
+    "meaning": "廃止",
+    "pos": "n",
+    "exampleSentence": "The report includes a section on abolition.",
+    "exampleJa": "その報告書には廃止についての節がある。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0197-acceleration",
+    "type": "vocab",
+    "level": "developed",
+    "word": "acceleration",
+    "meaning": "加速",
+    "pos": "n",
+    "exampleSentence": "During the 2010 research project at company headquarters, the acceleration affected the final result.",
+    "exampleJa": "2010年の研究プロジェクトでは、その加速は最終結果に影響した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0198-accessibility",
+    "type": "vocab",
+    "level": "developed",
+    "word": "accessibility",
+    "meaning": "利用しやすさ",
+    "pos": "n",
+    "exampleSentence": "During the 2010 research project at a museum, the accessibility affected the final result.",
+    "exampleJa": "2010年の研究プロジェクトでは、その利用しやすさは最終結果に影響した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0199-accumulation",
+    "type": "vocab",
+    "level": "developed",
+    "word": "accumulation",
+    "meaning": "蓄積",
+    "pos": "n",
+    "exampleSentence": "During the 2010 laboratory trial in a laboratory, the report includes a section on accumulation.",
+    "exampleJa": "2010年の研究室での試験では、その報告書には蓄積についての節がある。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0200-adapt",
+    "type": "vocab",
+    "level": "developed",
+    "word": "adapt",
+    "meaning": "適応する",
+    "pos": "v",
+    "exampleSentence": "During the 2010 community project at a public library, the new rule is intended to adapt further damage.",
+    "exampleJa": "2010年の地域プロジェクトでは、新しい規則はさらなる被害を適応するために作られている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0201-administrative",
+    "type": "vocab",
+    "level": "developed",
+    "word": "administrative",
+    "meaning": "行政上の",
+    "pos": "adj",
+    "exampleSentence": "During the 2011 policy review at a local university, the decision was administrative under the circumstances.",
+    "exampleJa": "2011年の政策の見直しに地元の大学で、その状況では、その決定は行政上のだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0202-advantageous",
+    "type": "vocab",
+    "level": "developed",
+    "word": "advantageous",
+    "meaning": "有利な",
+    "pos": "adj",
+    "exampleSentence": "During the 2011 classroom discussion at a local university, the decision was advantageous under the circumstances.",
+    "exampleJa": "2011年の教室での議論に地元の大学で、その状況では、その決定は有利だった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0203-adverse",
+    "type": "vocab",
+    "level": "developed",
+    "word": "adverse",
+    "meaning": "不利な、逆効果の",
+    "pos": "adj",
+    "exampleSentence": "The decision was adverse under the circumstances.",
+    "exampleJa": "その状況では、その決定は不利な、逆効果のだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0204-albeit",
+    "type": "vocab",
+    "level": "developed",
+    "word": "albeit",
+    "meaning": "～にもかかわらず",
+    "pos": "conj",
+    "exampleSentence": "The team continued the experiment, albeit the weather became worse.",
+    "exampleJa": "天候が悪化したにもかかわらず、チームは実験を続けた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0205-alignment",
+    "type": "vocab",
+    "level": "developed",
+    "word": "alignment",
+    "meaning": "整列、連携",
+    "pos": "n",
+    "exampleSentence": "The team discussed the alignment during the afternoon session.",
+    "exampleJa": "チームは午後のセッションでその整列、連携について話し合った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0206-allowance",
+    "type": "vocab",
+    "level": "developed",
+    "word": "allowance",
+    "meaning": "手当、許容量",
+    "pos": "n",
+    "exampleSentence": "The doctor examined her allowance carefully.",
+    "exampleJa": "医師は彼女の手当、許容量を注意深く診察した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0207-amplify",
+    "type": "vocab",
+    "level": "developed",
+    "word": "amplify",
+    "meaning": "増幅する",
+    "pos": "v",
+    "exampleSentence": "The team decided to amplify the proposal after a long discussion.",
+    "exampleJa": "チームは長い話し合いの後、その提案を増幅することにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0208-appraisal",
+    "type": "vocab",
+    "level": "developed",
+    "word": "appraisal",
+    "meaning": "評価",
+    "pos": "n",
+    "exampleSentence": "The report includes a section on appraisal.",
+    "exampleJa": "その報告書には評価についての節がある。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0209-articulate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "articulate",
+    "meaning": "明確に述べる",
+    "pos": "v",
+    "exampleSentence": "The company plans to articulate the process next year.",
+    "exampleJa": "その会社は来年、その工程を明確に述べる予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0210-aspect",
+    "type": "vocab",
+    "level": "developed",
+    "word": "aspect",
+    "meaning": "側面",
+    "pos": "n",
+    "exampleSentence": "The aspect affected the final result.",
+    "exampleJa": "その側面は最終結果に影響した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0211-assure",
+    "type": "vocab",
+    "level": "developed",
+    "word": "assure",
+    "meaning": "保証する",
+    "pos": "v",
+    "exampleSentence": "The team decided to assure the proposal after a long discussion.",
+    "exampleJa": "チームは長い話し合いの後、その提案を保証することにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0212-attainment",
+    "type": "vocab",
+    "level": "developed",
+    "word": "attainment",
+    "meaning": "達成",
+    "pos": "n",
+    "exampleSentence": "The report includes a section on attainment.",
+    "exampleJa": "その報告書には達成についての節がある。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0213-behalf",
+    "type": "vocab",
+    "level": "developed",
+    "word": "behalf",
+    "meaning": "代わり",
+    "pos": "n",
+    "exampleSentence": "The team discussed the behalf during the afternoon session.",
+    "exampleJa": "チームは午後のセッションでその代わりについて話し合った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0214-beneficial",
+    "type": "vocab",
+    "level": "developed",
+    "word": "beneficial",
+    "meaning": "有益な",
+    "pos": "adj",
+    "exampleSentence": "During the 2011 spring semester at a research center, the decision was beneficial under the circumstances.",
+    "exampleJa": "2011年の春学期に研究センターで、その状況では、その決定は有益だった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0215-coexist",
+    "type": "vocab",
+    "level": "developed",
+    "word": "coexist",
+    "meaning": "共存する",
+    "pos": "v",
+    "exampleSentence": "The team decided to coexist the proposal after a long discussion.",
+    "exampleJa": "チームは長い話し合いの後、その提案を共存することにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0216-commodity",
+    "type": "vocab",
+    "level": "developed",
+    "word": "commodity",
+    "meaning": "商品、日用品",
+    "pos": "n",
+    "exampleSentence": "During the 2011 orientation week at a public school, the team discussed the commodity during the afternoon session.",
+    "exampleJa": "2011年のオリエンテーション期間では、チームは午後のセッションでその商品、日用品について話し合った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0217-compelling",
+    "type": "vocab",
+    "level": "developed",
+    "word": "compelling",
+    "meaning": "説得力のある",
+    "pos": "adj",
+    "exampleSentence": "The decision was compelling under the circumstances.",
+    "exampleJa": "その状況では、その決定は説得力のあるだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0218-competent",
+    "type": "vocab",
+    "level": "developed",
+    "word": "competent",
+    "meaning": "有能な",
+    "pos": "adj",
+    "exampleSentence": "During the 2010 summer program in a laboratory, the decision was competent under the circumstances.",
+    "exampleJa": "2010年の夏のプログラムに研究室で、その状況では、その決定は有能だった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0219-comprise",
+    "type": "vocab",
+    "level": "developed",
+    "word": "comprise",
+    "meaning": "構成する",
+    "pos": "v",
+    "exampleSentence": "The researchers tried to comprise the problem before publishing the paper.",
+    "exampleJa": "研究者たちは論文を発表する前に、その問題を構成することを試みた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0220-conceivably",
+    "type": "vocab",
+    "level": "developed",
+    "word": "conceivably",
+    "meaning": "考えられる限りでは",
+    "pos": "adv",
+    "exampleSentence": "The technician checked the equipment conceivably.",
+    "exampleJa": "技術者は設備を考えられる限りでは確認した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0221-consensus",
+    "type": "vocab",
+    "level": "developed",
+    "word": "consensus",
+    "meaning": "合意",
+    "pos": "n",
+    "exampleSentence": "The consensus affected the final result.",
+    "exampleJa": "その合意は最終結果に影響した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0222-constitutive",
+    "type": "vocab",
+    "level": "developed",
+    "word": "constitutive",
+    "meaning": "構成上の",
+    "pos": "adj",
+    "exampleSentence": "The decision was constitutive under the circumstances.",
+    "exampleJa": "その状況では、その決定は構成上のだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0223-constrain",
+    "type": "vocab",
+    "level": "developed",
+    "word": "constrain",
+    "meaning": "制約する",
+    "pos": "v",
+    "exampleSentence": "The new rule is intended to constrain further damage.",
+    "exampleJa": "新しい規則はさらなる被害を制約するために作られている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0224-consultation",
+    "type": "vocab",
+    "level": "developed",
+    "word": "consultation",
+    "meaning": "相談、協議",
+    "pos": "n",
+    "exampleSentence": "The team discussed the consultation during the afternoon session.",
+    "exampleJa": "チームは午後のセッションでその相談、協議について話し合った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0225-contend",
+    "type": "vocab",
+    "level": "developed",
+    "word": "contend",
+    "meaning": "主張する、競う",
+    "pos": "v",
+    "exampleSentence": "During the 2010 training course at the city office, the company plans to contend the process next year.",
+    "exampleJa": "2010年の研修コースでは、その会社は来年、その工程を主張する、競う予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0226-contrary",
+    "type": "vocab",
+    "level": "developed",
+    "word": "contrary",
+    "meaning": "反対の",
+    "pos": "adj",
+    "exampleSentence": "During the 2010 summer program at the city office, the decision was contrary under the circumstances.",
+    "exampleJa": "2010年の夏のプログラムに市役所で、その状況では、その決定は反対のだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0227-contribute",
+    "type": "vocab",
+    "level": "developed",
+    "word": "contribute",
+    "meaning": "貢献する",
+    "pos": "v",
+    "exampleSentence": "The team decided to contribute the proposal after a long discussion.",
+    "exampleJa": "チームは長い話し合いの後、その提案を貢献することにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0228-conversion",
+    "type": "vocab",
+    "level": "developed",
+    "word": "conversion",
+    "meaning": "転換",
+    "pos": "n",
+    "exampleSentence": "During the 2010 laboratory trial at a language school, the report includes a section on conversion.",
+    "exampleJa": "2010年の研究室での試験では、その報告書には転換についての節がある。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0229-coordinate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "coordinate",
+    "meaning": "調整する",
+    "pos": "v",
+    "exampleSentence": "During the 2010 training course at a regional hospital, the company plans to coordinate the process next year.",
+    "exampleJa": "2010年の研修コースでは、その会社は来年、その工程を調整する予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0230-credible",
+    "type": "vocab",
+    "level": "developed",
+    "word": "credible",
+    "meaning": "信頼できる",
+    "pos": "adj",
+    "exampleSentence": "During the 2010 annual meeting in a laboratory, the decision was credible under the circumstances.",
+    "exampleJa": "2010年の年次会議に研究室で、その状況では、その決定は信頼できるだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0231-criterion",
+    "type": "vocab",
+    "level": "developed",
+    "word": "criterion",
+    "meaning": "基準",
+    "pos": "n",
+    "exampleSentence": "During the 2011 exam season at a local university, the team discussed the criterion during the afternoon session.",
+    "exampleJa": "2011年の試験期間では、チームは午後のセッションでその基準について話し合った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0232-crucially",
+    "type": "vocab",
+    "level": "developed",
+    "word": "crucially",
+    "meaning": "極めて重要なことに",
+    "pos": "adv",
+    "exampleSentence": "The new system is crucially for small organizations.",
+    "exampleJa": "その新しいシステムは小規模な組織にも極めて重要なことにだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0233-currency",
+    "type": "vocab",
+    "level": "developed",
+    "word": "currency",
+    "meaning": "通貨",
+    "pos": "n",
+    "exampleSentence": "The team discussed the currency during the afternoon session.",
+    "exampleJa": "チームは午後のセッションでその通貨について話し合った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0234-deduction",
+    "type": "vocab",
+    "level": "developed",
+    "word": "deduction",
+    "meaning": "控除、推論",
+    "pos": "n",
+    "exampleSentence": "The team discussed the deduction during the afternoon session.",
+    "exampleJa": "チームは午後のセッションでその控除、推論について話し合った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0235-depict",
+    "type": "vocab",
+    "level": "developed",
+    "word": "depict",
+    "meaning": "描く、描写する",
+    "pos": "v",
+    "exampleSentence": "The researchers tried to depict the problem before publishing the paper.",
+    "exampleJa": "研究者たちは論文を発表する前に、その問題を描く、描写することを試みた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0236-depreciate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "depreciate",
+    "meaning": "価値が下がる",
+    "pos": "v",
+    "exampleSentence": "The new rule is intended to depreciate further damage.",
+    "exampleJa": "新しい規則はさらなる被害を価値が下がるために作られている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0237-deprive",
+    "type": "vocab",
+    "level": "developed",
+    "word": "deprive",
+    "meaning": "奪う",
+    "pos": "v",
+    "exampleSentence": "The team decided to deprive the proposal after a long discussion.",
+    "exampleJa": "チームは長い話し合いの後、その提案を奪うことにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0238-devote",
+    "type": "vocab",
+    "level": "developed",
+    "word": "devote",
+    "meaning": "ささげる",
+    "pos": "v",
+    "exampleSentence": "The new rule is intended to devote further damage.",
+    "exampleJa": "新しい規則はさらなる被害をささげるために作られている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0239-discrete",
+    "type": "vocab",
+    "level": "developed",
+    "word": "discrete",
+    "meaning": "個別の",
+    "pos": "adj",
+    "exampleSentence": "During the 2010 winter session at a community center, the decision was discrete under the circumstances.",
+    "exampleJa": "2010年の冬の講座に地域センターで、その状況では、その決定は個別のだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0240-discriminate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "discriminate",
+    "meaning": "差別する、識別する",
+    "pos": "v",
+    "exampleSentence": "The company plans to discriminate the process next year.",
+    "exampleJa": "その会社は来年、その工程を差別する、識別する予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0241-display",
+    "type": "vocab",
+    "level": "developed",
+    "word": "display",
+    "meaning": "示す",
+    "pos": "v",
+    "exampleSentence": "The team decided to display the proposal after a long discussion.",
+    "exampleJa": "チームは長い話し合いの後、その提案を示すことにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0242-distinct",
+    "type": "vocab",
+    "level": "developed",
+    "word": "distinct",
+    "meaning": "明確に異なる",
+    "pos": "adj",
+    "exampleSentence": "During the 2010 research project at a community center, the decision was distinct under the circumstances.",
+    "exampleJa": "2010年の研究プロジェクトに地域センターで、その状況では、その決定は明確に異なるだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0243-distribute",
+    "type": "vocab",
+    "level": "developed",
+    "word": "distribute",
+    "meaning": "分配する",
+    "pos": "v",
+    "exampleSentence": "During the 2010 online workshop at a technology center, the researchers tried to distribute the problem before publishing the paper.",
+    "exampleJa": "2010年のオンライン講習では、研究者たちは論文を発表する前に、その問題を分配することを試みた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0244-diverse",
+    "type": "vocab",
+    "level": "developed",
+    "word": "diverse",
+    "meaning": "多様な",
+    "pos": "adj",
+    "exampleSentence": "During the 2010 field study at a community center, the decision was diverse under the circumstances.",
+    "exampleJa": "2010年の実地調査に地域センターで、その状況では、その決定は多様だった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0245-dominant",
+    "type": "vocab",
+    "level": "developed",
+    "word": "dominant",
+    "meaning": "支配的な",
+    "pos": "adj",
+    "exampleSentence": "During the 2012 winter session at a research center, the researchers used a dominant approach to the problem.",
+    "exampleJa": "2012年の冬の講座に研究センターで、研究者たちはその問題に対して支配的方法を用いた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0246-dynamic",
+    "type": "vocab",
+    "level": "developed",
+    "word": "dynamic",
+    "meaning": "動的な",
+    "pos": "adj",
+    "exampleSentence": "During the 2010 training course at a community center, the researchers used a dynamic approach to the problem.",
+    "exampleJa": "2010年の研修コースに地域センターで、研究者たちはその問題に対して動的方法を用いた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0247-elaborate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "elaborate",
+    "meaning": "入念な",
+    "pos": "adj",
+    "exampleSentence": "During the 2010 public lecture at a community center, the decision was elaborate under the circumstances.",
+    "exampleJa": "2010年の公開講座に地域センターで、その状況では、その決定は入念だった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0248-eligible",
+    "type": "vocab",
+    "level": "developed",
+    "word": "eligible",
+    "meaning": "資格のある",
+    "pos": "adj",
+    "exampleSentence": "The decision was eligible under the circumstances.",
+    "exampleJa": "その状況では、その決定は資格のあるだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0249-embody",
+    "type": "vocab",
+    "level": "developed",
+    "word": "embody",
+    "meaning": "具体化する、体現する",
+    "pos": "v",
+    "exampleSentence": "The team decided to embody the proposal after a long discussion.",
+    "exampleJa": "チームは長い話し合いの後、その提案を具体化する、体現することにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0250-emerge",
+    "type": "vocab",
+    "level": "developed",
+    "word": "emerge",
+    "meaning": "現れる",
+    "pos": "v",
+    "exampleSentence": "During the 2010 research project at a technology center, the children learned how to emerge safely.",
+    "exampleJa": "2010年の研究プロジェクトでは、子どもたちは安全に現れる方法を学んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0251-emphasize",
+    "type": "vocab",
+    "level": "developed",
+    "word": "emphasize",
+    "meaning": "強調する",
+    "pos": "v",
+    "exampleSentence": "The company plans to emphasize the process next year.",
+    "exampleJa": "その会社は来年、その工程を強調する予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0252-encounter",
+    "type": "vocab",
+    "level": "developed",
+    "word": "encounter",
+    "meaning": "遭遇する",
+    "pos": "v",
+    "exampleSentence": "The company plans to encounter the process next year.",
+    "exampleJa": "その会社は来年、その工程を遭遇する予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0253-endure",
+    "type": "vocab",
+    "level": "developed",
+    "word": "endure",
+    "meaning": "耐える",
+    "pos": "v",
+    "exampleSentence": "The team decided to endure the proposal after a long discussion.",
+    "exampleJa": "チームは長い話し合いの後、その提案を耐えることにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0254-entail",
+    "type": "vocab",
+    "level": "developed",
+    "word": "entail",
+    "meaning": "伴う、必要とする",
+    "pos": "v",
+    "exampleSentence": "The researchers tried to entail the problem before publishing the paper.",
+    "exampleJa": "研究者たちは論文を発表する前に、その問題を伴う、必要とすることを試みた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0255-entity",
+    "type": "vocab",
+    "level": "developed",
+    "word": "entity",
+    "meaning": "実体、存在",
+    "pos": "n",
+    "exampleSentence": "The report includes a section on entity.",
+    "exampleJa": "その報告書には実体、存在についての節がある。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0256-exceed",
+    "type": "vocab",
+    "level": "developed",
+    "word": "exceed",
+    "meaning": "超える",
+    "pos": "v",
+    "exampleSentence": "The team decided to exceed the proposal after a long discussion.",
+    "exampleJa": "チームは長い話し合いの後、その提案を超えることにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0257-exhibit",
+    "type": "vocab",
+    "level": "developed",
+    "word": "exhibit",
+    "meaning": "示す、展示する",
+    "pos": "v",
+    "exampleSentence": "The team decided to exhibit the proposal after a long discussion.",
+    "exampleJa": "チームは長い話し合いの後、その提案を示す、展示することにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0258-expand",
+    "type": "vocab",
+    "level": "developed",
+    "word": "expand",
+    "meaning": "拡大する",
+    "pos": "v",
+    "exampleSentence": "During the 2010 winter session at the city office, the business expanded into neighboring countries.",
+    "exampleJa": "2010年の冬の講座に市役所で、その事業は近隣諸国へ拡大した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0259-expenditure",
+    "type": "vocab",
+    "level": "developed",
+    "word": "expenditure",
+    "meaning": "支出",
+    "pos": "n",
+    "exampleSentence": "During the 2010 laboratory trial at a science museum, the report includes a section on expenditure.",
+    "exampleJa": "2010年の研究室での試験では、その報告書には支出についての節がある。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0260-explicitly",
+    "type": "vocab",
+    "level": "developed",
+    "word": "explicitly",
+    "meaning": "明示的に",
+    "pos": "adv",
+    "exampleSentence": "The team explicitly reached an agreement.",
+    "exampleJa": "チームは明示的に合意に達した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0261-exposure",
+    "type": "vocab",
+    "level": "developed",
+    "word": "exposure",
+    "meaning": "さらされること、暴露",
+    "pos": "n",
+    "exampleSentence": "During the 2010 classroom discussion in a laboratory, the exposure affected the final result.",
+    "exampleJa": "2010年の教室での議論では、そのさらされること、暴露は最終結果に影響した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0262-extract",
+    "type": "vocab",
+    "level": "developed",
+    "word": "extract",
+    "meaning": "抽出する",
+    "pos": "v",
+    "exampleSentence": "The company plans to extract the process next year.",
+    "exampleJa": "その会社は来年、その工程を抽出する予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0263-fluctuation",
+    "type": "vocab",
+    "level": "developed",
+    "word": "fluctuation",
+    "meaning": "変動",
+    "pos": "n",
+    "exampleSentence": "The fluctuation affected the final result.",
+    "exampleJa": "その変動は最終結果に影響した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0264-framework",
+    "type": "vocab",
+    "level": "developed",
+    "word": "framework",
+    "meaning": "枠組み",
+    "pos": "n",
+    "exampleSentence": "The team discussed the framework during the afternoon session.",
+    "exampleJa": "チームは午後のセッションでその枠組みについて話し合った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0265-fundamentally",
+    "type": "vocab",
+    "level": "developed",
+    "word": "fundamentally",
+    "meaning": "根本的に",
+    "pos": "adv",
+    "exampleSentence": "She spoke fundamentally during the interview.",
+    "exampleJa": "彼女は面接中に根本的に話した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0266-identical",
+    "type": "vocab",
+    "level": "developed",
+    "word": "identical",
+    "meaning": "同一の",
+    "pos": "adj",
+    "exampleSentence": "During the 2011 research project at a local university, the decision was identical under the circumstances.",
+    "exampleJa": "2011年の研究プロジェクトに地元の大学で、その状況では、その決定は同一のだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0267-inherent",
+    "type": "vocab",
+    "level": "developed",
+    "word": "inherent",
+    "meaning": "固有の",
+    "pos": "adj",
+    "exampleSentence": "During the 2011 autumn term in a laboratory, the decision was inherent under the circumstances.",
+    "exampleJa": "2011年の秋学期に研究室で、その状況では、その決定は固有のだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0268-innovation",
+    "type": "vocab",
+    "level": "developed",
+    "word": "innovation",
+    "meaning": "革新",
+    "pos": "n",
+    "exampleSentence": "The innovation affected the final result.",
+    "exampleJa": "その革新は最終結果に影響した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0269-insight",
+    "type": "vocab",
+    "level": "developed",
+    "word": "insight",
+    "meaning": "洞察",
+    "pos": "n",
+    "exampleSentence": "The insight affected the final result.",
+    "exampleJa": "その洞察は最終結果に影響した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0270-intact",
+    "type": "vocab",
+    "level": "developed",
+    "word": "intact",
+    "meaning": "損なわれていない",
+    "pos": "adj",
+    "exampleSentence": "During the 2011 annual meeting at a community center, the decision was intact under the circumstances.",
+    "exampleJa": "2011年の年次会議に地域センターで、その状況では、その決定は損なわれていないだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0271-intermediate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "intermediate",
+    "meaning": "中間の",
+    "pos": "adj",
+    "exampleSentence": "The decision was intermediate under the circumstances.",
+    "exampleJa": "その状況では、その決定は中間のだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0272-intrinsic",
+    "type": "vocab",
+    "level": "developed",
+    "word": "intrinsic",
+    "meaning": "本質的な",
+    "pos": "adj",
+    "exampleSentence": "During the 2012 winter session at a local school, the researchers used an intrinsic approach to the problem.",
+    "exampleJa": "2012年の冬の講座に地元の学校で、研究者たちはその問題に対して本質的方法を用いた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0273-legitimate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "legitimate",
+    "meaning": "正当な、合法の",
+    "pos": "adj",
+    "exampleSentence": "During the 2012 public lecture at a research center, the decision was legitimate under the circumstances.",
+    "exampleJa": "2012年の公開講座に研究センターで、その状況では、その決定は正当な、合法のだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0274-likelihood",
+    "type": "vocab",
+    "level": "developed",
+    "word": "likelihood",
+    "meaning": "可能性",
+    "pos": "n",
+    "exampleSentence": "Many people have different views about likelihood.",
+    "exampleJa": "可能性についてはさまざまな考え方がある。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0275-marginal",
+    "type": "vocab",
+    "level": "developed",
+    "word": "marginal",
+    "meaning": "ごくわずかな、周辺の",
+    "pos": "adj",
+    "exampleSentence": "During the 2010 public lecture at the city office, the decision was marginal under the circumstances.",
+    "exampleJa": "2010年の公開講座に市役所で、その状況では、その決定はごくわずかな、周辺のだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0276-merely",
+    "type": "vocab",
+    "level": "developed",
+    "word": "merely",
+    "meaning": "単に",
+    "pos": "adv",
+    "exampleSentence": "She spoke merely during the interview.",
+    "exampleJa": "彼女は面接中に単に話した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0277-moderate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "moderate",
+    "meaning": "適度な",
+    "pos": "adj",
+    "exampleSentence": "The decision was moderate under the circumstances.",
+    "exampleJa": "その状況では、その決定は適度だった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0278-nonetheless",
+    "type": "vocab",
+    "level": "developed",
+    "word": "nonetheless",
+    "meaning": "それでもなお",
+    "pos": "adv",
+    "exampleSentence": "During the 2010 annual meeting at a city museum, the design has a nonetheless feature that saves space.",
+    "exampleJa": "2010年の年次会議では、そのデザインには、空間を節約するそれでもなお特徴がある。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0279-offset",
+    "type": "vocab",
+    "level": "developed",
+    "word": "offset",
+    "meaning": "相殺する",
+    "pos": "v",
+    "exampleSentence": "The new rule is intended to offset further damage.",
+    "exampleJa": "新しい規則はさらなる被害を相殺するために作られている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0280-predetermine",
+    "type": "vocab",
+    "level": "developed",
+    "word": "predetermine",
+    "meaning": "あらかじめ決める",
+    "pos": "v",
+    "exampleSentence": "The team decided to predetermine the proposal after a long discussion.",
+    "exampleJa": "チームは長い話し合いの後、その提案をあらかじめ決めることにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0281-presumably",
+    "type": "vocab",
+    "level": "developed",
+    "word": "presumably",
+    "meaning": "おそらく",
+    "pos": "adv",
+    "exampleSentence": "During the 2011 exam season at a training center, the technician checked the equipment presumably.",
+    "exampleJa": "2011年の試験期間では、技術者は設備をおそらく確認した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0282-prevalent",
+    "type": "vocab",
+    "level": "developed",
+    "word": "prevalent",
+    "meaning": "普及している",
+    "pos": "adj",
+    "exampleSentence": "During the 2012 annual meeting in a laboratory, the decision was prevalent under the circumstances.",
+    "exampleJa": "2012年の年次会議に研究室で、その状況では、その決定は普及しているだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0283-proceed",
+    "type": "vocab",
+    "level": "developed",
+    "word": "proceed",
+    "meaning": "進む",
+    "pos": "v",
+    "exampleSentence": "The researchers tried to proceed the problem before publishing the paper.",
+    "exampleJa": "研究者たちは論文を発表する前に、その問題を進むことを試みた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0284-prohibit",
+    "type": "vocab",
+    "level": "developed",
+    "word": "prohibit",
+    "meaning": "禁止する",
+    "pos": "v",
+    "exampleSentence": "The new rule is intended to prohibit further damage.",
+    "exampleJa": "新しい規則はさらなる被害を禁止するために作られている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0285-proportionate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "proportionate",
+    "meaning": "釣り合いの取れた",
+    "pos": "adj",
+    "exampleSentence": "During the 2011 public lecture at the city office, the decision was proportionate under the circumstances.",
+    "exampleJa": "2011年の公開講座に市役所で、その状況では、その決定は釣り合いの取れただった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0286-protocol",
+    "type": "vocab",
+    "level": "developed",
+    "word": "protocol",
+    "meaning": "手順、議定書",
+    "pos": "n",
+    "exampleSentence": "The doctor examined her protocol carefully.",
+    "exampleJa": "医師は彼女の手順、議定書を注意深く診察した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0287-promptly",
+    "type": "vocab",
+    "level": "developed",
+    "word": "promptly",
+    "meaning": "すぐに",
+    "pos": "adv",
+    "exampleSentence": "The team promptly reached an agreement.",
+    "exampleJa": "チームはすぐに合意に達した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0288-radical",
+    "type": "vocab",
+    "level": "developed",
+    "word": "radical",
+    "meaning": "根本的な、急進的な",
+    "pos": "adj",
+    "exampleSentence": "During the 2012 classroom discussion in a laboratory, the researchers used a radical approach to the problem.",
+    "exampleJa": "2012年の教室での議論に研究室で、研究者たちはその問題に対して根本的な、急進的方法を用いた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0289-reconcile",
+    "type": "vocab",
+    "level": "developed",
+    "word": "reconcile",
+    "meaning": "調和させる",
+    "pos": "v",
+    "exampleSentence": "The researchers tried to reconcile the problem before publishing the paper.",
+    "exampleJa": "研究者たちは論文を発表する前に、その問題を調和させることを試みた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0290-regulate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "regulate",
+    "meaning": "規制する",
+    "pos": "v",
+    "exampleSentence": "The team decided to regulate the proposal after a long discussion.",
+    "exampleJa": "チームは長い話し合いの後、その提案を規制することにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0291-relatively",
+    "type": "vocab",
+    "level": "developed",
+    "word": "relatively",
+    "meaning": "比較的",
+    "pos": "adv",
+    "exampleSentence": "During the 2011 exam season at a conference hall, the team relatively reached an agreement.",
+    "exampleJa": "2011年の試験期間では、チームは比較的合意に達した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0292-reluctance",
+    "type": "vocab",
+    "level": "developed",
+    "word": "reluctance",
+    "meaning": "気乗りしないこと",
+    "pos": "n",
+    "exampleSentence": "The report includes a section on reluctance.",
+    "exampleJa": "その報告書には気乗りしないことについての節がある。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0293-respective",
+    "type": "vocab",
+    "level": "developed",
+    "word": "respective",
+    "meaning": "それぞれの",
+    "pos": "adj",
+    "exampleSentence": "During the 2012 summer program at a community center, the decision was respective under the circumstances.",
+    "exampleJa": "2012年の夏のプログラムに地域センターで、その状況では、その決定はそれぞれのだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0294-restore",
+    "type": "vocab",
+    "level": "developed",
+    "word": "restore",
+    "meaning": "回復させる",
+    "pos": "v",
+    "exampleSentence": "The company plans to restore the process next year.",
+    "exampleJa": "その会社は来年、その工程を回復させる予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0295-restrict",
+    "type": "vocab",
+    "level": "developed",
+    "word": "restrict",
+    "meaning": "制限する",
+    "pos": "v",
+    "exampleSentence": "During the 2010 community project at a public school, the new rule is intended to restrict further damage.",
+    "exampleJa": "2010年の地域プロジェクトでは、新しい規則はさらなる被害を制限するために作られている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0296-reliable",
+    "type": "vocab",
+    "level": "developed",
+    "word": "reliable",
+    "meaning": "信頼できる",
+    "pos": "adj",
+    "exampleSentence": "During the 2012 spring semester at a community center, the decision was reliable under the circumstances.",
+    "exampleJa": "2012年の春学期に地域センターで、その状況では、その決定は信頼できるだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0297-scenario",
+    "type": "vocab",
+    "level": "developed",
+    "word": "scenario",
+    "meaning": "想定、筋書き",
+    "pos": "n",
+    "exampleSentence": "During the 2010 online workshop at a public library, the report includes a section on scenario.",
+    "exampleJa": "2010年のオンライン講習では、その報告書には想定、筋書きについての節がある。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0298-significance",
+    "type": "vocab",
+    "level": "developed",
+    "word": "significance",
+    "meaning": "重要性",
+    "pos": "n",
+    "exampleSentence": "The study examined how significance affects everyday life.",
+    "exampleJa": "その研究は重要性が日常生活にどのような影響を与えるかを調べた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0299-similarly",
+    "type": "vocab",
+    "level": "developed",
+    "word": "similarly",
+    "meaning": "同様に",
+    "pos": "adv",
+    "exampleSentence": "The technician checked the equipment similarly.",
+    "exampleJa": "技術者は設備を同様に確認した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0300-specialize",
+    "type": "vocab",
+    "level": "developed",
+    "word": "specialize",
+    "meaning": "専門化する",
+    "pos": "v",
+    "exampleSentence": "The new rule is intended to specialize further damage.",
+    "exampleJa": "新しい規則はさらなる被害を専門化するために作られている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0301-specified",
+    "type": "vocab",
+    "level": "developed",
+    "word": "specified",
+    "meaning": "明記された",
+    "pos": "adj",
+    "exampleSentence": "The decision was specified under the circumstances.",
+    "exampleJa": "その状況では、その決定は明記されただった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0302-statistical",
+    "type": "vocab",
+    "level": "developed",
+    "word": "statistical",
+    "meaning": "統計の",
+    "pos": "adj",
+    "exampleSentence": "The decision was statistical under the circumstances.",
+    "exampleJa": "その状況では、その決定は統計のだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0303-strategic",
+    "type": "vocab",
+    "level": "developed",
+    "word": "strategic",
+    "meaning": "戦略的な",
+    "pos": "adj",
+    "exampleSentence": "During the 2011 field study in a laboratory, the researchers used a strategic approach to the problem.",
+    "exampleJa": "2011年の実地調査に研究室で、研究者たちはその問題に対して戦略的方法を用いた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0304-substantial",
+    "type": "vocab",
+    "level": "developed",
+    "word": "substantial",
+    "meaning": "かなりの、実質的な",
+    "pos": "adj",
+    "exampleSentence": "The researchers used a substantial approach to the problem.",
+    "exampleJa": "研究者たちはその問題に対してかなりの、実質的方法を用いた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0305-successive",
+    "type": "vocab",
+    "level": "developed",
+    "word": "successive",
+    "meaning": "連続する",
+    "pos": "v",
+    "exampleSentence": "The team decided to successive the proposal after a long discussion.",
+    "exampleJa": "チームは長い話し合いの後、その提案を連続することにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0306-supplement",
+    "type": "vocab",
+    "level": "developed",
+    "word": "supplement",
+    "meaning": "補う",
+    "pos": "v",
+    "exampleSentence": "The new rule is intended to supplement further damage.",
+    "exampleJa": "新しい規則はさらなる被害を補うために作られている。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0307-transformation",
+    "type": "vocab",
+    "level": "developed",
+    "word": "transformation",
+    "meaning": "変換、変革",
+    "pos": "n",
+    "exampleSentence": "The transformation affected the final result.",
+    "exampleJa": "その変換、変革は最終結果に影響した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0308-trigger",
+    "type": "vocab",
+    "level": "developed",
+    "word": "trigger",
+    "meaning": "引き起こす",
+    "pos": "v",
+    "exampleSentence": "During the 2010 training course at a city museum, the company plans to trigger the process next year.",
+    "exampleJa": "2010年の研修コースでは、その会社は来年、その工程を引き起こす予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0309-ultimate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "ultimate",
+    "meaning": "究極の、最終的な",
+    "pos": "adj",
+    "exampleSentence": "The researchers used an ultimate approach to the problem.",
+    "exampleJa": "研究者たちはその問題に対して究極の、最終的方法を用いた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0310-undertake",
+    "type": "vocab",
+    "level": "developed",
+    "word": "undertake",
+    "meaning": "引き受ける",
+    "pos": "v",
+    "exampleSentence": "The company plans to undertake the process next year.",
+    "exampleJa": "その会社は来年、その工程を引き受ける予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0311-unprecedented",
+    "type": "vocab",
+    "level": "developed",
+    "word": "unprecedented",
+    "meaning": "前例のない",
+    "pos": "adj",
+    "exampleSentence": "During the 2012 annual meeting at a local university, the decision was unprecedented under the circumstances.",
+    "exampleJa": "2012年の年次会議に地元の大学で、その状況では、その決定は前例のないだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0312-uphold",
+    "type": "vocab",
+    "level": "developed",
+    "word": "uphold",
+    "meaning": "支持する、維持する",
+    "pos": "v",
+    "exampleSentence": "The researchers tried to uphold the problem before publishing the paper.",
+    "exampleJa": "研究者たちは論文を発表する前に、その問題を支持する、維持することを試みた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0313-validity",
+    "type": "vocab",
+    "level": "developed",
+    "word": "validity",
+    "meaning": "妥当性",
+    "pos": "n",
+    "exampleSentence": "During the 2010 online workshop at a regional hospital, the report includes a section on validity.",
+    "exampleJa": "2010年のオンライン講習では、その報告書には妥当性についての節がある。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0314-versatile",
+    "type": "vocab",
+    "level": "developed",
+    "word": "versatile",
+    "meaning": "多才な、多用途の",
+    "pos": "adj",
+    "exampleSentence": "During the 2012 policy review at a local university, the decision was versatile under the circumstances.",
+    "exampleJa": "2012年の政策の見直しに地元の大学で、その状況では、その決定は多才な、多用途のだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0315-virtue",
+    "type": "vocab",
+    "level": "developed",
+    "word": "virtue",
+    "meaning": "美徳、長所",
+    "pos": "n",
+    "exampleSentence": "The report includes a section on virtue.",
+    "exampleJa": "その報告書には美徳、長所についての節がある。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0316-warrant",
+    "type": "vocab",
+    "level": "developed",
+    "word": "warrant",
+    "meaning": "正当化する",
+    "pos": "v",
+    "exampleSentence": "During the 2010 training course at a public school, the company plans to warrant the process next year.",
+    "exampleJa": "2010年の研修コースでは、その会社は来年、その工程を正当化する予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0317-withdrawal",
+    "type": "vocab",
+    "level": "developed",
+    "word": "withdrawal",
+    "meaning": "撤回、引き出し",
+    "pos": "n",
+    "exampleSentence": "The withdrawal affected the final result.",
+    "exampleJa": "その撤回、引き出しは最終結果に影響した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0318-worsen",
+    "type": "vocab",
+    "level": "developed",
+    "word": "worsen",
+    "meaning": "悪化する",
+    "pos": "v",
+    "exampleSentence": "The researchers tried to worsen the problem before publishing the paper.",
+    "exampleJa": "研究者たちは論文を発表する前に、その問題を悪化することを試みた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  }
+]
