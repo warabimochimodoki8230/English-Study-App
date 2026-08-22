@@ -1,0 +1,450 @@
+[
+  {
+    "id": "v-curated-advanced-extra-0001-acclaiming",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "acclaiming",
+    "meaning": "称賛するような",
+    "pos": "adj",
+    "exampleSentence": "In a classroom experiment, the result was considered acclaiming by the researchers.",
+    "exampleJa": "教室での実験では、研究者たちは、その結果を称賛するようなと判断した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-extra-0002-analogously",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "analogously",
+    "meaning": "類似して",
+    "pos": "adv",
+    "exampleSentence": "After several months of observation, the researchers analogously reviewed the evidence before publishing their findings.",
+    "exampleJa": "数か月の観察を経て、研究者たちは類似してして、研究結果を公表する前に証拠を再検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-extra-0003-antagonistic",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "antagonistic",
+    "meaning": "敵対的な",
+    "pos": "adj",
+    "exampleSentence": "In the long term, the team chose a antagonistic approach to the problem.",
+    "exampleJa": "長期的には、チームはその問題に対して敵対的な方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-extra-0004-apprehensive",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "apprehensive",
+    "meaning": "不安な",
+    "pos": "adj",
+    "exampleSentence": "During the academic year, the researcher remained apprehensive despite the criticism.",
+    "exampleJa": "学年度中、その研究者は批判を受けても不安なであり続けた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-extra-0005-ascendancy",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "ascendancy",
+    "meaning": "優勢",
+    "pos": "n",
+    "exampleSentence": "In everyday situations, the report describes the ascendancy in detail.",
+    "exampleJa": "日常の場面では、その報告書は優勢について詳しく説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-extra-0006-aversion",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "aversion",
+    "meaning": "嫌悪",
+    "pos": "n",
+    "exampleSentence": "Before the final decision, the committee considered the aversion before making its decision.",
+    "exampleJa": "最終決定の前に、委員会は決定を下す前に嫌悪を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-extra-0007-conflation",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "conflation",
+    "meaning": "混同、融合",
+    "pos": "n",
+    "exampleSentence": "In many cases, the conflation became an important part of the discussion.",
+    "exampleJa": "多くの場合、混同、融合は議論の重要な一部となった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-extra-0008-conjectural",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "conjectural",
+    "meaning": "推測上の",
+    "pos": "adj",
+    "exampleSentence": "In the short term, the result was considered conjectural by the researchers.",
+    "exampleJa": "短期的には、研究者たちは、その結果を推測上的なと判断した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-extra-0009-contention",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "contention",
+    "meaning": "主張、争点",
+    "pos": "n",
+    "exampleSentence": "At the research site, the committee considered the contention before making its decision.",
+    "exampleJa": "研究現場では、委員会は決定を下す前に主張、争点を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-extra-0010-contravene",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "contravene",
+    "meaning": "違反する",
+    "pos": "v",
+    "exampleSentence": "At a university seminar, the company plans to contravene the new system next year.",
+    "exampleJa": "大学のセミナーでは、その会社は来年、新しいシステムを違反する予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-extra-0011-corroboration",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "corroboration",
+    "meaning": "裏付け",
+    "pos": "n",
+    "exampleSentence": "In a classroom experiment, the report describes the corroboration in detail.",
+    "exampleJa": "教室での実験では、その報告書は裏付けについて詳しく説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-extra-0012-counterproductive",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "counterproductive",
+    "meaning": "逆効果の",
+    "pos": "adj",
+    "exampleSentence": "During the investigation, the result was considered counterproductive by the researchers.",
+    "exampleJa": "調査中、研究者たちは、その結果を逆効果的なと判断した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-extra-0013-culminate",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "culminate",
+    "meaning": "最高潮に達する",
+    "pos": "v",
+    "exampleSentence": "In many cases, the company plans to culminate the new system next year.",
+    "exampleJa": "多くの場合、その会社は来年、新しいシステムを最高潮に達する予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-extra-0014-demarcation",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "demarcation",
+    "meaning": "境界設定",
+    "pos": "n",
+    "exampleSentence": "At a university seminar, the report describes the demarcation in detail.",
+    "exampleJa": "大学のセミナーでは、その報告書は境界設定について詳しく説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-extra-0015-disconcerting",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "disconcerting",
+    "meaning": "当惑させる",
+    "pos": "adj",
+    "exampleSentence": "During the winter months, the report describes the disconcerting characteristics of the system.",
+    "exampleJa": "冬の間、その報告書はシステムの当惑させるという特徴を詳しく説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-extra-0016-disillusionment",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "disillusionment",
+    "meaning": "幻滅",
+    "pos": "n",
+    "exampleSentence": "In many cases, the disillusionment became an important part of the discussion.",
+    "exampleJa": "多くの場合、幻滅は議論の重要な一部となった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-extra-0017-disparaging",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "disparaging",
+    "meaning": "軽蔑的な",
+    "pos": "adj",
+    "exampleSentence": "Before the final decision, the material remained disparaging after the treatment.",
+    "exampleJa": "最終決定の前に、その材料は処理後も軽蔑的な状態だった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-extra-0018-evasive",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "evasive",
+    "meaning": "回避的な",
+    "pos": "adj",
+    "exampleSentence": "In a recent study, the result was considered evasive by the researchers.",
+    "exampleJa": "最近の研究では、研究者たちは、その結果を回避的なと判断した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-extra-0019-exorbitantly",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "exorbitantly",
+    "meaning": "法外に",
+    "pos": "adv",
+    "exampleSentence": "In everyday situations, the researchers exorbitantly reviewed the evidence before publishing their findings.",
+    "exampleJa": "日常の場面では、研究者たちは法外にして、研究結果を公表する前に証拠を再検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-extra-0020-fervent",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "fervent",
+    "meaning": "熱烈な",
+    "pos": "adj",
+    "exampleSentence": "Before the final decision, the surface became fervent after repeated use.",
+    "exampleJa": "最終決定の前に、繰り返し使用した後、その表面は熱烈なになった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-extra-0021-flagrant",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "flagrant",
+    "meaning": "目に余る",
+    "pos": "adj",
+    "exampleSentence": "At a university seminar, the report describes the flagrant characteristics of the system.",
+    "exampleJa": "大学のセミナーでは、その報告書はシステムの目に余るという特徴を詳しく説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-extra-0022-grandiose",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "grandiose",
+    "meaning": "壮大すぎる",
+    "pos": "adj",
+    "exampleSentence": "During the annual survey, the researchers considered the grandiose option before making a decision.",
+    "exampleJa": "年次調査では、研究者たちは決定を下す前に、壮大すぎるな選択肢を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-extra-0023-inconclusive",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "inconclusive",
+    "meaning": "決定的でない",
+    "pos": "adj",
+    "exampleSentence": "Under normal conditions, the team chose a inconclusive approach to the problem.",
+    "exampleJa": "通常の条件では、チームはその問題に対して決定的でないという方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-extra-0024-indict",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "indict",
+    "meaning": "起訴する",
+    "pos": "v",
+    "exampleSentence": "In the local community, the team worked together to indict the issue.",
+    "exampleJa": "地域社会では、チームはその問題を起訴するために協力した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-extra-0025-infringe",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "infringe",
+    "meaning": "侵害する",
+    "pos": "v",
+    "exampleSentence": "Over the past decade, the company plans to infringe the new system next year.",
+    "exampleJa": "過去10年間で、その会社は来年、新しいシステムを侵害する予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-extra-0026-insurgency",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "insurgency",
+    "meaning": "反乱",
+    "pos": "n",
+    "exampleSentence": "After the meeting, the report describes the insurgency in detail.",
+    "exampleJa": "会議の後、その報告書は反乱について詳しく説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-extra-0027-ironic",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "ironic",
+    "meaning": "皮肉な",
+    "pos": "adj",
+    "exampleSentence": "During the trial period, the researchers used a ironic method for the experiment.",
+    "exampleJa": "試験期間中、研究者たちは実験に皮肉な方法を使った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-advanced-extra-0028-litigation",
+    "type": "vocab",
+    "level": "advanced",
+    "word": "litigation",
+    "meaning": "訴訟",
+    "pos": "n",
+    "exampleSentence": "During the interview, the litigation became an important part of the discussion.",
+    "exampleJa": "面接では、訴訟は議論の重要な一部となった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  }
+]

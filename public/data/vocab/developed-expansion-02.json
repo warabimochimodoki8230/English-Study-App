@@ -1,0 +1,162 @@
+[
+  {
+    "id": "v-curated-developed-0001-adjoin",
+    "type": "vocab",
+    "level": "developed",
+    "word": "adjoin",
+    "meaning": "隣接する",
+    "pos": "v",
+    "exampleSentence": "Under normal conditions, the company plans to adjoin the new system next year.",
+    "exampleJa": "通常の条件では、その会社は来年、新しいシステムを隣接する予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0002-compulsory",
+    "type": "vocab",
+    "level": "developed",
+    "word": "compulsory",
+    "meaning": "義務的な",
+    "pos": "adj",
+    "exampleSentence": "Before the final decision, the team chose a compulsory approach to the problem.",
+    "exampleJa": "最終決定の前に、チームはその問題に対して義務的な方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0003-decent",
+    "type": "vocab",
+    "level": "developed",
+    "word": "decent",
+    "meaning": "まともな、適切な",
+    "pos": "adj",
+    "exampleSentence": "In a classroom experiment, the plan appears decent after the latest review.",
+    "exampleJa": "教室での実験では、最新の検討後、その計画はまともな、適切なように見える。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0004-designate",
+    "type": "vocab",
+    "level": "developed",
+    "word": "designate",
+    "meaning": "指定する",
+    "pos": "v",
+    "exampleSentence": "Over the past decade, the company plans to designate the new system next year.",
+    "exampleJa": "過去10年間で、その会社は来年、新しいシステムを指定する予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0005-ineffective",
+    "type": "vocab",
+    "level": "developed",
+    "word": "ineffective",
+    "meaning": "効果のない",
+    "pos": "adj",
+    "exampleSentence": "The treatment was ineffective against the infection.",
+    "exampleJa": "その治療は感染症には効果がなかった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0006-monetary",
+    "type": "vocab",
+    "level": "developed",
+    "word": "monetary",
+    "meaning": "金銭の、金融の",
+    "pos": "adj",
+    "exampleSentence": "In many cases, the team chose a monetary approach to the problem.",
+    "exampleJa": "多くの場合、チームはその問題に対して金銭の、金融的な方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0007-outdated",
+    "type": "vocab",
+    "level": "developed",
+    "word": "outdated",
+    "meaning": "時代遅れの",
+    "pos": "adj",
+    "exampleSentence": "In the short term, the researchers used a outdated method for the experiment.",
+    "exampleJa": "短期的には、研究者たちは実験に時代遅れ的な方法を使った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0008-credibly",
+    "type": "vocab",
+    "level": "developed",
+    "word": "credibly",
+    "meaning": "信頼できる形で",
+    "pos": "adv",
+    "exampleSentence": "During the trial period, the researchers credibly reviewed the evidence before publishing their findings.",
+    "exampleJa": "試験期間中、研究者たちは信頼できる形でして、研究結果を公表する前に証拠を再検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0009-deployment",
+    "type": "vocab",
+    "level": "developed",
+    "word": "deployment",
+    "meaning": "展開、配置",
+    "pos": "n",
+    "exampleSentence": "In many cases, the committee considered the deployment before making its decision.",
+    "exampleJa": "多くの場合、委員会は決定を下す前に展開、配置を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-0010-prevention",
+    "type": "vocab",
+    "level": "developed",
+    "word": "prevention",
+    "meaning": "予防",
+    "pos": "n",
+    "exampleSentence": "Over the past decade, the prevention became an important part of the discussion.",
+    "exampleJa": "過去10年間で、予防は議論の重要な一部となった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  }
+]

@@ -1,0 +1,1842 @@
+[
+  {
+    "id": "v-curated-hard-0001-abject",
+    "type": "vocab",
+    "level": "hard",
+    "word": "abject",
+    "meaning": "卑劣な、惨めな",
+    "pos": "adj",
+    "exampleSentence": "During the investigation, the researchers used a abject method for the experiment.",
+    "exampleJa": "調査中、研究者たちは実験に卑劣な、惨めな方法を使った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0002-acquiesce",
+    "type": "vocab",
+    "level": "hard",
+    "word": "acquiesce",
+    "meaning": "黙って従う",
+    "pos": "v",
+    "exampleSentence": "During the annual survey, the process can acquiesce under certain conditions.",
+    "exampleJa": "年次調査では、その過程は特定の条件下では黙って従うことができる。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0003-adroit",
+    "type": "vocab",
+    "level": "hard",
+    "word": "adroit",
+    "meaning": "巧みな",
+    "pos": "adj",
+    "exampleSentence": "After several months of observation, the team chose a adroit approach to the problem.",
+    "exampleJa": "数か月の観察を経て、チームはその問題に対して巧みな方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0004-alacrity",
+    "type": "vocab",
+    "level": "hard",
+    "word": "alacrity",
+    "meaning": "敏速さ",
+    "pos": "n",
+    "exampleSentence": "After several months of observation, the alacrity became an important part of the discussion.",
+    "exampleJa": "数か月の観察を経て、敏速さは議論の重要な一部となった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0005-ambit",
+    "type": "vocab",
+    "level": "hard",
+    "word": "ambit",
+    "meaning": "範囲",
+    "pos": "n",
+    "exampleSentence": "During the trial period, the report describes the ambit in detail.",
+    "exampleJa": "試験期間中、その報告書は範囲について詳しく説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0006-anathema",
+    "type": "vocab",
+    "level": "hard",
+    "word": "anathema",
+    "meaning": "大嫌いなもの",
+    "pos": "n",
+    "exampleSentence": "During the investigation, the committee considered the anathema before making its decision.",
+    "exampleJa": "調査中、委員会は決定を下す前に大嫌いなものを検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0007-apathy",
+    "type": "vocab",
+    "level": "hard",
+    "word": "apathy",
+    "meaning": "無関心",
+    "pos": "n",
+    "exampleSentence": "In the local community, the apathy became an important part of the discussion.",
+    "exampleJa": "地域社会では、無関心は議論の重要な一部となった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0008-apprise",
+    "type": "vocab",
+    "level": "hard",
+    "word": "apprise",
+    "meaning": "知らせる",
+    "pos": "v",
+    "exampleSentence": "After the meeting, the process can apprise under certain conditions.",
+    "exampleJa": "会議の後、その過程は特定の条件下では知らせることができる。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0009-ardor",
+    "type": "vocab",
+    "level": "hard",
+    "word": "ardor",
+    "meaning": "熱意",
+    "pos": "n",
+    "exampleSentence": "During the academic year, the committee considered the ardor before making its decision.",
+    "exampleJa": "学年度中、委員会は決定を下す前に熱意を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0010-artifice",
+    "type": "vocab",
+    "level": "hard",
+    "word": "artifice",
+    "meaning": "策略",
+    "pos": "n",
+    "exampleSentence": "During the academic year, the artifice became an important part of the discussion.",
+    "exampleJa": "学年度中、策略は議論の重要な一部となった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0011-assiduous",
+    "type": "vocab",
+    "level": "hard",
+    "word": "assiduous",
+    "meaning": "勤勉な",
+    "pos": "adj",
+    "exampleSentence": "During the annual survey, the result was considered assiduous by the researchers.",
+    "exampleJa": "年次調査では、研究者たちは、その結果を勤勉なと判断した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0012-avarice",
+    "type": "vocab",
+    "level": "hard",
+    "word": "avarice",
+    "meaning": "貪欲",
+    "pos": "n",
+    "exampleSentence": "Over the past decade, the committee considered the avarice before making its decision.",
+    "exampleJa": "過去10年間で、委員会は決定を下す前に貪欲を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0013-bellicose",
+    "type": "vocab",
+    "level": "hard",
+    "word": "bellicose",
+    "meaning": "好戦的な",
+    "pos": "adj",
+    "exampleSentence": "In the local community, the result was considered bellicose by the researchers.",
+    "exampleJa": "地域社会では、研究者たちは、その結果を好戦的なと判断した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0014-beset",
+    "type": "vocab",
+    "level": "hard",
+    "word": "beset",
+    "meaning": "悩ませる",
+    "pos": "v",
+    "exampleSentence": "In the local community, the process can beset under certain conditions.",
+    "exampleJa": "地域社会では、その過程は特定の条件下では悩ませることができる。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0015-bombastic",
+    "type": "vocab",
+    "level": "hard",
+    "word": "bombastic",
+    "meaning": "大げさな",
+    "pos": "adj",
+    "exampleSentence": "In a recent study, the researchers used a bombastic method for the experiment.",
+    "exampleJa": "最近の研究では、研究者たちは実験に大げさな方法を使った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0016-cajole",
+    "type": "vocab",
+    "level": "hard",
+    "word": "cajole",
+    "meaning": "言いくるめる",
+    "pos": "v",
+    "exampleSentence": "During a laboratory test, the committee agreed to cajole the issue after further discussion.",
+    "exampleJa": "実験室での試験では、委員会はさらに議論した後、その問題を言いくるめることに同意した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0017-chagrin",
+    "type": "vocab",
+    "level": "hard",
+    "word": "chagrin",
+    "meaning": "無念、悔しさ",
+    "pos": "n",
+    "exampleSentence": "After the meeting, the report describes the chagrin in detail.",
+    "exampleJa": "会議の後、その報告書は無念、悔しさについて詳しく説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0018-circumspect",
+    "type": "vocab",
+    "level": "hard",
+    "word": "circumspect",
+    "meaning": "用心深い",
+    "pos": "adj",
+    "exampleSentence": "After the policy change, the report describes the circumspect characteristics of the system.",
+    "exampleJa": "政策変更後、その報告書はシステムの用心深いという特徴を詳しく説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0019-clandestine",
+    "type": "vocab",
+    "level": "hard",
+    "word": "clandestine",
+    "meaning": "秘密の",
+    "pos": "adj",
+    "exampleSentence": "During the annual survey, the researchers used a clandestine method for the experiment.",
+    "exampleJa": "年次調査では、研究者たちは実験に秘密的な方法を使った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0020-conundrum",
+    "type": "vocab",
+    "level": "hard",
+    "word": "conundrum",
+    "meaning": "難問",
+    "pos": "n",
+    "exampleSentence": "Before publication, the report describes the conundrum in detail.",
+    "exampleJa": "公表前に、その報告書は難問について詳しく説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0021-corollary",
+    "type": "vocab",
+    "level": "hard",
+    "word": "corollary",
+    "meaning": "当然の結果",
+    "pos": "n",
+    "exampleSentence": "In a classroom experiment, the committee discussed corollary before making the final decision.",
+    "exampleJa": "教室での実験では、委員会は最終決定を下す前に当然の結果について議論した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0022-debacle",
+    "type": "vocab",
+    "level": "hard",
+    "word": "debacle",
+    "meaning": "大失敗",
+    "pos": "n",
+    "exampleSentence": "In everyday situations, the debacle became an important part of the discussion.",
+    "exampleJa": "日常の場面では、大失敗は議論の重要な一部となった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0023-debunk",
+    "type": "vocab",
+    "level": "hard",
+    "word": "debunk",
+    "meaning": "誤りを暴く",
+    "pos": "v",
+    "exampleSentence": "During the discussion, the process can debunk under certain conditions.",
+    "exampleJa": "議論の中で、その過程は特定の条件下では誤りを暴くことができる。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0024-deference",
+    "type": "vocab",
+    "level": "hard",
+    "word": "deference",
+    "meaning": "敬意",
+    "pos": "n",
+    "exampleSentence": "In the long term, the committee considered the deference before making its decision.",
+    "exampleJa": "長期的には、委員会は決定を下す前に敬意を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0025-deride",
+    "type": "vocab",
+    "level": "hard",
+    "word": "deride",
+    "meaning": "あざ笑う",
+    "pos": "v",
+    "exampleSentence": "During the academic year, the researchers observed how the situation changed when they deride.",
+    "exampleJa": "学年度中、研究者たちは、彼らがあざ笑うしたときに状況がどう変化したかを観察した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0026-despondent",
+    "type": "vocab",
+    "level": "hard",
+    "word": "despondent",
+    "meaning": "意気消沈した",
+    "pos": "adj",
+    "exampleSentence": "After the meeting, the team chose a despondent approach to the problem.",
+    "exampleJa": "会議の後、チームはその問題に対して意気消沈したという方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0027-diatribe",
+    "type": "vocab",
+    "level": "hard",
+    "word": "diatribe",
+    "meaning": "痛烈な批判",
+    "pos": "n",
+    "exampleSentence": "Over the past decade, the committee considered the diatribe before making its decision.",
+    "exampleJa": "過去10年間で、委員会は決定を下す前に痛烈な批判を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0028-diffident",
+    "type": "vocab",
+    "level": "hard",
+    "word": "diffident",
+    "meaning": "自信のない",
+    "pos": "adj",
+    "exampleSentence": "She was diffident about expressing her opinion in public.",
+    "exampleJa": "彼女は人前で自分の意見を述べることに自信がなかった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0029-dilatory",
+    "type": "vocab",
+    "level": "hard",
+    "word": "dilatory",
+    "meaning": "時間稼ぎの",
+    "pos": "adj",
+    "exampleSentence": "Under normal conditions, the result was considered dilatory by the researchers.",
+    "exampleJa": "通常の条件では、研究者たちは、その結果を時間稼ぎ的なと判断した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0030-disparage",
+    "type": "vocab",
+    "level": "hard",
+    "word": "disparage",
+    "meaning": "けなす",
+    "pos": "v",
+    "exampleSentence": "During the interview, the team decided to disparage the issue before the final meeting.",
+    "exampleJa": "面接では、チームは最終会議の前に、その問題をけなすことにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0031-dogmatic",
+    "type": "vocab",
+    "level": "hard",
+    "word": "dogmatic",
+    "meaning": "独断的な",
+    "pos": "adj",
+    "exampleSentence": "In a classroom experiment, the researchers used a dogmatic method for the experiment.",
+    "exampleJa": "教室での実験では、研究者たちは実験に独断的な方法を使った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0032-egregious",
+    "type": "vocab",
+    "level": "hard",
+    "word": "egregious",
+    "meaning": "ひどく悪い",
+    "pos": "adj",
+    "exampleSentence": "At the research site, the team chose a egregious approach to the problem.",
+    "exampleJa": "研究現場では、チームはその問題に対してひどく悪いという方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0033-elusive",
+    "type": "vocab",
+    "level": "hard",
+    "word": "elusive",
+    "meaning": "とらえにくい",
+    "pos": "adj",
+    "exampleSentence": "In many cases, the report describes the elusive characteristics of the system.",
+    "exampleJa": "多くの場合、その報告書はシステムのとらえにくいという特徴を詳しく説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0034-enigmatic",
+    "type": "vocab",
+    "level": "hard",
+    "word": "enigmatic",
+    "meaning": "謎めいた",
+    "pos": "adj",
+    "exampleSentence": "After the policy change, the researchers considered the enigmatic option before making a decision.",
+    "exampleJa": "政策変更後、研究者たちは決定を下す前に、謎めいたな選択肢を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0035-epitome",
+    "type": "vocab",
+    "level": "hard",
+    "word": "epitome",
+    "meaning": "典型、縮図",
+    "pos": "n",
+    "exampleSentence": "During the trial period, the report focuses on the main epitome of the system.",
+    "exampleJa": "試験期間中、その報告書は、典型、縮図について詳しく説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0036-esoteric",
+    "type": "vocab",
+    "level": "hard",
+    "word": "esoteric",
+    "meaning": "難解な、専門家向けの",
+    "pos": "adj",
+    "exampleSentence": "Before the final decision, the researchers used a esoteric method for the experiment.",
+    "exampleJa": "最終決定の前に、研究者たちは実験に難解な、専門家向け的な方法を使った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0037-fastidious",
+    "type": "vocab",
+    "level": "hard",
+    "word": "fastidious",
+    "meaning": "非常に几帳面な",
+    "pos": "adj",
+    "exampleSentence": "In the short term, the researchers used a fastidious method for the experiment.",
+    "exampleJa": "短期的には、研究者たちは実験に非常に几帳面な方法を使った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0038-furtive",
+    "type": "vocab",
+    "level": "hard",
+    "word": "furtive",
+    "meaning": "こそこそした",
+    "pos": "adj",
+    "exampleSentence": "After several months of observation, the team chose a furtive approach to the problem.",
+    "exampleJa": "数か月の観察を経て、チームはその問題に対してこそこそしたという方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0039-gregarious",
+    "type": "vocab",
+    "level": "hard",
+    "word": "gregarious",
+    "meaning": "社交的な",
+    "pos": "adj",
+    "exampleSentence": "During the interview, the result was considered gregarious by the researchers.",
+    "exampleJa": "面接では、研究者たちは、その結果を社交的なと判断した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0040-hackneyed",
+    "type": "vocab",
+    "level": "hard",
+    "word": "hackneyed",
+    "meaning": "陳腐な",
+    "pos": "adj",
+    "exampleSentence": "Under normal conditions, the team chose a hackneyed approach to the problem.",
+    "exampleJa": "通常の条件では、チームはその問題に対して陳腐な方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0041-impetuous",
+    "type": "vocab",
+    "level": "hard",
+    "word": "impetuous",
+    "meaning": "衝動的な",
+    "pos": "adj",
+    "exampleSentence": "In the short term, the team chose a impetuous approach to the problem.",
+    "exampleJa": "短期的には、チームはその問題に対して衝動的な方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0042-implacable",
+    "type": "vocab",
+    "level": "hard",
+    "word": "implacable",
+    "meaning": "容赦のない",
+    "pos": "adj",
+    "exampleSentence": "The negotiators faced an implacable opponent.",
+    "exampleJa": "交渉担当者たちは、決して譲らない相手に直面した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0043-incongruity",
+    "type": "vocab",
+    "level": "hard",
+    "word": "incongruity",
+    "meaning": "不釣り合い",
+    "pos": "n",
+    "exampleSentence": "During the winter months, the incongruity became an important part of the discussion.",
+    "exampleJa": "冬の間、不釣り合いは議論の重要な一部となった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0044-inimical",
+    "type": "vocab",
+    "level": "hard",
+    "word": "inimical",
+    "meaning": "有害な、敵対する",
+    "pos": "adj",
+    "exampleSentence": "During the interview, the team chose a inimical approach to the problem.",
+    "exampleJa": "面接では、チームはその問題に対して有害な、敵対という方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0045-inscrutable",
+    "type": "vocab",
+    "level": "hard",
+    "word": "inscrutable",
+    "meaning": "不可解な",
+    "pos": "adj",
+    "exampleSentence": "During the interview, the researchers used a inscrutable method for the experiment.",
+    "exampleJa": "面接では、研究者たちは実験に不可解な方法を使った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0046-intransigent",
+    "type": "vocab",
+    "level": "hard",
+    "word": "intransigent",
+    "meaning": "妥協しない",
+    "pos": "adj",
+    "exampleSentence": "During the trial period, the researchers considered the intransigent option before making a decision.",
+    "exampleJa": "試験期間中、研究者たちは決定を下す前に、妥協しないな選択肢を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0047-inveterate",
+    "type": "vocab",
+    "level": "hard",
+    "word": "inveterate",
+    "meaning": "根深い",
+    "pos": "adj",
+    "exampleSentence": "In the short term, the team chose a inveterate approach to the problem.",
+    "exampleJa": "短期的には、チームはその問題に対して根深いという方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0048-laconic",
+    "type": "vocab",
+    "level": "hard",
+    "word": "laconic",
+    "meaning": "簡潔な",
+    "pos": "adj",
+    "exampleSentence": "After several months of observation, the team chose a laconic approach to the problem.",
+    "exampleJa": "数か月の観察を経て、チームはその問題に対して簡潔な方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0049-magnanimous",
+    "type": "vocab",
+    "level": "hard",
+    "word": "magnanimous",
+    "meaning": "寛大な",
+    "pos": "adj",
+    "exampleSentence": "After the policy change, the researchers used a magnanimous method for the experiment.",
+    "exampleJa": "政策変更後、研究者たちは実験に寛大な方法を使った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0050-mendacious",
+    "type": "vocab",
+    "level": "hard",
+    "word": "mendacious",
+    "meaning": "嘘をつく",
+    "pos": "adj",
+    "exampleSentence": "During the annual survey, the team chose a mendacious approach to the problem.",
+    "exampleJa": "年次調査では、チームはその問題に対して嘘をつくという方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0051-mercurial",
+    "type": "vocab",
+    "level": "hard",
+    "word": "mercurial",
+    "meaning": "気まぐれな",
+    "pos": "adj",
+    "exampleSentence": "During a laboratory test, the researchers used a mercurial method for the experiment.",
+    "exampleJa": "実験室での試験では、研究者たちは実験に気まぐれな方法を使った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0052-nefarious",
+    "type": "vocab",
+    "level": "hard",
+    "word": "nefarious",
+    "meaning": "極悪な",
+    "pos": "adj",
+    "exampleSentence": "During the discussion, the researchers used a nefarious method for the experiment.",
+    "exampleJa": "議論の中で、研究者たちは実験に極悪な方法を使った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0053-obdurate",
+    "type": "vocab",
+    "level": "hard",
+    "word": "obdurate",
+    "meaning": "頑固な",
+    "pos": "adj",
+    "exampleSentence": "At a university seminar, the team chose a obdurate approach to the problem.",
+    "exampleJa": "大学のセミナーでは、チームはその問題に対して頑固な方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0054-obfuscate",
+    "type": "vocab",
+    "level": "hard",
+    "word": "obfuscate",
+    "meaning": "分かりにくくする",
+    "pos": "v",
+    "exampleSentence": "Over the past decade, the team worked together to obfuscate the issue.",
+    "exampleJa": "過去10年間で、チームはその問題を分かりにくくするために協力した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0055-obsequious",
+    "type": "vocab",
+    "level": "hard",
+    "word": "obsequious",
+    "meaning": "へつらう",
+    "pos": "adj",
+    "exampleSentence": "After the meeting, the researchers considered the obsequious option before making a decision.",
+    "exampleJa": "会議の後、研究者たちは決定を下す前に、へつらうな選択肢を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0056-odious",
+    "type": "vocab",
+    "level": "hard",
+    "word": "odious",
+    "meaning": "忌まわしい",
+    "pos": "adj",
+    "exampleSentence": "During the trial period, the team chose a odious approach to the problem.",
+    "exampleJa": "試験期間中、チームはその問題に対して忌まわしいという方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0057-ostensible",
+    "type": "vocab",
+    "level": "hard",
+    "word": "ostensible",
+    "meaning": "表向きの",
+    "pos": "adj",
+    "exampleSentence": "During the annual survey, the team chose a ostensible approach to the problem.",
+    "exampleJa": "年次調査では、チームはその問題に対して表向き的な方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0058-parsimony",
+    "type": "vocab",
+    "level": "hard",
+    "word": "parsimony",
+    "meaning": "けち、倹約",
+    "pos": "n",
+    "exampleSentence": "In the short term, the parsimony became an important part of the discussion.",
+    "exampleJa": "短期的には、けち、倹約は議論の重要な一部となった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0059-perfunctory",
+    "type": "vocab",
+    "level": "hard",
+    "word": "perfunctory",
+    "meaning": "おざなりな",
+    "pos": "adj",
+    "exampleSentence": "During the trial period, the researchers used a perfunctory method for the experiment.",
+    "exampleJa": "試験期間中、研究者たちは実験におざなりな方法を使った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0060-permeate",
+    "type": "vocab",
+    "level": "hard",
+    "word": "permeate",
+    "meaning": "浸透する",
+    "pos": "v",
+    "exampleSentence": "During the interview, the team worked together to permeate the issue.",
+    "exampleJa": "面接では、チームはその問題を浸透するために協力した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0061-pertinent",
+    "type": "vocab",
+    "level": "hard",
+    "word": "pertinent",
+    "meaning": "関連する",
+    "pos": "adj",
+    "exampleSentence": "In the local community, the researchers considered the pertinent option before making a decision.",
+    "exampleJa": "地域社会では、研究者たちは決定を下す前に、関連するな選択肢を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0062-precarious",
+    "type": "vocab",
+    "level": "hard",
+    "word": "precarious",
+    "meaning": "不安定な",
+    "pos": "adj",
+    "exampleSentence": "Before the final decision, she remained precarious throughout the interview.",
+    "exampleJa": "最終決定の前に、彼女は面接中ずっと不安定なだった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0063-precipitate",
+    "type": "vocab",
+    "level": "hard",
+    "word": "precipitate",
+    "meaning": "引き起こす",
+    "pos": "v",
+    "exampleSentence": "After the meeting, the team decided to precipitate the issue before the final meeting.",
+    "exampleJa": "会議の後、チームは最終会議の前に、その問題を引き起こすことにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0064-prodigal",
+    "type": "vocab",
+    "level": "hard",
+    "word": "prodigal",
+    "meaning": "浪費する",
+    "pos": "adj",
+    "exampleSentence": "In the local community, the researchers considered the prodigal option before making a decision.",
+    "exampleJa": "地域社会では、研究者たちは決定を下す前に、浪費するな選択肢を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0065-prolific",
+    "type": "vocab",
+    "level": "hard",
+    "word": "prolific",
+    "meaning": "多産な",
+    "pos": "adj",
+    "exampleSentence": "At a university seminar, the result was considered prolific by the researchers.",
+    "exampleJa": "大学のセミナーでは、研究者たちは、その結果を多産なと判断した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0066-propensity",
+    "type": "vocab",
+    "level": "hard",
+    "word": "propensity",
+    "meaning": "傾向",
+    "pos": "n",
+    "exampleSentence": "During the discussion, the committee considered the propensity before making its decision.",
+    "exampleJa": "議論の中で、委員会は決定を下す前に傾向を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0067-recalcitrant",
+    "type": "vocab",
+    "level": "hard",
+    "word": "recalcitrant",
+    "meaning": "反抗的な",
+    "pos": "adj",
+    "exampleSentence": "After the policy change, the researchers used a recalcitrant method for the experiment.",
+    "exampleJa": "政策変更後、研究者たちは実験に反抗的な方法を使った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0068-reprehensible",
+    "type": "vocab",
+    "level": "hard",
+    "word": "reprehensible",
+    "meaning": "非難すべき",
+    "pos": "adj",
+    "exampleSentence": "In a classroom experiment, the team chose a reprehensible approach to the problem.",
+    "exampleJa": "教室での実験では、チームはその問題に対して非難すべきという方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0069-reticent",
+    "type": "vocab",
+    "level": "hard",
+    "word": "reticent",
+    "meaning": "口数の少ない",
+    "pos": "adj",
+    "exampleSentence": "During the academic year, the report describes the reticent characteristics of the system.",
+    "exampleJa": "学年度中、その報告書はシステムの口数の少ないという特徴を詳しく説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0070-sagacious",
+    "type": "vocab",
+    "level": "hard",
+    "word": "sagacious",
+    "meaning": "賢明な",
+    "pos": "adj",
+    "exampleSentence": "In many cases, the researchers used a sagacious method for the experiment.",
+    "exampleJa": "多くの場合、研究者たちは実験に賢明な方法を使った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0071-sanction",
+    "type": "vocab",
+    "level": "hard",
+    "word": "sanction",
+    "meaning": "認可する、制裁する",
+    "pos": "v",
+    "exampleSentence": "During a laboratory test, the researchers need to sanction the problem before drawing a conclusion.",
+    "exampleJa": "実験室での試験では、研究者たちは結論を出す前に、その問題を認可する、制裁する必要がある。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0072-solicitous",
+    "type": "vocab",
+    "level": "hard",
+    "word": "solicitous",
+    "meaning": "気を配る",
+    "pos": "adj",
+    "exampleSentence": "In the short term, the report describes the solicitous characteristics of the system.",
+    "exampleJa": "短期的には、その報告書はシステムの気を配るという特徴を詳しく説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0073-spurious",
+    "type": "vocab",
+    "level": "hard",
+    "word": "spurious",
+    "meaning": "偽の",
+    "pos": "adj",
+    "exampleSentence": "During the annual survey, the result was considered spurious by the researchers.",
+    "exampleJa": "年次調査では、研究者たちは、その結果を偽的なと判断した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0074-stagnant",
+    "type": "vocab",
+    "level": "hard",
+    "word": "stagnant",
+    "meaning": "停滞した",
+    "pos": "adj",
+    "exampleSentence": "At a university seminar, the team chose a stagnant approach to the problem.",
+    "exampleJa": "大学のセミナーでは、チームはその問題に対して停滞したという方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0075-staid",
+    "type": "vocab",
+    "level": "hard",
+    "word": "staid",
+    "meaning": "落ち着いた",
+    "pos": "adj",
+    "exampleSentence": "After the policy change, the report describes the staid characteristics of the system.",
+    "exampleJa": "政策変更後、その報告書はシステムの落ち着いたという特徴を詳しく説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0076-stolid",
+    "type": "vocab",
+    "level": "hard",
+    "word": "stolid",
+    "meaning": "無感動な",
+    "pos": "adj",
+    "exampleSentence": "During the academic year, the researchers used a stolid method for the experiment.",
+    "exampleJa": "学年度中、研究者たちは実験に無感動な方法を使った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0077-strident",
+    "type": "vocab",
+    "level": "hard",
+    "word": "strident",
+    "meaning": "耳障りな",
+    "pos": "adj",
+    "exampleSentence": "During the annual survey, the researchers used a strident method for the experiment.",
+    "exampleJa": "年次調査では、研究者たちは実験に耳障りな方法を使った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0078-superfluous",
+    "type": "vocab",
+    "level": "hard",
+    "word": "superfluous",
+    "meaning": "余分な",
+    "pos": "adj",
+    "exampleSentence": "During the trial period, the result was considered superfluous by the researchers.",
+    "exampleJa": "試験期間中、研究者たちは、その結果を余分なと判断した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0079-surreptitious",
+    "type": "vocab",
+    "level": "hard",
+    "word": "surreptitious",
+    "meaning": "こっそりした",
+    "pos": "adj",
+    "exampleSentence": "During the trial period, the researchers considered the surreptitious option before making a decision.",
+    "exampleJa": "試験期間中、研究者たちは決定を下す前に、こっそりしたな選択肢を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0080-tenuous",
+    "type": "vocab",
+    "level": "hard",
+    "word": "tenuous",
+    "meaning": "根拠の薄い",
+    "pos": "adj",
+    "exampleSentence": "In a recent study, the team chose a tenuous approach to the problem.",
+    "exampleJa": "最近の研究では、チームはその問題に対して根拠の薄いという方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0081-trenchant",
+    "type": "vocab",
+    "level": "hard",
+    "word": "trenchant",
+    "meaning": "痛烈な",
+    "pos": "adj",
+    "exampleSentence": "During the trial period, the researchers used a trenchant method for the experiment.",
+    "exampleJa": "試験期間中、研究者たちは実験に痛烈な方法を使った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0082-truculent",
+    "type": "vocab",
+    "level": "hard",
+    "word": "truculent",
+    "meaning": "攻撃的な",
+    "pos": "adj",
+    "exampleSentence": "Under normal conditions, the researchers used a truculent method for the experiment.",
+    "exampleJa": "通常の条件では、研究者たちは実験に攻撃的な方法を使った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0083-ubiquitous",
+    "type": "vocab",
+    "level": "hard",
+    "word": "ubiquitous",
+    "meaning": "どこにでもある",
+    "pos": "adj",
+    "exampleSentence": "In everyday situations, the team chose a ubiquitous approach to the problem.",
+    "exampleJa": "日常の場面では、チームはその問題に対してどこにでもあるという方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0084-vacillate",
+    "type": "vocab",
+    "level": "hard",
+    "word": "vacillate",
+    "meaning": "揺れ動く",
+    "pos": "v",
+    "exampleSentence": "In the short term, the researchers used a new method to vacillate the issue.",
+    "exampleJa": "短期的には、研究者たちは新しい方法を使ってその問題を揺れ動くした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0085-venerate",
+    "type": "vocab",
+    "level": "hard",
+    "word": "venerate",
+    "meaning": "崇敬する",
+    "pos": "v",
+    "exampleSentence": "Before publication, the company plans to venerate the new system next year.",
+    "exampleJa": "公表前に、その会社は来年、新しいシステムを崇敬する予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0086-vitriolic",
+    "type": "vocab",
+    "level": "hard",
+    "word": "vitriolic",
+    "meaning": "辛辣な",
+    "pos": "adj",
+    "exampleSentence": "Over the past decade, the researchers used a vitriolic method for the experiment.",
+    "exampleJa": "過去10年間で、研究者たちは実験に辛辣な方法を使った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0087-wrangle",
+    "type": "vocab",
+    "level": "hard",
+    "word": "wrangle",
+    "meaning": "口論する",
+    "pos": "v",
+    "exampleSentence": "In the short term, the team worked together to wrangle the issue.",
+    "exampleJa": "短期的には、チームはその問題を口論するために協力した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0088-abnegate",
+    "type": "vocab",
+    "level": "hard",
+    "word": "abnegate",
+    "meaning": "放棄する",
+    "pos": "v",
+    "exampleSentence": "During the trial period, the company plans to abnegate the new system next year.",
+    "exampleJa": "試験期間中、その会社は来年、新しいシステムを放棄する予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0089-abrogate",
+    "type": "vocab",
+    "level": "hard",
+    "word": "abrogate",
+    "meaning": "廃止する",
+    "pos": "v",
+    "exampleSentence": "In many cases, the researchers need to abrogate the problem before drawing a conclusion.",
+    "exampleJa": "多くの場合、研究者たちは結論を出す前に、その問題を廃止する必要がある。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0090-acumen",
+    "type": "vocab",
+    "level": "hard",
+    "word": "acumen",
+    "meaning": "洞察力",
+    "pos": "n",
+    "exampleSentence": "During the winter months, the committee considered the acumen before making its decision.",
+    "exampleJa": "冬の間、委員会は決定を下す前に洞察力を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0091-apocryphal",
+    "type": "vocab",
+    "level": "hard",
+    "word": "apocryphal",
+    "meaning": "真偽不明の",
+    "pos": "adj",
+    "exampleSentence": "During the winter months, the team chose a apocryphal approach to the problem.",
+    "exampleJa": "冬の間、チームはその問題に対して真偽不明的な方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0092-belligerent",
+    "type": "vocab",
+    "level": "hard",
+    "word": "belligerent",
+    "meaning": "好戦的な",
+    "pos": "adj",
+    "exampleSentence": "In a classroom experiment, the team chose a belligerent approach to the problem.",
+    "exampleJa": "教室での実験では、チームはその問題に対して好戦的な方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0093-circuitous",
+    "type": "vocab",
+    "level": "hard",
+    "word": "circuitous",
+    "meaning": "遠回りの",
+    "pos": "adj",
+    "exampleSentence": "During the discussion, the researchers used a circuitous method for the experiment.",
+    "exampleJa": "議論の中で、研究者たちは実験に遠回り的な方法を使った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0094-deleterious",
+    "type": "vocab",
+    "level": "hard",
+    "word": "deleterious",
+    "meaning": "有害な",
+    "pos": "adj",
+    "exampleSentence": "During the interview, the researchers used a deleterious method for the experiment.",
+    "exampleJa": "面接では、研究者たちは実験に有害な方法を使った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0095-duplicitous",
+    "type": "vocab",
+    "level": "hard",
+    "word": "duplicitous",
+    "meaning": "二枚舌の",
+    "pos": "adj",
+    "exampleSentence": "During the investigation, the result was considered duplicitous by the researchers.",
+    "exampleJa": "調査中、研究者たちは、その結果を二枚舌的なと判断した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0096-execrable",
+    "type": "vocab",
+    "level": "hard",
+    "word": "execrable",
+    "meaning": "ひどく不快な",
+    "pos": "adj",
+    "exampleSentence": "During the annual survey, the researchers used a execrable method for the experiment.",
+    "exampleJa": "年次調査では、研究者たちは実験にひどく不快な方法を使った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0097-feign",
+    "type": "vocab",
+    "level": "hard",
+    "word": "feign",
+    "meaning": "～のふりをする",
+    "pos": "v",
+    "exampleSentence": "In everyday situations, the company plans to feign the new system next year.",
+    "exampleJa": "日常の場面では、その会社は来年、新しいシステムをのふりをする予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0098-hapless",
+    "type": "vocab",
+    "level": "hard",
+    "word": "hapless",
+    "meaning": "不運な",
+    "pos": "adj",
+    "exampleSentence": "During the trial period, the team chose a hapless approach to the problem.",
+    "exampleJa": "試験期間中、チームはその問題に対して不運な方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0099-ignominious",
+    "type": "vocab",
+    "level": "hard",
+    "word": "ignominious",
+    "meaning": "不名誉な",
+    "pos": "adj",
+    "exampleSentence": "During the trial period, the result was considered ignominious by the researchers.",
+    "exampleJa": "試験期間中、研究者たちは、その結果を不名誉なと判断した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0100-inchoate",
+    "type": "vocab",
+    "level": "hard",
+    "word": "inchoate",
+    "meaning": "未形成の",
+    "pos": "adj",
+    "exampleSentence": "Before the final decision, the result was considered inchoate by the researchers.",
+    "exampleJa": "最終決定の前に、研究者たちは、その結果を未形成的なと判断した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0101-inexorable",
+    "type": "vocab",
+    "level": "hard",
+    "word": "inexorable",
+    "meaning": "容赦なく進む",
+    "pos": "adj",
+    "exampleSentence": "After several months of observation, the team chose a inexorable approach to the problem.",
+    "exampleJa": "数か月の観察を経て、チームはその問題に対して容赦なく進むという方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0102-infallible",
+    "type": "vocab",
+    "level": "hard",
+    "word": "infallible",
+    "meaning": "絶対に誤りのない",
+    "pos": "adj",
+    "exampleSentence": "The method is not infallible, so the results should be checked carefully.",
+    "exampleJa": "その方法は絶対に誤りがないわけではないので、結果を慎重に確認する必要がある。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0103-inordinate",
+    "type": "vocab",
+    "level": "hard",
+    "word": "inordinate",
+    "meaning": "過度の",
+    "pos": "adj",
+    "exampleSentence": "At the research site, the result was considered inordinate by the researchers.",
+    "exampleJa": "研究現場では、研究者たちは、その結果を過度的なと判断した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0104-insatiable",
+    "type": "vocab",
+    "level": "hard",
+    "word": "insatiable",
+    "meaning": "飽くことを知らない",
+    "pos": "adj",
+    "exampleSentence": "After the meeting, the team chose a insatiable approach to the problem.",
+    "exampleJa": "会議の後、チームはその問題に対して飽くことを知らないという方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0105-lethargic",
+    "type": "vocab",
+    "level": "hard",
+    "word": "lethargic",
+    "meaning": "無気力な",
+    "pos": "adj",
+    "exampleSentence": "Before the final decision, the researchers used a lethargic method for the experiment.",
+    "exampleJa": "最終決定の前に、研究者たちは実験に無気力な方法を使った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0106-misanthropic",
+    "type": "vocab",
+    "level": "hard",
+    "word": "misanthropic",
+    "meaning": "人間嫌いの",
+    "pos": "adj",
+    "exampleSentence": "Before publication, the result was considered misanthropic by the researchers.",
+    "exampleJa": "公表前に、研究者たちは、その結果を人間嫌い的なと判断した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0107-nonchalant",
+    "type": "vocab",
+    "level": "hard",
+    "word": "nonchalant",
+    "meaning": "平然とした",
+    "pos": "adj",
+    "exampleSentence": "During the interview, the team chose a nonchalant approach to the problem.",
+    "exampleJa": "面接では、チームはその問題に対して平然としたという方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0108-perfidious",
+    "type": "vocab",
+    "level": "hard",
+    "word": "perfidious",
+    "meaning": "背信的な",
+    "pos": "adj",
+    "exampleSentence": "During a laboratory test, the result was considered perfidious by the researchers.",
+    "exampleJa": "実験室での試験では、研究者たちは、その結果を背信的なと判断した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0109-preclude",
+    "type": "vocab",
+    "level": "hard",
+    "word": "preclude",
+    "meaning": "妨げる",
+    "pos": "v",
+    "exampleSentence": "In a recent study, the new policy could preclude the risk of accidents.",
+    "exampleJa": "最近の研究では、新しい政策によって事故の危険を妨げる可能性がある。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0110-proscribe",
+    "type": "vocab",
+    "level": "hard",
+    "word": "proscribe",
+    "meaning": "禁止する",
+    "pos": "v",
+    "exampleSentence": "During the trial period, the researchers need to proscribe the problem before drawing a conclusion.",
+    "exampleJa": "試験期間中、研究者たちは結論を出す前に、その問題を禁止する必要がある。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0111-retrospective",
+    "type": "vocab",
+    "level": "hard",
+    "word": "retrospective",
+    "meaning": "回顧的な",
+    "pos": "adj",
+    "exampleSentence": "During the annual survey, the researchers used a retrospective method for the experiment.",
+    "exampleJa": "年次調査では、研究者たちは実験に回顧的な方法を使った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0112-seminal",
+    "type": "vocab",
+    "level": "hard",
+    "word": "seminal",
+    "meaning": "画期的な",
+    "pos": "adj",
+    "exampleSentence": "During the discussion, the researchers used a seminal method for the experiment.",
+    "exampleJa": "議論の中で、研究者たちは実験に画期的な方法を使った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0113-solace",
+    "type": "vocab",
+    "level": "hard",
+    "word": "solace",
+    "meaning": "慰め",
+    "pos": "n",
+    "exampleSentence": "In the short term, the report describes the solace in detail.",
+    "exampleJa": "短期的には、その報告書は慰めについて詳しく説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0114-surfeit",
+    "type": "vocab",
+    "level": "hard",
+    "word": "surfeit",
+    "meaning": "過剰",
+    "pos": "n",
+    "exampleSentence": "After several months of observation, the committee considered the surfeit before making its decision.",
+    "exampleJa": "数か月の観察を経て、委員会は決定を下す前に過剰を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0115-untenable",
+    "type": "vocab",
+    "level": "hard",
+    "word": "untenable",
+    "meaning": "維持できない",
+    "pos": "adj",
+    "exampleSentence": "During the winter months, the researchers considered the untenable option before making a decision.",
+    "exampleJa": "冬の間、研究者たちは決定を下す前に、維持できないな選択肢を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  }
+]

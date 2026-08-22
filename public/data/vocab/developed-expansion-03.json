@@ -1,0 +1,498 @@
+[
+  {
+    "id": "v-curated-developed-extra-0001-additive",
+    "type": "vocab",
+    "level": "developed",
+    "word": "additive",
+    "meaning": "添加物、付加物",
+    "pos": "n",
+    "exampleSentence": "At the research site, the study provides useful information about additive.",
+    "exampleJa": "研究現場では、その研究は添加物、付加物について有用な情報を提供している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0002-briefing",
+    "type": "vocab",
+    "level": "developed",
+    "word": "briefing",
+    "meaning": "説明会、概要説明",
+    "pos": "n",
+    "exampleSentence": "After the meeting, the researchers examined the role of briefing in the study.",
+    "exampleJa": "会議の後、研究者たちはその研究における説明会、概要説明の役割を調べた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0003-comparative",
+    "type": "vocab",
+    "level": "developed",
+    "word": "comparative",
+    "meaning": "比較の",
+    "pos": "adj",
+    "exampleSentence": "Under normal conditions, the report includes a comparative study of the two education systems.",
+    "exampleJa": "通常の条件では、その報告書は、比較のについて詳しく説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0004-compensatory",
+    "type": "vocab",
+    "level": "developed",
+    "word": "compensatory",
+    "meaning": "補償の",
+    "pos": "adj",
+    "exampleSentence": "During the trial period, the company offered compensatory leave to workers who had worked on the holiday.",
+    "exampleJa": "試験期間中、その会社は、補償のことを計画している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0005-decompose",
+    "type": "vocab",
+    "level": "developed",
+    "word": "decompose",
+    "meaning": "分解する",
+    "pos": "v",
+    "exampleSentence": "In a recent study, the committee agreed to decompose the issue after further discussion.",
+    "exampleJa": "最近の研究では、委員会はさらに議論した後、その問題を分解することに同意した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0006-deterioration",
+    "type": "vocab",
+    "level": "developed",
+    "word": "deterioration",
+    "meaning": "悪化",
+    "pos": "n",
+    "exampleSentence": "During the academic year, the committee considered the deterioration before making its decision.",
+    "exampleJa": "学年度中、委員会は決定を下す前に悪化を検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0007-estimated",
+    "type": "vocab",
+    "level": "developed",
+    "word": "estimated",
+    "meaning": "推定された",
+    "pos": "adj",
+    "exampleSentence": "During the investigation, the researchers used a estimated method for the experiment.",
+    "exampleJa": "調査中、研究者たちは実験に推定されたな方法を使った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0008-domestically",
+    "type": "vocab",
+    "level": "developed",
+    "word": "domestically",
+    "meaning": "国内で",
+    "pos": "adv",
+    "exampleSentence": "During the academic year, the company sells the product domestically as well as in several overseas markets.",
+    "exampleJa": "学年度中、その会社は、国内でことを計画している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0009-exceedingly",
+    "type": "vocab",
+    "level": "developed",
+    "word": "exceedingly",
+    "meaning": "非常に",
+    "pos": "adv",
+    "exampleSentence": "After several months of observation, the researchers exceedingly checked the evidence before publishing the report.",
+    "exampleJa": "数か月の観察を経て、研究者たちは報告書を公表する前に、証拠を非常に確認した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0010-expandable",
+    "type": "vocab",
+    "level": "developed",
+    "word": "expandable",
+    "meaning": "拡張可能な",
+    "pos": "adj",
+    "exampleSentence": "After the policy change, the proposed solution is expandable under the current conditions.",
+    "exampleJa": "政策変更後、提案された解決策は、現在の条件では拡張可能な。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0011-individualism",
+    "type": "vocab",
+    "level": "developed",
+    "word": "individualism",
+    "meaning": "個人主義",
+    "pos": "n",
+    "exampleSentence": "Under normal conditions, the individualism spoke with the students after the meeting.",
+    "exampleJa": "通常の条件では、その個人主義は会議の後、学生たちと話した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0012-inspectable",
+    "type": "vocab",
+    "level": "developed",
+    "word": "inspectable",
+    "meaning": "検査可能な",
+    "pos": "adj",
+    "exampleSentence": "During a laboratory test, the plan appears inspectable after the latest review.",
+    "exampleJa": "実験室での試験では、最新の検討後、その計画は検査可能なように見える。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0013-intuitive",
+    "type": "vocab",
+    "level": "developed",
+    "word": "intuitive",
+    "meaning": "直感的な",
+    "pos": "adj",
+    "exampleSentence": "After several months of observation, the team chose a intuitive approach to the problem.",
+    "exampleJa": "数か月の観察を経て、チームはその問題に対して直感的な方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0014-literal",
+    "type": "vocab",
+    "level": "developed",
+    "word": "literal",
+    "meaning": "文字通りの",
+    "pos": "adj",
+    "exampleSentence": "In a recent study, the result was considered literal by the researchers.",
+    "exampleJa": "最近の研究では、研究者たちは、その結果を文字通り的なと判断した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0015-locally",
+    "type": "vocab",
+    "level": "developed",
+    "word": "locally",
+    "meaning": "局地的に",
+    "pos": "adv",
+    "exampleSentence": "In a recent study, the researchers locally checked the evidence before publishing the report.",
+    "exampleJa": "最近の研究では、研究者たちは報告書を公表する前に、証拠を局地的に確認した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0016-mainstream",
+    "type": "vocab",
+    "level": "developed",
+    "word": "mainstream",
+    "meaning": "主流",
+    "pos": "n",
+    "exampleSentence": "Before publication, the article explains why mainstream matters in modern society.",
+    "exampleJa": "公表前に、その記事は、現代社会で主流がなぜ重要なのかを説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0017-measurable",
+    "type": "vocab",
+    "level": "developed",
+    "word": "measurable",
+    "meaning": "測定可能な",
+    "pos": "adj",
+    "exampleSentence": "During the trial period, the team chose a measurable approach to the problem.",
+    "exampleJa": "試験期間中、チームはその問題に対して測定可能な方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0018-phenomenal",
+    "type": "vocab",
+    "level": "developed",
+    "word": "phenomenal",
+    "meaning": "並外れた",
+    "pos": "adj",
+    "exampleSentence": "During a laboratory test, the result was considered phenomenal by the researchers.",
+    "exampleJa": "実験室での試験では、研究者たちは、その結果を並外れたなと判断した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0019-philosophical",
+    "type": "vocab",
+    "level": "developed",
+    "word": "philosophical",
+    "meaning": "哲学的な",
+    "pos": "adj",
+    "exampleSentence": "During the winter months, the result was considered philosophical by the researchers.",
+    "exampleJa": "冬の間、研究者たちは、その結果を哲学的なと判断した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0020-proceeding",
+    "type": "vocab",
+    "level": "developed",
+    "word": "proceeding",
+    "meaning": "手続き、進行",
+    "pos": "n",
+    "exampleSentence": "After several months of observation, the researchers examined the role of proceeding in the study.",
+    "exampleJa": "数か月の観察を経て、研究者たちはその研究における手続き、進行の役割を調べた。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0021-recognizable",
+    "type": "vocab",
+    "level": "developed",
+    "word": "recognizable",
+    "meaning": "認識できる",
+    "pos": "adj",
+    "exampleSentence": "At the research site, the result was considered recognizable by the researchers.",
+    "exampleJa": "研究現場では、研究者たちは、その結果を認識できるなと判断した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0022-revolutionize",
+    "type": "vocab",
+    "level": "developed",
+    "word": "revolutionize",
+    "meaning": "一新する",
+    "pos": "v",
+    "exampleSentence": "In the long term, the team decided to revolutionize the issue before the final meeting.",
+    "exampleJa": "長期的には、チームは最終会議の前に、その問題を一新することにした。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0023-societal",
+    "type": "vocab",
+    "level": "developed",
+    "word": "societal",
+    "meaning": "社会の",
+    "pos": "adj",
+    "exampleSentence": "At the research site, the report examines the societal effects of rapid population aging.",
+    "exampleJa": "研究現場では、その報告書は、社会のについて詳しく説明している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0024-sociological",
+    "type": "vocab",
+    "level": "developed",
+    "word": "sociological",
+    "meaning": "社会学の",
+    "pos": "adj",
+    "exampleSentence": "Before the final decision, the researchers used a sociological perspective to study changes in family structure.",
+    "exampleJa": "最終決定の前に、研究者たちは、社会学のことを検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0025-specialized",
+    "type": "vocab",
+    "level": "developed",
+    "word": "specialized",
+    "meaning": "専門化した",
+    "pos": "adj",
+    "exampleSentence": "Under normal conditions, the researchers used a specialized method for the experiment.",
+    "exampleJa": "通常の条件では、研究者たちは実験に専門化したな方法を使った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0026-stimulation",
+    "type": "vocab",
+    "level": "developed",
+    "word": "stimulation",
+    "meaning": "刺激",
+    "pos": "n",
+    "exampleSentence": "In the local community, the study provides useful information about stimulation.",
+    "exampleJa": "地域社会では、その研究は刺激について有用な情報を提供している。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0027-superior",
+    "type": "vocab",
+    "level": "developed",
+    "word": "superior",
+    "meaning": "優れた",
+    "pos": "adj",
+    "exampleSentence": "During the annual survey, the researchers used a superior method for the experiment.",
+    "exampleJa": "年次調査では、研究者たちは実験に優れたな方法を使った。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0028-uniquely",
+    "type": "vocab",
+    "level": "developed",
+    "word": "uniquely",
+    "meaning": "独特に",
+    "pos": "adv",
+    "exampleSentence": "After the meeting, she uniquely explained the reason for the change.",
+    "exampleJa": "会議の後、彼女はその変化の理由を独特に説明した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0029-universalism",
+    "type": "vocab",
+    "level": "developed",
+    "word": "universalism",
+    "meaning": "普遍主義",
+    "pos": "n",
+    "exampleSentence": "In the local community, the committee discussed universalism before making the final decision.",
+    "exampleJa": "地域社会では、委員会は最終決定を下す前に普遍主義について議論した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0030-validly",
+    "type": "vocab",
+    "level": "developed",
+    "word": "validly",
+    "meaning": "妥当に",
+    "pos": "adv",
+    "exampleSentence": "During the winter months, the researchers could not validly compare the results because the two tests used different criteria.",
+    "exampleJa": "冬の間、研究者たちは、妥当にことを検討した。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-developed-extra-0031-visualize",
+    "type": "vocab",
+    "level": "developed",
+    "word": "visualize",
+    "meaning": "可視化する",
+    "pos": "v",
+    "exampleSentence": "After several months of observation, the company plans to visualize the new system next year.",
+    "exampleJa": "数か月の観察を経て、その会社は来年、新しいシステムを可視化する予定だ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  }
+]

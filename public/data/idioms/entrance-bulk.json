@@ -1,0 +1,648 @@
+[
+  {
+    "id": "i-bulk-0021",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "be derived from",
+    "meaning": "～に由来する",
+    "question": "be derived from",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～に由来する",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～に由来する",
+        "correct": true
+      },
+      {
+        "text": "～を引き継ぐ",
+        "correct": false
+      },
+      {
+        "text": "～を断る・音量を下げる",
+        "correct": false
+      },
+      {
+        "text": "判明する・結果となる",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "The students were derived from the new policy.",
+    "exampleJa": "学生たちは新しい政策から生じたものだった。"
+  },
+  {
+    "id": "i-bulk-0023",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "be exposed to",
+    "meaning": "～にさらされる",
+    "question": "be exposed to",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～にさらされる",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～にさらされる",
+        "correct": true
+      },
+      {
+        "text": "きっと～する・～する義務がある",
+        "correct": false
+      },
+      {
+        "text": "～と両立する・互換性がある",
+        "correct": false
+      },
+      {
+        "text": "～を促進する",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "Children should not be exposed to unnecessary violence in the media.",
+    "exampleJa": "子どもたちは、メディアで不必要な暴力にさらされるべきではない。"
+  },
+  {
+    "id": "i-bulk-0047",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "devote oneself to",
+    "meaning": "～に専念する",
+    "question": "devote oneself to",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～に専念する",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～に専念する",
+        "correct": true
+      },
+      {
+        "text": "～から生じる",
+        "correct": false
+      },
+      {
+        "text": "AとBを見分ける",
+        "correct": false
+      },
+      {
+        "text": "ある程度",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "She devoted herself to improving education in rural areas.",
+    "exampleJa": "彼女は農村地域の教育改善に専念した。"
+  },
+  {
+    "id": "i-bulk-0050",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "draw on",
+    "meaning": "～を利用する",
+    "question": "draw on",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～を利用する",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～を利用する",
+        "correct": true
+      },
+      {
+        "text": "～と異なる",
+        "correct": false
+      },
+      {
+        "text": "～で有名である",
+        "correct": false
+      },
+      {
+        "text": "～でいっぱいである",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "The author drew on years of experience when writing the book.",
+    "exampleJa": "その著者は本を書く際に長年の経験を生かした。"
+  },
+  {
+    "id": "i-bulk-0056",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "find fault with",
+    "meaning": "～のあら探しをする",
+    "question": "find fault with",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～のあら探しをする",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～のあら探しをする",
+        "correct": true
+      },
+      {
+        "text": "きっと～する・～する義務がある",
+        "correct": false
+      },
+      {
+        "text": "～と両立する・互換性がある",
+        "correct": false
+      },
+      {
+        "text": "～を促進する",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "It is easy to find fault with a plan without considering its limitations.",
+    "exampleJa": "その計画の限界を考えずに、あら探しをするのは簡単だ。"
+  },
+  {
+    "id": "i-bulk-0078",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "in the long run",
+    "meaning": "長い目で見れば",
+    "question": "in the long run",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "長い目で見れば",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "長い目で見れば",
+        "correct": true
+      },
+      {
+        "text": "～に適応する",
+        "correct": false
+      },
+      {
+        "text": "～を増やす・～に加える",
+        "correct": false
+      },
+      {
+        "text": "～に賛成する・～と一致する",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "The report considers the issue in the long run a wider social context.",
+    "exampleJa": "その報告書は、その問題を長期的な視点から幅広い社会的文脈の中で検討している。"
+  },
+  {
+    "id": "i-bulk-0080",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "keep A from doing",
+    "meaning": "Aが～するのを妨げる",
+    "question": "keep A from doing",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "Aが～するのを妨げる",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "Aが～するのを妨げる",
+        "correct": true
+      },
+      {
+        "text": "～と両立する・互換性がある",
+        "correct": false
+      },
+      {
+        "text": "～を促進する",
+        "correct": false
+      },
+      {
+        "text": "～次第である",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "Students need to keep A from doing the latest developments in the field.",
+    "exampleJa": "学生は、現場の最新の動向を妨げないようにする必要がある。"
+  },
+  {
+    "id": "i-bulk-0082",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "know better than to do",
+    "meaning": "～するほど愚かではない",
+    "question": "know better than to do",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～するほど愚かではない",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～するほど愚かではない",
+        "correct": true
+      },
+      {
+        "text": "意味をなす・筋が通る",
+        "correct": false
+      },
+      {
+        "text": "～に反対する",
+        "correct": false
+      },
+      {
+        "text": "～という理由で",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "He knows better than to ignore the safety instructions.",
+    "exampleJa": "彼は安全上の指示を無視するほど愚かではない。"
+  },
+  {
+    "id": "i-bulk-0096",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "miss out on",
+    "meaning": "～を逃す",
+    "question": "miss out on",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～を逃す",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～を逃す",
+        "correct": true
+      },
+      {
+        "text": "～に責任がある",
+        "correct": false
+      },
+      {
+        "text": "～を受けやすい・～に従う",
+        "correct": false
+      },
+      {
+        "text": "発効する",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "Students who skip the orientation may miss out on useful information.",
+    "exampleJa": "オリエンテーションを欠席した学生は、有益な情報を逃すかもしれない。"
+  },
+  {
+    "id": "i-bulk-0098",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "object to doing",
+    "meaning": "～することに反対する",
+    "question": "object to doing",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～することに反対する",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～することに反対する",
+        "correct": true
+      },
+      {
+        "text": "～に帰せられる",
+        "correct": false
+      },
+      {
+        "text": "きっと～する・～する義務がある",
+        "correct": false
+      },
+      {
+        "text": "～と両立する・互換性がある",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "Some residents objected to building a factory near the river.",
+    "exampleJa": "住民の中には、川の近くに工場を建てることに反対する人もいた。"
+  },
+  {
+    "id": "i-bulk-0099",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "occur to",
+    "meaning": "～の心に浮かぶ",
+    "question": "occur to",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～の心に浮かぶ",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～の心に浮かぶ",
+        "correct": true
+      },
+      {
+        "text": "～するとすぐに",
+        "correct": false
+      },
+      {
+        "text": "～だけでなく・～と同様に",
+        "correct": false
+      },
+      {
+        "text": "たとえ～でも",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "It suddenly occurred to me that I had forgotten my passport.",
+    "exampleJa": "私は突然、パスポートを忘れたことに気づいた。"
+  },
+  {
+    "id": "i-bulk-0107",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "owe A to B",
+    "meaning": "AはBのおかげである",
+    "question": "owe A to B",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "AはBのおかげである",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "AはBのおかげである",
+        "correct": true
+      },
+      {
+        "text": "きっと～する・～する義務がある",
+        "correct": false
+      },
+      {
+        "text": "～と両立する・互換性がある",
+        "correct": false
+      },
+      {
+        "text": "～を促進する",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "The example shows how speakers can use owe A to B in an academic discussion.",
+    "exampleJa": "この例は、話し手が学術的な議論で「AはBのおかげである」という表現をどのように使えるかを示している。"
+  },
+  {
+    "id": "i-bulk-0124",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "set out to do",
+    "meaning": "～しようとし始める",
+    "question": "set out to do",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～しようとし始める",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～しようとし始める",
+        "correct": true
+      },
+      {
+        "text": "配る・尽きる",
+        "correct": false
+      },
+      {
+        "text": "～を保持する",
+        "correct": false
+      },
+      {
+        "text": "～に加えて",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "The researchers set out to determine why the results differed.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "i-bulk-0152",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "by way of",
+    "meaning": "～を経由して・～の方法で",
+    "question": "by way of",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～を経由して・～の方法で",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～を経由して・～の方法で",
+        "correct": true
+      },
+      {
+        "text": "～するとすぐに",
+        "correct": false
+      },
+      {
+        "text": "～だけでなく・～と同様に",
+        "correct": false
+      },
+      {
+        "text": "たとえ～でも",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "The samples were collected by way of during the field study.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "i-bulk-0159",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "regardless of",
+    "meaning": "～に関係なく",
+    "question": "regardless of",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～に関係なく",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～に関係なく",
+        "correct": true
+      },
+      {
+        "text": "～に到着する",
+        "correct": false
+      },
+      {
+        "text": "～を恐れている",
+        "correct": false
+      },
+      {
+        "text": "～と異なる",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "The rule applies to everyone regardless of age.",
+    "exampleJa": "その規則は年齢に関係なくすべての人に適用される。"
+  },
+  {
+    "id": "i-bulk-0168",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "if anything",
+    "meaning": "どちらかといえば",
+    "question": "if anything",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "どちらかといえば",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "どちらかといえば",
+        "correct": true
+      },
+      {
+        "text": "～に影響を与える",
+        "correct": false
+      },
+      {
+        "text": "～とは何の関係もない",
+        "correct": false
+      },
+      {
+        "text": "待つ・持ちこたえる",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "The second method is, if anything, more reliable than the first.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "i-bulk-0169",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "if only",
+    "meaning": "～でさえあれば",
+    "question": "if only",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～でさえあれば",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～でさえあれば",
+        "correct": true
+      },
+      {
+        "text": "～によって",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする・要求する",
+        "correct": false
+      },
+      {
+        "text": "～を実行する",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "If only we had checked the schedule earlier, we would not have missed the train.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "i-bulk-0173",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "only to do",
+    "meaning": "結局～することになって",
+    "question": "only to do",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "結局～することになって",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "結局～することになって",
+        "correct": true
+      },
+      {
+        "text": "AだけでなくBも",
+        "correct": false
+      },
+      {
+        "text": "～という条件で",
+        "correct": false
+      },
+      {
+        "text": "～する限り",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "She opened the door, only to discover that nobody was there.",
+    "exampleJa": "彼女は、結局～することになってような行動を取った。"
+  },
+  {
+    "id": "i-bulk-0174",
+    "type": "idiom",
+    "level": "entrance",
+    "word": "provided that",
+    "meaning": "～という条件で",
+    "question": "provided that",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "～という条件で",
+    "explanation": "",
+    "tags": [
+      "bulk-expansion-2026"
+    ],
+    "choices": [
+      {
+        "text": "～という条件で",
+        "correct": true
+      },
+      {
+        "text": "起こる・行われる",
+        "correct": false
+      },
+      {
+        "text": "～を始める・占める",
+        "correct": false
+      },
+      {
+        "text": "～のおかげで",
+        "correct": false
+      }
+    ],
+    "exampleSentence": "You can use the laboratory provided that you follow the safety rules.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "v-curated-hard-0001-contemptuous",
+    "type": "vocab",
+    "level": "hard",
+    "word": "contemptuous",
+    "meaning": "軽蔑的な",
+    "pos": "adj",
+    "exampleSentence": "In the local community, the material remained contemptuous after the treatment.",
+    "exampleJa": "地域社会では、その材料は処理後も軽蔑的な状態だった。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  },
+  {
+    "id": "v-curated-hard-0002-dilapidated",
+    "type": "vocab",
+    "level": "hard",
+    "word": "dilapidated",
+    "meaning": "荒廃した",
+    "pos": "adj",
+    "exampleSentence": "Before publication, the team chose a dilapidated approach to the problem.",
+    "exampleJa": "公表前に、チームはその問題に対して荒廃したという方法を選んだ。",
+    "tags": [
+      "入試対策",
+      "英検対策",
+      "curated-v20-3"
+    ],
+    "source": "curated-entrance-eiken-v20-3"
+  }
+]

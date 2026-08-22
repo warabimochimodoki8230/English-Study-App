@@ -1,0 +1,12 @@
+{
+  "version": "v24-Mob-re02",
+  "vocab": 6034,
+  "idioms": 839,
+  "vocab_missing_translation": 0,
+  "idiom_missing_translation": 0,
+  "vocab_bad_translation_patterns": 0,
+  "idiom_bad_translation_patterns": 0,
+  "cross_word_exact_duplicate_examples": 0,
+  "shared_vocab_sentence_skeletons": 507,
+  "shared_skeleton_words": 5025
+}

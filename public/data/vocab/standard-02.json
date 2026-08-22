@@ -1,0 +1,6816 @@
+[
+  {
+    "id": "ngsl-2526",
+    "type": "vocab",
+    "word": "clause",
+    "meaning": "主節",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2526,
+    "definition": "a part of a sentence that has its own subject",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "standard",
+      "developed"
+    ],
+    "exampleSentence": "Over the past decade, the clause became an important part of the discussion.",
+    "exampleJa": "過去10年間で、主節は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-curated-4076",
+    "type": "vocab",
+    "level": "standard",
+    "word": "client",
+    "meaning": "依頼人・顧客",
+    "pos": "n",
+    "question": "client",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "依頼人・顧客",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "During the trial period, the client explained the situation to the committee.",
+    "exampleJa": "試験期間中、依頼人・顧客は委員会にその状況を説明した。"
+  },
+  {
+    "id": "v-standard-ngsl-1432-0205",
+    "type": "vocab",
+    "level": "standard",
+    "word": "climb",
+    "meaning": "登る",
+    "pos": "v",
+    "question": "climb",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "登る",
+    "explanation": "",
+    "definitionEn": "to move or go up (something) using your feet and often your hands",
+    "frequencyRank": 1432,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "Before the final decision, the team decided to climb the issue before the final meeting.",
+    "exampleJa": "最終決定の前に、チームは最終会議の前に、その問題を登ることにした。"
+  },
+  {
+    "id": "ngsl-2365",
+    "type": "vocab",
+    "word": "clinical",
+    "meaning": "臨床の",
+    "pos": "adj",
+    "level": "standard",
+    "rank": 2365,
+    "definition": "relating to medical treatment and tests",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "In everyday situations, the team chose a clinical approach to the problem.",
+    "exampleJa": "日常の場面では、チームはその問題に対して臨床的な方法を選んだ。"
+  },
+  {
+    "id": "ngsl-2532",
+    "type": "vocab",
+    "word": "clothing",
+    "meaning": "衣類",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2532,
+    "definition": "clothes, especially of a particular type",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "In the local community, the report describes the clothing in detail.",
+    "exampleJa": "地域社会では、その報告書は衣類について詳しく説明している。"
+  },
+  {
+    "id": "v-standard-ngsl-2088-0640",
+    "type": "vocab",
+    "level": "standard",
+    "word": "cloud",
+    "meaning": "雲",
+    "pos": "n",
+    "question": "cloud",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "雲",
+    "explanation": "",
+    "definitionEn": "a white or gray mass in the sky that is made of many very small drops of water",
+    "frequencyRank": 2088,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "In the local community, the committee considered the cloud before making its decision.",
+    "exampleJa": "地域社会では、委員会は決定を下す前に雲を検討した。"
+  },
+  {
+    "id": "ngsl-2678",
+    "type": "vocab",
+    "word": "cluster",
+    "meaning": "群",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2678,
+    "definition": "a group of similar things that are close together",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "During the winter months, the cluster became an important part of the discussion.",
+    "exampleJa": "冬の間、群は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-standard-ngsl-1340-0149",
+    "type": "vocab",
+    "level": "standard",
+    "word": "coach",
+    "meaning": "コーチ",
+    "pos": "n",
+    "question": "coach",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "コーチ",
+    "explanation": "",
+    "definitionEn": "someone whose job is to teach people to improve at a sport, skill, or school subject",
+    "frequencyRank": 1340,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "At a university seminar, the report describes the coach in detail.",
+    "exampleJa": "大学のセミナーでは、その報告書はコーチについて詳しく説明している。"
+  },
+  {
+    "id": "ngsl-2428",
+    "type": "vocab",
+    "word": "coal",
+    "meaning": "石炭",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2428,
+    "definition": "a black or brownish-black hard substance within the earth that is used as a fuel",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "Before the final decision, the committee considered the coal before making its decision.",
+    "exampleJa": "最終決定の前に、委員会は決定を下す前に石炭を検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1726-0400",
+    "type": "vocab",
+    "level": "standard",
+    "word": "coast",
+    "meaning": "海岸",
+    "pos": "n",
+    "question": "coast",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "海岸",
+    "explanation": "",
+    "definitionEn": "the land along or near a sea or ocean",
+    "frequencyRank": 1726,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "In a recent study, the coast became an important part of the discussion.",
+    "exampleJa": "最近の研究では、海岸は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-standard-ngsl-1861-0490",
+    "type": "vocab",
+    "level": "standard",
+    "word": "coat",
+    "meaning": "コート",
+    "pos": "n",
+    "question": "coat",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "コート",
+    "explanation": "",
+    "definitionEn": "an outer piece of clothing that can be long or short and that is worn to keep warm or dry",
+    "frequencyRank": 1861,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "During the interview, the report describes the coat in detail.",
+    "exampleJa": "面接では、その報告書はコートについて詳しく説明している。"
+  },
+  {
+    "id": "v-standard-ngsl-1344-0151",
+    "type": "vocab",
+    "level": "standard",
+    "word": "code",
+    "meaning": "暗号",
+    "pos": "n",
+    "question": "code",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "暗号",
+    "explanation": "",
+    "definitionEn": "a set of letters or numbers that identifies information",
+    "frequencyRank": 1344,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "In the long term, the committee considered the code before making its decision.",
+    "exampleJa": "長期的には、委員会は決定を下す前に暗号を検討した。"
+  },
+  {
+    "id": "v-curated-2835",
+    "type": "vocab",
+    "level": "standard",
+    "word": "code",
+    "meaning": "規範・暗号化する",
+    "pos": "v",
+    "question": "code",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "規範・暗号化する",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "In the long term, the company plans to code the new system next year.",
+    "exampleJa": "長期的には、その会社は来年、新しいシステムを規範・暗号化する予定だ。"
+  },
+  {
+    "id": "v-standard-ngsl-1393-0180",
+    "type": "vocab",
+    "level": "standard",
+    "word": "coffee",
+    "meaning": "コーヒー",
+    "pos": "n",
+    "question": "coffee",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "コーヒー",
+    "explanation": "",
+    "definitionEn": "a dark brown drink made from ground coffee beans and boiled water",
+    "frequencyRank": 1393,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "During the discussion, the report describes the coffee in detail.",
+    "exampleJa": "議論の中で、その報告書はコーヒーについて詳しく説明している。"
+  },
+  {
+    "id": "v-mega-standard-0025",
+    "type": "vocab",
+    "level": "standard",
+    "word": "coherent",
+    "meaning": "首尾一貫した",
+    "pos": "adj",
+    "explanation": "coherent：首尾一貫した",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "hard"
+    ],
+    "exampleSentence": "Over the past decade, the report describes the coherent characteristics of the system.",
+    "exampleJa": "過去10年間で、その報告書はシステムの首尾一貫したという特徴を詳しく説明している。"
+  },
+  {
+    "id": "ngsl-2606",
+    "type": "vocab",
+    "word": "coin",
+    "meaning": "硬貨",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2606,
+    "definition": "a small, flat, and usually round piece of metal issued by a government as money",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "During the academic year, the coin became an important part of the discussion.",
+    "exampleJa": "学年度中、硬貨は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-mega-standard-0026",
+    "type": "vocab",
+    "level": "standard",
+    "word": "coincide",
+    "meaning": "一致する",
+    "pos": "v",
+    "explanation": "coincide：一致する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "During the trial period, the committee agreed to coincide the issue after further discussion.",
+    "exampleJa": "試験期間中、委員会はさらに議論した後、その問題を一致することに同意した。"
+  },
+  {
+    "id": "v-developed-04-coincidence",
+    "type": "vocab",
+    "level": "standard",
+    "word": "coincidence",
+    "meaning": "偶然の一致",
+    "pos": "n",
+    "question": "coincidence",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "偶然の一致",
+    "explanation": "",
+    "exampleSentence": "During the interview, the committee considered the coincidence before making its decision.",
+    "exampleJa": "面接では、委員会は決定を下す前に偶然の一致を検討した。",
+    "family": "coincidence;coincidences",
+    "synonyms": [],
+    "tags": [
+      "developed",
+      "n"
+    ],
+    "note": "入試・読解で見かけやすい重要語。",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-mega-hard-0070",
+    "type": "vocab",
+    "level": "standard",
+    "word": "collaborate",
+    "meaning": "協力する",
+    "pos": "v",
+    "exampleSentence": "During the annual survey, the company plans to collaborate the new system next year.",
+    "exampleJa": "年次調査では、その会社は来年、新しいシステムを協力する予定だ。",
+    "explanation": "collaborate：協力する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-mega-developed-0072",
+    "type": "vocab",
+    "level": "standard",
+    "word": "collaboration",
+    "meaning": "協働",
+    "pos": "n",
+    "exampleSentence": "Over the past decade, the report describes the collaboration in detail.",
+    "exampleJa": "過去10年間で、その報告書は協働について詳しく説明している。",
+    "explanation": "collaboration：協働",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-mega-standard-0027",
+    "type": "vocab",
+    "level": "standard",
+    "word": "collapse",
+    "meaning": "崩壊する",
+    "pos": "v",
+    "explanation": "collapse：崩壊する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "During the trial period, the problem did not collapse until the system was updated.",
+    "exampleJa": "試験期間中、その問題はシステムが更新されるまで崩壊するなかった。"
+  },
+  {
+    "id": "v-mega-standard-0147",
+    "type": "vocab",
+    "level": "standard",
+    "word": "colleague",
+    "meaning": "同僚",
+    "pos": "n",
+    "explanation": "colleague：同僚",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "During the investigation, the colleague became an important part of the discussion.",
+    "exampleJa": "調査中、同僚は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-curated-1475",
+    "type": "vocab",
+    "level": "standard",
+    "word": "collide",
+    "meaning": "衝突する",
+    "pos": "v",
+    "question": "collide",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "衝突する",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "In the local community, the researchers need to collide the problem before drawing a conclusion.",
+    "exampleJa": "地域社会では、研究者たちは結論を出す前に、その問題を衝突する必要がある。"
+  },
+  {
+    "id": "v-standard-ngsl-1719-0395",
+    "type": "vocab",
+    "level": "standard",
+    "word": "column",
+    "meaning": "欄",
+    "pos": "n",
+    "question": "column",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "欄",
+    "explanation": "",
+    "definitionEn": "one of the vertical blocks of print into which a page of a newspaper, magazine, dictionary or spreadsheet, is divided",
+    "frequencyRank": 1719,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "During the investigation, the committee considered the column before making its decision.",
+    "exampleJa": "調査中、委員会は決定を下す前に欄を検討した。"
+  },
+  {
+    "id": "v-standard-03-combine",
+    "type": "vocab",
+    "level": "standard",
+    "word": "combine",
+    "meaning": "組み合わせる",
+    "pos": "v",
+    "question": "combine",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "組み合わせる",
+    "explanation": "",
+    "exampleSentence": "In the local community, the committee agreed to combine the issue after further discussion.",
+    "exampleJa": "地域社会では、委員会はさらに議論した後、その問題を組み合わせることに同意した。",
+    "family": "combination",
+    "synonyms": [
+      "merge",
+      "mix"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。combine の派生語: combination."
+  },
+  {
+    "id": "ngsl-2702",
+    "type": "vocab",
+    "word": "comedy",
+    "meaning": "コメディ",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2702,
+    "definition": "entertainment such as a film, play, etc. which is funny",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "During a laboratory test, the report describes the comedy in detail.",
+    "exampleJa": "実験室での試験では、その報告書はコメディについて詳しく説明している。"
+  },
+  {
+    "id": "v-standard-ngsl-1943-0540",
+    "type": "vocab",
+    "level": "standard",
+    "word": "comfort",
+    "meaning": "心地よい",
+    "pos": "n",
+    "question": "comfort",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "心地よい",
+    "explanation": "",
+    "definitionEn": "a state or situation in which you are relaxed and do not have any physically unpleasant feelings caused by pain, heat, cold, etc.",
+    "frequencyRank": 1943,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "In the local community, the committee considered the comfort before making its decision.",
+    "exampleJa": "地域社会では、委員会は決定を下す前に心地よいを検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1712-0389",
+    "type": "vocab",
+    "level": "standard",
+    "word": "command",
+    "meaning": "命令する",
+    "pos": "v",
+    "question": "command",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "命令する",
+    "explanation": "",
+    "definitionEn": "to give (someone) an order",
+    "frequencyRank": 1712,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "During the academic year, the company plans to command the new system next year.",
+    "exampleJa": "学年度中、その会社は来年、新しいシステムを命令する予定だ。"
+  },
+  {
+    "id": "v-mega-standard-0287",
+    "type": "vocab",
+    "level": "standard",
+    "word": "comment",
+    "meaning": "コメント・論評する",
+    "pos": "n",
+    "explanation": "comment：コメント・論評する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "In the long term, the report describes the comment in detail.",
+    "exampleJa": "長期的には、その報告書はコメント・論評について詳しく説明している。"
+  },
+  {
+    "id": "v-standard-ngsl-1258-0099",
+    "type": "vocab",
+    "level": "standard",
+    "word": "commercial",
+    "meaning": "商業の",
+    "pos": "adj",
+    "question": "commercial",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "商業の",
+    "explanation": "",
+    "definitionEn": "related to or used in the buying and selling of goods and services",
+    "frequencyRank": 1258,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "After the policy change, the team chose a commercial approach to the problem.",
+    "exampleJa": "政策変更後、チームはその問題に対して商業的な方法を選んだ。"
+  },
+  {
+    "id": "v-curated-1476",
+    "type": "vocab",
+    "level": "standard",
+    "word": "committed",
+    "meaning": "熱心に取り組んでいる",
+    "pos": "adj",
+    "question": "committed",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "熱心に取り組んでいる",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "Before publication, the researcher remained committed despite the criticism.",
+    "exampleJa": "公表前に、その研究者は批判を受けても熱心に取り組んでいるであり続けた。"
+  },
+  {
+    "id": "v-curated-0293",
+    "type": "vocab",
+    "level": "standard",
+    "word": "commute",
+    "meaning": "通勤する",
+    "pos": "v",
+    "question": "commute",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "通勤する",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "In the long term, the researchers need to commute the problem before drawing a conclusion.",
+    "exampleJa": "長期的には、研究者たちは結論を出す前に、その問題を通勤する必要がある。"
+  },
+  {
+    "id": "v-curated-0475",
+    "type": "vocab",
+    "level": "standard",
+    "word": "compact",
+    "meaning": "小型の",
+    "pos": "adj",
+    "question": "compact",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "小型の",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "Before publication, the result was considered compact by the researchers.",
+    "exampleJa": "公表前に、研究者たちは、その結果を小型的なと判断した。"
+  },
+  {
+    "id": "v-mega-hard-0053",
+    "type": "vocab",
+    "level": "standard",
+    "word": "comparison",
+    "meaning": "比較",
+    "pos": "n",
+    "question": "comparison",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "比較",
+    "explanation": "comparison：比較",
+    "definitionEn": "the act of looking at things to see how they are similar or different",
+    "frequencyRank": 1579,
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage",
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "During the academic year, the comparison became an important part of the discussion.",
+    "exampleJa": "学年度中、比較は議論の重要な一部となった。",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1681-0367",
+    "type": "vocab",
+    "level": "standard",
+    "word": "compete",
+    "meaning": "競争する",
+    "pos": "v",
+    "question": "compete",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "競争する",
+    "explanation": "",
+    "definitionEn": "to try to get or win something (such as a prize or reward) that someone else is also trying to win",
+    "frequencyRank": 1681,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "In the short term, the researchers need to compete the problem before drawing a conclusion.",
+    "exampleJa": "短期的には、研究者たちは結論を出す前に、その問題を競争する必要がある。"
+  },
+  {
+    "id": "v-developed-04-competent",
+    "type": "vocab",
+    "level": "standard",
+    "word": "competent",
+    "meaning": "有能な",
+    "pos": "adj",
+    "explanation": "",
+    "family": "competent;competently",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "developed",
+      "adj",
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "question": "competent",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "有能な",
+    "exampleSentence": "In the short term, the researchers used a competent method for the experiment.",
+    "exampleJa": "短期的には、研究者たちは実験に有能な方法を使った。",
+    "note": "入試・読解で見かけやすい重要語。",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ]
+  },
+  {
+    "id": "ngsl-2211",
+    "type": "vocab",
+    "word": "competitor",
+    "meaning": "競争相手",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2211,
+    "definition": "someone who is trying to win or do better than all others especially in business or sports : someone who is competing",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "In the local community, the competitor became an important part of the discussion.",
+    "exampleJa": "地域社会では、競争相手は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-developed-04-compile",
+    "type": "vocab",
+    "level": "standard",
+    "word": "compile",
+    "meaning": "編集する・まとめる",
+    "pos": "v",
+    "explanation": "",
+    "family": "compile;compiles",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "developed",
+      "v",
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "question": "compile",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "編集する・まとめる",
+    "exampleSentence": "In many cases, the researchers need to compile the problem before drawing a conclusion.",
+    "exampleJa": "多くの場合、研究者たちは結論を出す前に、その問題を編集する・まとめるする必要がある。",
+    "note": "入試・読解で見かけやすい重要語。",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-mega-standard-0348",
+    "type": "vocab",
+    "level": "standard",
+    "word": "complain",
+    "meaning": "不平を言う",
+    "pos": "v",
+    "explanation": "complain：不平を言う",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "In a recent study, the researchers used a new method to complain the issue.",
+    "exampleJa": "最近の研究では、研究者たちは新しい方法を使ってその問題を不平を言うした。"
+  },
+  {
+    "id": "v-standard-ngsl-1687-0371",
+    "type": "vocab",
+    "level": "standard",
+    "word": "complaint",
+    "meaning": "不平",
+    "pos": "n",
+    "question": "complaint",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "不平",
+    "explanation": "",
+    "definitionEn": "a statement that you are unhappy or not satisfied with something",
+    "frequencyRank": 1687,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "In the long term, the complaint became an important part of the discussion.",
+    "exampleJa": "長期的には、不平は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-curated-3770",
+    "type": "vocab",
+    "level": "standard",
+    "word": "completion",
+    "meaning": "完成・修了",
+    "pos": "n",
+    "question": "completion",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "完成・修了",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "After the policy change, the report describes the completion in detail.",
+    "exampleJa": "政策変更後、その報告書は完成・修了について詳しく説明している。"
+  },
+  {
+    "id": "v-standard-105",
+    "type": "vocab",
+    "level": "standard",
+    "word": "complex",
+    "meaning": "複雑な",
+    "question": "complex",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "理論",
+        "correct": false
+      },
+      {
+        "text": "結果・生じる",
+        "correct": false
+      },
+      {
+        "text": "防ぐ",
+        "correct": false
+      },
+      {
+        "text": "複雑な",
+        "correct": true
+      }
+    ],
+    "answer": "複雑な",
+    "explanation": "complex = 複雑な。例：a complex problem",
+    "exampleSentence": "During the annual survey, the committee discussed complex before making the final decision.",
+    "exampleJa": "年次調査では、委員会は最終決定を下す前に複雑なについて議論した。",
+    "pos": "n"
+  },
+  {
+    "id": "v-curated-0633",
+    "type": "vocab",
+    "level": "standard",
+    "word": "complex",
+    "meaning": "複合体・複雑なもの",
+    "pos": "n",
+    "question": "complex",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "複合体・複雑なもの",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "During the annual survey, the complex became an important part of the discussion.",
+    "exampleJa": "年次調査では、複合体・複雑なものは議論の重要な一部となった。"
+  },
+  {
+    "id": "v-standard-ngsl-1849-0481",
+    "type": "vocab",
+    "level": "standard",
+    "word": "complicate",
+    "meaning": "複雑にする",
+    "pos": "v",
+    "question": "complicate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "複雑にする",
+    "explanation": "",
+    "definitionEn": "to make (something) more difficult or less simple",
+    "frequencyRank": 1849,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "During a laboratory test, the researchers need to complicate the problem before drawing a conclusion.",
+    "exampleJa": "実験室での試験では、研究者たちは結論を出す前に、その問題を複雑にする必要がある。"
+  },
+  {
+    "id": "v-curated-3290",
+    "type": "vocab",
+    "level": "standard",
+    "word": "compliment",
+    "meaning": "褒め言葉・褒める",
+    "pos": "n",
+    "question": "compliment",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "褒め言葉・褒める",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "During the annual survey, the committee considered the compliment before making its decision.",
+    "exampleJa": "年次調査では、委員会は決定を下す前に褒め言葉・褒めるを検討した。"
+  },
+  {
+    "id": "v-developed-03-component",
+    "type": "vocab",
+    "level": "standard",
+    "word": "component",
+    "meaning": "構成要素",
+    "pos": "n",
+    "explanation": "",
+    "family": "compose;composition",
+    "synonyms": [
+      "element",
+      "part"
+    ],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "developed",
+      "n",
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "question": "component",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "構成要素",
+    "exampleSentence": "After the meeting, the component became an important part of the discussion.",
+    "exampleJa": "会議の後、構成要素は議論の重要な一部となった。",
+    "note": "重要語。意味だけでなく文脈で覚える。component の派生語: compose;composition.",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "ngsl-2576",
+    "type": "vocab",
+    "word": "compose",
+    "meaning": "構成する",
+    "pos": "v",
+    "level": "standard",
+    "rank": 2576,
+    "definition": "to come together to form or make (something)",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "In everyday situations, the researchers need to compose the problem before drawing a conclusion.",
+    "exampleJa": "日常の場面では、研究者たちは結論を出す前に、その問題を構成する必要がある。"
+  },
+  {
+    "id": "ngsl-2605",
+    "type": "vocab",
+    "word": "composition",
+    "meaning": "構成",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2605,
+    "definition": "the way in which something is put together or arranged",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "During the interview, the committee considered the composition before making its decision.",
+    "exampleJa": "面接では、委員会は決定を下す前に構成を検討した。"
+  },
+  {
+    "id": "ngsl-2378",
+    "type": "vocab",
+    "word": "compound",
+    "meaning": "調合する",
+    "pos": "v",
+    "level": "standard",
+    "rank": 2378,
+    "definition": "combining two or more parts to form something new",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "In a recent study, the company plans to compound the new system next year.",
+    "exampleJa": "最近の研究では、その会社は来年、新しいシステムを調合する予定だ。"
+  },
+  {
+    "id": "v-curated-0513",
+    "type": "vocab",
+    "level": "standard",
+    "word": "compromise",
+    "meaning": "妥協",
+    "pos": "n",
+    "question": "compromise",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "妥協",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard",
+      "developed"
+    ],
+    "exampleSentence": "During the annual survey, the report describes the compromise in detail.",
+    "exampleJa": "年次調査では、その報告書は妥協について詳しく説明している。"
+  },
+  {
+    "id": "ngsl-2453",
+    "type": "vocab",
+    "word": "compromise",
+    "meaning": "妥協する",
+    "pos": "v",
+    "level": "standard",
+    "rank": 2453,
+    "definition": "when you agree to something which is not exactly what you want",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "standard",
+      "developed"
+    ],
+    "exampleSentence": "During the annual survey, the team worked together to compromise the issue.",
+    "exampleJa": "年次調査では、チームはその問題を妥協するために協力した。"
+  },
+  {
+    "id": "v-curated-3115",
+    "type": "vocab",
+    "level": "standard",
+    "word": "computation",
+    "meaning": "計算",
+    "pos": "n",
+    "question": "computation",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "計算",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "In the long term, the computation became an important part of the discussion.",
+    "exampleJa": "長期的には、計算は議論の重要な一部となった。"
+  },
+  {
+    "id": "ngsl-2765",
+    "type": "vocab",
+    "word": "compute",
+    "meaning": "計算する",
+    "pos": "v",
+    "level": "standard",
+    "rank": 2765,
+    "definition": "to find out by calculating or estimating",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "In a recent study, the researchers need to compute the problem before drawing a conclusion.",
+    "exampleJa": "最近の研究では、研究者たちは結論を出す前に、その問題を計算する必要がある。"
+  },
+  {
+    "id": "v-standard-04-concentrate",
+    "type": "vocab",
+    "level": "standard",
+    "word": "concentrate",
+    "meaning": "集中する",
+    "pos": "v",
+    "exampleSentence": "Under normal conditions, the team worked together to concentrate the issue.",
+    "exampleJa": "通常の条件では、チームはその問題を集中するために協力した。",
+    "explanation": "",
+    "family": "concentrate;concentrates",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage",
+      "standard",
+      "v"
+    ],
+    "source": "curated-core-2026",
+    "question": "concentrate",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "集中する",
+    "note": "入試・読解で見かけやすい重要語。",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-mega-developed-0073",
+    "type": "vocab",
+    "level": "standard",
+    "word": "concentration",
+    "meaning": "集中",
+    "pos": "n",
+    "question": "concentration",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "集中力",
+    "explanation": "concentration：集中",
+    "definitionEn": "the ability to think carefully about something you are doing and nothing else",
+    "frequencyRank": 1868,
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage",
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "Under normal conditions, the concentration became an important part of the discussion.",
+    "exampleJa": "通常の条件では、集中は議論の重要な一部となった。",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-mega-standard-0149",
+    "type": "vocab",
+    "level": "standard",
+    "word": "concept",
+    "meaning": "概念",
+    "pos": "n",
+    "explanation": "concept：概念",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "In everyday situations, the report describes the concept in detail.",
+    "exampleJa": "日常の場面では、その報告書は概念について詳しく説明している。"
+  },
+  {
+    "id": "bulk-vocab-00541",
+    "type": "vocab",
+    "word": "concern",
+    "meaning": "懸念・関心",
+    "pos": "n",
+    "level": "standard",
+    "tags": [
+      "bulk-expansion-v9"
+    ],
+    "source": "original-curated-v9",
+    "explanation": "concern は「懸念・関心」の意味。",
+    "exampleSentence": "During the annual survey, the committee considered the concern before making its decision.",
+    "exampleJa": "年次調査では、委員会は決定を下す前に懸念・関心を検討した。"
+  },
+  {
+    "id": "v-standard-010",
+    "type": "vocab",
+    "level": "standard",
+    "word": "concern",
+    "meaning": "懸念・関係する",
+    "question": "concern",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "懸念・関係する",
+        "correct": true
+      },
+      {
+        "text": "成功",
+        "correct": false
+      },
+      {
+        "text": "交換",
+        "correct": false
+      },
+      {
+        "text": "結果",
+        "correct": false
+      }
+    ],
+    "answer": "懸念・関係する",
+    "explanation": "concern = 懸念・関係する。例：a major concern",
+    "exampleSentence": "During the annual survey, the company plans to concern the new system next year.",
+    "exampleJa": "年次調査では、その会社は来年、新しいシステムを懸念・関係する予定だ。",
+    "pos": "n"
+  },
+  {
+    "id": "v-standard-ngsl-1380-0172",
+    "type": "vocab",
+    "level": "standard",
+    "word": "concert",
+    "meaning": "コンサート",
+    "pos": "n",
+    "question": "concert",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "コンサート",
+    "explanation": "",
+    "definitionEn": "a performance of music and singing",
+    "frequencyRank": 1380,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "Under normal conditions, the report describes the concert in detail.",
+    "exampleJa": "通常の条件では、その報告書はコンサートについて詳しく説明している。"
+  },
+  {
+    "id": "ngsl-2566",
+    "type": "vocab",
+    "word": "concrete",
+    "meaning": "コンクリート",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2566,
+    "definition": "a hard substance that is used in building and is made by mixing sand, water, small stones, and cement",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "During the interview, the committee considered the concrete before making its decision.",
+    "exampleJa": "面接では、委員会は決定を下す前にコンクリートを検討した。"
+  },
+  {
+    "id": "v-curated-0416",
+    "type": "vocab",
+    "level": "standard",
+    "word": "concrete",
+    "meaning": "具体的な",
+    "pos": "adj",
+    "question": "concrete",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "具体的な",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "During the interview, the result was considered concrete by the researchers.",
+    "exampleJa": "面接では、研究者たちは、その結果を具体的なと判断した。"
+  },
+  {
+    "id": "v-curated-0779",
+    "type": "vocab",
+    "level": "standard",
+    "word": "conditional",
+    "meaning": "条件付きの",
+    "pos": "adj",
+    "question": "conditional",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "条件付きの",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "In the long term, the team chose a conditional approach to the problem.",
+    "exampleJa": "長期的には、チームはその問題に対して条件付き的な方法を選んだ。"
+  },
+  {
+    "id": "v-mega-standard-0288",
+    "type": "vocab",
+    "level": "standard",
+    "word": "conduct",
+    "meaning": "行う・行動",
+    "pos": "v",
+    "explanation": "conduct：行う・行動",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "During the trial period, the team worked together to conduct the issue.",
+    "exampleJa": "試験期間中、チームはその問題を行う・行動するために協力した。"
+  },
+  {
+    "id": "v-mega-standard-0190",
+    "type": "vocab",
+    "level": "standard",
+    "word": "confer",
+    "meaning": "協議する・与える",
+    "pos": "v",
+    "explanation": "confer：協議する・与える",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "hard"
+    ],
+    "exampleSentence": "Over the past decade, the company plans to confer the new system next year.",
+    "exampleJa": "過去10年間で、その会社は来年、新しいシステムを協議する・与えるする予定だ。"
+  },
+  {
+    "id": "v-mega-standard-0349",
+    "type": "vocab",
+    "level": "standard",
+    "word": "confess",
+    "meaning": "告白する",
+    "pos": "v",
+    "explanation": "confess：告白する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "In everyday situations, the researchers need to confess the problem before drawing a conclusion.",
+    "exampleJa": "日常の場面では、研究者たちは結論を出す前に、その問題を告白する必要がある。"
+  },
+  {
+    "id": "v-mega-standard-0289",
+    "type": "vocab",
+    "level": "standard",
+    "word": "confirm",
+    "meaning": "確認する",
+    "pos": "v",
+    "explanation": "confirm：確認する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "The test was repeated to confirm the result.",
+    "exampleJa": "結果を確認するため、試験が繰り返し行われた。"
+  },
+  {
+    "id": "v-curated-2841",
+    "type": "vocab",
+    "level": "standard",
+    "word": "conflict",
+    "meaning": "対立・衝突",
+    "pos": "v",
+    "question": "conflict",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "対立・衝突",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "During the academic year, the researchers observed how the situation changed when they conflict.",
+    "exampleJa": "学年度中、研究者たちは、彼らが対立・衝突したときに状況がどう変化したかを観察した。"
+  },
+  {
+    "id": "v-mega-standard-0191",
+    "type": "vocab",
+    "level": "standard",
+    "word": "conform",
+    "meaning": "従う・適合する",
+    "pos": "v",
+    "explanation": "conform：従う・適合する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "Before publication, the researchers need to conform the problem before drawing a conclusion.",
+    "exampleJa": "公表前に、研究者たちは結論を出す前に、その問題を従う・適合する必要がある。"
+  },
+  {
+    "id": "v-mega-standard-0192",
+    "type": "vocab",
+    "level": "standard",
+    "word": "confront",
+    "meaning": "直面する",
+    "pos": "v",
+    "explanation": "confront：直面する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "During the annual survey, the team worked together to confront the issue.",
+    "exampleJa": "年次調査では、チームはその問題を直面するために協力した。"
+  },
+  {
+    "id": "v-standard-ngsl-1917-0523",
+    "type": "vocab",
+    "level": "standard",
+    "word": "confuse",
+    "meaning": "混乱させる",
+    "pos": "v",
+    "question": "confuse",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "混乱させる",
+    "explanation": "",
+    "definitionEn": "to make (someone) uncertain or unable to understand something",
+    "frequencyRank": 1917,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "During the winter months, the company plans to confuse the new system next year.",
+    "exampleJa": "冬の間、その会社は来年、新しいシステムを混乱させるする予定だ。"
+  },
+  {
+    "id": "ngsl-2679",
+    "type": "vocab",
+    "word": "confusion",
+    "meaning": "混乱",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2679,
+    "definition": "a situation in which people are uncertain about what to do or are unable to understand something clearly",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "During the interview, the report describes the confusion in detail.",
+    "exampleJa": "面接では、その報告書は混乱について詳しく説明している。"
+  },
+  {
+    "id": "v-curated-3117",
+    "type": "vocab",
+    "level": "standard",
+    "word": "congestion",
+    "meaning": "混雑",
+    "pos": "n",
+    "question": "congestion",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "混雑",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "At the research site, the committee considered the congestion before making its decision.",
+    "exampleJa": "研究現場では、委員会は決定を下す前に混雑を検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1262-0102",
+    "type": "vocab",
+    "level": "standard",
+    "word": "connect",
+    "meaning": "つなぐ",
+    "pos": "v",
+    "question": "connect",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "つなぐ",
+    "explanation": "",
+    "definitionEn": "to join (two or more things) together",
+    "frequencyRank": 1262,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "In the short term, the researchers observed how the situation changed when they connect.",
+    "exampleJa": "短期的には、研究者たちは、彼らがつなぐしたときに状況がどう変化したかを観察した。"
+  },
+  {
+    "id": "v-curated-0041",
+    "type": "vocab",
+    "level": "standard",
+    "word": "consecutive",
+    "meaning": "連続した",
+    "pos": "adj",
+    "question": "consecutive",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "連続した",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "Before the final decision, the team chose a consecutive approach to the problem.",
+    "exampleJa": "最終決定の前に、チームはその問題に対して連続したという方法を選んだ。"
+  },
+  {
+    "id": "v-mega-standard-0193",
+    "type": "vocab",
+    "level": "standard",
+    "word": "consent",
+    "meaning": "同意する",
+    "pos": "v",
+    "explanation": "consent：同意する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "In the local community, the team worked together to consent the issue.",
+    "exampleJa": "地域社会では、チームはその問題を同意するために協力した。"
+  },
+  {
+    "id": "v-mega-hard-0037",
+    "type": "vocab",
+    "level": "standard",
+    "word": "consequently",
+    "meaning": "その結果",
+    "pos": "adv",
+    "exampleSentence": "During a laboratory test, the researchers consequently reviewed the evidence before publishing their findings.",
+    "exampleJa": "実験室での試験では、研究者たちはその結果して、研究結果を公表する前に証拠を再検討した。",
+    "explanation": "consequently：その結果",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-mega-developed-0136",
+    "type": "vocab",
+    "level": "standard",
+    "word": "conservation",
+    "meaning": "保存・保全",
+    "pos": "n",
+    "exampleSentence": "Before publication, the report describes the conservation in detail.",
+    "exampleJa": "公表前に、その報告書は保存・保全について詳しく説明している。",
+    "explanation": "conservation：保存・保全",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "developed",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1618-0326",
+    "type": "vocab",
+    "level": "standard",
+    "word": "conservative",
+    "meaning": "保守的な",
+    "pos": "adj",
+    "question": "conservative",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "保守的な",
+    "explanation": "",
+    "definitionEn": "not trusting sudden changes or new ideas",
+    "frequencyRank": 1618,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "During the investigation, the result was considered conservative by the researchers.",
+    "exampleJa": "調査中、研究者たちは、その結果を保守的なと判断した。"
+  },
+  {
+    "id": "v-mega-standard-0194",
+    "type": "vocab",
+    "level": "standard",
+    "word": "conserve",
+    "meaning": "保存する・節約する",
+    "pos": "v",
+    "explanation": "conserve：保存する・節約する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "In the local community, the company plans to conserve the new system next year.",
+    "exampleJa": "地域社会では、その会社は来年、新しいシステムを保存する・節約する予定だ。"
+  },
+  {
+    "id": "v-curated-3306",
+    "type": "vocab",
+    "level": "standard",
+    "word": "considerate",
+    "meaning": "思いやりのある",
+    "pos": "adj",
+    "question": "considerate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "思いやりのある",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "During the annual survey, the team chose a considerate approach to the problem.",
+    "exampleJa": "年次調査では、チームはその問題に対して思いやりのあるという方法を選んだ。"
+  },
+  {
+    "id": "v-standard-03-consist",
+    "type": "vocab",
+    "level": "standard",
+    "word": "consist",
+    "meaning": "構成される",
+    "pos": "v",
+    "question": "consist",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "構成される",
+    "explanation": "",
+    "exampleSentence": "Before the final decision, the team decided to consist the issue before the final meeting.",
+    "exampleJa": "最終決定の前に、チームは最終会議の前に、その問題を構成されることにした。",
+    "family": "consisting",
+    "synonyms": [
+      "comprise",
+      "be made up of"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。consist の派生語: consisting.",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-03-consistent",
+    "type": "vocab",
+    "level": "standard",
+    "word": "consistent",
+    "meaning": "一貫した",
+    "pos": "adj",
+    "exampleSentence": "During the annual survey, the researchers considered the consistent option before making a decision.",
+    "exampleJa": "年次調査では、研究者たちは決定を下す前に、一貫したな選択肢を検討した。",
+    "explanation": "",
+    "family": "consistency",
+    "synonyms": [
+      "steady",
+      "uniform"
+    ],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "standard",
+      "adj"
+    ],
+    "source": "curated-core-2026",
+    "question": "consistent",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "一貫した",
+    "note": "重要語。意味だけでなく文脈で覚える。consistent の派生語: consistency.",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-2152-0685",
+    "type": "vocab",
+    "level": "standard",
+    "word": "constantly",
+    "meaning": "常に",
+    "pos": "adv",
+    "question": "constantly",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "常に",
+    "explanation": "",
+    "definitionEn": "happening a lot or all the time",
+    "frequencyRank": 2152,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "Over the past decade, the researchers constantly reviewed the evidence before publishing their findings.",
+    "exampleJa": "過去10年間で、研究者たちは常にして、研究結果を公表する前に証拠を再検討した。"
+  },
+  {
+    "id": "v-mega-standard-0300",
+    "type": "vocab",
+    "level": "standard",
+    "word": "constrain",
+    "meaning": "制約する",
+    "pos": "v",
+    "explanation": "constrain：制約する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "After the meeting, the team worked together to constrain the issue.",
+    "exampleJa": "会議の後、チームはその問題を制約するために協力した。"
+  },
+  {
+    "id": "v-standard-03-construct",
+    "type": "vocab",
+    "level": "standard",
+    "word": "construct",
+    "meaning": "建設する・構築する",
+    "pos": "v",
+    "question": "construct",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "建設する・構築する",
+    "explanation": "",
+    "exampleSentence": "During the discussion, the company plans to construct the new system next year.",
+    "exampleJa": "議論の中で、その会社は来年、新しいシステムを建設する・構築する予定だ。",
+    "family": "construction",
+    "synonyms": [
+      "build",
+      "create"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。construct の派生語: construction.",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-04-consult",
+    "type": "vocab",
+    "level": "standard",
+    "word": "consult",
+    "meaning": "相談する・参照する",
+    "pos": "v",
+    "question": "consult",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "相談する・参照する",
+    "explanation": "",
+    "exampleSentence": "Over the past decade, the researchers need to consult the problem before drawing a conclusion.",
+    "exampleJa": "過去10年間で、研究者たちは結論を出す前に、その問題を相談する・参照する必要がある。",
+    "family": "consult;consults",
+    "synonyms": [],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "入試・読解で見かけやすい重要語。",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "ngsl-2357",
+    "type": "vocab",
+    "word": "consultant",
+    "meaning": "コンサルタント",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2357,
+    "definition": "someone who advises people about a particular subject",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "Over the past decade, the committee considered the consultant before making its decision.",
+    "exampleJa": "過去10年間で、委員会は決定を下す前にコンサルタントを検討した。"
+  },
+  {
+    "id": "v-mega-standard-0029",
+    "type": "vocab",
+    "level": "standard",
+    "word": "consume",
+    "meaning": "消費する・食べる",
+    "pos": "v",
+    "explanation": "consume：消費する・食べる",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "In the local community, the committee agreed to consume the issue after further discussion.",
+    "exampleJa": "地域社会では、委員会はさらに議論した後、その問題を消費することに同意した。"
+  },
+  {
+    "id": "v-mega-standard-0259",
+    "type": "vocab",
+    "level": "standard",
+    "word": "consumer",
+    "meaning": "消費者",
+    "pos": "n",
+    "explanation": "consumer：消費者",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "Under normal conditions, the consumer explained the situation to the committee.",
+    "exampleJa": "通常の条件では、消費者は委員会にその状況を説明した。"
+  },
+  {
+    "id": "v-standard-107",
+    "type": "vocab",
+    "level": "standard",
+    "word": "contain",
+    "meaning": "含む",
+    "question": "contain",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "予測する",
+        "correct": false
+      },
+      {
+        "text": "伝統的な",
+        "correct": false
+      },
+      {
+        "text": "含む",
+        "correct": true
+      },
+      {
+        "text": "取り組み・近づく",
+        "correct": false
+      }
+    ],
+    "answer": "含む",
+    "explanation": "contain = 含む。例：contain several elements",
+    "exampleSentence": "After the meeting, the report describes the contain characteristics of the system.",
+    "exampleJa": "会議の後、その報告書はシステムの含むという特徴を詳しく説明している。",
+    "pos": "n"
+  },
+  {
+    "id": "v-standard-013",
+    "type": "vocab",
+    "level": "standard",
+    "word": "contemporary",
+    "meaning": "現代の・同時代の",
+    "question": "contemporary",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "現代の・同時代の",
+        "correct": true
+      },
+      {
+        "text": "古代の",
+        "correct": false
+      },
+      {
+        "text": "個人的な",
+        "correct": false
+      },
+      {
+        "text": "一時的な",
+        "correct": false
+      }
+    ],
+    "answer": "現代の・同時代の",
+    "explanation": "contemporary = 現代の・同時代の。例：contemporary society",
+    "levelTags": [
+      "standard",
+      "developed"
+    ],
+    "exampleSentence": "During the academic year, the researchers used a contemporary method for the experiment.",
+    "exampleJa": "学年度中、研究者たちは実験に現代的な方法を使った。",
+    "pos": "adj"
+  },
+  {
+    "id": "v-mega-hard-0012",
+    "type": "vocab",
+    "level": "standard",
+    "word": "contemporary",
+    "meaning": "現代の・同時代の",
+    "pos": "adj",
+    "exampleSentence": "During the academic year, the researchers used a contemporary method for the experiment.",
+    "exampleJa": "学年度中、研究者たちは実験に現代的な方法を使った。",
+    "explanation": "contemporary：現代の・同時代の",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-mega-standard-0150",
+    "type": "vocab",
+    "level": "standard",
+    "word": "context",
+    "meaning": "文脈・状況",
+    "pos": "n",
+    "explanation": "context：文脈・状況",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "During the interview, the committee considered the context before making its decision.",
+    "exampleJa": "面接では、委員会は決定を下す前に文脈・状況を検討した。"
+  },
+  {
+    "id": "v-curated-1868",
+    "type": "vocab",
+    "level": "standard",
+    "word": "continually",
+    "meaning": "継続的に",
+    "pos": "adv",
+    "question": "continually",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "継続的に",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "In the local community, the researchers continually reviewed the evidence before publishing their findings.",
+    "exampleJa": "地域社会では、研究者たちは継続的にして、研究結果を公表する前に証拠を再検討した。"
+  },
+  {
+    "id": "ngsl-2649",
+    "type": "vocab",
+    "word": "continuous",
+    "meaning": "連続的な",
+    "pos": "adj",
+    "level": "standard",
+    "rank": 2649,
+    "definition": "happening or existing without stopping",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "During the interview, the team chose a continuous approach to the problem.",
+    "exampleJa": "面接では、チームはその問題に対して連続的な方法を選んだ。"
+  },
+  {
+    "id": "v-standard-03-contrast",
+    "type": "vocab",
+    "level": "standard",
+    "word": "contrast",
+    "meaning": "対比",
+    "pos": "n",
+    "question": "contrast",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "対比",
+    "explanation": "",
+    "exampleSentence": "During the annual survey, the committee considered the contrast before making its decision.",
+    "exampleJa": "年次調査では、委員会は決定を下す前に対比を検討した。",
+    "family": "contrasting",
+    "synonyms": [
+      "difference",
+      "comparison"
+    ],
+    "tags": [
+      "standard",
+      "n"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。contrast の派生語: contrasting."
+  },
+  {
+    "id": "v-standard-009",
+    "type": "vocab",
+    "level": "standard",
+    "word": "contribute",
+    "meaning": "貢献する・寄付する",
+    "question": "contribute",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "貢献する・寄付する",
+        "correct": true
+      },
+      {
+        "text": "避ける",
+        "correct": false
+      },
+      {
+        "text": "比較する",
+        "correct": false
+      },
+      {
+        "text": "減少する",
+        "correct": false
+      }
+    ],
+    "answer": "貢献する・寄付する",
+    "explanation": "contribute = 貢献する・寄付する。例：contribute to society",
+    "exampleSentence": "In a recent study, the company plans to contribute the new system next year.",
+    "exampleJa": "最近の研究では、その会社は来年、新しいシステムを貢献する・寄付する予定だ。",
+    "pos": "n"
+  },
+  {
+    "id": "v-curated-0308",
+    "type": "vocab",
+    "level": "standard",
+    "word": "contribute",
+    "meaning": "貢献する",
+    "pos": "v",
+    "question": "contribute",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "貢献する",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "In a recent study, the researchers need to contribute the problem before drawing a conclusion.",
+    "exampleJa": "最近の研究では、研究者たちは結論を出す前に、その問題を貢献する必要がある。"
+  },
+  {
+    "id": "v-curated-0642",
+    "type": "vocab",
+    "level": "standard",
+    "word": "contributor",
+    "meaning": "貢献者・寄稿者",
+    "pos": "n",
+    "question": "contributor",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "貢献者・寄稿者",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "In many cases, the committee considered the contributor before making its decision.",
+    "exampleJa": "多くの場合、委員会は決定を下す前に貢献者・寄稿者を検討した。"
+  },
+  {
+    "id": "v-advanced-03-controversy",
+    "type": "vocab",
+    "level": "standard",
+    "word": "controversy",
+    "meaning": "論争",
+    "pos": "n",
+    "question": "controversy",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "論争",
+    "explanation": "",
+    "exampleSentence": "After the policy change, the controversy became an important part of the discussion.",
+    "exampleJa": "政策変更後、論争は議論の重要な一部となった。",
+    "family": "controversial",
+    "synonyms": [
+      "dispute",
+      "debate"
+    ],
+    "tags": [
+      "advanced",
+      "n"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。controversy の派生語: controversial.",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-curated-0519",
+    "type": "vocab",
+    "level": "standard",
+    "word": "convenience",
+    "meaning": "便利さ",
+    "pos": "n",
+    "question": "convenience",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "便利さ",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "In the long term, the report describes the convenience in detail.",
+    "exampleJa": "長期的には、その報告書は便利さについて詳しく説明している。"
+  },
+  {
+    "id": "v-standard-ngsl-1955-0548",
+    "type": "vocab",
+    "level": "standard",
+    "word": "convention",
+    "meaning": "会議、大会",
+    "pos": "n",
+    "question": "convention",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "会議、大会",
+    "explanation": "",
+    "definitionEn": "a large formal meeting of people with the same interest or work",
+    "frequencyRank": 1955,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "At a university seminar, the committee considered the convention before making its decision.",
+    "exampleJa": "大学のセミナーでは、委員会は決定を下す前に会議、大会を検討した。"
+  },
+  {
+    "id": "v-mega-standard-0030",
+    "type": "vocab",
+    "level": "standard",
+    "word": "convert",
+    "meaning": "変換する",
+    "pos": "v",
+    "explanation": "convert：変換する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "Before the final decision, the company plans to convert the new system next year.",
+    "exampleJa": "最終決定の前に、その会社は来年、新しいシステムを変換する予定だ。"
+  },
+  {
+    "id": "v-curated-0050",
+    "type": "vocab",
+    "level": "standard",
+    "word": "convey",
+    "meaning": "伝える・運ぶ",
+    "pos": "v",
+    "question": "convey",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "伝える・運ぶ",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "After the policy change, the researchers need to convey the problem before drawing a conclusion.",
+    "exampleJa": "政策変更後、研究者たちは結論を出す前に、その問題を伝える・運ぶする必要がある。"
+  },
+  {
+    "id": "v-mega-standard-0031",
+    "type": "vocab",
+    "level": "standard",
+    "word": "convince",
+    "meaning": "納得させる",
+    "pos": "v",
+    "explanation": "convince：納得させる",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "In a recent study, the team worked together to convince the issue.",
+    "exampleJa": "最近の研究では、チームはその問題を納得させるするために協力した。"
+  },
+  {
+    "id": "v-developed-03-convincing",
+    "type": "vocab",
+    "level": "standard",
+    "word": "convincing",
+    "meaning": "説得力のある",
+    "pos": "adj",
+    "question": "convincing",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "説得力のある",
+    "explanation": "",
+    "exampleSentence": "In a recent study, the researchers considered the convincing option before making a decision.",
+    "exampleJa": "最近の研究では、研究者たちは決定を下す前に、説得力のあるな選択肢を検討した。",
+    "family": "convincingly",
+    "synonyms": [
+      "persuasive",
+      "credible"
+    ],
+    "tags": [
+      "developed",
+      "adj"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。convincing の派生語: convincingly.",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1194-0060",
+    "type": "vocab",
+    "level": "standard",
+    "word": "cook",
+    "meaning": "料理人",
+    "pos": "n",
+    "question": "cook",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "料理人",
+    "explanation": "",
+    "definitionEn": "someone who prepares and cooks food for eating at home, in a restaurant, etc.",
+    "frequencyRank": 1194,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "At a university seminar, the cook explained the situation to the committee.",
+    "exampleJa": "大学のセミナーでは、料理人は委員会にその状況を説明した。"
+  },
+  {
+    "id": "v-standard-ngsl-1154-0032",
+    "type": "vocab",
+    "level": "standard",
+    "word": "cool",
+    "meaning": "冷たい、涼しい",
+    "pos": "adj",
+    "question": "cool",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "冷たい、涼しい",
+    "explanation": "",
+    "definitionEn": "somewhat cold : not warm or hot",
+    "frequencyRank": 1154,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "After the meeting, the report describes the cool characteristics of the system.",
+    "exampleJa": "会議の後、その報告書はシステムの冷たい、涼しいという特徴を詳しく説明している。"
+  },
+  {
+    "id": "v-mega-standard-0111",
+    "type": "vocab",
+    "level": "standard",
+    "word": "cooperate",
+    "meaning": "協力する",
+    "pos": "v",
+    "explanation": "cooperate：協力する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "Over the past decade, the company plans to cooperate the new system next year.",
+    "exampleJa": "過去10年間で、その会社は来年、新しいシステムを協力する予定だ。"
+  },
+  {
+    "id": "v-mega-developed-0113",
+    "type": "vocab",
+    "level": "standard",
+    "word": "cooperative",
+    "meaning": "協力的な",
+    "pos": "adj",
+    "exampleSentence": "In many cases, the result was considered cooperative by the researchers.",
+    "exampleJa": "多くの場合、研究者たちは、その結果を協力的なと判断した。",
+    "explanation": "cooperative：協力的な",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1186-0054",
+    "type": "vocab",
+    "level": "standard",
+    "word": "corner",
+    "meaning": "角",
+    "pos": "n",
+    "question": "corner",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "角",
+    "explanation": "",
+    "definitionEn": "the point or area where two lines, edges, or sides of something meet",
+    "frequencyRank": 1186,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "At the research site, the committee considered the corner before making its decision.",
+    "exampleJa": "研究現場では、委員会は決定を下す前に角を検討した。"
+  },
+  {
+    "id": "v-mega-standard-0032",
+    "type": "vocab",
+    "level": "standard",
+    "word": "corporate",
+    "meaning": "企業の",
+    "pos": "adj",
+    "explanation": "corporate：企業の",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "In a classroom experiment, the researchers used a corporate method for the experiment.",
+    "exampleJa": "教室での実験では、研究者たちは実験に企業的な方法を使った。"
+  },
+  {
+    "id": "v-curated-2934",
+    "type": "vocab",
+    "level": "standard",
+    "word": "correction",
+    "meaning": "訂正",
+    "pos": "n",
+    "question": "correction",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "訂正",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "During the interview, the report describes the correction in detail.",
+    "exampleJa": "面接では、その報告書は訂正について詳しく説明している。"
+  },
+  {
+    "id": "ngsl-2770",
+    "type": "vocab",
+    "word": "cough",
+    "meaning": "咳をする",
+    "pos": "v",
+    "level": "standard",
+    "rank": 2770,
+    "definition": "to force air through your throat with a short, loud noise often because you are sick",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "In everyday situations, the team worked together to cough the issue.",
+    "exampleJa": "日常の場面では、チームはその問題を咳をするために協力した。"
+  },
+  {
+    "id": "v-standard-ngsl-1420-0197",
+    "type": "vocab",
+    "level": "standard",
+    "word": "council",
+    "meaning": "評議会",
+    "pos": "n",
+    "question": "council",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "評議会",
+    "explanation": "",
+    "definitionEn": "a group of people who are chosen to make rules, laws, or decisions about something",
+    "frequencyRank": 1420,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "During the annual survey, the council became an important part of the discussion.",
+    "exampleJa": "年次調査では、評議会は議論の重要な一部となった。"
+  },
+  {
+    "id": "ngsl-2405",
+    "type": "vocab",
+    "word": "counsel",
+    "meaning": "弁護士、助言",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2405,
+    "definition": "a lawyer; advice",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "In a classroom experiment, the counsel explained the situation to the committee.",
+    "exampleJa": "教室での実験では、弁護士、助言は委員会にその状況を説明した。"
+  },
+  {
+    "id": "ngsl-2410",
+    "type": "vocab",
+    "word": "counter",
+    "meaning": "対抗する",
+    "pos": "v",
+    "level": "standard",
+    "rank": 2410,
+    "definition": "to prevent something or reduce the bad effect that it has",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "In the local community, the team worked together to counter the issue.",
+    "exampleJa": "地域社会では、チームはその問題を対抗するために協力した。"
+  },
+  {
+    "id": "v-standard-ngsl-1734-0405",
+    "type": "vocab",
+    "level": "standard",
+    "word": "county",
+    "meaning": "州",
+    "pos": "n",
+    "question": "county",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "州",
+    "explanation": "",
+    "definitionEn": "an area of Britain, Ireland, or the US that has its own local government",
+    "frequencyRank": 1734,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "During the winter months, the county became an important part of the discussion.",
+    "exampleJa": "冬の間、州は議論の重要な一部となった。"
+  },
+  {
+    "id": "ngsl-2359",
+    "type": "vocab",
+    "word": "cousin",
+    "meaning": "いとこ",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2359,
+    "definition": "a child of your uncle or aunt",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "In the long term, the report describes the cousin in detail.",
+    "exampleJa": "長期的には、その報告書はいとこについて詳しく説明している。"
+  },
+  {
+    "id": "v-standard-ngsl-2072-0629",
+    "type": "vocab",
+    "level": "standard",
+    "word": "coverage",
+    "meaning": "報道",
+    "pos": "n",
+    "question": "coverage",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "報道",
+    "explanation": "",
+    "definitionEn": "the way a newspaper, television program, etc. reports an event or subject",
+    "frequencyRank": 2072,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "In the long term, the committee considered the coverage before making its decision.",
+    "exampleJa": "長期的には、委員会は決定を下す前に報道を検討した。"
+  },
+  {
+    "id": "ngsl-2548",
+    "type": "vocab",
+    "word": "cow",
+    "meaning": "牛",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2548,
+    "definition": "a large animal that is raised by people for milk or meat usually on a farm",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "At the research site, the cow became an important part of the discussion.",
+    "exampleJa": "研究現場では、牛は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-standard-ngsl-2066-0625",
+    "type": "vocab",
+    "level": "standard",
+    "word": "crack",
+    "meaning": "ひびが入る",
+    "pos": "v",
+    "question": "crack",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "ひびが入る",
+    "explanation": "",
+    "definitionEn": "to break (something) so that there are lines in its surface but it is usually not separated into pieces",
+    "frequencyRank": 2066,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "During the discussion, the process can crack under certain conditions.",
+    "exampleJa": "議論の中で、その過程は特定の条件下ではひびが入ることができる。"
+  },
+  {
+    "id": "ngsl-2564",
+    "type": "vocab",
+    "word": "craft",
+    "meaning": "工作",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2564,
+    "definition": "an activity in which you make something using a lot of skill, especially with your hands; a boat, airplane, or spaceship",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "During the winter months, the committee considered the craft before making its decision.",
+    "exampleJa": "冬の間、委員会は決定を下す前に工作を検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1865-0493",
+    "type": "vocab",
+    "level": "standard",
+    "word": "crash",
+    "meaning": "衝突する",
+    "pos": "v",
+    "question": "crash",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "衝突する",
+    "explanation": "",
+    "definitionEn": "to hit something hard enough to cause serious damage or destruction",
+    "frequencyRank": 1865,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "Over the past decade, the company plans to crash the new system next year.",
+    "exampleJa": "過去10年間で、その会社は来年、新しいシステムを衝突する予定だ。"
+  },
+  {
+    "id": "ngsl-2386",
+    "type": "vocab",
+    "word": "cream",
+    "meaning": "クリーム",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2386,
+    "definition": "a very thick liquid or soft substance that is rubbed into the skin to make it softer or is used as a medicine for the skin",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "During the annual survey, the report describes the cream in detail.",
+    "exampleJa": "年次調査では、その報告書はクリームについて詳しく説明している。"
+  },
+  {
+    "id": "v-db-003306",
+    "type": "vocab",
+    "level": "standard",
+    "word": "creativity",
+    "meaning": "創造性",
+    "pos": "n",
+    "question": "creativity",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "創造性",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "During the investigation, the committee considered the creativity before making its decision.",
+    "exampleJa": "調査中、委員会は決定を下す前に創造性を検討した。"
+  },
+  {
+    "id": "ngsl-2523",
+    "type": "vocab",
+    "word": "creature",
+    "meaning": "生き物",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2523,
+    "definition": "an animal of any type",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "During the winter months, the creature became an important part of the discussion.",
+    "exampleJa": "冬の間、生き物は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-advanced-03-credible",
+    "type": "vocab",
+    "level": "standard",
+    "word": "credible",
+    "meaning": "信頼できる",
+    "pos": "adj",
+    "explanation": "",
+    "family": "credibility",
+    "synonyms": [
+      "believable",
+      "reliable"
+    ],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "advanced",
+      "adj",
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "question": "credible",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "信頼できる",
+    "exampleSentence": "Under normal conditions, the team chose a credible approach to the problem.",
+    "exampleJa": "通常の条件では、チームはその問題に対して信頼できるという方法を選んだ。",
+    "note": "重要語。意味だけでなく文脈で覚える。credible の派生語: credibility.",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-2093-0643",
+    "type": "vocab",
+    "level": "standard",
+    "word": "crew",
+    "meaning": "乗員",
+    "pos": "n",
+    "question": "crew",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "乗員",
+    "explanation": "",
+    "definitionEn": "a team of people with special skills who work together",
+    "frequencyRank": 2093,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "In a recent study, the committee considered the crew before making its decision.",
+    "exampleJa": "最近の研究では、委員会は決定を下す前に乗員を検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1722-0397",
+    "type": "vocab",
+    "level": "standard",
+    "word": "criminal",
+    "meaning": "犯罪者、犯罪の",
+    "pos": "adj",
+    "question": "criminal",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "犯罪者、犯罪の",
+    "explanation": "",
+    "definitionEn": "involving illegal activity : relating to crime",
+    "frequencyRank": 1722,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "Over the past decade, the result was considered criminal by the researchers.",
+    "exampleJa": "過去10年間で、研究者たちは、その結果を犯罪者、犯罪的なと判断した。"
+  },
+  {
+    "id": "v-developed-03-criterion",
+    "type": "vocab",
+    "level": "standard",
+    "word": "criterion",
+    "meaning": "基準",
+    "pos": "n",
+    "explanation": "",
+    "family": "criteria",
+    "synonyms": [
+      "standard",
+      "measure"
+    ],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "developed",
+      "n",
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "question": "criterion",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "基準",
+    "exampleSentence": "In the local community, the report describes the criterion in detail.",
+    "exampleJa": "地域社会では、その報告書は基準について詳しく説明している。",
+    "note": "重要語。意味だけでなく文脈で覚える。criterion の派生語: criteria.",
+    "levelTags": [
+      "standard",
+      "hard"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1776-0433",
+    "type": "vocab",
+    "level": "standard",
+    "word": "critic",
+    "meaning": "批評家",
+    "pos": "n",
+    "question": "critic",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "批評家",
+    "explanation": "",
+    "definitionEn": "a person who gives opinions about something",
+    "frequencyRank": 1776,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "Over the past decade, the committee considered the critic before making its decision.",
+    "exampleJa": "過去10年間で、委員会は決定を下す前に批評家を検討した。"
+  },
+  {
+    "id": "v-standard-03-critical",
+    "type": "vocab",
+    "level": "standard",
+    "word": "critical",
+    "meaning": "批判的な・重大な",
+    "pos": "adj",
+    "exampleSentence": "During the academic year, the team chose a critical approach to the problem.",
+    "exampleJa": "学年度中、チームはその問題に対して批判的な方法を選んだ。",
+    "explanation": "",
+    "family": "critically;criticism",
+    "synonyms": [
+      "crucial",
+      "judgmental"
+    ],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "standard",
+      "adj"
+    ],
+    "source": "curated-core-2026",
+    "question": "critical",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "批判的な・重大な",
+    "note": "重要語。意味だけでなく文脈で覚える。critical の派生語: critically;criticism.",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1954-0547",
+    "type": "vocab",
+    "level": "standard",
+    "word": "criticism",
+    "meaning": "批評",
+    "pos": "n",
+    "question": "criticism",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "批評",
+    "explanation": "",
+    "definitionEn": "a negative comment; judgments and opinions on books, plays, films, etc.",
+    "frequencyRank": 1954,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "Before the final decision, the report describes the criticism in detail.",
+    "exampleJa": "最終決定の前に、その報告書は批評について詳しく説明している。"
+  },
+  {
+    "id": "v-mega-standard-0290",
+    "type": "vocab",
+    "level": "standard",
+    "word": "criticize",
+    "meaning": "批判する",
+    "pos": "v",
+    "explanation": "criticize：批判する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "During the annual survey, the team worked together to criticize the issue.",
+    "exampleJa": "年次調査では、チームはその問題を批判するために協力した。"
+  },
+  {
+    "id": "v-standard-ngsl-1984-0564",
+    "type": "vocab",
+    "level": "standard",
+    "word": "crop",
+    "meaning": "農作物",
+    "pos": "n",
+    "question": "crop",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "農作物",
+    "explanation": "",
+    "definitionEn": "a plant or plant product that is grown by farmers",
+    "frequencyRank": 1984,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "In the short term, the crop became an important part of the discussion.",
+    "exampleJa": "短期的には、農作物は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-standard-ngsl-1185-0053",
+    "type": "vocab",
+    "level": "standard",
+    "word": "crowd",
+    "meaning": "人混み",
+    "pos": "n",
+    "question": "crowd",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "人混み",
+    "explanation": "",
+    "definitionEn": "a large group of people who are together in one place",
+    "frequencyRank": 1185,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "In everyday situations, the crowd explained the situation to the committee.",
+    "exampleJa": "日常の場面では、人混みは委員会にその状況を説明した。"
+  },
+  {
+    "id": "v-mega-standard-0033",
+    "type": "vocab",
+    "level": "standard",
+    "word": "crucial",
+    "meaning": "極めて重要な",
+    "pos": "adj",
+    "explanation": "crucial：極めて重要な",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "At the research site, the plan appears crucial after the latest review.",
+    "exampleJa": "研究現場では、最新の検討後、その計画は極めて重要なように見える。"
+  },
+  {
+    "id": "v-standard-ngsl-1200-0065",
+    "type": "vocab",
+    "level": "standard",
+    "word": "cry",
+    "meaning": "泣く",
+    "pos": "v",
+    "question": "cry",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "泣く",
+    "explanation": "",
+    "definitionEn": "to produce tears from your eyes often while making loud sounds because of pain, sorrow, or other strong emotions",
+    "frequencyRank": 1200,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "During the discussion, the researchers observed how the situation changed when they cry.",
+    "exampleJa": "議論の中で、研究者たちは、彼らが泣くしたときに状況がどう変化したかを観察した。"
+  },
+  {
+    "id": "v-mega-standard-0195",
+    "type": "vocab",
+    "level": "standard",
+    "word": "cultivate",
+    "meaning": "耕作する・育む",
+    "pos": "v",
+    "explanation": "cultivate：耕作する・育む",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "In many cases, the researchers need to cultivate the problem before drawing a conclusion.",
+    "exampleJa": "多くの場合、研究者たちは結論を出す前に、その問題を耕作する・育むする必要がある。"
+  },
+  {
+    "id": "v-standard-ngsl-1263-0103",
+    "type": "vocab",
+    "level": "standard",
+    "word": "cultural",
+    "meaning": "文化の",
+    "pos": "adj",
+    "question": "cultural",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "文化の",
+    "explanation": "",
+    "definitionEn": "relating to the habits, traditions, art, beliefs, etc. of a society",
+    "frequencyRank": 1263,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "During the interview, the study focused on cultural factors affecting the community.",
+    "exampleJa": "面接では、その研究は地域社会に影響する文化的な要因に焦点を当てた。"
+  },
+  {
+    "id": "v-standard-109",
+    "type": "vocab",
+    "level": "standard",
+    "word": "culture",
+    "meaning": "文化",
+    "question": "culture",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "文化",
+        "correct": true
+      },
+      {
+        "text": "貢献する",
+        "correct": false
+      },
+      {
+        "text": "参加する",
+        "correct": false
+      },
+      {
+        "text": "伝統的な",
+        "correct": false
+      }
+    ],
+    "answer": "文化",
+    "explanation": "culture = 文化。例：cultural differences",
+    "exampleSentence": "In the short term, the report examines the culture effects of the policy.",
+    "exampleJa": "短期的には、その報告書は、文化について詳しく説明している。",
+    "pos": "n"
+  },
+  {
+    "id": "v-standard-ngsl-1489-0245",
+    "type": "vocab",
+    "level": "standard",
+    "word": "cup",
+    "meaning": "カップ",
+    "pos": "n",
+    "question": "cup",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "カップ",
+    "explanation": "",
+    "definitionEn": "a small round container that often has a handle and that is used for drinking liquids (such as tea and coffee)",
+    "frequencyRank": 1489,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "During the trial period, the report describes the cup in detail.",
+    "exampleJa": "試験期間中、その報告書はカップについて詳しく説明している。"
+  },
+  {
+    "id": "v-curated-3329",
+    "type": "vocab",
+    "level": "standard",
+    "word": "cure",
+    "meaning": "治す・治療法",
+    "pos": "v",
+    "question": "cure",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "治す・治療法",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "In a classroom experiment, the researchers used a new method to cure the issue.",
+    "exampleJa": "教室での実験では、研究者たちは新しい方法を使ってその問題を治すした。"
+  },
+  {
+    "id": "v-db-003325",
+    "type": "vocab",
+    "level": "standard",
+    "word": "curiosity",
+    "meaning": "好奇心",
+    "pos": "n",
+    "question": "curiosity",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "好奇心",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "In everyday situations, the curiosity became an important part of the discussion.",
+    "exampleJa": "日常の場面では、好奇心は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-mega-standard-0337",
+    "type": "vocab",
+    "level": "standard",
+    "word": "curious",
+    "meaning": "好奇心の強い",
+    "pos": "adj",
+    "explanation": "curious：好奇心の強い",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "In the short term, the team chose a curious approach to the problem.",
+    "exampleJa": "短期的には、チームはその問題に対して好奇心の強いという方法を選んだ。"
+  },
+  {
+    "id": "v-mega-standard-0327",
+    "type": "vocab",
+    "level": "standard",
+    "word": "current",
+    "meaning": "現在の・流れ",
+    "pos": "adj",
+    "explanation": "current：現在の・流れ",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "In the local community, the report describes the current characteristics of the system.",
+    "exampleJa": "地域社会では、その報告書はシステムの現在の・流れという特徴を詳しく説明している。"
+  },
+  {
+    "id": "ngsl-2774",
+    "type": "vocab",
+    "word": "curtain",
+    "meaning": "カーテン",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2774,
+    "definition": "a piece of cloth that hangs down from above a window and can be used to cover the window",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "Before the final decision, the curtain became an important part of the discussion.",
+    "exampleJa": "最終決定の前に、カーテンは議論の重要な一部となった。"
+  },
+  {
+    "id": "ngsl-2218",
+    "type": "vocab",
+    "word": "curve",
+    "meaning": "曲線",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2218,
+    "definition": "a smooth, rounded line, shape, path, etc.",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "In everyday situations, the report describes the curve in detail.",
+    "exampleJa": "日常の場面では、その報告書は曲線について詳しく説明している。"
+  },
+  {
+    "id": "v-standard-ngsl-1630-0332",
+    "type": "vocab",
+    "level": "standard",
+    "word": "dad",
+    "meaning": "パパ",
+    "pos": "n",
+    "question": "dad",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "パパ",
+    "explanation": "",
+    "definitionEn": "father",
+    "frequencyRank": 1630,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "In the local community, the committee considered the dad before making its decision.",
+    "exampleJa": "地域社会では、委員会は決定を下す前にパパを検討した。"
+  },
+  {
+    "id": "ngsl-2568",
+    "type": "vocab",
+    "word": "damn",
+    "meaning": "くそっ",
+    "pos": "interj",
+    "level": "standard",
+    "rank": 2568,
+    "definition": "used to express anger",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "In everyday situations, “damn!” she said when she heard the unexpected news.",
+    "exampleJa": "日常の場面では、予想外の知らせを聞いて、彼女は「damn！」と言った。"
+  },
+  {
+    "id": "ngsl-2399",
+    "type": "vocab",
+    "word": "dare",
+    "meaning": "勇気がある",
+    "pos": "v",
+    "level": "standard",
+    "rank": 2399,
+    "definition": "to have enough courage or confidence to do something",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "Before the final decision, the process can dare under certain conditions.",
+    "exampleJa": "最終決定の前に、その過程は特定の条件下では勇気があることができる。"
+  },
+  {
+    "id": "ngsl-2776",
+    "type": "vocab",
+    "word": "darkness",
+    "meaning": "暗闇",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2776,
+    "definition": "when there is little or no light",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "In a recent study, the committee considered the darkness before making its decision.",
+    "exampleJa": "最近の研究では、委員会は決定を下す前に暗闇を検討した。"
+  },
+  {
+    "id": "ngsl-2282",
+    "type": "vocab",
+    "word": "dealer",
+    "meaning": "販売業者",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2282,
+    "definition": "a person or company that buys and sells things for profit",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "During the trial period, the dealer became an important part of the discussion.",
+    "exampleJa": "試験期間中、販売業者は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-standard-ngsl-1399-0184",
+    "type": "vocab",
+    "level": "standard",
+    "word": "dear",
+    "meaning": "親愛なる",
+    "pos": "adj",
+    "question": "dear",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "親愛なる",
+    "explanation": "",
+    "definitionEn": "loved or valued very much",
+    "frequencyRank": 1399,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "At the research site, the team chose a dear approach to the problem.",
+    "exampleJa": "研究現場では、チームはその問題に対して親愛なるという方法を選んだ。"
+  },
+  {
+    "id": "v-developed-03-debate",
+    "type": "vocab",
+    "level": "standard",
+    "word": "debate",
+    "meaning": "討論",
+    "pos": "n",
+    "explanation": "",
+    "family": "debatable",
+    "synonyms": [
+      "discussion",
+      "argument"
+    ],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "developed",
+      "n",
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "question": "debate",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "討論",
+    "exampleSentence": "Under normal conditions, the committee considered the debate before making its decision.",
+    "exampleJa": "通常の条件では、委員会は決定を下す前に討論を検討した。",
+    "note": "重要語。意味だけでなく文脈で覚える。debate の派生語: debatable.",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-curated-0247",
+    "type": "vocab",
+    "level": "standard",
+    "word": "debate",
+    "meaning": "討論する",
+    "pos": "v",
+    "question": "debate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "討論する",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "Under normal conditions, the company plans to debate the new system next year.",
+    "exampleJa": "通常の条件では、その会社は来年、新しいシステムを討論する予定だ。"
+  },
+  {
+    "id": "v-curated-2077",
+    "type": "vocab",
+    "level": "standard",
+    "word": "deceive",
+    "meaning": "だます",
+    "pos": "v",
+    "question": "deceive",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "だます",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "At the research site, the process can deceive under certain conditions.",
+    "exampleJa": "研究現場では、その過程は特定の条件下ではだますことができる。"
+  },
+  {
+    "id": "v-mega-developed-0114",
+    "type": "vocab",
+    "level": "standard",
+    "word": "decisive",
+    "meaning": "決定的な",
+    "pos": "adj",
+    "exampleSentence": "After several months of observation, the result was considered decisive by the researchers.",
+    "exampleJa": "数か月の観察を経て、研究者たちは、その結果を決定的なと判断した。",
+    "explanation": "decisive：決定的な",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-curated-0650",
+    "type": "vocab",
+    "level": "standard",
+    "word": "declaration",
+    "meaning": "宣言",
+    "pos": "n",
+    "question": "declaration",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "宣言",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "During the winter months, the declaration became an important part of the discussion.",
+    "exampleJa": "冬の間、宣言は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-standard-ngsl-1632-0334",
+    "type": "vocab",
+    "level": "standard",
+    "word": "declare",
+    "meaning": "宣言する",
+    "pos": "v",
+    "question": "declare",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "宣言する",
+    "explanation": "",
+    "definitionEn": "to say or state (something) in an official or public way",
+    "frequencyRank": 1632,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "During the annual survey, the researchers need to declare the problem before drawing a conclusion.",
+    "exampleJa": "年次調査では、研究者たちは結論を出す前に、その問題を宣言する必要がある。"
+  },
+  {
+    "id": "v-mega-standard-0034",
+    "type": "vocab",
+    "level": "standard",
+    "word": "decline",
+    "meaning": "減少する・断る",
+    "pos": "v",
+    "explanation": "decline：減少する・断る",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "In the local community, the situation began to decline after the policy change.",
+    "exampleJa": "地域社会では、政策変更後、状況は減少する始めた。"
+  },
+  {
+    "id": "v-curated-2741",
+    "type": "vocab",
+    "level": "standard",
+    "word": "decline",
+    "meaning": "減少・衰退",
+    "pos": "n",
+    "question": "decline",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "減少・衰退",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "In the local community, the study measured the decline for each group.",
+    "exampleJa": "地域社会では、その研究では、各グループの減少・衰退を測定した。"
+  },
+  {
+    "id": "v-curated-3796",
+    "type": "vocab",
+    "level": "standard",
+    "word": "decoration",
+    "meaning": "装飾",
+    "pos": "n",
+    "question": "decoration",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "装飾",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "During the annual survey, the report describes the decoration in detail.",
+    "exampleJa": "年次調査では、その報告書は装飾について詳しく説明している。"
+  },
+  {
+    "id": "v-standard-ngsl-1418-0195",
+    "type": "vocab",
+    "level": "standard",
+    "word": "decrease",
+    "meaning": "減少",
+    "pos": "v",
+    "question": "decrease",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "減少",
+    "explanation": "",
+    "definitionEn": "to become smaller in size, amount, number, etc.",
+    "frequencyRank": 1418,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "After the policy change, the problem did not decrease until the system was updated.",
+    "exampleJa": "政策変更後、その問題はシステムが更新されるまで減少なかった。"
+  },
+  {
+    "id": "v-db-003346",
+    "type": "vocab",
+    "level": "standard",
+    "word": "dedication",
+    "meaning": "献身",
+    "pos": "n",
+    "question": "dedication",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "献身",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "During the interview, the dedication became an important part of the discussion.",
+    "exampleJa": "面接では、献身は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-mega-standard-0035",
+    "type": "vocab",
+    "level": "standard",
+    "word": "deduce",
+    "meaning": "推論する",
+    "pos": "v",
+    "explanation": "deduce：推論する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "After several months of observation, the researchers need to deduce the problem before drawing a conclusion.",
+    "exampleJa": "数か月の観察を経て、研究者たちは結論を出す前に、その問題を推論する必要がある。"
+  },
+  {
+    "id": "v-standard-ngsl-2010-0582",
+    "type": "vocab",
+    "level": "standard",
+    "word": "deeply",
+    "meaning": "深く",
+    "pos": "adv",
+    "question": "deeply",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "深く",
+    "explanation": "",
+    "definitionEn": "very much",
+    "frequencyRank": 2010,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "Over the past decade, the researchers deeply reviewed the evidence before publishing their findings.",
+    "exampleJa": "過去10年間で、研究者たちは深くして、研究結果を公表する前に証拠を再検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1872-0498",
+    "type": "vocab",
+    "level": "standard",
+    "word": "defend",
+    "meaning": "防御する",
+    "pos": "v",
+    "question": "defend",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "防御する",
+    "explanation": "",
+    "definitionEn": "to fight in order to keep (someone or something) safe",
+    "frequencyRank": 1872,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "Before publication, the company plans to defend the new system next year.",
+    "exampleJa": "公表前に、その会社は来年、新しいシステムを防御する予定だ。"
+  },
+  {
+    "id": "v-standard-ngsl-1192-0058",
+    "type": "vocab",
+    "level": "standard",
+    "word": "defense",
+    "meaning": "防御",
+    "pos": "n",
+    "question": "defense",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "防御",
+    "explanation": "",
+    "definitionEn": "the act of defending someone from attack",
+    "frequencyRank": 1192,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "After the meeting, the report describes the defense in detail.",
+    "exampleJa": "会議の後、その報告書は防御について詳しく説明している。"
+  },
+  {
+    "id": "ngsl-2481",
+    "type": "vocab",
+    "word": "deficit",
+    "meaning": "赤字",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2481,
+    "definition": "the amount by which the money that you spend is more than the money that you receive",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "standard",
+      "developed"
+    ],
+    "exampleSentence": "After the meeting, the committee considered the deficit before making its decision.",
+    "exampleJa": "会議の後、委員会は決定を下す前に赤字を検討した。"
+  },
+  {
+    "id": "v-mega-standard-0036",
+    "type": "vocab",
+    "level": "standard",
+    "word": "definite",
+    "meaning": "明確な・確定した",
+    "pos": "adj",
+    "explanation": "definite：明確な・確定した",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "After the policy change, the researchers considered the definite option before making a decision.",
+    "exampleJa": "政策変更後、研究者たちは決定を下す前に、明確な・確定したな選択肢を検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1555-0283",
+    "type": "vocab",
+    "level": "standard",
+    "word": "definitely",
+    "meaning": "間違いなく",
+    "pos": "adv",
+    "question": "definitely",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "間違いなく",
+    "explanation": "",
+    "definitionEn": "without any doubt",
+    "frequencyRank": 1555,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "During the academic year, the researchers definitely reviewed the evidence before publishing their findings.",
+    "exampleJa": "学年度中、研究者たちは間違いなくして、研究結果を公表する前に証拠を再検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1308-0129",
+    "type": "vocab",
+    "level": "standard",
+    "word": "delay",
+    "meaning": "遅れる",
+    "pos": "n",
+    "question": "delay",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "遅れる",
+    "explanation": "",
+    "definitionEn": "a situation in which something happens later than it should",
+    "frequencyRank": 1308,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "During the trial period, the committee considered the delay before making its decision.",
+    "exampleJa": "試験期間中、委員会は決定を下す前に遅れるを検討した。"
+  },
+  {
+    "id": "v-mega-hard-0040",
+    "type": "vocab",
+    "level": "standard",
+    "word": "deliberately",
+    "meaning": "意図的に・慎重に",
+    "pos": "adv",
+    "exampleSentence": "During the academic year, the researchers deliberately reviewed the evidence before publishing their findings.",
+    "exampleJa": "学年度中、研究者たちは意図的に・慎重にして、研究結果を公表する前に証拠を再検討した。",
+    "explanation": "deliberately：意図的に・慎重に",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-mega-standard-0172",
+    "type": "vocab",
+    "level": "standard",
+    "word": "delicate",
+    "meaning": "繊細な",
+    "pos": "adj",
+    "explanation": "delicate：繊細な",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "During the interview, the result was considered delicate by the researchers.",
+    "exampleJa": "面接では、研究者たちは、その結果を繊細なと判断した。"
+  },
+  {
+    "id": "v-standard-ngsl-1969-0555",
+    "type": "vocab",
+    "level": "standard",
+    "word": "delight",
+    "meaning": "歓喜",
+    "pos": "n",
+    "question": "delight",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "歓喜",
+    "explanation": "",
+    "definitionEn": "a strong feeling of happiness : great pleasure or satisfaction",
+    "frequencyRank": 1969,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "At the research site, the committee considered the delight before making its decision.",
+    "exampleJa": "研究現場では、委員会は決定を下す前に歓喜を検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1862-0491",
+    "type": "vocab",
+    "level": "standard",
+    "word": "democracy",
+    "meaning": "民主主義",
+    "pos": "n",
+    "question": "democracy",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "民主主義",
+    "explanation": "",
+    "definitionEn": "a system of government in which people elect their leaders, or a country with this system",
+    "frequencyRank": 1862,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "In many cases, the article explains why democracy matters in modern society.",
+    "exampleJa": "多くの場合、その記事は、現代社会で民主主義がなぜ重要なのかを説明している。"
+  },
+  {
+    "id": "ngsl-2544",
+    "type": "vocab",
+    "word": "democratic",
+    "meaning": "民主主義の、民主的な",
+    "pos": "adj",
+    "level": "standard",
+    "rank": 2544,
+    "definition": "following or supporting the political system of democracy; where everyone has equal rights and can help to make decisions",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "Before publication, the result was considered democratic by the researchers.",
+    "exampleJa": "公表前に、研究者たちは、その結果を民主主義の、民主的なと判断した。"
+  },
+  {
+    "id": "v-standard-ngsl-2167-0698",
+    "type": "vocab",
+    "level": "standard",
+    "word": "demonstration",
+    "meaning": "デモ、実演",
+    "pos": "n",
+    "question": "demonstration",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "デモ、実演",
+    "explanation": "",
+    "definitionEn": "a protest in which people march or stand together; showing how to do something, or how something works",
+    "frequencyRank": 2167,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "During the investigation, the committee considered the demonstration before making its decision.",
+    "exampleJa": "調査中、委員会は決定を下す前にデモ、実演を検討した。"
+  },
+  {
+    "id": "v-standard-03-denote",
+    "type": "vocab",
+    "level": "standard",
+    "word": "denote",
+    "meaning": "意味する・示す",
+    "pos": "v",
+    "question": "denote",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "意味する・示す",
+    "explanation": "",
+    "exampleSentence": "During the trial period, the company plans to denote the new system next year.",
+    "exampleJa": "試験期間中、その会社は来年、新しいシステムを意味する・示すする予定だ。",
+    "family": "denotation",
+    "synonyms": [
+      "mean",
+      "signify"
+    ],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。denote の派生語: denotation."
+  },
+  {
+    "id": "v-curated-0425",
+    "type": "vocab",
+    "level": "standard",
+    "word": "dense",
+    "meaning": "密集した・濃い",
+    "pos": "adj",
+    "question": "dense",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "密集した・濃い",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "After several months of observation, the team chose a dense approach to the problem.",
+    "exampleJa": "数か月の観察を経て、チームはその問題に対して密集した・濃いという方法を選んだ。"
+  },
+  {
+    "id": "v-mega-standard-0251",
+    "type": "vocab",
+    "level": "standard",
+    "word": "density",
+    "meaning": "密度",
+    "pos": "n",
+    "explanation": "density：密度",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "After the meeting, the committee considered the density before making its decision.",
+    "exampleJa": "会議の後、委員会は決定を下す前に密度を検討した。"
+  },
+  {
+    "id": "v-curated-0183",
+    "type": "vocab",
+    "level": "standard",
+    "word": "departure",
+    "meaning": "出発・離脱",
+    "pos": "n",
+    "question": "departure",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "出発・離脱",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "After the meeting, the departure became an important part of the discussion.",
+    "exampleJa": "会議の後、出発・離脱は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-curated-0867",
+    "type": "vocab",
+    "level": "standard",
+    "word": "dependence",
+    "meaning": "依存",
+    "pos": "n",
+    "question": "dependence",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "依存",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "In a classroom experiment, the report describes the dependence in detail.",
+    "exampleJa": "教室での実験では、その報告書は依存について詳しく説明している。"
+  },
+  {
+    "id": "v-mega-standard-0037",
+    "type": "vocab",
+    "level": "standard",
+    "word": "depict",
+    "meaning": "描写する",
+    "pos": "v",
+    "explanation": "depict：描写する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "In everyday situations, the team worked together to depict the issue.",
+    "exampleJa": "日常の場面では、チームはその問題を描写するために協力した。"
+  },
+  {
+    "id": "ngsl-2311",
+    "type": "vocab",
+    "word": "deposit",
+    "meaning": "預金",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2311,
+    "definition": "a payment that you make immediately when you decide to buy something, as proof that you will really buy it",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "Before the final decision, the deposit became an important part of the discussion.",
+    "exampleJa": "最終決定の前に、預金は議論の重要な一部となった。"
+  },
+  {
+    "id": "ngsl-2432",
+    "type": "vocab",
+    "word": "depress",
+    "meaning": "落ち込ませる",
+    "pos": "v",
+    "level": "standard",
+    "rank": 2432,
+    "definition": "to make feel sad or depressed",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "In the local community, the process can depress under certain conditions.",
+    "exampleJa": "地域社会では、その過程は特定の条件下では落ち込ませることができる。"
+  },
+  {
+    "id": "v-mega-standard-0173",
+    "type": "vocab",
+    "level": "standard",
+    "word": "depressed",
+    "meaning": "落ち込んだ・低迷した",
+    "pos": "adj",
+    "explanation": "depressed：落ち込んだ・低迷した",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "After the policy change, the report describes the depressed characteristics of the system.",
+    "exampleJa": "政策変更後、その報告書はシステムの落ち込んだ・低迷したという特徴を詳しく説明している。"
+  },
+  {
+    "id": "v-standard-ngsl-2126-0665",
+    "type": "vocab",
+    "level": "standard",
+    "word": "depression",
+    "meaning": "落ち込み、鬱病",
+    "pos": "n",
+    "question": "depression",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "落ち込み、鬱病",
+    "explanation": "",
+    "definitionEn": "when you feel very unhappy, or a mental illness that makes you feel very unhappy",
+    "frequencyRank": 2126,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "In many cases, the depression became an important part of the discussion.",
+    "exampleJa": "多くの場合、落ち込み、鬱病は議論の重要な一部となった。"
+  },
+  {
+    "id": "ngsl-2222",
+    "type": "vocab",
+    "word": "depth",
+    "meaning": "深さ",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2222,
+    "definition": "a distance below a surface",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "In many cases, the report describes the depth in detail.",
+    "exampleJa": "多くの場合、その報告書は深さについて詳しく説明している。"
+  },
+  {
+    "id": "v-mega-standard-0038",
+    "type": "vocab",
+    "level": "standard",
+    "word": "derive",
+    "meaning": "引き出す・由来する",
+    "pos": "v",
+    "explanation": "derive：引き出す・由来する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "Before publication, the team worked together to derive the issue.",
+    "exampleJa": "公表前に、チームはその問題を引き出す・由来するために協力した。"
+  },
+  {
+    "id": "ngsl-2285",
+    "type": "vocab",
+    "word": "desert",
+    "meaning": "砂漠",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2285,
+    "definition": "an area of very dry land that is usually covered with sand and is very hot",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "In everyday situations, the desert became an important part of the discussion.",
+    "exampleJa": "日常の場面では、砂漠は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-mega-standard-0113",
+    "type": "vocab",
+    "level": "standard",
+    "word": "desirable",
+    "meaning": "望ましい",
+    "pos": "adj",
+    "explanation": "desirable：望ましい",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "In the local community, the team chose a desirable approach to the problem.",
+    "exampleJa": "地域社会では、チームはその問題に対して望ましいという方法を選んだ。"
+  },
+  {
+    "id": "v-mega-standard-0350",
+    "type": "vocab",
+    "level": "standard",
+    "word": "desire",
+    "meaning": "強く望む・願望",
+    "pos": "v",
+    "explanation": "desire：強く望む・願望",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "After several months of observation, the researchers desire that more evidence is needed.",
+    "exampleJa": "数か月の観察を経て、研究者たちは、強く望む・願望ことを検討した。"
+  },
+  {
+    "id": "v-curated-0525",
+    "type": "vocab",
+    "level": "standard",
+    "word": "desire",
+    "meaning": "願望",
+    "pos": "n",
+    "question": "desire",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "願望",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "After several months of observation, the desire became an important part of the discussion.",
+    "exampleJa": "数か月の観察を経て、願望は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-standard-ngsl-1586-0303",
+    "type": "vocab",
+    "level": "standard",
+    "word": "desk",
+    "meaning": "机",
+    "pos": "n",
+    "question": "desk",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "机",
+    "explanation": "",
+    "definitionEn": "a piece of furniture that is like a table and often has drawers ◊People often sit at desks when they are writing or using a computer.",
+    "frequencyRank": 1586,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "During the academic year, the report describes the desk in detail.",
+    "exampleJa": "学年度中、その報告書は机について詳しく説明している。"
+  },
+  {
+    "id": "v-mega-standard-0174",
+    "type": "vocab",
+    "level": "standard",
+    "word": "desperate",
+    "meaning": "必死の・絶望的な",
+    "pos": "adj",
+    "explanation": "desperate：必死の・絶望的な",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "In everyday situations, the team chose a desperate approach to the problem.",
+    "exampleJa": "日常の場面では、チームはその問題に対して必死的な方法を選んだ。"
+  },
+  {
+    "id": "v-standard-03-despite",
+    "type": "vocab",
+    "level": "standard",
+    "word": "despite",
+    "meaning": "〜にもかかわらず",
+    "pos": "prep",
+    "question": "despite",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "〜にもかかわらず",
+    "explanation": "",
+    "exampleSentence": "During a laboratory test, the meaning of despite depends on the words that follow it.",
+    "exampleJa": "実験室での試験では、にもかかわらずの意味は、その後に続く語によって決まる。",
+    "family": "",
+    "synonyms": [
+      "although",
+      "in spite of"
+    ],
+    "tags": [
+      "standard",
+      "prep"
+    ],
+    "note": "重要語。意味だけでなく文脈で覚える。despite の派生語: .",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "ngsl-2585",
+    "type": "vocab",
+    "word": "destruction",
+    "meaning": "破壊",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2585,
+    "definition": "the act or process of damaging something so badly that it no longer exists or cannot be repaired",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "During the trial period, the report describes the destruction in detail.",
+    "exampleJa": "試験期間中、その報告書は破壊について詳しく説明している。"
+  },
+  {
+    "id": "v-mega-standard-0196",
+    "type": "vocab",
+    "level": "standard",
+    "word": "detect",
+    "meaning": "発見する・検出する",
+    "pos": "v",
+    "explanation": "detect：発見する・検出する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "In everyday situations, the team worked together to detect the issue.",
+    "exampleJa": "日常の場面では、チームはその問題を発見する・検出するために協力した。"
+  },
+  {
+    "id": "v-curated-1658",
+    "type": "vocab",
+    "level": "standard",
+    "word": "detective",
+    "meaning": "探偵・探偵の",
+    "pos": "n",
+    "question": "detective",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "探偵・探偵の",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "During the interview, the detective became an important part of the discussion.",
+    "exampleJa": "面接では、探偵・探偵のは議論の重要な一部となった。"
+  },
+  {
+    "id": "ngsl-2674",
+    "type": "vocab",
+    "word": "determination",
+    "meaning": "決意",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2674,
+    "definition": "when someone continues trying to do something, although it is very difficult",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "During the trial period, the report describes the determination in detail.",
+    "exampleJa": "試験期間中、その報告書は決意について詳しく説明している。"
+  },
+  {
+    "id": "v-mega-standard-0362",
+    "type": "vocab",
+    "level": "standard",
+    "word": "determine",
+    "meaning": "決定する・突き止める",
+    "pos": "v",
+    "explanation": "determine：決定する・突き止める",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "In the short term, the team worked together to determine the issue.",
+    "exampleJa": "短期的には、チームはその問題を決定する・突き止めるするために協力した。"
+  },
+  {
+    "id": "v-mega-standard-0319",
+    "type": "vocab",
+    "level": "standard",
+    "word": "device",
+    "meaning": "装置・機器",
+    "pos": "n",
+    "explanation": "device：装置・機器",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "At the research site, the device became an important part of the discussion.",
+    "exampleJa": "研究現場では、装置・機器は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-mega-standard-0197",
+    "type": "vocab",
+    "level": "standard",
+    "word": "devise",
+    "meaning": "考案する",
+    "pos": "v",
+    "explanation": "devise：考案する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "Over the past decade, the researchers need to devise the problem before drawing a conclusion.",
+    "exampleJa": "過去10年間で、研究者たちは結論を出す前に、その問題を考案する必要がある。"
+  },
+  {
+    "id": "v-mega-standard-0301",
+    "type": "vocab",
+    "level": "standard",
+    "word": "devote",
+    "meaning": "ささげる",
+    "pos": "v",
+    "explanation": "devote：ささげる",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "In the local community, the committee agreed to devote the issue after further discussion.",
+    "exampleJa": "地域社会では、委員会はさらに議論した後、その問題をささげることに同意した。"
+  },
+  {
+    "id": "v-curated-0429",
+    "type": "vocab",
+    "level": "standard",
+    "word": "devoted",
+    "meaning": "献身的な",
+    "pos": "adj",
+    "question": "devoted",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "献身的な",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "In the short term, the team chose a devoted approach to the problem.",
+    "exampleJa": "短期的には、チームはその問題に対して献身的な方法を選んだ。"
+  },
+  {
+    "id": "v-curated-4171",
+    "type": "vocab",
+    "level": "standard",
+    "word": "diagnosis",
+    "meaning": "診断",
+    "pos": "n",
+    "question": "diagnosis",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "診断",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "Under normal conditions, the report describes the diagnosis in detail.",
+    "exampleJa": "通常の条件では、その報告書は診断について詳しく説明している。"
+  },
+  {
+    "id": "ngsl-2385",
+    "type": "vocab",
+    "word": "dialog",
+    "meaning": "対話",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2385,
+    "definition": "a short conversation, especially written",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "Before publication, the committee considered the dialog before making its decision.",
+    "exampleJa": "公表前に、委員会は決定を下す前に対話を検討した。"
+  },
+  {
+    "id": "ngsl-2647",
+    "type": "vocab",
+    "word": "differently",
+    "meaning": "異なって",
+    "pos": "adv",
+    "level": "standard",
+    "rank": 2647,
+    "definition": "not in the same way as someone or something else",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "During the annual survey, the researchers differently reviewed the evidence before publishing their findings.",
+    "exampleJa": "年次調査では、研究者たちは異なってして、研究結果を公表する前に証拠を再検討した。"
+  },
+  {
+    "id": "ngsl-2329",
+    "type": "vocab",
+    "word": "dig",
+    "meaning": "掘る",
+    "pos": "v",
+    "level": "standard",
+    "rank": 2329,
+    "definition": "to move soil, sand, snow, etc., in order to create a hole",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "During a laboratory test, the process can dig under certain conditions.",
+    "exampleJa": "実験室での試験では、その過程は特定の条件下では掘ることができる。"
+  },
+  {
+    "id": "v-mega-standard-0039",
+    "type": "vocab",
+    "level": "standard",
+    "word": "diminish",
+    "meaning": "減少する",
+    "pos": "v",
+    "explanation": "diminish：減少する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "In the short term, the team worked together to diminish the issue.",
+    "exampleJa": "短期的には、チームはその問題を減少するために協力した。"
+  },
+  {
+    "id": "v-standard-ngsl-1115-0007",
+    "type": "vocab",
+    "level": "standard",
+    "word": "dinner",
+    "meaning": "夕食",
+    "pos": "n",
+    "question": "dinner",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "夕食",
+    "explanation": "",
+    "definitionEn": "the main meal of the day",
+    "frequencyRank": 1115,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "In a classroom experiment, the dinner became an important part of the discussion.",
+    "exampleJa": "教室での実験では、夕食は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-standard-04-disagree",
+    "type": "vocab",
+    "level": "standard",
+    "word": "disagree",
+    "meaning": "意見が一致しない",
+    "pos": "v",
+    "question": "disagree",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "意見が一致しない",
+    "explanation": "",
+    "exampleSentence": "During the trial period, the process can disagree under certain conditions.",
+    "exampleJa": "試験期間中、その過程は特定の条件下では意見が一致しないことができる。",
+    "family": "disagree;disagrees",
+    "synonyms": [],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "入試・読解で見かけやすい重要語。"
+  },
+  {
+    "id": "v-standard-ngsl-1851-0482",
+    "type": "vocab",
+    "level": "standard",
+    "word": "disappoint",
+    "meaning": "がっかりさせる",
+    "pos": "v",
+    "question": "disappoint",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "がっかりさせる",
+    "explanation": "",
+    "definitionEn": "to make (someone) unhappy by not being as good as expected or by not doing something that was hoped for or expected",
+    "frequencyRank": 1851,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "In many cases, the team worked together to disappoint the issue.",
+    "exampleJa": "多くの場合、チームはその問題をがっかりさせるするために協力した。"
+  },
+  {
+    "id": "v-standard-ngsl-1658-0350",
+    "type": "vocab",
+    "level": "standard",
+    "word": "discount",
+    "meaning": "値引き",
+    "pos": "n",
+    "question": "discount",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "値引き",
+    "explanation": "",
+    "definitionEn": "a reduction in price",
+    "frequencyRank": 1658,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "During the trial period, the discount became an important part of the discussion.",
+    "exampleJa": "試験期間中、値引きは議論の重要な一部となった。"
+  },
+  {
+    "id": "ngsl-2290",
+    "type": "vocab",
+    "word": "discovery",
+    "meaning": "発見",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2290,
+    "definition": "the act of finding or learning something for the first time",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "In many cases, the report describes the discovery in detail.",
+    "exampleJa": "多くの場合、その報告書は発見について詳しく説明している。"
+  },
+  {
+    "id": "v-mega-standard-0114",
+    "type": "vocab",
+    "level": "standard",
+    "word": "discrete",
+    "meaning": "個別の・離散した",
+    "pos": "adj",
+    "explanation": "discrete：個別の・離散した",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "hard"
+    ],
+    "exampleSentence": "During the investigation, the report describes the discrete characteristics of the system.",
+    "exampleJa": "調査中、その報告書はシステムの個別の・離散したという特徴を詳しく説明している。"
+  },
+  {
+    "id": "v-standard-ngsl-1880-0502",
+    "type": "vocab",
+    "level": "standard",
+    "word": "dish",
+    "meaning": "皿",
+    "pos": "n",
+    "question": "dish",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "皿",
+    "explanation": "",
+    "definitionEn": "a shallow container that you cook or serve food in",
+    "frequencyRank": 1880,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "In many cases, the dish became an important part of the discussion.",
+    "exampleJa": "多くの場合、皿は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-standard-ngsl-1827-0463",
+    "type": "vocab",
+    "level": "standard",
+    "word": "disk",
+    "meaning": "ディスク",
+    "pos": "n",
+    "question": "disk",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "ディスク",
+    "explanation": "",
+    "definitionEn": "a flat, round shape or object; a CD or DVD",
+    "frequencyRank": 1827,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "After several months of observation, the report describes the disk in detail.",
+    "exampleJa": "数か月の観察を経て、その報告書はディスクについて詳しく説明している。"
+  },
+  {
+    "id": "ngsl-2390",
+    "type": "vocab",
+    "word": "dismiss",
+    "meaning": "解雇する",
+    "pos": "v",
+    "level": "standard",
+    "rank": 2390,
+    "definition": "to send (someone) away : to cause or allow (someone) to leave",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "During the trial period, the team worked together to dismiss the issue.",
+    "exampleJa": "試験期間中、チームはその問題を解雇するために協力した。"
+  },
+  {
+    "id": "v-standard-ngsl-2163-0694",
+    "type": "vocab",
+    "level": "standard",
+    "word": "disorder",
+    "meaning": "疾患、騒動",
+    "pos": "n",
+    "question": "disorder",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "疾患、騒動",
+    "explanation": "",
+    "definitionEn": "a disease or mental problem; uncontrolled, bad behavior, especially by large groups of people",
+    "frequencyRank": 2163,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "Before the final decision, the disorder became an important part of the discussion.",
+    "exampleJa": "最終決定の前に、疾患、騒動は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-mega-standard-0154",
+    "type": "vocab",
+    "level": "standard",
+    "word": "display",
+    "meaning": "展示・表示",
+    "pos": "n",
+    "explanation": "display：展示・表示",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "Over the past decade, the report describes the display in detail.",
+    "exampleJa": "過去10年間で、その報告書は展示・表示について詳しく説明している。"
+  },
+  {
+    "id": "v-mega-standard-0198",
+    "type": "vocab",
+    "level": "standard",
+    "word": "dispose",
+    "meaning": "処分する・配置する",
+    "pos": "v",
+    "explanation": "dispose：処分する・配置する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "hard"
+    ],
+    "exampleSentence": "Over the past decade, the team worked together to dispose the issue.",
+    "exampleJa": "過去10年間で、チームはその問題を処分する・配置するために協力した。"
+  },
+  {
+    "id": "v-standard-ngsl-2027-0598",
+    "type": "vocab",
+    "level": "standard",
+    "word": "dispute",
+    "meaning": "論争",
+    "pos": "n",
+    "question": "dispute",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "論争",
+    "explanation": "",
+    "definitionEn": "a disagreement, especially one that lasts a long time",
+    "frequencyRank": 2027,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "Before the final decision, the dispute became an important part of the discussion.",
+    "exampleJa": "最終決定の前に、論争は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-advanced-03-disrupt",
+    "type": "vocab",
+    "level": "standard",
+    "word": "disrupt",
+    "meaning": "混乱させる・中断する",
+    "pos": "v",
+    "explanation": "",
+    "family": "disruption;disruptive",
+    "synonyms": [
+      "disturb",
+      "interrupt"
+    ],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "advanced",
+      "v",
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "question": "disrupt",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "混乱させる・中断する",
+    "exampleSentence": "In a recent study, the researchers need to disrupt the problem before drawing a conclusion.",
+    "exampleJa": "最近の研究では、研究者たちは結論を出す前に、その問題を混乱させる・中断する必要がある。",
+    "note": "重要語。意味だけでなく文脈で覚える。disrupt の派生語: disruption;disruptive.",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ]
+  },
+  {
+    "id": "ngsl-2721",
+    "type": "vocab",
+    "word": "distant",
+    "meaning": "遠い",
+    "pos": "adj",
+    "level": "standard",
+    "rank": 2721,
+    "definition": "existing or happening far away in space",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "In the local community, the report describes the distant characteristics of the system.",
+    "exampleJa": "地域社会では、その報告書はシステムの遠いという特徴を詳しく説明している。"
+  },
+  {
+    "id": "v-mega-standard-0298",
+    "type": "vocab",
+    "level": "standard",
+    "word": "distinct",
+    "meaning": "明確に異なる",
+    "pos": "adj",
+    "explanation": "distinct：明確に異なる",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "During the academic year, the researchers considered the distinct option before making a decision.",
+    "exampleJa": "学年度中、研究者たちは決定を下す前に、明確に異なるな選択肢を検討した。"
+  },
+  {
+    "id": "v-mega-standard-0302",
+    "type": "vocab",
+    "level": "standard",
+    "word": "distort",
+    "meaning": "ゆがめる",
+    "pos": "v",
+    "explanation": "distort：ゆがめる",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "hard"
+    ],
+    "exampleSentence": "In many cases, the process can distort under certain conditions.",
+    "exampleJa": "多くの場合、その過程は特定の条件下ではゆがめることができる。"
+  },
+  {
+    "id": "v-standard-03-distribute",
+    "type": "vocab",
+    "level": "standard",
+    "word": "distribute",
+    "meaning": "配る・分配する",
+    "pos": "v",
+    "exampleSentence": "During the trial period, the team worked together to distribute the issue.",
+    "exampleJa": "試験期間中、チームはその問題を配る・分配するために協力した。",
+    "explanation": "",
+    "family": "distribution;distributor",
+    "synonyms": [
+      "allocate",
+      "spread"
+    ],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage",
+      "standard",
+      "v"
+    ],
+    "source": "curated-core-2026",
+    "question": "distribute",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "配る・分配する",
+    "note": "重要語。意味だけでなく文脈で覚える。distribute の派生語: distribution;distributor.",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-mega-developed-0079",
+    "type": "vocab",
+    "level": "standard",
+    "word": "distribution",
+    "meaning": "分配・流通",
+    "pos": "n",
+    "exampleSentence": "After several months of observation, the distribution became an important part of the discussion.",
+    "exampleJa": "数か月の観察を経て、分配・流通は議論の重要な一部となった。",
+    "explanation": "distribution：分配・流通",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1327-0140",
+    "type": "vocab",
+    "level": "standard",
+    "word": "district",
+    "meaning": "区",
+    "pos": "n",
+    "question": "district",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "区",
+    "explanation": "",
+    "definitionEn": "an area or section of a country, city, or town",
+    "frequencyRank": 1327,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "In a recent study, the report describes the district in detail.",
+    "exampleJa": "最近の研究では、その報告書は区について詳しく説明している。"
+  },
+  {
+    "id": "ngsl-2270",
+    "type": "vocab",
+    "word": "disturb",
+    "meaning": "邪魔をする",
+    "pos": "v",
+    "level": "standard",
+    "rank": 2270,
+    "definition": "to stop (someone) from working, sleeping, etc.",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "Over the past decade, the team worked together to disturb the issue.",
+    "exampleJa": "過去10年間で、チームはその問題を邪魔をするために協力した。"
+  },
+  {
+    "id": "v-mega-standard-0040",
+    "type": "vocab",
+    "level": "standard",
+    "word": "diverse",
+    "meaning": "多様な",
+    "pos": "adj",
+    "explanation": "diverse：多様な",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "After the meeting, the result was considered diverse by the researchers.",
+    "exampleJa": "会議の後、研究者たちは、その結果を多様なと判断した。"
+  },
+  {
+    "id": "v-standard-ngsl-1520-0262",
+    "type": "vocab",
+    "level": "standard",
+    "word": "division",
+    "meaning": "分割",
+    "pos": "n",
+    "question": "division",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "分割",
+    "explanation": "",
+    "definitionEn": "one of the parts into which a thing is divided",
+    "frequencyRank": 1520,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "During the interview, the report describes the division in detail.",
+    "exampleJa": "面接では、その報告書は分割について詳しく説明している。"
+  },
+  {
+    "id": "ngsl-2402",
+    "type": "vocab",
+    "word": "divorce",
+    "meaning": "離婚する",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2402,
+    "definition": "when two people officially stop being married",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "In a recent study, the committee considered the divorce before making its decision.",
+    "exampleJa": "最近の研究では、委員会は決定を下す前に離婚を検討した。"
+  },
+  {
+    "id": "v-standard-04-document",
+    "type": "vocab",
+    "level": "standard",
+    "word": "document",
+    "meaning": "記録する",
+    "pos": "v",
+    "question": "document",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "記録する",
+    "explanation": "",
+    "exampleSentence": "During the interview, the company plans to document the new system next year.",
+    "exampleJa": "面接では、その会社は来年、新しいシステムを記録する予定だ。",
+    "family": "document;documents",
+    "synonyms": [],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "入試・読解で見かけやすい重要語。",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-curated-3130",
+    "type": "vocab",
+    "level": "standard",
+    "word": "document",
+    "meaning": "文書化する・文書",
+    "pos": "n",
+    "question": "document",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "文書化する・文書",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "During the interview, the report describes the document in detail.",
+    "exampleJa": "面接では、その報告書は文書化する・文書について詳しく説明している。"
+  },
+  {
+    "id": "v-curated-0659",
+    "type": "vocab",
+    "level": "standard",
+    "word": "documentary",
+    "meaning": "記録映画・記録の",
+    "pos": "adj",
+    "question": "documentary",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "記録映画・記録の",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "During the investigation, the result was considered documentary by the researchers.",
+    "exampleJa": "調査中、研究者たちは、その結果を記録映画なと判断した。"
+  },
+  {
+    "id": "v-mega-standard-0041",
+    "type": "vocab",
+    "level": "standard",
+    "word": "dominate",
+    "meaning": "支配する",
+    "pos": "v",
+    "explanation": "dominate：支配する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "After the meeting, the company plans to dominate the new system next year.",
+    "exampleJa": "会議の後、その会社は来年、新しいシステムを支配する予定だ。"
+  },
+  {
+    "id": "v-standard-ngsl-1763-0424",
+    "type": "vocab",
+    "level": "standard",
+    "word": "dozen",
+    "meaning": "ダース",
+    "pos": "n",
+    "question": "dozen",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "ダース",
+    "explanation": "",
+    "definitionEn": "a group of 12 people or things",
+    "frequencyRank": 1763,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "During the winter months, the report describes the dozen in detail.",
+    "exampleJa": "冬の間、その報告書はダースについて詳しく説明している。"
+  },
+  {
+    "id": "v-curated-0316",
+    "type": "vocab",
+    "level": "standard",
+    "word": "draft",
+    "meaning": "下書きを作る",
+    "pos": "v",
+    "question": "draft",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "下書きを作る",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "During the academic year, the team worked together to draft the issue.",
+    "exampleJa": "学年度中、チームはその問題を下書きを作るするために協力した。"
+  },
+  {
+    "id": "ngsl-2330",
+    "type": "vocab",
+    "word": "drag",
+    "meaning": "引きずる",
+    "pos": "v",
+    "level": "standard",
+    "rank": 2330,
+    "definition": "to pull (someone or something that is heavy or difficult to move)",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "The worker dragged the heavy box across the floor.",
+    "exampleJa": "作業員は重い箱を床の上で引きずった。"
+  },
+  {
+    "id": "v-standard-ngsl-1989-0567",
+    "type": "vocab",
+    "level": "standard",
+    "word": "drama",
+    "meaning": "ドラマ",
+    "pos": "n",
+    "question": "drama",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "ドラマ",
+    "explanation": "",
+    "definitionEn": "a play that is performed on stage, theater, or TV",
+    "frequencyRank": 1989,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "In many cases, the report describes the drama in detail.",
+    "exampleJa": "多くの場合、その報告書はドラマについて詳しく説明している。"
+  },
+  {
+    "id": "ngsl-2521",
+    "type": "vocab",
+    "word": "dramatically",
+    "meaning": "ドラマチックに、劇的に",
+    "pos": "adv",
+    "level": "standard",
+    "rank": 2521,
+    "definition": "suddenly or unexpectedly; with much drama",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "During the discussion, the researchers dramatically reviewed the evidence before publishing their findings.",
+    "exampleJa": "議論の中で、研究者たちはドラマチックに、劇的にして、研究結果を公表する前に証拠を再検討した。"
+  },
+  {
+    "id": "v-curated-0871",
+    "type": "vocab",
+    "level": "standard",
+    "word": "drawback",
+    "meaning": "欠点",
+    "pos": "n",
+    "question": "drawback",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "欠点",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "During the annual survey, the drawback became an important part of the discussion.",
+    "exampleJa": "年次調査では、欠点は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-standard-ngsl-1198-0063",
+    "type": "vocab",
+    "level": "standard",
+    "word": "driver",
+    "meaning": "運転手",
+    "pos": "n",
+    "question": "driver",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "運転手",
+    "explanation": "",
+    "definitionEn": "someone who drives a vehicle",
+    "frequencyRank": 1198,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "After the policy change, the report describes the driver in detail.",
+    "exampleJa": "政策変更後、その報告書は運転手について詳しく説明している。"
+  },
+  {
+    "id": "v-standard-ngsl-1133-0017",
+    "type": "vocab",
+    "level": "standard",
+    "word": "dry",
+    "meaning": "乾く",
+    "pos": "adj",
+    "question": "dry",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "乾く",
+    "explanation": "",
+    "definitionEn": "having no or very little water or liquid",
+    "frequencyRank": 1133,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "In a recent study, the report describes the dry characteristics of the system.",
+    "exampleJa": "最近の研究では、その報告書はシステムの乾くという特徴を詳しく説明している。"
+  },
+  {
+    "id": "v-curated-3814",
+    "type": "vocab",
+    "level": "standard",
+    "word": "duplicate",
+    "meaning": "複製・複製する",
+    "pos": "n",
+    "question": "duplicate",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "複製・複製する",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "At the research site, the duplicate became an important part of the discussion.",
+    "exampleJa": "研究現場では、複製・複製するは議論の重要な一部となった。"
+  },
+  {
+    "id": "v-curated-0661",
+    "type": "vocab",
+    "level": "standard",
+    "word": "duration",
+    "meaning": "持続期間",
+    "pos": "n",
+    "question": "duration",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "持続期間",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "During the interview, demand usually changes during this duration.",
+    "exampleJa": "面接では、需要は通常、この持続期間の間に変化する。"
+  },
+  {
+    "id": "ngsl-2446",
+    "type": "vocab",
+    "word": "dust",
+    "meaning": "埃",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2446,
+    "definition": "fine dry powder that builds up inside buildings on surfaces that have not recently been cleaned",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "In the short term, the committee considered the dust before making its decision.",
+    "exampleJa": "短期的には、委員会は決定を下す前に埃を検討した。"
+  },
+  {
+    "id": "v-mega-standard-0042",
+    "type": "vocab",
+    "level": "standard",
+    "word": "dynamic",
+    "meaning": "動的な・活発な",
+    "pos": "adj",
+    "explanation": "dynamic：動的な・活発な",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "In the local community, the researchers used a dynamic method for the experiment.",
+    "exampleJa": "地域社会では、研究者たちは実験に動的な方法を使った。"
+  },
+  {
+    "id": "v-standard-ngsl-1662-0353",
+    "type": "vocab",
+    "level": "standard",
+    "word": "ear",
+    "meaning": "耳",
+    "pos": "n",
+    "question": "ear",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "耳",
+    "explanation": "",
+    "definitionEn": "the part of the body that you hear with",
+    "frequencyRank": 1662,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "After the policy change, the report describes the ear in detail.",
+    "exampleJa": "政策変更後、その報告書は耳について詳しく説明している。"
+  },
+  {
+    "id": "v-standard-ngsl-1286-0115",
+    "type": "vocab",
+    "level": "standard",
+    "word": "earth",
+    "meaning": "地球",
+    "pos": "n",
+    "question": "earth",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "地球",
+    "explanation": "",
+    "definitionEn": "the planet on which we live",
+    "frequencyRank": 1286,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "In many cases, the committee considered the earth before making its decision.",
+    "exampleJa": "多くの場合、委員会は決定を下す前に地球を検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-2059-0620",
+    "type": "vocab",
+    "level": "standard",
+    "word": "ease",
+    "meaning": "緩和、楽であること",
+    "pos": "n",
+    "question": "ease",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "緩和、楽であること",
+    "explanation": "",
+    "definitionEn": "freedom from pain or trouble : comfort of body or mind",
+    "frequencyRank": 2059,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "After the policy change, the ease became an important part of the discussion.",
+    "exampleJa": "政策変更後、緩和、楽であることは議論の重要な一部となった。"
+  },
+  {
+    "id": "v-standard-ngsl-1747-0415",
+    "type": "vocab",
+    "level": "standard",
+    "word": "east",
+    "meaning": "東",
+    "pos": "n",
+    "question": "east",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "東",
+    "explanation": "",
+    "definitionEn": "the direction where the sun rises",
+    "frequencyRank": 1747,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "During the interview, the report describes the east in detail.",
+    "exampleJa": "面接では、その報告書は東について詳しく説明している。"
+  },
+  {
+    "id": "ngsl-2366",
+    "type": "vocab",
+    "word": "eastern",
+    "meaning": "東部の",
+    "pos": "adj",
+    "level": "standard",
+    "rank": 2366,
+    "definition": "located toward the east",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "Over the past decade, the team chose a eastern approach to the problem.",
+    "exampleJa": "過去10年間で、チームはその問題に対して東部的な方法を選んだ。"
+  },
+  {
+    "id": "v-mega-standard-0243",
+    "type": "vocab",
+    "level": "standard",
+    "word": "ecology",
+    "meaning": "生態学",
+    "pos": "n",
+    "explanation": "ecology：生態学",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "After several months of observation, the researchers examined how ecology affects the local ecosystem.",
+    "exampleJa": "数か月の観察を経て、研究者たちは、生態学ことを検討した。"
+  },
+  {
+    "id": "v-curated-2860",
+    "type": "vocab",
+    "level": "standard",
+    "word": "economical",
+    "meaning": "経済的な・節約になる",
+    "pos": "adj",
+    "question": "economical",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "経済的な・節約になる",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "Before the final decision, the researchers developed a economical approach to the problem.",
+    "exampleJa": "最終決定の前に、研究者たちは、経済的な・節約になることを検討した。"
+  },
+  {
+    "id": "v-curated-1673",
+    "type": "vocab",
+    "level": "standard",
+    "word": "economically",
+    "meaning": "経済的に",
+    "pos": "adv",
+    "question": "economically",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "経済的に",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "In a classroom experiment, the researchers economically reviewed the evidence before publishing their findings.",
+    "exampleJa": "教室での実験では、研究者たちは経済的にして、研究結果を公表する前に証拠を再検討した。"
+  },
+  {
+    "id": "v-mega-standard-0244",
+    "type": "vocab",
+    "level": "standard",
+    "word": "economics",
+    "meaning": "経済学",
+    "pos": "n",
+    "explanation": "economics：経済学",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "In a classroom experiment, the company changed its strategy in response to the economics.",
+    "exampleJa": "教室での実験では、その会社は、経済学ことを計画している。"
+  },
+  {
+    "id": "v-curated-4098",
+    "type": "vocab",
+    "level": "standard",
+    "word": "economist",
+    "meaning": "経済学者",
+    "pos": "n",
+    "question": "economist",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "経済学者",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "After the policy change, the report analyzes the effect of economist on the local economy.",
+    "exampleJa": "政策変更後、その報告書は、経済学者について詳しく説明している。"
+  },
+  {
+    "id": "v-curated-3817",
+    "type": "vocab",
+    "level": "standard",
+    "word": "ecosystem",
+    "meaning": "生態系",
+    "pos": "n",
+    "question": "ecosystem",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "生態系",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "Over the past decade, the report discusses the relationship between ecosystem and climate change.",
+    "exampleJa": "過去10年間で、その報告書は、生態系について詳しく説明している。"
+  },
+  {
+    "id": "v-standard-ngsl-1162-0038",
+    "type": "vocab",
+    "level": "standard",
+    "word": "edge",
+    "meaning": "端",
+    "pos": "n",
+    "question": "edge",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "端",
+    "explanation": "",
+    "definitionEn": "the line or part where an object or area begins or ends",
+    "frequencyRank": 1162,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "Under normal conditions, the edge became an important part of the discussion.",
+    "exampleJa": "通常の条件では、端は議論の重要な一部となった。"
+  },
+  {
+    "id": "ngsl-2309",
+    "type": "vocab",
+    "word": "edit",
+    "meaning": "編集する",
+    "pos": "v",
+    "level": "standard",
+    "rank": 2309,
+    "definition": "to make changes so that something can be used",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "In a classroom experiment, the researchers need to edit the problem before drawing a conclusion.",
+    "exampleJa": "教室での実験では、研究者たちは結論を出す前に、その問題を編集する必要がある。"
+  },
+  {
+    "id": "v-standard-ngsl-1421-0198",
+    "type": "vocab",
+    "level": "standard",
+    "word": "editor",
+    "meaning": "編集者",
+    "pos": "n",
+    "question": "editor",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "編集者",
+    "explanation": "",
+    "definitionEn": "someone whose job is to prepare text, film, etc. by deciding what to include and making mistakes correct",
+    "frequencyRank": 1421,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "At a university seminar, the committee considered the editor before making its decision.",
+    "exampleJa": "大学のセミナーでは、委員会は決定を下す前に編集者を検討した。"
+  },
+  {
+    "id": "v-standard-04-educate",
+    "type": "vocab",
+    "level": "standard",
+    "word": "educate",
+    "meaning": "教育する",
+    "pos": "v",
+    "question": "educate",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "教育する",
+    "explanation": "",
+    "exampleSentence": "Before the final decision, the company plans to educate the new system next year.",
+    "exampleJa": "最終決定の前に、その会社は来年、新しいシステムを教育する予定だ。",
+    "family": "educate;educates",
+    "synonyms": [],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "入試・読解で見かけやすい重要語。",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1890-0508",
+    "type": "vocab",
+    "level": "standard",
+    "word": "educational",
+    "meaning": "教育的な",
+    "pos": "adj",
+    "question": "educational",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "教育的な",
+    "explanation": "",
+    "definitionEn": "providing education, or relating to education",
+    "frequencyRank": 1890,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "During the interview, the researchers developed a educational approach to the problem.",
+    "exampleJa": "面接では、研究者たちは、教育的なことを検討した。"
+  },
+  {
+    "id": "v-curated-4025",
+    "type": "vocab",
+    "level": "standard",
+    "word": "educator",
+    "meaning": "教育者",
+    "pos": "n",
+    "question": "educator",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "教育者",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "After the meeting, the committee considered the educator before making its decision.",
+    "exampleJa": "会議の後、委員会は決定を下す前に教育者を検討した。"
+  },
+  {
+    "id": "v-standard-111",
+    "type": "vocab",
+    "level": "standard",
+    "word": "effect",
+    "meaning": "影響・効果",
+    "question": "effect",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "ありそうな",
+        "correct": false
+      },
+      {
+        "text": "影響・効果",
+        "correct": true
+      },
+      {
+        "text": "理論",
+        "correct": false
+      },
+      {
+        "text": "実用的な",
+        "correct": false
+      }
+    ],
+    "answer": "影響・効果",
+    "explanation": "effect = 影響・効果。例：have an effect on health",
+    "exampleSentence": "During the investigation, the researchers considered the effect option before making a decision.",
+    "exampleJa": "調査中、研究者たちは決定を下す前に、影響・効果な選択肢を検討した。",
+    "pos": "n"
+  },
+  {
+    "id": "v-mega-hard-0078",
+    "type": "vocab",
+    "level": "standard",
+    "word": "effectively",
+    "meaning": "効果的に・事実上",
+    "pos": "adv",
+    "question": "effectively",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "効率的な",
+    "explanation": "effectively：効果的に・事実上",
+    "definitionEn": "in a way that is successful and achieves what you want",
+    "frequencyRank": 1840,
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "At a university seminar, the researchers effectively reviewed the evidence before publishing their findings.",
+    "exampleJa": "大学のセミナーでは、研究者たちは効果的に・事実上して、研究結果を公表する前に証拠を再検討した。",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "ngsl-2252",
+    "type": "vocab",
+    "word": "efficiency",
+    "meaning": "効率",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2252,
+    "definition": "the ability to do something or produce something without wasting materials, time, or energy",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "In the long term, the committee considered the efficiency before making its decision.",
+    "exampleJa": "長期的には、委員会は決定を下す前に効率を検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1379-0171",
+    "type": "vocab",
+    "level": "standard",
+    "word": "egg",
+    "meaning": "卵",
+    "pos": "n",
+    "question": "egg",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "卵",
+    "explanation": "",
+    "definitionEn": "a hard-shelled oval thing from which a young bird is born",
+    "frequencyRank": 1379,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "During the academic year, the egg became an important part of the discussion.",
+    "exampleJa": "学年度中、卵は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-mega-standard-0043",
+    "type": "vocab",
+    "level": "standard",
+    "word": "elaborate",
+    "meaning": "精巧な・詳しく述べる",
+    "pos": "adj",
+    "explanation": "elaborate：精巧な・詳しく述べる",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard",
+      "developed",
+      "advanced"
+    ],
+    "exampleSentence": "Before the final decision, the result was considered elaborate by the researchers.",
+    "exampleJa": "最終決定の前に、研究者たちは、その結果を精巧なと判断した。"
+  },
+  {
+    "id": "v-standard-ngsl-2050-0612",
+    "type": "vocab",
+    "level": "standard",
+    "word": "elderly",
+    "meaning": "高齢者",
+    "pos": "adj",
+    "question": "elderly",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "高齢者",
+    "explanation": "",
+    "definitionEn": "a more polite word for 'old', used to describe people",
+    "frequencyRank": 2050,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "During the academic year, the report describes the elderly characteristics of the system.",
+    "exampleJa": "学年度中、その報告書はシステムの高齢者という特徴を詳しく説明している。"
+  },
+  {
+    "id": "v-standard-ngsl-1576-0296",
+    "type": "vocab",
+    "level": "standard",
+    "word": "elect",
+    "meaning": "選ぶ",
+    "pos": "v",
+    "question": "elect",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "選ぶ",
+    "explanation": "",
+    "definitionEn": "to select (someone) for a position, job, etc., by voting",
+    "frequencyRank": 1576,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "In the local community, the team decided to elect the issue before the final meeting.",
+    "exampleJa": "地域社会では、チームは最終会議の前に、その問題を選ぶことにした。"
+  },
+  {
+    "id": "ngsl-2418",
+    "type": "vocab",
+    "word": "electric",
+    "meaning": "電気の",
+    "pos": "adj",
+    "level": "standard",
+    "rank": 2418,
+    "definition": "of or relating to electricity",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "During the investigation, the result was considered electric by the researchers.",
+    "exampleJa": "調査中、研究者たちは、その結果を電気的なと判断した。"
+  },
+  {
+    "id": "v-standard-ngsl-2012-0584",
+    "type": "vocab",
+    "level": "standard",
+    "word": "electricity",
+    "meaning": "電気",
+    "pos": "n",
+    "question": "electricity",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "電気",
+    "explanation": "",
+    "definitionEn": "a type of energy that can produce light and heat, or make machines work",
+    "frequencyRank": 2012,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "In a recent study, the committee considered the electricity before making its decision.",
+    "exampleJa": "最近の研究では、委員会は決定を下す前に電気を検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1720-0396",
+    "type": "vocab",
+    "level": "standard",
+    "word": "electronic",
+    "meaning": "電子の",
+    "pos": "adj",
+    "question": "electronic",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "電子の",
+    "explanation": "",
+    "definitionEn": "Electronic equipment consists of things such as computers, televisions, and radios",
+    "frequencyRank": 1720,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "Before the final decision, the researchers used a electronic method for the experiment.",
+    "exampleJa": "最終決定の前に、研究者たちは実験に電子的な方法を使った。"
+  },
+  {
+    "id": "v-mega-standard-0044",
+    "type": "vocab",
+    "level": "standard",
+    "word": "eliminate",
+    "meaning": "取り除く",
+    "pos": "v",
+    "explanation": "eliminate：取り除く",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "During the interview, the researchers need to eliminate the problem before drawing a conclusion.",
+    "exampleJa": "面接では、研究者たちは結論を出す前に、その問題を取り除くする必要がある。"
+  },
+  {
+    "id": "v-mega-developed-0082",
+    "type": "vocab",
+    "level": "standard",
+    "word": "elimination",
+    "meaning": "排除",
+    "pos": "n",
+    "exampleSentence": "In a recent study, the committee considered the elimination before making its decision.",
+    "exampleJa": "最近の研究では、委員会は決定を下す前に排除を検討した。",
+    "explanation": "elimination：排除",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-standard-ngsl-1841-0473",
+    "type": "vocab",
+    "level": "standard",
+    "word": "elsewhere",
+    "meaning": "他の所で",
+    "pos": "adv",
+    "question": "elsewhere",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "他の所で",
+    "explanation": "",
+    "definitionEn": "in or to another place",
+    "frequencyRank": 1841,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "In a classroom experiment, the researchers elsewhere reviewed the evidence before publishing their findings.",
+    "exampleJa": "教室での実験では、研究者たちは他の所でして、研究結果を公表する前に証拠を再検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1167-0042",
+    "type": "vocab",
+    "level": "standard",
+    "word": "email",
+    "meaning": "e-メール",
+    "pos": "v",
+    "question": "email",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "e-メール",
+    "explanation": "",
+    "definitionEn": "to send a message electronically; a message sent electronically; a system for sending messages electronically",
+    "frequencyRank": 1167,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "During the annual survey, the process can email under certain conditions.",
+    "exampleJa": "年次調査では、その過程は特定の条件下ではe-メールことができる。"
+  },
+  {
+    "id": "ngsl-2462",
+    "type": "vocab",
+    "word": "embarrass",
+    "meaning": "恥をかかせる",
+    "pos": "v",
+    "level": "standard",
+    "rank": 2462,
+    "definition": "to make someone feel ashamed or shy",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "Over the past decade, the committee agreed to embarrass the issue after further discussion.",
+    "exampleJa": "過去10年間で、委員会はさらに議論した後、その問題を恥をかかせることに同意した。"
+  },
+  {
+    "id": "v-mega-standard-0045",
+    "type": "vocab",
+    "level": "standard",
+    "word": "emerge",
+    "meaning": "現れる・台頭する",
+    "pos": "v",
+    "explanation": "emerge：現れる・台頭する",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "In a recent study, the project is expected to emerge over the next few months.",
+    "exampleJa": "最近の研究では、その計画は今後数か月で現れると予想されている。"
+  },
+  {
+    "id": "v-mega-developed-0083",
+    "type": "vocab",
+    "level": "standard",
+    "word": "emergence",
+    "meaning": "出現・台頭",
+    "pos": "n",
+    "exampleSentence": "During the academic year, the report describes the emergence in detail.",
+    "exampleJa": "学年度中、その報告書は出現・台頭について詳しく説明している。",
+    "explanation": "emergence：出現・台頭",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "v-curated-0188",
+    "type": "vocab",
+    "level": "standard",
+    "word": "emission",
+    "meaning": "排出・放出",
+    "pos": "n",
+    "question": "emission",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "排出・放出",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard",
+      "developed"
+    ],
+    "exampleSentence": "In a recent study, the committee considered the emission before making its decision.",
+    "exampleJa": "最近の研究では、委員会は決定を下す前に排出・放出を検討した。"
+  },
+  {
+    "id": "v-standard-03-emphasize",
+    "type": "vocab",
+    "level": "standard",
+    "word": "emphasize",
+    "meaning": "強調する",
+    "pos": "v",
+    "exampleSentence": "In the short term, the company plans to emphasize the new system next year.",
+    "exampleJa": "短期的には、その会社は来年、新しいシステムを強調する予定だ。",
+    "explanation": "",
+    "family": "emphasis",
+    "synonyms": [
+      "stress",
+      "highlight"
+    ],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "exam",
+      "usage",
+      "standard",
+      "v"
+    ],
+    "source": "curated-core-2026",
+    "question": "emphasize",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "強調する",
+    "note": "重要語。意味だけでなく文脈で覚える。emphasize の派生語: emphasis.",
+    "levelTags": [
+      "standard"
+    ]
+  },
+  {
+    "id": "ngsl-2745",
+    "type": "vocab",
+    "word": "empire",
+    "meaning": "帝国",
+    "pos": "n",
+    "level": "standard",
+    "rank": 2745,
+    "definition": "a group of countries or regions that are controlled by one ruler or one government",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "During the winter months, the city plans to improve the empire next year.",
+    "exampleJa": "冬の間、その市は来年、帝国を改善する予定だ。"
+  },
+  {
+    "id": "v-standard-04-employ",
+    "type": "vocab",
+    "level": "standard",
+    "word": "employ",
+    "meaning": "雇う・利用する",
+    "pos": "v",
+    "question": "employ",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "雇う・利用する",
+    "explanation": "",
+    "exampleSentence": "During a laboratory test, the team worked together to employ the issue.",
+    "exampleJa": "実験室での試験では、チームはその問題を雇う・利用するために協力した。",
+    "family": "employ;employs",
+    "synonyms": [],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "入試・読解で見かけやすい重要語。"
+  },
+  {
+    "id": "v-standard-ngsl-1590-0306",
+    "type": "vocab",
+    "level": "standard",
+    "word": "empty",
+    "meaning": "空の",
+    "pos": "adj",
+    "question": "empty",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "空の",
+    "explanation": "",
+    "definitionEn": "containing nothing",
+    "frequencyRank": 1590,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "In a recent study, the result was considered empty by the researchers.",
+    "exampleJa": "最近の研究では、研究者たちは、その結果を空的なと判断した。"
+  },
+  {
+    "id": "v-mega-standard-0304",
+    "type": "vocab",
+    "level": "standard",
+    "word": "enclose",
+    "meaning": "同封する・囲む",
+    "pos": "v",
+    "explanation": "enclose：同封する・囲む",
+    "family": "",
+    "synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "tags": [
+      "vocab-power",
+      "core-expansion",
+      "usage"
+    ],
+    "source": "curated-core-2026",
+    "exampleSentence": "During the trial period, the researchers need to enclose the problem before drawing a conclusion.",
+    "exampleJa": "試験期間中、研究者たちは結論を出す前に、その問題を同封する・囲むする必要がある。"
+  },
+  {
+    "id": "v-curated-3133",
+    "type": "vocab",
+    "level": "standard",
+    "word": "enclosure",
+    "meaning": "囲い・同封物",
+    "pos": "n",
+    "question": "enclosure",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "囲い・同封物",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "Before publication, the committee considered the enclosure before making its decision.",
+    "exampleJa": "公表前に、委員会は決定を下す前に囲い・同封物を検討した。"
+  },
+  {
+    "id": "v-curated-0875",
+    "type": "vocab",
+    "level": "standard",
+    "word": "encounter",
+    "meaning": "遭遇",
+    "pos": "n",
+    "question": "encounter",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "遭遇",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "Before publication, the encounter became an important part of the discussion.",
+    "exampleJa": "公表前に、遭遇は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-curated-0664",
+    "type": "vocab",
+    "level": "standard",
+    "word": "encouragement",
+    "meaning": "励まし",
+    "pos": "n",
+    "question": "encouragement",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "励まし",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "During a laboratory test, the report describes the encouragement in detail.",
+    "exampleJa": "実験室での試験では、その報告書は励ましについて詳しく説明している。"
+  },
+  {
+    "id": "v-standard-ngsl-1785-0440",
+    "type": "vocab",
+    "level": "standard",
+    "word": "enemy",
+    "meaning": "敵",
+    "pos": "n",
+    "question": "enemy",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "敵",
+    "explanation": "",
+    "definitionEn": "someone who hates another : someone who attacks or tries to harm another",
+    "frequencyRank": 1785,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "Over the past decade, the committee considered the enemy before making its decision.",
+    "exampleJa": "過去10年間で、委員会は決定を下す前に敵を検討した。"
+  },
+  {
+    "id": "v-standard-04-engage",
+    "type": "vocab",
+    "level": "standard",
+    "word": "engage",
+    "meaning": "従事させる・関与する",
+    "pos": "v",
+    "question": "engage",
+    "prompt": "単語の意味・用法を確認。",
+    "choices": [],
+    "answer": "従事させる・関与する",
+    "explanation": "",
+    "exampleSentence": "In a recent study, the company plans to engage the new system next year.",
+    "exampleJa": "最近の研究では、その会社は来年、新しいシステムを従事させる・関与する予定だ。",
+    "family": "engage;engages",
+    "synonyms": [],
+    "tags": [
+      "standard",
+      "v"
+    ],
+    "note": "入試・読解で見かけやすい重要語。"
+  },
+  {
+    "id": "v-db-003479",
+    "type": "vocab",
+    "level": "standard",
+    "word": "engagement",
+    "meaning": "関与・婚約",
+    "pos": "n",
+    "question": "engagement",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "関与・婚約",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "During the annual survey, the report describes the engagement in detail.",
+    "exampleJa": "年次調査では、その報告書は関与・婚約について詳しく説明している。"
+  },
+  {
+    "id": "v-standard-ngsl-1615-0324",
+    "type": "vocab",
+    "level": "standard",
+    "word": "engine",
+    "meaning": "エンジン",
+    "pos": "n",
+    "question": "engine",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "エンジン",
+    "explanation": "",
+    "definitionEn": "a machine that changes energy (such as heat from burning fuel) into mechanical motion",
+    "frequencyRank": 1615,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "In the long term, the committee considered the engine before making its decision.",
+    "exampleJa": "長期的には、委員会は決定を下す前にエンジンを検討した。"
+  }
+]

@@ -1,0 +1,1428 @@
+[
+  {
+    "id": "i-hard-112",
+    "type": "idiom",
+    "level": "standard",
+    "word": "account for",
+    "meaning": "～の説明となる・～を占める",
+    "question": "account for",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～寸前で",
+        "correct": false
+      },
+      {
+        "text": "～に従って",
+        "correct": false
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      },
+      {
+        "text": "～の説明となる・～を占める",
+        "correct": true
+      }
+    ],
+    "answer": "～の説明となる・～を占める",
+    "explanation": "",
+    "tags": [],
+    "levelTags": [
+      "hard",
+      "standard"
+    ],
+    "exampleSentence": "The two largest categories account for more than half of the total.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "i-standard-102",
+    "type": "idiom",
+    "level": "standard",
+    "word": "apply for",
+    "meaning": "～に申し込む",
+    "question": "apply for",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を説明する・～を占める",
+        "correct": false
+      },
+      {
+        "text": "配る・尽きる",
+        "correct": false
+      },
+      {
+        "text": "～に申し込む",
+        "correct": true
+      },
+      {
+        "text": "～を実行する",
+        "correct": false
+      }
+    ],
+    "answer": "～に申し込む",
+    "explanation": "",
+    "exampleSentence": "She applied for a scholarship before the deadline.",
+    "exampleJa": "彼女は締め切り前に奨学金を申請した。"
+  },
+  {
+    "id": "i-standard-129",
+    "type": "idiom",
+    "level": "standard",
+    "word": "as a result",
+    "meaning": "その結果",
+    "question": "as a result",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を楽しみに待つ",
+        "correct": false
+      },
+      {
+        "text": "その結果",
+        "correct": true
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      }
+    ],
+    "answer": "その結果",
+    "explanation": "",
+    "exampleSentence": "As a result, the team changed its plan.",
+    "exampleJa": "その結果、チームは計画を変更した。"
+  },
+  {
+    "id": "i-standard-130",
+    "type": "idiom",
+    "level": "standard",
+    "word": "at least",
+    "meaning": "少なくとも",
+    "question": "at least",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "少なくとも",
+        "correct": true
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を断る・音量を下げる",
+        "correct": false
+      },
+      {
+        "text": "～に加えて",
+        "correct": false
+      }
+    ],
+    "answer": "少なくとも",
+    "explanation": "",
+    "exampleSentence": "You should review the vocabulary at least twice a week.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "i-standard-131",
+    "type": "idiom",
+    "level": "standard",
+    "word": "at most",
+    "meaning": "せいぜい",
+    "question": "at most",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "せいぜい",
+        "correct": true
+      },
+      {
+        "text": "屈する",
+        "correct": false
+      },
+      {
+        "text": "～とは対照的に",
+        "correct": false
+      },
+      {
+        "text": "～を埋め合わせる",
+        "correct": false
+      }
+    ],
+    "answer": "せいぜい",
+    "explanation": "",
+    "exampleSentence": "The journey will take at most two hours.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "i-standard-132",
+    "type": "idiom",
+    "level": "standard",
+    "word": "by means of",
+    "meaning": "～によって",
+    "question": "by means of",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～によって",
+        "correct": true
+      },
+      {
+        "text": "～を実行する",
+        "correct": false
+      },
+      {
+        "text": "その結果",
+        "correct": false
+      }
+    ],
+    "answer": "～によって",
+    "explanation": "",
+    "exampleSentence": "The researchers collected the samples by means of a remote sensor.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "i-standard-103",
+    "type": "idiom",
+    "level": "standard",
+    "word": "call for",
+    "meaning": "～を必要とする・要求する",
+    "question": "call for",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "判明する・結果となる",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする・要求する",
+        "correct": true
+      },
+      {
+        "text": "～を表す",
+        "correct": false
+      },
+      {
+        "text": "その結果",
+        "correct": false
+      }
+    ],
+    "answer": "～を必要とする・要求する",
+    "explanation": "",
+    "exampleSentence": "The situation calls for immediate action.",
+    "exampleJa": "その状況では直ちに行動する必要がある。"
+  },
+  {
+    "id": "i-standard-104",
+    "type": "idiom",
+    "level": "standard",
+    "word": "carry out",
+    "meaning": "～を実行する",
+    "question": "carry out",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "うまくいく・解決する",
+        "correct": false
+      },
+      {
+        "text": "～を断る・音量を下げる",
+        "correct": false
+      },
+      {
+        "text": "配る・尽きる",
+        "correct": false
+      },
+      {
+        "text": "～を実行する",
+        "correct": true
+      }
+    ],
+    "answer": "～を実行する",
+    "explanation": "",
+    "exampleSentence": "The researchers carried out a series of experiments.",
+    "exampleJa": "研究者たちは一連の実験を行った。"
+  },
+  {
+    "id": "i-standard-105",
+    "type": "idiom",
+    "level": "standard",
+    "word": "come up with",
+    "meaning": "～を思いつく",
+    "question": "come up with",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "少なくとも",
+        "correct": false
+      },
+      {
+        "text": "～を設立する・設定する",
+        "correct": false
+      },
+      {
+        "text": "～を埋め合わせる",
+        "correct": false
+      },
+      {
+        "text": "～を思いつく",
+        "correct": true
+      }
+    ],
+    "answer": "～を思いつく",
+    "explanation": "",
+    "exampleSentence": "The students came up with a creative solution to the problem.",
+    "exampleJa": "学生たちはその問題に対する創造的な解決策を思いついた。"
+  },
+  {
+    "id": "i-entrance-102",
+    "type": "idiom",
+    "level": "standard",
+    "word": "consist of",
+    "meaning": "～から成る",
+    "question": "consist of",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～から生じる",
+        "correct": false
+      },
+      {
+        "text": "～から成る",
+        "correct": true
+      },
+      {
+        "text": "～を受け入れる",
+        "correct": false
+      },
+      {
+        "text": "～に貢献する・～の一因となる",
+        "correct": false
+      }
+    ],
+    "answer": "～から成る",
+    "explanation": "",
+    "tags": [],
+    "levelTags": [
+      "entrance",
+      "standard"
+    ],
+    "exampleSentence": "The committee consists of five researchers and two administrators.",
+    "exampleJa": "その委員会は5人の研究者と2人の管理職で構成されている。"
+  },
+  {
+    "id": "i-entrance-103",
+    "type": "idiom",
+    "level": "standard",
+    "word": "contribute to",
+    "meaning": "～に貢献する・～の一因となる",
+    "question": "contribute to",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～がない場合に",
+        "correct": false
+      },
+      {
+        "text": "～を受ける・～の対象となる",
+        "correct": false
+      },
+      {
+        "text": "～に貢献する・～の一因となる",
+        "correct": true
+      },
+      {
+        "text": "～を考慮に入れる",
+        "correct": false
+      }
+    ],
+    "answer": "～に貢献する・～の一因となる",
+    "explanation": "",
+    "tags": [],
+    "levelTags": [
+      "entrance",
+      "standard"
+    ],
+    "exampleSentence": "Regular exercise can contribute to better sleep.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "i-standard-106",
+    "type": "idiom",
+    "level": "standard",
+    "word": "cut down on",
+    "meaning": "～を減らす",
+    "question": "cut down on",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を必要とする・要求する",
+        "correct": false
+      },
+      {
+        "text": "～を引き継ぐ",
+        "correct": false
+      },
+      {
+        "text": "～を設立する・設定する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": true
+      }
+    ],
+    "answer": "～を減らす",
+    "explanation": "",
+    "exampleSentence": "He is trying to cut down on sugar for health reasons.",
+    "exampleJa": "彼は、～を減らすような行動を取った。"
+  },
+  {
+    "id": "i-standard-107",
+    "type": "idiom",
+    "level": "standard",
+    "word": "figure out",
+    "meaning": "～を理解する・解決する",
+    "question": "figure out",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "その結果",
+        "correct": false
+      },
+      {
+        "text": "～を理解する・解決する",
+        "correct": true
+      },
+      {
+        "text": "判明する・結果となる",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      }
+    ],
+    "answer": "～を理解する・解決する",
+    "explanation": "",
+    "exampleSentence": "She finally figured out how to fix the machine.",
+    "exampleJa": "彼女はついにその機械を修理する方法を理解した。"
+  },
+  {
+    "id": "i-standard-138",
+    "type": "idiom",
+    "level": "standard",
+    "word": "for the sake of",
+    "meaning": "～のために",
+    "question": "for the sake of",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を表す",
+        "correct": false
+      },
+      {
+        "text": "～の点で",
+        "correct": false
+      },
+      {
+        "text": "～のために",
+        "correct": true
+      },
+      {
+        "text": "～を断る・音量を下げる",
+        "correct": false
+      }
+    ],
+    "answer": "～のために",
+    "explanation": "",
+    "exampleSentence": "She kept the discussion short for the sake of efficiency.",
+    "exampleJa": "彼女は、～のためにような行動を取った。"
+  },
+  {
+    "id": "i-standard-108",
+    "type": "idiom",
+    "level": "standard",
+    "word": "get rid of",
+    "meaning": "～を取り除く",
+    "question": "get rid of",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を使い果たす",
+        "correct": false
+      },
+      {
+        "text": "せいぜい",
+        "correct": false
+      },
+      {
+        "text": "～を取り除く",
+        "correct": true
+      },
+      {
+        "text": "～を断る・音量を下げる",
+        "correct": false
+      }
+    ],
+    "answer": "～を取り除く",
+    "explanation": "",
+    "exampleSentence": "We need to get rid of the old equipment before moving.",
+    "exampleJa": "引っ越す前に古い機器を処分する必要がある。"
+  },
+  {
+    "id": "i-standard-109",
+    "type": "idiom",
+    "level": "standard",
+    "word": "give in",
+    "meaning": "屈する",
+    "question": "give in",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～の点で",
+        "correct": false
+      },
+      {
+        "text": "屈する",
+        "correct": true
+      },
+      {
+        "text": "～を保持する",
+        "correct": false
+      },
+      {
+        "text": "～を設立する・設定する",
+        "correct": false
+      }
+    ],
+    "answer": "屈する",
+    "explanation": "",
+    "exampleSentence": "After several hours of discussion, the committee finally gave in.",
+    "exampleJa": "数時間の議論の後、委員会はついに折れた。"
+  },
+  {
+    "id": "i-standard-110",
+    "type": "idiom",
+    "level": "standard",
+    "word": "give out",
+    "meaning": "配る・尽きる",
+    "question": "give out",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "少なくとも",
+        "correct": false
+      },
+      {
+        "text": "～とは対照的に",
+        "correct": false
+      },
+      {
+        "text": "配る・尽きる",
+        "correct": true
+      },
+      {
+        "text": "～を表す",
+        "correct": false
+      }
+    ],
+    "answer": "配る・尽きる",
+    "explanation": "",
+    "exampleSentence": "The volunteers gave out water to the runners.",
+    "exampleJa": "ボランティアたちは走者に水を配った。"
+  },
+  {
+    "id": "i-standard-111",
+    "type": "idiom",
+    "level": "standard",
+    "word": "hold on to",
+    "meaning": "～を保持する",
+    "question": "hold on to",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を必要とする・要求する",
+        "correct": false
+      },
+      {
+        "text": "～の点で",
+        "correct": false
+      },
+      {
+        "text": "～を保持する",
+        "correct": true
+      },
+      {
+        "text": "屈する",
+        "correct": false
+      }
+    ],
+    "answer": "～を保持する",
+    "explanation": "",
+    "exampleSentence": "She decided to hold on to the old photographs.",
+    "exampleJa": "彼女は、～を保持するような行動を取った。"
+  },
+  {
+    "id": "i-standard-133",
+    "type": "idiom",
+    "level": "standard",
+    "word": "in addition to",
+    "meaning": "～に加えて",
+    "question": "in addition to",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "その結果",
+        "correct": false
+      },
+      {
+        "text": "～に我慢する",
+        "correct": false
+      },
+      {
+        "text": "～を設立する・設定する",
+        "correct": false
+      },
+      {
+        "text": "～に加えて",
+        "correct": true
+      }
+    ],
+    "answer": "～に加えて",
+    "explanation": "",
+    "exampleSentence": "In addition to English, she studies Spanish at university.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "i-entrance-007",
+    "type": "idiom",
+    "level": "standard",
+    "word": "in contrast to",
+    "meaning": "～と対照的に",
+    "question": "in contrast to",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～と対照的に",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～と対照的に",
+    "explanation": "",
+    "tags": [],
+    "levelTags": [
+      "entrance",
+      "standard"
+    ],
+    "exampleSentence": "In contrast to his brother, Ken enjoys working alone.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "i-standard-140",
+    "type": "idiom",
+    "level": "standard",
+    "word": "in response to",
+    "meaning": "～に応じて",
+    "question": "in response to",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～によって",
+        "correct": false
+      },
+      {
+        "text": "～に応じて",
+        "correct": true
+      },
+      {
+        "text": "～を使い果たす",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      }
+    ],
+    "answer": "～に応じて",
+    "explanation": "",
+    "exampleSentence": "The government changed the policy in response to public criticism.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "i-standard-134",
+    "type": "idiom",
+    "level": "standard",
+    "word": "in spite of",
+    "meaning": "～にもかかわらず",
+    "question": "in spite of",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を使い果たす",
+        "correct": false
+      },
+      {
+        "text": "～にもかかわらず",
+        "correct": true
+      },
+      {
+        "text": "～を実行する",
+        "correct": false
+      },
+      {
+        "text": "その結果",
+        "correct": false
+      }
+    ],
+    "answer": "～にもかかわらず",
+    "explanation": "",
+    "exampleSentence": "In spite of the rain, the students continued the field trip.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "i-entrance-005",
+    "type": "idiom",
+    "level": "standard",
+    "word": "in terms of",
+    "meaning": "～の観点では・～に関して",
+    "question": "in terms of",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～の観点では・～に関して",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～の観点では・～に関して",
+    "explanation": "",
+    "tags": [],
+    "levelTags": [
+      "entrance",
+      "standard"
+    ],
+    "exampleSentence": "The two plans are similar in terms of cost.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "i-standard-112",
+    "type": "idiom",
+    "level": "standard",
+    "word": "keep up with",
+    "meaning": "～についていく",
+    "question": "keep up with",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～についていく",
+        "correct": true
+      },
+      {
+        "text": "その結果",
+        "correct": false
+      },
+      {
+        "text": "～に応じて",
+        "correct": false
+      },
+      {
+        "text": "～とは対照的に",
+        "correct": false
+      }
+    ],
+    "answer": "～についていく",
+    "explanation": "",
+    "exampleSentence": "Students need to keep up with the latest developments in science.",
+    "exampleJa": "学生は科学の最新の進展についていく必要がある。"
+  },
+  {
+    "id": "i-standard-114",
+    "type": "idiom",
+    "level": "standard",
+    "word": "look forward to",
+    "meaning": "～を楽しみに待つ",
+    "question": "look forward to",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～という結果になる",
+        "correct": false
+      },
+      {
+        "text": "配る・尽きる",
+        "correct": false
+      },
+      {
+        "text": "せいぜい",
+        "correct": false
+      },
+      {
+        "text": "～を楽しみに待つ",
+        "correct": true
+      }
+    ],
+    "answer": "～を楽しみに待つ",
+    "explanation": "",
+    "exampleSentence": "I look forward to hearing from you soon.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "i-standard-113",
+    "type": "idiom",
+    "level": "standard",
+    "word": "look into",
+    "meaning": "～を調査する",
+    "question": "look into",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～に申し込む",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": true
+      },
+      {
+        "text": "～を実行する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする・要求する",
+        "correct": false
+      }
+    ],
+    "answer": "～を調査する",
+    "explanation": "",
+    "exampleSentence": "The committee will look into the cause of the accident.",
+    "exampleJa": "委員会は事故の原因を調査する。"
+  },
+  {
+    "id": "i-entrance-002",
+    "type": "idiom",
+    "level": "standard",
+    "word": "make up for",
+    "meaning": "～を埋め合わせる",
+    "question": "make up for",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を埋め合わせる",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～を埋め合わせる",
+    "explanation": "",
+    "tags": [],
+    "levelTags": [
+      "entrance",
+      "standard"
+    ],
+    "exampleSentence": "The extra practice helped make up for the time we had lost.",
+    "exampleJa": "追加の練習が、失っていた時間を取り戻すのに役立った。"
+  },
+  {
+    "id": "i-entrance-010",
+    "type": "idiom",
+    "level": "standard",
+    "word": "on behalf of",
+    "meaning": "～を代表して",
+    "question": "on behalf of",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を代表して",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～を代表して",
+    "explanation": "",
+    "tags": [],
+    "levelTags": [
+      "entrance",
+      "standard"
+    ],
+    "exampleSentence": "She accepted the award on behalf of the entire team.",
+    "exampleJa": "彼女は、～を代表してような行動を取った。"
+  },
+  {
+    "id": "i-standard-009",
+    "type": "idiom",
+    "level": "standard",
+    "word": "prevent A from doing",
+    "meaning": "Aが～するのを防ぐ",
+    "question": "prevent A from doing",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "Aが～するのを防ぐ",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "Aが～するのを防ぐ",
+    "explanation": "",
+    "exampleSentence": "Wearing a seat belt can prevent passengers from being seriously injured.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "i-entrance-117",
+    "type": "idiom",
+    "level": "standard",
+    "word": "provide A with B",
+    "meaning": "AにBを与える",
+    "question": "provide A with B",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を処分する",
+        "correct": false
+      },
+      {
+        "text": "AにBを与える",
+        "correct": true
+      },
+      {
+        "text": "～に賛成して",
+        "correct": false
+      },
+      {
+        "text": "～を考慮に入れる",
+        "correct": false
+      }
+    ],
+    "answer": "AにBを与える",
+    "explanation": "",
+    "tags": [],
+    "levelTags": [
+      "entrance",
+      "standard"
+    ],
+    "exampleSentence": "The example shows how speakers can use provide A with B in an academic discussion.",
+    "exampleJa": "この例は、話し手が学術的な議論で「AにBを与える」という表現をどのように使えるかを示している。"
+  },
+  {
+    "id": "i-standard-116",
+    "type": "idiom",
+    "level": "standard",
+    "word": "put off",
+    "meaning": "～を延期する",
+    "question": "put off",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～によって",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": true
+      },
+      {
+        "text": "うまくいく・解決する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      }
+    ],
+    "answer": "～を延期する",
+    "explanation": "",
+    "exampleSentence": "The committee put off the decision until more evidence was available.",
+    "exampleJa": "委員会は、より多くの証拠が得られるまで決定を延期した。"
+  },
+  {
+    "id": "i-entrance-003",
+    "type": "idiom",
+    "level": "standard",
+    "word": "put up with",
+    "meaning": "～を我慢する",
+    "question": "put up with",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を我慢する",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～を我慢する",
+    "explanation": "",
+    "tags": [],
+    "levelTags": [
+      "entrance",
+      "standard"
+    ],
+    "exampleSentence": "I cannot put up with that noise any longer.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "i-standard-005",
+    "type": "idiom",
+    "level": "standard",
+    "word": "refer to",
+    "meaning": "～を指す・言及する",
+    "question": "refer to",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を指す・言及する",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～を指す・言及する",
+    "explanation": "",
+    "tags": [],
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The author refers to several studies in the final chapter.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "i-standard-007",
+    "type": "idiom",
+    "level": "standard",
+    "word": "result from",
+    "meaning": "～に起因する",
+    "question": "result from",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～に起因する",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～に起因する",
+    "explanation": "",
+    "tags": [],
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "Many accidents result from simple mistakes.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "i-standard-006",
+    "type": "idiom",
+    "level": "standard",
+    "word": "result in",
+    "meaning": "～という結果になる",
+    "question": "result in",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～という結果になる",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～という結果になる",
+    "explanation": "",
+    "tags": [],
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "Poor planning can result in serious delays.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "i-standard-121",
+    "type": "idiom",
+    "level": "standard",
+    "word": "run out of",
+    "meaning": "～を使い果たす",
+    "question": "run out of",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～によって",
+        "correct": false
+      },
+      {
+        "text": "～を説明する・～を占める",
+        "correct": false
+      },
+      {
+        "text": "～の点で",
+        "correct": false
+      },
+      {
+        "text": "～を使い果たす",
+        "correct": true
+      }
+    ],
+    "answer": "～を使い果たす",
+    "explanation": "",
+    "exampleSentence": "We ran out of time before we could finish the discussion.",
+    "exampleJa": "議論を終える前に時間がなくなった。"
+  },
+  {
+    "id": "i-standard-122",
+    "type": "idiom",
+    "level": "standard",
+    "word": "set up",
+    "meaning": "～を設立する・設定する",
+    "question": "set up",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を設立する・設定する",
+        "correct": true
+      },
+      {
+        "text": "うまくいく・解決する",
+        "correct": false
+      },
+      {
+        "text": "～のために",
+        "correct": false
+      },
+      {
+        "text": "～という結果になる",
+        "correct": false
+      }
+    ],
+    "answer": "～を設立する・設定する",
+    "explanation": "",
+    "exampleSentence": "The university set up a new research center last year.",
+    "exampleJa": "その大学は昨年、新しい研究センターを設立した。"
+  },
+  {
+    "id": "i-standard-123",
+    "type": "idiom",
+    "level": "standard",
+    "word": "stand for",
+    "meaning": "～を表す",
+    "question": "stand for",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～に関して",
+        "correct": false
+      },
+      {
+        "text": "～を表す",
+        "correct": true
+      },
+      {
+        "text": "～のために",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする・要求する",
+        "correct": false
+      }
+    ],
+    "answer": "～を表す",
+    "explanation": "",
+    "exampleSentence": "What does this abbreviation stand for?",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "i-standard-124",
+    "type": "idiom",
+    "level": "standard",
+    "word": "take advantage of",
+    "meaning": "～を利用する",
+    "question": "take advantage of",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を必要とする・要求する",
+        "correct": false
+      },
+      {
+        "text": "～を思いつく",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": true
+      },
+      {
+        "text": "～についていく",
+        "correct": false
+      }
+    ],
+    "answer": "～を利用する",
+    "explanation": "",
+    "exampleSentence": "Students should take advantage of every chance to practice speaking.",
+    "exampleJa": "学生たちは、～を利用するような行動をした。"
+  },
+  {
+    "id": "i-standard-125",
+    "type": "idiom",
+    "level": "standard",
+    "word": "take over",
+    "meaning": "～を引き継ぐ",
+    "question": "take over",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を引き継ぐ",
+        "correct": true
+      },
+      {
+        "text": "せいぜい",
+        "correct": false
+      },
+      {
+        "text": "配る・尽きる",
+        "correct": false
+      },
+      {
+        "text": "～を断る・音量を下げる",
+        "correct": false
+      }
+    ],
+    "answer": "～を引き継ぐ",
+    "explanation": "",
+    "exampleSentence": "A new manager took over the project last week.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "i-standard-126",
+    "type": "idiom",
+    "level": "standard",
+    "word": "turn down",
+    "meaning": "～を断る・音量を下げる",
+    "question": "turn down",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を断る・音量を下げる",
+        "correct": true
+      },
+      {
+        "text": "うまくいく・解決する",
+        "correct": false
+      },
+      {
+        "text": "屈する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      }
+    ],
+    "answer": "～を断る・音量を下げる",
+    "explanation": "",
+    "exampleSentence": "She turned down the offer because the salary was too low.",
+    "exampleJa": "給料が低すぎたので、彼女はその申し出を断った。"
+  },
+  {
+    "id": "i-standard-127",
+    "type": "idiom",
+    "level": "standard",
+    "word": "turn out",
+    "meaning": "判明する・結果となる",
+    "question": "turn out",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を利用する",
+        "correct": false
+      },
+      {
+        "text": "～とは対照的に",
+        "correct": false
+      },
+      {
+        "text": "～を使い果たす",
+        "correct": false
+      },
+      {
+        "text": "判明する・結果となる",
+        "correct": true
+      }
+    ],
+    "answer": "判明する・結果となる",
+    "explanation": "",
+    "exampleSentence": "The plan turned out to be more expensive than expected.",
+    "exampleJa": "その計画は予想より費用がかかることが分かった。"
+  },
+  {
+    "id": "i-entrance-006",
+    "type": "idiom",
+    "level": "standard",
+    "word": "with regard to",
+    "meaning": "～に関して",
+    "question": "with regard to",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～に関して",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～に関して",
+    "explanation": "",
+    "tags": [],
+    "levelTags": [
+      "entrance",
+      "standard"
+    ],
+    "exampleSentence": "The report raises several questions with regard to data privacy.",
+    "exampleJa": "その報告書は、データのプライバシーについていくつかの問題を提起している。"
+  },
+  {
+    "id": "i-standard-128",
+    "type": "idiom",
+    "level": "standard",
+    "word": "work out",
+    "meaning": "うまくいく・解決する",
+    "question": "work out",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～のために",
+        "correct": false
+      },
+      {
+        "text": "～に関して",
+        "correct": false
+      },
+      {
+        "text": "うまくいく・解決する",
+        "correct": true
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      }
+    ],
+    "answer": "うまくいく・解決する",
+    "explanation": "",
+    "exampleSentence": "We need to work out a practical solution before Friday.",
+    "exampleJa": "私たちは、うまくいく・解決するような行動を取った。"
+  }
+]

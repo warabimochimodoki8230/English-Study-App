@@ -1,0 +1,1289 @@
+[
+  {
+    "id": "i-hard-111",
+    "type": "idiom",
+    "level": "hard",
+    "word": "abide by",
+    "meaning": "～を守る",
+    "question": "abide by",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～の間に区別を設ける",
+        "correct": false
+      },
+      {
+        "text": "～を守る",
+        "correct": true
+      },
+      {
+        "text": "～に取って代わられる",
+        "correct": false
+      },
+      {
+        "text": "～を心に留める",
+        "correct": false
+      }
+    ],
+    "answer": "～を守る",
+    "explanation": "",
+    "exampleSentence": "All employees must abide by the company’s safety rules.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "i-hard-134",
+    "type": "idiom",
+    "level": "hard",
+    "word": "at odds with",
+    "meaning": "～と対立して",
+    "question": "at odds with",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～に異議を唱える",
+        "correct": false
+      },
+      {
+        "text": "～と対立して",
+        "correct": true
+      },
+      {
+        "text": "～に屈しない",
+        "correct": false
+      },
+      {
+        "text": "～を守る",
+        "correct": false
+      }
+    ],
+    "answer": "～と対立して",
+    "explanation": "",
+    "exampleSentence": "The proposal is at odds with the evidence presented in the report.",
+    "exampleJa": "その提案は、報告書に示された証拠と食い違っている。"
+  },
+  {
+    "id": "i-hard-001",
+    "type": "idiom",
+    "level": "hard",
+    "word": "at the expense of",
+    "meaning": "～を犠牲にして",
+    "question": "at the expense of",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を犠牲にして",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～を犠牲にして",
+    "explanation": "",
+    "tags": [],
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "Economic growth should not come at the expense of the environment.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "i-hard-113",
+    "type": "idiom",
+    "level": "hard",
+    "word": "attribute A to B",
+    "meaning": "Aの原因をBに帰する",
+    "question": "attribute A to B",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "Aの原因をBに帰する",
+        "correct": true
+      },
+      {
+        "text": "～と対立して",
+        "correct": false
+      },
+      {
+        "text": "～に屈する・～に取って代わられる",
+        "correct": false
+      },
+      {
+        "text": "～を犠牲にして",
+        "correct": false
+      }
+    ],
+    "answer": "Aの原因をBに帰する",
+    "explanation": "",
+    "exampleSentence": "The example shows how speakers can use attribute A to B in an academic discussion.",
+    "exampleJa": "この例は、話し手が学術的な議論で「Aの原因をBに帰する」という表現をどのように使えるかを示している。"
+  },
+  {
+    "id": "i-hard-004",
+    "type": "idiom",
+    "level": "hard",
+    "word": "be attributed to",
+    "meaning": "～に帰せられる",
+    "question": "be attributed to",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～に帰せられる",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～に帰せられる",
+    "explanation": "",
+    "exampleSentence": "The increase in sales was attributed to the new advertising campaign.",
+    "exampleJa": "売上の増加は新しい広告キャンペーンによるものだと考えられた。"
+  },
+  {
+    "id": "i-hard-115",
+    "type": "idiom",
+    "level": "hard",
+    "word": "be bound to",
+    "meaning": "きっと～する・～する義務がある",
+    "question": "be bound to",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "きっと～する・～する義務がある",
+        "correct": true
+      },
+      {
+        "text": "～を考慮に入れる",
+        "correct": false
+      },
+      {
+        "text": "～を重視する",
+        "correct": false
+      },
+      {
+        "text": "～に本来備わっている",
+        "correct": false
+      }
+    ],
+    "answer": "きっと～する・～する義務がある",
+    "explanation": "",
+    "exampleSentence": "The new policy is bound to affect small businesses.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "i-hard-005",
+    "type": "idiom",
+    "level": "hard",
+    "word": "be compatible with",
+    "meaning": "～と両立する・互換性がある",
+    "question": "be compatible with",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～と両立する・互換性がある",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～と両立する・互換性がある",
+    "explanation": "",
+    "exampleSentence": "The new software is compatible with most older devices.",
+    "exampleJa": "その新しいソフトウェアは、ほとんどの古い機器と互換性がある。"
+  },
+  {
+    "id": "i-hard-116",
+    "type": "idiom",
+    "level": "hard",
+    "word": "be conducive to",
+    "meaning": "～を促進する",
+    "question": "be conducive to",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "決して～ない",
+        "correct": false
+      },
+      {
+        "text": "～を促進する",
+        "correct": true
+      },
+      {
+        "text": "～の説明となる・～を占める",
+        "correct": false
+      },
+      {
+        "text": "～のおかげで・～によって",
+        "correct": false
+      }
+    ],
+    "answer": "～を促進する",
+    "explanation": "",
+    "exampleSentence": "A quiet environment is conducive to concentration.",
+    "exampleJa": "静かな環境は集中を促す。"
+  },
+  {
+    "id": "i-hard-117",
+    "type": "idiom",
+    "level": "hard",
+    "word": "be contingent on",
+    "meaning": "～次第である",
+    "question": "be contingent on",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "大部分は",
+        "correct": false
+      },
+      {
+        "text": "～に屈しない",
+        "correct": false
+      },
+      {
+        "text": "～と一致して",
+        "correct": false
+      },
+      {
+        "text": "～次第である",
+        "correct": true
+      }
+    ],
+    "answer": "～次第である",
+    "explanation": "",
+    "exampleSentence": "The final decision is contingent on the results of the safety test.",
+    "exampleJa": "最終決定は安全試験の結果次第だ。"
+  },
+  {
+    "id": "i-hard-118",
+    "type": "idiom",
+    "level": "hard",
+    "word": "be detrimental to",
+    "meaning": "～に有害である",
+    "question": "be detrimental to",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～の間に区別を設ける",
+        "correct": false
+      },
+      {
+        "text": "～に真剣に取り組む",
+        "correct": false
+      },
+      {
+        "text": "～に有害である",
+        "correct": true
+      },
+      {
+        "text": "激しい批判を浴びる",
+        "correct": false
+      }
+    ],
+    "answer": "～に有害である",
+    "explanation": "",
+    "exampleSentence": "Too much stress can be detrimental to your health.",
+    "exampleJa": "過度のストレスは健康に悪影響を及ぼすことがある。"
+  },
+  {
+    "id": "i-hard-119",
+    "type": "idiom",
+    "level": "hard",
+    "word": "be exempt from",
+    "meaning": "～を免除されている",
+    "question": "be exempt from",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～に真剣に取り組む",
+        "correct": false
+      },
+      {
+        "text": "～を重視する",
+        "correct": false
+      },
+      {
+        "text": "～にかかわらず",
+        "correct": false
+      },
+      {
+        "text": "～を免除されている",
+        "correct": true
+      }
+    ],
+    "answer": "～を免除されている",
+    "explanation": "",
+    "exampleSentence": "The students were exempt from the new policy.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "i-hard-121",
+    "type": "idiom",
+    "level": "hard",
+    "word": "be indicative of",
+    "meaning": "～を示している",
+    "question": "be indicative of",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～次第である",
+        "correct": false
+      },
+      {
+        "text": "～を示している",
+        "correct": true
+      },
+      {
+        "text": "激しい批判を浴びる",
+        "correct": false
+      },
+      {
+        "text": "当てはまる",
+        "correct": false
+      }
+    ],
+    "answer": "～を示している",
+    "explanation": "",
+    "exampleSentence": "These symptoms may be indicative of a more serious problem.",
+    "exampleJa": "これらの症状は、より深刻な問題を示している可能性がある。"
+  },
+  {
+    "id": "i-hard-120",
+    "type": "idiom",
+    "level": "hard",
+    "word": "be inherent in",
+    "meaning": "～に本来備わっている",
+    "question": "be inherent in",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～に本来備わっている",
+        "correct": true
+      },
+      {
+        "text": "～に従って",
+        "correct": false
+      },
+      {
+        "text": "～の結果として・～の後に",
+        "correct": false
+      },
+      {
+        "text": "～のおかげで・～によって",
+        "correct": false
+      }
+    ],
+    "answer": "～に本来備わっている",
+    "explanation": "",
+    "exampleSentence": "Some risk is inherent in any new technology.",
+    "exampleJa": "どんな新技術にも、ある程度のリスクが本来備わっている。"
+  },
+  {
+    "id": "i-hard-006",
+    "type": "idiom",
+    "level": "hard",
+    "word": "be susceptible to",
+    "meaning": "～の影響を受けやすい",
+    "question": "be susceptible to",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～の影響を受けやすい",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～の影響を受けやすい",
+    "explanation": "",
+    "tags": [],
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "The students were susceptible to the new policy.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "i-hard-114",
+    "type": "idiom",
+    "level": "hard",
+    "word": "bear in mind",
+    "meaning": "～を心に留める",
+    "question": "bear in mind",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を受けやすい",
+        "correct": false
+      },
+      {
+        "text": "～を心に留める",
+        "correct": true
+      },
+      {
+        "text": "～の結果として・～の後に",
+        "correct": false
+      },
+      {
+        "text": "激しい批判を浴びる",
+        "correct": false
+      }
+    ],
+    "answer": "～を心に留める",
+    "explanation": "",
+    "exampleSentence": "Bear in mind that the application deadline is next Friday.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "i-hard-137",
+    "type": "idiom",
+    "level": "hard",
+    "word": "by no means",
+    "meaning": "決して～ない",
+    "question": "by no means",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "きっと～する・～する義務がある",
+        "correct": false
+      },
+      {
+        "text": "決して～ない",
+        "correct": true
+      },
+      {
+        "text": "～に従って",
+        "correct": false
+      },
+      {
+        "text": "～する目的で",
+        "correct": false
+      }
+    ],
+    "answer": "決して～ない",
+    "explanation": "",
+    "exampleSentence": "This result is by no means conclusive.",
+    "exampleJa": "この結果は決して決定的なものではない。"
+  },
+  {
+    "id": "i-hard-002",
+    "type": "idiom",
+    "level": "hard",
+    "word": "by virtue of",
+    "meaning": "～のおかげで・～によって",
+    "question": "by virtue of",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～のおかげで・～によって",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～のおかげで・～によって",
+    "explanation": "",
+    "tags": [],
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "She obtained the position by virtue of her extensive experience.",
+    "exampleJa": "彼女は豊富な経験によってその職を得た。"
+  },
+  {
+    "id": "i-hard-003",
+    "type": "idiom",
+    "level": "hard",
+    "word": "come into play",
+    "meaning": "働き始める・影響し始める",
+    "question": "come into play",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "働き始める・影響し始める",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "働き始める・影響し始める",
+    "explanation": "",
+    "exampleSentence": "We come into play an interesting idea while discussing the problem.",
+    "exampleJa": "私たちは、働き始める・影響し始めるような行動を取った。"
+  },
+  {
+    "id": "i-hard-103",
+    "type": "idiom",
+    "level": "hard",
+    "word": "come to grips with",
+    "meaning": "～に真剣に取り組む",
+    "question": "come to grips with",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を守る",
+        "correct": false
+      },
+      {
+        "text": "～を考慮に入れる",
+        "correct": false
+      },
+      {
+        "text": "～の結果として・～の後に",
+        "correct": false
+      },
+      {
+        "text": "～に真剣に取り組む",
+        "correct": true
+      }
+    ],
+    "answer": "～に真剣に取り組む",
+    "explanation": "",
+    "exampleSentence": "We come to grips with an interesting idea while discussing the problem.",
+    "exampleJa": "私たちは、～に真剣に取り組むような行動を取った。"
+  },
+  {
+    "id": "i-hard-123",
+    "type": "idiom",
+    "level": "hard",
+    "word": "come under fire",
+    "meaning": "激しい批判を浴びる",
+    "question": "come under fire",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～に取って代わられる",
+        "correct": false
+      },
+      {
+        "text": "激しい批判を浴びる",
+        "correct": true
+      },
+      {
+        "text": "～を考慮に入れる",
+        "correct": false
+      },
+      {
+        "text": "～を重視する",
+        "correct": false
+      }
+    ],
+    "answer": "激しい批判を浴びる",
+    "explanation": "",
+    "exampleSentence": "We come under fire an interesting idea while discussing the problem.",
+    "exampleJa": "私たちは、激しい批判を浴びるような行動を取った。"
+  },
+  {
+    "id": "i-hard-124",
+    "type": "idiom",
+    "level": "hard",
+    "word": "do away with",
+    "meaning": "～を廃止する",
+    "question": "do away with",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を廃止する",
+        "correct": true
+      },
+      {
+        "text": "決して～ない",
+        "correct": false
+      },
+      {
+        "text": "～を示している",
+        "correct": false
+      },
+      {
+        "text": "～と一致して",
+        "correct": false
+      }
+    ],
+    "answer": "～を廃止する",
+    "explanation": "",
+    "exampleSentence": "The school decided to do away with the outdated rule.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "i-hard-104",
+    "type": "idiom",
+    "level": "hard",
+    "word": "draw a distinction between",
+    "meaning": "～の間に区別を設ける",
+    "question": "draw a distinction between",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を控える",
+        "correct": false
+      },
+      {
+        "text": "～の間に区別を設ける",
+        "correct": true
+      },
+      {
+        "text": "～に有害である",
+        "correct": false
+      },
+      {
+        "text": "～に取って代わられる",
+        "correct": false
+      }
+    ],
+    "answer": "～の間に区別を設ける",
+    "explanation": "",
+    "exampleSentence": "The essay draws a clear distinction between fact and opinion.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "i-hard-139",
+    "type": "idiom",
+    "level": "hard",
+    "word": "for the most part",
+    "meaning": "大部分は",
+    "question": "for the most part",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "大部分は",
+        "correct": true
+      },
+      {
+        "text": "～のおかげで・～によって",
+        "correct": false
+      },
+      {
+        "text": "～の間に区別を設ける",
+        "correct": false
+      },
+      {
+        "text": "～を考慮に入れる",
+        "correct": false
+      }
+    ],
+    "answer": "大部分は",
+    "explanation": "",
+    "exampleSentence": "For the most part, the committee supported the proposal after further discussion.",
+    "exampleJa": "委員会は大部分において、さらに議論した後でその提案を支持した。"
+  },
+  {
+    "id": "i-hard-105",
+    "type": "idiom",
+    "level": "hard",
+    "word": "give way to",
+    "meaning": "～に取って代わられる",
+    "question": "give way to",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～する目的で",
+        "correct": false
+      },
+      {
+        "text": "～に屈しない",
+        "correct": false
+      },
+      {
+        "text": "～に取って代わられる",
+        "correct": true
+      },
+      {
+        "text": "激しい批判を浴びる",
+        "correct": false
+      }
+    ],
+    "answer": "～に取って代わられる",
+    "explanation": "",
+    "exampleSentence": "The old system gradually gave way to a more flexible one.",
+    "exampleJa": "古い制度は次第に、より柔軟な制度に取って代わられた。"
+  },
+  {
+    "id": "i-hard-125",
+    "type": "idiom",
+    "level": "hard",
+    "word": "hold true",
+    "meaning": "当てはまる",
+    "question": "hold true",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～に有害である",
+        "correct": false
+      },
+      {
+        "text": "～に本来備わっている",
+        "correct": false
+      },
+      {
+        "text": "当てはまる",
+        "correct": true
+      },
+      {
+        "text": "きっと～する・～する義務がある",
+        "correct": false
+      }
+    ],
+    "answer": "当てはまる",
+    "explanation": "",
+    "exampleSentence": "The same principle holds true for online learning.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "i-hard-135",
+    "type": "idiom",
+    "level": "hard",
+    "word": "in line with",
+    "meaning": "～と一致して",
+    "question": "in line with",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を免除されている",
+        "correct": false
+      },
+      {
+        "text": "～と一致して",
+        "correct": true
+      },
+      {
+        "text": "～にかかわらず",
+        "correct": false
+      },
+      {
+        "text": "～を重視する",
+        "correct": false
+      }
+    ],
+    "answer": "～と一致して",
+    "explanation": "",
+    "exampleSentence": "The report considers the issue in line with a wider social context.",
+    "exampleJa": "その報告書は、より広い社会的背景と整合する形でその問題を検討している。"
+  },
+  {
+    "id": "i-hard-107",
+    "type": "idiom",
+    "level": "hard",
+    "word": "in the wake of",
+    "meaning": "～の結果として・～の後に",
+    "question": "in the wake of",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～と対立して",
+        "correct": false
+      },
+      {
+        "text": "大部分は",
+        "correct": false
+      },
+      {
+        "text": "～にもかかわらず",
+        "correct": false
+      },
+      {
+        "text": "～の結果として・～の後に",
+        "correct": true
+      }
+    ],
+    "answer": "～の結果として・～の後に",
+    "explanation": "",
+    "exampleSentence": "The report considers the issue in the wake of a major social change.",
+    "exampleJa": "その報告書は、大きな社会変化を受けてその問題を検討している。"
+  },
+  {
+    "id": "i-hard-136",
+    "type": "idiom",
+    "level": "hard",
+    "word": "irrespective of",
+    "meaning": "～にかかわらず",
+    "question": "irrespective of",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "決して～ない",
+        "correct": false
+      },
+      {
+        "text": "～を犠牲にして",
+        "correct": false
+      },
+      {
+        "text": "～にかかわらず",
+        "correct": true
+      },
+      {
+        "text": "Aの原因をBに帰する",
+        "correct": false
+      }
+    ],
+    "answer": "～にかかわらず",
+    "explanation": "",
+    "exampleSentence": "The rule applies irrespective of a student’s age or background.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "i-hard-126",
+    "type": "idiom",
+    "level": "hard",
+    "word": "lay emphasis on",
+    "meaning": "～を重視する",
+    "question": "lay emphasis on",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を重視する",
+        "correct": true
+      },
+      {
+        "text": "～を免除されている",
+        "correct": false
+      },
+      {
+        "text": "～を促進する",
+        "correct": false
+      },
+      {
+        "text": "～する目的で",
+        "correct": false
+      }
+    ],
+    "answer": "～を重視する",
+    "explanation": "",
+    "exampleSentence": "The new curriculum lays emphasis on practical communication skills.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "i-hard-127",
+    "type": "idiom",
+    "level": "hard",
+    "word": "make allowances for",
+    "meaning": "～を考慮に入れる",
+    "question": "make allowances for",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～する目的で",
+        "correct": false
+      },
+      {
+        "text": "～に屈しない",
+        "correct": false
+      },
+      {
+        "text": "～を考慮に入れる",
+        "correct": true
+      },
+      {
+        "text": "～を心に留める",
+        "correct": false
+      }
+    ],
+    "answer": "～を考慮に入れる",
+    "explanation": "",
+    "exampleSentence": "The teacher made allowances for students who needed extra time.",
+    "exampleJa": "教師は追加の時間が必要な学生に配慮した。"
+  },
+  {
+    "id": "i-hard-138",
+    "type": "idiom",
+    "level": "hard",
+    "word": "notwithstanding",
+    "meaning": "～にもかかわらず",
+    "question": "notwithstanding",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を促進する",
+        "correct": false
+      },
+      {
+        "text": "決して～ない",
+        "correct": false
+      },
+      {
+        "text": "～にもかかわらず",
+        "correct": true
+      },
+      {
+        "text": "～に異議を唱える",
+        "correct": false
+      }
+    ],
+    "answer": "～にもかかわらず",
+    "explanation": "",
+    "exampleSentence": "Notwithstanding the heavy rain, the match continued as planned.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "i-hard-108",
+    "type": "idiom",
+    "level": "hard",
+    "word": "on the verge of",
+    "meaning": "～寸前で",
+    "question": "on the verge of",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～する目的で",
+        "correct": false
+      },
+      {
+        "text": "～の間に区別を設ける",
+        "correct": false
+      },
+      {
+        "text": "～寸前で",
+        "correct": true
+      },
+      {
+        "text": "大部分は",
+        "correct": false
+      }
+    ],
+    "answer": "～寸前で",
+    "explanation": "",
+    "exampleSentence": "The company was on the verge of bankruptcy before the rescue plan was approved.",
+    "exampleJa": "救済策が承認される前、その会社は破産寸前だった。"
+  },
+  {
+    "id": "i-hard-128",
+    "type": "idiom",
+    "level": "hard",
+    "word": "place emphasis on",
+    "meaning": "～を重視する",
+    "question": "place emphasis on",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を受けやすい",
+        "correct": false
+      },
+      {
+        "text": "～にもかかわらず",
+        "correct": false
+      },
+      {
+        "text": "～を重視する",
+        "correct": true
+      },
+      {
+        "text": "大部分は",
+        "correct": false
+      }
+    ],
+    "answer": "～を重視する",
+    "explanation": "",
+    "exampleSentence": "The course places emphasis on critical reading skills.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "i-hard-129",
+    "type": "idiom",
+    "level": "hard",
+    "word": "refrain from",
+    "meaning": "～を控える",
+    "question": "refrain from",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を控える",
+        "correct": true
+      },
+      {
+        "text": "～する目的で",
+        "correct": false
+      },
+      {
+        "text": "～に取って代わられる",
+        "correct": false
+      },
+      {
+        "text": "～を考慮に入れる",
+        "correct": false
+      }
+    ],
+    "answer": "～を控える",
+    "explanation": "",
+    "exampleSentence": "Please refrain from using your phone during the examination.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "i-hard-010",
+    "type": "idiom",
+    "level": "hard",
+    "word": "rule out",
+    "meaning": "～を除外する・可能性を否定する",
+    "question": "rule out",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～を除外する・可能性を否定する",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～を除外する・可能性を否定する",
+    "explanation": "",
+    "tags": [],
+    "levelTags": [
+      "hard"
+    ],
+    "exampleSentence": "The doctors could not rule out an infection.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "i-hard-009",
+    "type": "idiom",
+    "level": "hard",
+    "word": "shed light on",
+    "meaning": "～に光を当てる・明らかにする",
+    "question": "shed light on",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～に光を当てる・明らかにする",
+        "correct": true
+      },
+      {
+        "text": "～を完全に避ける",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を交換する",
+        "correct": false
+      }
+    ],
+    "answer": "～に光を当てる・明らかにする",
+    "explanation": "",
+    "exampleSentence": "The new evidence sheds light on the cause of the accident.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "i-hard-131",
+    "type": "idiom",
+    "level": "hard",
+    "word": "stand up to",
+    "meaning": "～に屈しない",
+    "question": "stand up to",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～に有害である",
+        "correct": false
+      },
+      {
+        "text": "当てはまる",
+        "correct": false
+      },
+      {
+        "text": "～を重視する",
+        "correct": false
+      },
+      {
+        "text": "～に屈しない",
+        "correct": true
+      }
+    ],
+    "answer": "～に屈しない",
+    "explanation": "",
+    "exampleSentence": "The material must be strong enough to stand up to heavy use.",
+    "exampleJa": "その素材は、激しい使用に耐えられるほど丈夫でなければならない。"
+  },
+  {
+    "id": "i-hard-109",
+    "type": "idiom",
+    "level": "hard",
+    "word": "take issue with",
+    "meaning": "～に異議を唱える",
+    "question": "take issue with",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～に取って代わられる",
+        "correct": false
+      },
+      {
+        "text": "～する目的で",
+        "correct": false
+      },
+      {
+        "text": "～に異議を唱える",
+        "correct": true
+      },
+      {
+        "text": "～に本来備わっている",
+        "correct": false
+      }
+    ],
+    "answer": "～に異議を唱える",
+    "explanation": "",
+    "exampleSentence": "The researcher took issue with the earlier conclusion.",
+    "exampleJa": "その研究者は以前の結論に異議を唱えた。"
+  },
+  {
+    "id": "i-hard-132",
+    "type": "idiom",
+    "level": "hard",
+    "word": "take precedence over",
+    "meaning": "～より優先される",
+    "question": "take precedence over",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "当てはまる",
+        "correct": false
+      },
+      {
+        "text": "～より優先される",
+        "correct": true
+      },
+      {
+        "text": "大部分は",
+        "correct": false
+      },
+      {
+        "text": "～のおかげで・～によって",
+        "correct": false
+      }
+    ],
+    "answer": "～より優先される",
+    "explanation": "",
+    "exampleSentence": "Public safety should take precedence over convenience.",
+    "exampleJa": "公共の安全は利便性より優先されるべきだ。"
+  },
+  {
+    "id": "i-hard-110",
+    "type": "idiom",
+    "level": "hard",
+    "word": "with a view to",
+    "meaning": "～する目的で",
+    "question": "with a view to",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～する目的で",
+        "correct": true
+      },
+      {
+        "text": "～に取って代わられる",
+        "correct": false
+      },
+      {
+        "text": "～と一致して",
+        "correct": false
+      },
+      {
+        "text": "～に本来備わっている",
+        "correct": false
+      }
+    ],
+    "answer": "～する目的で",
+    "explanation": "",
+    "exampleSentence": "The company opened a new office with a view to expanding overseas.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "i-hard-133",
+    "type": "idiom",
+    "level": "hard",
+    "word": "yield to",
+    "meaning": "～に屈する・～に取って代わられる",
+    "question": "yield to",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [
+      {
+        "text": "～にもかかわらず",
+        "correct": false
+      },
+      {
+        "text": "～を促進する",
+        "correct": false
+      },
+      {
+        "text": "～を控える",
+        "correct": false
+      },
+      {
+        "text": "～に屈する・～に取って代わられる",
+        "correct": true
+      }
+    ],
+    "answer": "～に屈する・～に取って代わられる",
+    "explanation": "",
+    "exampleSentence": "The driver refused to yield to pressure from the crowd.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  }
+]

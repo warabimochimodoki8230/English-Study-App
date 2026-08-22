@@ -1,0 +1,3334 @@
+[
+  {
+    "id": "id-v9-0295",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "be aware of",
+    "meaning": "～を認識している",
+    "question": "入試英語で be aware of が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～を認識している",
+    "choices": [
+      {
+        "text": "～を認識している",
+        "correct": true
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "Students should be aware of the risks before entering the laboratory.",
+    "exampleJa": "学生たちは、～を認識しているような行動をした。"
+  },
+  {
+    "id": "id-v9-0296",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "be capable of",
+    "meaning": "～する能力がある",
+    "question": "入試英語で be capable of が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～する能力がある",
+    "choices": [
+      {
+        "text": "～する能力がある",
+        "correct": true
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The new computer is capable of processing large amounts of data.",
+    "exampleJa": "その新しいコンピューターは大量のデータを処理できる。"
+  },
+  {
+    "id": "id-v9-0297",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "be concerned about",
+    "meaning": "～を心配している・～に関心がある",
+    "question": "入試英語で be concerned about が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～を心配している・～に関心がある",
+    "choices": [
+      {
+        "text": "～を心配している・～に関心がある",
+        "correct": true
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "Many parents are concerned about the amount of time their children spend online.",
+    "exampleJa": "多くの親は、子どもがオンラインで過ごす時間を心配している。"
+  },
+  {
+    "id": "id-v9-0298",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "be dependent on",
+    "meaning": "～に依存している",
+    "question": "入試英語で be dependent on が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～に依存している",
+    "choices": [
+      {
+        "text": "～に依存している",
+        "correct": true
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The region is heavily dependent on tourism.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "id-v9-0299",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "be familiar with",
+    "meaning": "～に詳しい・～に慣れている",
+    "question": "入試英語で be familiar with が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～に詳しい・～に慣れている",
+    "choices": [
+      {
+        "text": "～に詳しい・～に慣れている",
+        "correct": true
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "Are you familiar with the procedure for submitting an application?",
+    "exampleJa": "申請書を提出する手順を知っていますか。"
+  },
+  {
+    "id": "id-v9-0300",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "be relevant to",
+    "meaning": "～に関連している",
+    "question": "入試英語で be relevant to が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～に関連している",
+    "choices": [
+      {
+        "text": "～に関連している",
+        "correct": true
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The evidence is relevant to the question we are trying to answer.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "id-v9-0301",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "be responsible for",
+    "meaning": "～に責任がある",
+    "question": "入試英語で be responsible for が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～に責任がある",
+    "choices": [
+      {
+        "text": "～に責任がある",
+        "correct": true
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "She is responsible for organizing the annual school festival.",
+    "exampleJa": "彼女は毎年の学校祭の運営を担当している。"
+  },
+  {
+    "id": "id-v9-0302",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "be satisfied with",
+    "meaning": "～に満足している",
+    "question": "入試英語で be satisfied with が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～に満足している",
+    "choices": [
+      {
+        "text": "～に満足している",
+        "correct": true
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The customers were satisfied with the quality of the service.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "id-v9-0303",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "be subject to",
+    "meaning": "～を受ける・～の対象となる",
+    "question": "入試英語で be subject to が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～を受ける・～の対象となる",
+    "choices": [
+      {
+        "text": "～を受ける・～の対象となる",
+        "correct": true
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The plan is subject to further review.",
+    "exampleJa": "その計画はさらに検討される可能性がある。"
+  },
+  {
+    "id": "id-v9-0304",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "be superior to",
+    "meaning": "～より優れている",
+    "question": "入試英語で be superior to が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～より優れている",
+    "choices": [
+      {
+        "text": "～より優れている",
+        "correct": true
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The new material is superior to the old one in strength and durability.",
+    "exampleJa": "その新素材は強度と耐久性の点で旧素材より優れている。"
+  },
+  {
+    "id": "id-v9-0305",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "be inferior to",
+    "meaning": "～より劣っている",
+    "question": "入試英語で be inferior to が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～より劣っている",
+    "choices": [
+      {
+        "text": "～より劣っている",
+        "correct": true
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The older model is inferior to the new one in several respects.",
+    "exampleJa": "旧型は、いくつかの点で新型より劣っている。"
+  },
+  {
+    "id": "id-v9-0306",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "be tolerant of",
+    "meaning": "～に寛容である",
+    "question": "入試英語で be tolerant of が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～に寛容である",
+    "choices": [
+      {
+        "text": "～に寛容である",
+        "correct": true
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "A good teacher should be tolerant of different opinions.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "id-v9-0307",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "bring about",
+    "meaning": "～を引き起こす",
+    "question": "入試英語で bring about が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～を引き起こす",
+    "choices": [
+      {
+        "text": "～を引き起こす",
+        "correct": true
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The new technology brought about major changes in the industry.",
+    "exampleJa": "その新技術は産業に大きな変化をもたらした。"
+  },
+  {
+    "id": "id-v9-0308",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "bring up",
+    "meaning": "～を話題に出す・育てる",
+    "question": "入試英語で bring up が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～を話題に出す・育てる",
+    "choices": [
+      {
+        "text": "～を話題に出す・育てる",
+        "correct": true
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "She brought up an important point during the meeting.",
+    "exampleJa": "彼女は会議中に重要な点を取り上げた。"
+  },
+  {
+    "id": "id-v9-0309",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "call for",
+    "meaning": "～を必要とする・要求する",
+    "question": "入試英語で call for が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～を必要とする・要求する",
+    "choices": [
+      {
+        "text": "～を必要とする・要求する",
+        "correct": true
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The situation calls for immediate action.",
+    "exampleJa": "その状況では直ちに行動する必要がある。"
+  },
+  {
+    "id": "id-v9-0310",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "carry out",
+    "meaning": "～を実行する",
+    "question": "入試英語で carry out が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～を実行する",
+    "choices": [
+      {
+        "text": "～を実行する",
+        "correct": true
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The researchers carried out a series of experiments.",
+    "exampleJa": "研究者たちは一連の実験を行った。"
+  },
+  {
+    "id": "id-v9-0311",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "come across",
+    "meaning": "～に偶然出会う",
+    "question": "入試英語で come across が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～に偶然出会う",
+    "choices": [
+      {
+        "text": "～に偶然出会う",
+        "correct": true
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "I came across an interesting article while searching for information.",
+    "exampleJa": "情報を探しているとき、私は興味深い記事を偶然見つけた。"
+  },
+  {
+    "id": "id-v9-0312",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "come up with",
+    "meaning": "～を思いつく",
+    "question": "入試英語で come up with が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～を思いつく",
+    "choices": [
+      {
+        "text": "～を思いつく",
+        "correct": true
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The students came up with a creative solution to the problem.",
+    "exampleJa": "学生たちはその問題に対する創造的な解決策を思いついた。"
+  },
+  {
+    "id": "id-v9-0313",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "cut down on",
+    "meaning": "～を減らす",
+    "question": "入試英語で cut down on が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～を減らす",
+    "choices": [
+      {
+        "text": "～を減らす",
+        "correct": true
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "He is trying to cut down on sugar for health reasons.",
+    "exampleJa": "彼は、～を減らすような行動を取った。"
+  },
+  {
+    "id": "id-v9-0314",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "deal with",
+    "meaning": "～に対処する",
+    "question": "入試英語で deal with が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～に対処する",
+    "choices": [
+      {
+        "text": "～に対処する",
+        "correct": true
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The report explains how the city plans to deal with the problem.",
+    "exampleJa": "その報告書は、市がその問題にどう対処する予定かを説明している。"
+  },
+  {
+    "id": "id-v9-0315",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "do away with",
+    "meaning": "～を廃止する",
+    "question": "入試英語で do away with が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～を廃止する",
+    "choices": [
+      {
+        "text": "～を廃止する",
+        "correct": true
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The school decided to do away with the outdated rule.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "id-v9-0316",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "draw on",
+    "meaning": "～を利用する",
+    "question": "入試英語で draw on が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～を利用する",
+    "choices": [
+      {
+        "text": "～を利用する",
+        "correct": true
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The author drew on years of experience when writing the book.",
+    "exampleJa": "その著者は本を書く際に長年の経験を生かした。"
+  },
+  {
+    "id": "id-v9-0317",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "end up -ing",
+    "meaning": "結局～することになる",
+    "question": "入試英語で end up -ing が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "結局～することになる",
+    "choices": [
+      {
+        "text": "結局～することになる",
+        "correct": true
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "We ended up taking the train because the roads were blocked.",
+    "exampleJa": "私たちは、結局～することになるような行動を取った。"
+  },
+  {
+    "id": "id-v9-0318",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "figure out",
+    "meaning": "～を理解する・解決する",
+    "question": "入試英語で figure out が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～を理解する・解決する",
+    "choices": [
+      {
+        "text": "～を理解する・解決する",
+        "correct": true
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "She finally figured out how to fix the machine.",
+    "exampleJa": "彼女はついにその機械を修理する方法を理解した。"
+  },
+  {
+    "id": "id-v9-0319",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "get across",
+    "meaning": "～を伝える",
+    "question": "入試英語で get across が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～を伝える",
+    "choices": [
+      {
+        "text": "～を伝える",
+        "correct": true
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The teacher used an example to get the main point across.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "id-v9-0320",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "get rid of",
+    "meaning": "～を取り除く",
+    "question": "入試英語で get rid of が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～を取り除く",
+    "choices": [
+      {
+        "text": "～を取り除く",
+        "correct": true
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "We need to get rid of the old equipment before moving.",
+    "exampleJa": "引っ越す前に古い機器を処分する必要がある。"
+  },
+  {
+    "id": "id-v9-0321",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "give rise to",
+    "meaning": "～を引き起こす",
+    "question": "入試英語で give rise to が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～を引き起こす",
+    "choices": [
+      {
+        "text": "～を引き起こす",
+        "correct": true
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The policy gave rise to unexpected problems.",
+    "exampleJa": "その政策は予期せぬ問題を引き起こした。"
+  },
+  {
+    "id": "id-v9-0322",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "go through",
+    "meaning": "～を経験する・調べる",
+    "question": "入試英語で go through が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～を経験する・調べる",
+    "choices": [
+      {
+        "text": "～を経験する・調べる",
+        "correct": true
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The committee went through the documents carefully.",
+    "exampleJa": "委員会はその書類を注意深く調べた。"
+  },
+  {
+    "id": "id-v9-0323",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "hold back",
+    "meaning": "～を抑える",
+    "question": "入試英語で hold back が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～を抑える",
+    "choices": [
+      {
+        "text": "～を抑える",
+        "correct": true
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "She tried to hold back her tears during the speech.",
+    "exampleJa": "彼女はスピーチの間、涙をこらえようとした。"
+  },
+  {
+    "id": "id-v9-0324",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "keep up with",
+    "meaning": "～についていく",
+    "question": "入試英語で keep up with が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～についていく",
+    "choices": [
+      {
+        "text": "～についていく",
+        "correct": true
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "Students need to keep up with the latest developments in science.",
+    "exampleJa": "学生は科学の最新の進展についていく必要がある。"
+  },
+  {
+    "id": "id-v9-0325",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "leave out",
+    "meaning": "～を省く",
+    "question": "入試英語で leave out が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～を省く",
+    "choices": [
+      {
+        "text": "～を省く",
+        "correct": true
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "Be careful not to leave out any important information.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "id-v9-0326",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "look into",
+    "meaning": "～を調査する",
+    "question": "入試英語で look into が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～を調査する",
+    "choices": [
+      {
+        "text": "～を調査する",
+        "correct": true
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The committee will look into the cause of the accident.",
+    "exampleJa": "委員会は事故の原因を調査する。"
+  },
+  {
+    "id": "id-v9-0327",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "make up for",
+    "meaning": "～を埋め合わせる",
+    "question": "入試英語で make up for が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～を埋め合わせる",
+    "choices": [
+      {
+        "text": "～を埋め合わせる",
+        "correct": true
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The extra practice helped make up for the time we had lost.",
+    "exampleJa": "追加の練習が、失っていた時間を取り戻すのに役立った。"
+  },
+  {
+    "id": "id-v9-0328",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "put off",
+    "meaning": "～を延期する",
+    "question": "入試英語で put off が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～を延期する",
+    "choices": [
+      {
+        "text": "～を延期する",
+        "correct": true
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The committee put off the decision until more evidence was available.",
+    "exampleJa": "委員会は、より多くの証拠が得られるまで決定を延期した。"
+  },
+  {
+    "id": "id-v9-0329",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "put up with",
+    "meaning": "～に耐える",
+    "question": "入試英語で put up with が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～に耐える",
+    "choices": [
+      {
+        "text": "～に耐える",
+        "correct": true
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "I cannot put up with that noise any longer.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "id-v9-0330",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "result in",
+    "meaning": "～という結果になる",
+    "question": "入試英語で result in が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～という結果になる",
+    "choices": [
+      {
+        "text": "～という結果になる",
+        "correct": true
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "Poor planning can result in serious delays.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "id-v9-0331",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "result from",
+    "meaning": "～に起因する",
+    "question": "入試英語で result from が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～に起因する",
+    "choices": [
+      {
+        "text": "～に起因する",
+        "correct": true
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "Many accidents result from simple mistakes.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "id-v9-0332",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "run out of",
+    "meaning": "～を使い果たす",
+    "question": "入試英語で run out of が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～を使い果たす",
+    "choices": [
+      {
+        "text": "～を使い果たす",
+        "correct": true
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "We ran out of time before we could finish the discussion.",
+    "exampleJa": "議論を終える前に時間がなくなった。"
+  },
+  {
+    "id": "id-v9-0333",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "set aside",
+    "meaning": "～を取っておく・脇に置く",
+    "question": "入試英語で set aside が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～を取っておく・脇に置く",
+    "choices": [
+      {
+        "text": "～を取っておく・脇に置く",
+        "correct": true
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The students set aside some time for a final review.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "id-v9-0334",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "stand for",
+    "meaning": "～を表す",
+    "question": "入試英語で stand for が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～を表す",
+    "choices": [
+      {
+        "text": "～を表す",
+        "correct": true
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "What does this abbreviation stand for?",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "id-v9-0335",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "take advantage of",
+    "meaning": "～を利用する",
+    "question": "入試英語で take advantage of が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～を利用する",
+    "choices": [
+      {
+        "text": "～を利用する",
+        "correct": true
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "Students should take advantage of every chance to practice speaking.",
+    "exampleJa": "学生たちは、～を利用するような行動をした。"
+  },
+  {
+    "id": "id-v9-0336",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "take part in",
+    "meaning": "～に参加する",
+    "question": "入試英語で take part in が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～に参加する",
+    "choices": [
+      {
+        "text": "～に参加する",
+        "correct": true
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "Many students take part in volunteer activities during the summer.",
+    "exampleJa": "多くの学生は、～に参加するような行動をした。"
+  },
+  {
+    "id": "id-v9-0337",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "take place",
+    "meaning": "起こる・開催される",
+    "question": "入試英語で take place が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "起こる・開催される",
+    "choices": [
+      {
+        "text": "起こる・開催される",
+        "correct": true
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The festival takes place every autumn.",
+    "exampleJa": "その祭りは毎年秋に開催される。"
+  },
+  {
+    "id": "id-v9-0338",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "turn down",
+    "meaning": "～を断る・音量を下げる",
+    "question": "入試英語で turn down が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～を断る・音量を下げる",
+    "choices": [
+      {
+        "text": "～を断る・音量を下げる",
+        "correct": true
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "She turned down the offer because the salary was too low.",
+    "exampleJa": "給料が低すぎたので、彼女はその申し出を断った。"
+  },
+  {
+    "id": "id-v9-0339",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "turn out",
+    "meaning": "～であると判明する",
+    "question": "入試英語で turn out が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～であると判明する",
+    "choices": [
+      {
+        "text": "～であると判明する",
+        "correct": true
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The plan turned out to be more expensive than expected.",
+    "exampleJa": "その計画は予想より費用がかかることが分かった。"
+  },
+  {
+    "id": "id-v9-0340",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "with regard to",
+    "meaning": "～に関して",
+    "question": "入試英語で with regard to が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～に関して",
+    "choices": [
+      {
+        "text": "～に関して",
+        "correct": true
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The report raises several questions with regard to data privacy.",
+    "exampleJa": "その報告書は、データのプライバシーについていくつかの問題を提起している。"
+  },
+  {
+    "id": "id-v9-0341",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "in addition to",
+    "meaning": "～に加えて",
+    "question": "入試英語で in addition to が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～に加えて",
+    "choices": [
+      {
+        "text": "～に加えて",
+        "correct": true
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "In addition to English, she studies Spanish at university.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "id-v9-0342",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "in contrast to",
+    "meaning": "～とは対照的に",
+    "question": "入試英語で in contrast to が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～とは対照的に",
+    "choices": [
+      {
+        "text": "～とは対照的に",
+        "correct": true
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "In contrast to his brother, Ken enjoys working alone.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "id-v9-0343",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "in favor of",
+    "meaning": "～に賛成して",
+    "question": "入試英語で in favor of が出たときの訳として最も適切なものはどれか。",
+    "prompt": "入試熟語",
+    "answer": "～に賛成して",
+    "choices": [
+      {
+        "text": "～に賛成して",
+        "correct": true
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The committee voted in favor of the new proposal.",
+    "exampleJa": "委員会はその新しい提案に賛成票を投じた。"
+  },
+  {
+    "id": "id-v9-0344",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "be aware of",
+    "meaning": "～を認識している",
+    "question": "英熟語 be aware of の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～を認識している",
+    "choices": [
+      {
+        "text": "～を認識している",
+        "correct": true
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "Students should be aware of the risks before entering the laboratory.",
+    "exampleJa": "学生たちは、～を認識しているような行動をした。"
+  },
+  {
+    "id": "id-v9-0345",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "be capable of",
+    "meaning": "～する能力がある",
+    "question": "英熟語 be capable of の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～する能力がある",
+    "choices": [
+      {
+        "text": "～する能力がある",
+        "correct": true
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The new computer is capable of processing large amounts of data.",
+    "exampleJa": "その新しいコンピューターは大量のデータを処理できる。"
+  },
+  {
+    "id": "id-v9-0346",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "be concerned about",
+    "meaning": "～を心配している・～に関心がある",
+    "question": "英熟語 be concerned about の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～を心配している・～に関心がある",
+    "choices": [
+      {
+        "text": "～を心配している・～に関心がある",
+        "correct": true
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "Many parents are concerned about the amount of time their children spend online.",
+    "exampleJa": "多くの親は、子どもがオンラインで過ごす時間を心配している。"
+  },
+  {
+    "id": "id-v9-0347",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "be dependent on",
+    "meaning": "～に依存している",
+    "question": "英熟語 be dependent on の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～に依存している",
+    "choices": [
+      {
+        "text": "～に依存している",
+        "correct": true
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The region is heavily dependent on tourism.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "id-v9-0348",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "be familiar with",
+    "meaning": "～に詳しい・～に慣れている",
+    "question": "英熟語 be familiar with の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～に詳しい・～に慣れている",
+    "choices": [
+      {
+        "text": "～に詳しい・～に慣れている",
+        "correct": true
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "Are you familiar with the procedure for submitting an application?",
+    "exampleJa": "申請書を提出する手順を知っていますか。"
+  },
+  {
+    "id": "id-v9-0349",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "be relevant to",
+    "meaning": "～に関連している",
+    "question": "英熟語 be relevant to の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～に関連している",
+    "choices": [
+      {
+        "text": "～に関連している",
+        "correct": true
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The evidence is relevant to the question we are trying to answer.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "id-v9-0350",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "be responsible for",
+    "meaning": "～に責任がある",
+    "question": "英熟語 be responsible for の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～に責任がある",
+    "choices": [
+      {
+        "text": "～に責任がある",
+        "correct": true
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "She is responsible for organizing the annual school festival.",
+    "exampleJa": "彼女は毎年の学校祭の運営を担当している。"
+  },
+  {
+    "id": "id-v9-0351",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "be satisfied with",
+    "meaning": "～に満足している",
+    "question": "英熟語 be satisfied with の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～に満足している",
+    "choices": [
+      {
+        "text": "～に満足している",
+        "correct": true
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The customers were satisfied with the quality of the service.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "id-v9-0352",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "be subject to",
+    "meaning": "～を受ける・～の対象となる",
+    "question": "英熟語 be subject to の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～を受ける・～の対象となる",
+    "choices": [
+      {
+        "text": "～を受ける・～の対象となる",
+        "correct": true
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The plan is subject to further review.",
+    "exampleJa": "その計画はさらに検討される可能性がある。"
+  },
+  {
+    "id": "id-v9-0353",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "be superior to",
+    "meaning": "～より優れている",
+    "question": "英熟語 be superior to の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～より優れている",
+    "choices": [
+      {
+        "text": "～より優れている",
+        "correct": true
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The new material is superior to the old one in strength and durability.",
+    "exampleJa": "その新素材は強度と耐久性の点で旧素材より優れている。"
+  },
+  {
+    "id": "id-v9-0354",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "be inferior to",
+    "meaning": "～より劣っている",
+    "question": "英熟語 be inferior to の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～より劣っている",
+    "choices": [
+      {
+        "text": "～より劣っている",
+        "correct": true
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The older model is inferior to the new one in several respects.",
+    "exampleJa": "旧型は、いくつかの点で新型より劣っている。"
+  },
+  {
+    "id": "id-v9-0355",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "be tolerant of",
+    "meaning": "～に寛容である",
+    "question": "英熟語 be tolerant of の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～に寛容である",
+    "choices": [
+      {
+        "text": "～に寛容である",
+        "correct": true
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "A good teacher should be tolerant of different opinions.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "id-v9-0356",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "bring about",
+    "meaning": "～を引き起こす",
+    "question": "英熟語 bring about の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～を引き起こす",
+    "choices": [
+      {
+        "text": "～を引き起こす",
+        "correct": true
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The new technology brought about major changes in the industry.",
+    "exampleJa": "その新技術は産業に大きな変化をもたらした。"
+  },
+  {
+    "id": "id-v9-0357",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "bring up",
+    "meaning": "～を話題に出す・育てる",
+    "question": "英熟語 bring up の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～を話題に出す・育てる",
+    "choices": [
+      {
+        "text": "～を話題に出す・育てる",
+        "correct": true
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "She brought up an important point during the meeting.",
+    "exampleJa": "彼女は会議中に重要な点を取り上げた。"
+  },
+  {
+    "id": "id-v9-0358",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "call for",
+    "meaning": "～を必要とする・要求する",
+    "question": "英熟語 call for の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～を必要とする・要求する",
+    "choices": [
+      {
+        "text": "～を必要とする・要求する",
+        "correct": true
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The situation calls for immediate action.",
+    "exampleJa": "その状況では直ちに行動する必要がある。"
+  },
+  {
+    "id": "id-v9-0359",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "carry out",
+    "meaning": "～を実行する",
+    "question": "英熟語 carry out の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～を実行する",
+    "choices": [
+      {
+        "text": "～を実行する",
+        "correct": true
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The researchers carried out a series of experiments.",
+    "exampleJa": "研究者たちは一連の実験を行った。"
+  },
+  {
+    "id": "id-v9-0360",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "come across",
+    "meaning": "～に偶然出会う",
+    "question": "英熟語 come across の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～に偶然出会う",
+    "choices": [
+      {
+        "text": "～に偶然出会う",
+        "correct": true
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "I came across an interesting article while searching for information.",
+    "exampleJa": "情報を探しているとき、私は興味深い記事を偶然見つけた。"
+  },
+  {
+    "id": "id-v9-0361",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "come up with",
+    "meaning": "～を思いつく",
+    "question": "英熟語 come up with の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～を思いつく",
+    "choices": [
+      {
+        "text": "～を思いつく",
+        "correct": true
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The students came up with a creative solution to the problem.",
+    "exampleJa": "学生たちはその問題に対する創造的な解決策を思いついた。"
+  },
+  {
+    "id": "id-v9-0362",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "cut down on",
+    "meaning": "～を減らす",
+    "question": "英熟語 cut down on の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～を減らす",
+    "choices": [
+      {
+        "text": "～を減らす",
+        "correct": true
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "He is trying to cut down on sugar for health reasons.",
+    "exampleJa": "彼は、～を減らすような行動を取った。"
+  },
+  {
+    "id": "id-v9-0363",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "deal with",
+    "meaning": "～に対処する",
+    "question": "英熟語 deal with の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～に対処する",
+    "choices": [
+      {
+        "text": "～に対処する",
+        "correct": true
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The report explains how the city plans to deal with the problem.",
+    "exampleJa": "その報告書は、市がその問題にどう対処する予定かを説明している。"
+  },
+  {
+    "id": "id-v9-0364",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "do away with",
+    "meaning": "～を廃止する",
+    "question": "英熟語 do away with の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～を廃止する",
+    "choices": [
+      {
+        "text": "～を廃止する",
+        "correct": true
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The school decided to do away with the outdated rule.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "id-v9-0365",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "draw on",
+    "meaning": "～を利用する",
+    "question": "英熟語 draw on の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～を利用する",
+    "choices": [
+      {
+        "text": "～を利用する",
+        "correct": true
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The author drew on years of experience when writing the book.",
+    "exampleJa": "その著者は本を書く際に長年の経験を生かした。"
+  },
+  {
+    "id": "id-v9-0366",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "end up -ing",
+    "meaning": "結局～することになる",
+    "question": "英熟語 end up -ing の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "結局～することになる",
+    "choices": [
+      {
+        "text": "結局～することになる",
+        "correct": true
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "We ended up taking the train because the roads were blocked.",
+    "exampleJa": "私たちは、結局～することになるような行動を取った。"
+  },
+  {
+    "id": "id-v9-0367",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "figure out",
+    "meaning": "～を理解する・解決する",
+    "question": "英熟語 figure out の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～を理解する・解決する",
+    "choices": [
+      {
+        "text": "～を理解する・解決する",
+        "correct": true
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "She finally figured out how to fix the machine.",
+    "exampleJa": "彼女はついにその機械を修理する方法を理解した。"
+  },
+  {
+    "id": "id-v9-0368",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "get across",
+    "meaning": "～を伝える",
+    "question": "英熟語 get across の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～を伝える",
+    "choices": [
+      {
+        "text": "～を伝える",
+        "correct": true
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The teacher used an example to get the main point across.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "id-v9-0369",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "get rid of",
+    "meaning": "～を取り除く",
+    "question": "英熟語 get rid of の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～を取り除く",
+    "choices": [
+      {
+        "text": "～を取り除く",
+        "correct": true
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "We need to get rid of the old equipment before moving.",
+    "exampleJa": "引っ越す前に古い機器を処分する必要がある。"
+  },
+  {
+    "id": "id-v9-0370",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "give rise to",
+    "meaning": "～を引き起こす",
+    "question": "英熟語 give rise to の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～を引き起こす",
+    "choices": [
+      {
+        "text": "～を引き起こす",
+        "correct": true
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The policy gave rise to unexpected problems.",
+    "exampleJa": "その政策は予期せぬ問題を引き起こした。"
+  },
+  {
+    "id": "id-v9-0371",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "go through",
+    "meaning": "～を経験する・調べる",
+    "question": "英熟語 go through の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～を経験する・調べる",
+    "choices": [
+      {
+        "text": "～を経験する・調べる",
+        "correct": true
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The committee went through the documents carefully.",
+    "exampleJa": "委員会はその書類を注意深く調べた。"
+  },
+  {
+    "id": "id-v9-0372",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "hold back",
+    "meaning": "～を抑える",
+    "question": "英熟語 hold back の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～を抑える",
+    "choices": [
+      {
+        "text": "～を抑える",
+        "correct": true
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "She tried to hold back her tears during the speech.",
+    "exampleJa": "彼女はスピーチの間、涙をこらえようとした。"
+  },
+  {
+    "id": "id-v9-0373",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "keep up with",
+    "meaning": "～についていく",
+    "question": "英熟語 keep up with の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～についていく",
+    "choices": [
+      {
+        "text": "～についていく",
+        "correct": true
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "Students need to keep up with the latest developments in science.",
+    "exampleJa": "学生は科学の最新の進展についていく必要がある。"
+  },
+  {
+    "id": "id-v9-0374",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "leave out",
+    "meaning": "～を省く",
+    "question": "英熟語 leave out の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～を省く",
+    "choices": [
+      {
+        "text": "～を省く",
+        "correct": true
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "Be careful not to leave out any important information.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "id-v9-0375",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "look into",
+    "meaning": "～を調査する",
+    "question": "英熟語 look into の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～を調査する",
+    "choices": [
+      {
+        "text": "～を調査する",
+        "correct": true
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The committee will look into the cause of the accident.",
+    "exampleJa": "委員会は事故の原因を調査する。"
+  },
+  {
+    "id": "id-v9-0376",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "make up for",
+    "meaning": "～を埋め合わせる",
+    "question": "英熟語 make up for の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～を埋め合わせる",
+    "choices": [
+      {
+        "text": "～を埋め合わせる",
+        "correct": true
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The extra practice helped make up for the time we had lost.",
+    "exampleJa": "追加の練習が、失っていた時間を取り戻すのに役立った。"
+  },
+  {
+    "id": "id-v9-0377",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "put off",
+    "meaning": "～を延期する",
+    "question": "英熟語 put off の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～を延期する",
+    "choices": [
+      {
+        "text": "～を延期する",
+        "correct": true
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The committee put off the decision until more evidence was available.",
+    "exampleJa": "委員会は、より多くの証拠が得られるまで決定を延期した。"
+  },
+  {
+    "id": "id-v9-0378",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "put up with",
+    "meaning": "～に耐える",
+    "question": "英熟語 put up with の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～に耐える",
+    "choices": [
+      {
+        "text": "～に耐える",
+        "correct": true
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "I cannot put up with that noise any longer.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "id-v9-0379",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "result in",
+    "meaning": "～という結果になる",
+    "question": "英熟語 result in の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～という結果になる",
+    "choices": [
+      {
+        "text": "～という結果になる",
+        "correct": true
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "Poor planning can result in serious delays.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "id-v9-0380",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "result from",
+    "meaning": "～に起因する",
+    "question": "英熟語 result from の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～に起因する",
+    "choices": [
+      {
+        "text": "～に起因する",
+        "correct": true
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "Many accidents result from simple mistakes.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "id-v9-0381",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "run out of",
+    "meaning": "～を使い果たす",
+    "question": "英熟語 run out of の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～を使い果たす",
+    "choices": [
+      {
+        "text": "～を使い果たす",
+        "correct": true
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "We ran out of time before we could finish the discussion.",
+    "exampleJa": "議論を終える前に時間がなくなった。"
+  },
+  {
+    "id": "id-v9-0382",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "set aside",
+    "meaning": "～を取っておく・脇に置く",
+    "question": "英熟語 set aside の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～を取っておく・脇に置く",
+    "choices": [
+      {
+        "text": "～を取っておく・脇に置く",
+        "correct": true
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The students set aside some time for a final review.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "id-v9-0383",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "stand for",
+    "meaning": "～を表す",
+    "question": "英熟語 stand for の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～を表す",
+    "choices": [
+      {
+        "text": "～を表す",
+        "correct": true
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "What does this abbreviation stand for?",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "id-v9-0384",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "take advantage of",
+    "meaning": "～を利用する",
+    "question": "英熟語 take advantage of の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～を利用する",
+    "choices": [
+      {
+        "text": "～を利用する",
+        "correct": true
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      },
+      {
+        "text": "～に参加する",
+        "correct": false
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "Students should take advantage of every chance to practice speaking.",
+    "exampleJa": "学生たちは、～を利用するような行動をした。"
+  },
+  {
+    "id": "id-v9-0385",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "take part in",
+    "meaning": "～に参加する",
+    "question": "英熟語 take part in の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～に参加する",
+    "choices": [
+      {
+        "text": "～に参加する",
+        "correct": true
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "Many students take part in volunteer activities during the summer.",
+    "exampleJa": "多くの学生は、～に参加するような行動をした。"
+  },
+  {
+    "id": "id-v9-0386",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "take place",
+    "meaning": "起こる・開催される",
+    "question": "英熟語 take place の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "起こる・開催される",
+    "choices": [
+      {
+        "text": "起こる・開催される",
+        "correct": true
+      },
+      {
+        "text": "～を延期する",
+        "correct": false
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The festival takes place every autumn.",
+    "exampleJa": "その祭りは毎年秋に開催される。"
+  },
+  {
+    "id": "id-v9-0387",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "turn down",
+    "meaning": "～を断る・音量を下げる",
+    "question": "英熟語 turn down の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～を断る・音量を下げる",
+    "choices": [
+      {
+        "text": "～を断る・音量を下げる",
+        "correct": true
+      },
+      {
+        "text": "～を調査する",
+        "correct": false
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "She turned down the offer because the salary was too low.",
+    "exampleJa": "給料が低すぎたので、彼女はその申し出を断った。"
+  },
+  {
+    "id": "id-v9-0388",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "turn out",
+    "meaning": "～であると判明する",
+    "question": "英熟語 turn out の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～であると判明する",
+    "choices": [
+      {
+        "text": "～であると判明する",
+        "correct": true
+      },
+      {
+        "text": "～を減らす",
+        "correct": false
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The plan turned out to be more expensive than expected.",
+    "exampleJa": "その計画は予想より費用がかかることが分かった。"
+  },
+  {
+    "id": "id-v9-0389",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "with regard to",
+    "meaning": "～に関して",
+    "question": "英熟語 with regard to の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～に関して",
+    "choices": [
+      {
+        "text": "～に関して",
+        "correct": true
+      },
+      {
+        "text": "～を引き起こす",
+        "correct": false
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The report raises several questions with regard to data privacy.",
+    "exampleJa": "その報告書は、データのプライバシーについていくつかの問題を提起している。"
+  },
+  {
+    "id": "id-v9-0390",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "in addition to",
+    "meaning": "～に加えて",
+    "question": "英熟語 in addition to の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～に加えて",
+    "choices": [
+      {
+        "text": "～に加えて",
+        "correct": true
+      },
+      {
+        "text": "～を取り除く",
+        "correct": false
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "In addition to English, she studies Spanish at university.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "id-v9-0391",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "in contrast to",
+    "meaning": "～とは対照的に",
+    "question": "英熟語 in contrast to の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～とは対照的に",
+    "choices": [
+      {
+        "text": "～とは対照的に",
+        "correct": true
+      },
+      {
+        "text": "～に対処する",
+        "correct": false
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "In contrast to his brother, Ken enjoys working alone.",
+    "exampleJa": "学生たちは作文の中で、その表現を正しく使った。"
+  },
+  {
+    "id": "id-v9-0392",
+    "type": "idiom",
+    "level": "hard",
+    "phrase": "in favor of",
+    "meaning": "～に賛成して",
+    "question": "英熟語 in favor of の意味を一つ選べ。",
+    "prompt": "総合確認",
+    "answer": "～に賛成して",
+    "choices": [
+      {
+        "text": "～に賛成して",
+        "correct": true
+      },
+      {
+        "text": "～を利用する",
+        "correct": false
+      },
+      {
+        "text": "～を必要とする",
+        "correct": false
+      },
+      {
+        "text": "～を廃止する",
+        "correct": false
+      }
+    ],
+    "explanation": "",
+    "tags": [
+      "bulk-idiom-v9"
+    ],
+    "exampleSentence": "The committee voted in favor of the new proposal.",
+    "exampleJa": "委員会はその新しい提案に賛成票を投じた。"
+  }
+]

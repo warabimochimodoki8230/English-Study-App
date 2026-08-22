@@ -1,0 +1,251 @@
+[
+  {
+    "id": "ngsl-2541",
+    "type": "vocab",
+    "word": "wooden",
+    "meaning": "木製の",
+    "pos": "adj",
+    "level": "standard",
+    "rank": 2541,
+    "definition": "made of wood",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "In a classroom experiment, the team chose a wooden approach to the problem.",
+    "exampleJa": "教室での実験では、チームはその問題に対して木製的な方法を選んだ。"
+  },
+  {
+    "id": "v-curated-1826",
+    "type": "vocab",
+    "level": "standard",
+    "word": "workforce",
+    "meaning": "労働力",
+    "pos": "n",
+    "question": "workforce",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "労働力",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard",
+      "advanced"
+    ],
+    "exampleSentence": "During the winter months, the report describes the workforce in detail.",
+    "exampleJa": "冬の間、その報告書は労働力について詳しく説明している。"
+  },
+  {
+    "id": "v-curated-4022",
+    "type": "vocab",
+    "level": "standard",
+    "word": "workplace",
+    "meaning": "職場",
+    "pos": "n",
+    "question": "workplace",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "職場",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "In many cases, the committee considered the workplace before making its decision.",
+    "exampleJa": "多くの場合、委員会は決定を下す前に職場を検討した。"
+  },
+  {
+    "id": "v-curated-4023",
+    "type": "vocab",
+    "level": "standard",
+    "word": "workshop",
+    "meaning": "研修会・工房",
+    "pos": "n",
+    "question": "workshop",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "研修会・工房",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "exampleSentence": "In the local community, the workshop became an important part of the discussion.",
+    "exampleJa": "地域社会では、研修会・工房は議論の重要な一部となった。"
+  },
+  {
+    "id": "v-curated-0550",
+    "type": "vocab",
+    "level": "standard",
+    "word": "worthless",
+    "meaning": "価値のない",
+    "pos": "adj",
+    "question": "worthless",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "価値のない",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "The outdated information was worthless for the new project.",
+    "exampleJa": "その古い情報は新しい計画には役立たなかった。"
+  },
+  {
+    "id": "v-curated-0459",
+    "type": "vocab",
+    "level": "standard",
+    "word": "worthwhile",
+    "meaning": "価値のある",
+    "pos": "adj",
+    "question": "worthwhile",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "answer": "価値のある",
+    "explanation": "",
+    "tags": [
+      "curated-expansion-2026"
+    ],
+    "source": "curated-entrance-expansion-v1",
+    "levelTags": [
+      "standard"
+    ],
+    "exampleSentence": "In the long term, the report describes the worthwhile characteristics of the system.",
+    "exampleJa": "長期的には、その報告書はシステムの価値のあるという特徴を詳しく説明している。"
+  },
+  {
+    "id": "v-standard-ngsl-2173-0702",
+    "type": "vocab",
+    "level": "standard",
+    "word": "wound",
+    "meaning": "傷",
+    "pos": "n",
+    "question": "wound",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "傷",
+    "explanation": "",
+    "definitionEn": "an injury that is caused when a knife, bullet, etc., cuts or breaks the skin",
+    "frequencyRank": 2173,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "After the meeting, early detection of wound can improve the chances of recovery.",
+    "exampleJa": "会議の後、傷を早期に発見することで、回復の可能性を高められる。"
+  },
+  {
+    "id": "ngsl-2332",
+    "type": "vocab",
+    "word": "wrap",
+    "meaning": "包む",
+    "pos": "v",
+    "level": "standard",
+    "rank": 2332,
+    "definition": "to cover (something) by winding or folding a piece of material around it",
+    "tags": [
+      "ngsl",
+      "standard",
+      "input-first"
+    ],
+    "exampleSentence": "In a recent study, the process can wrap under certain conditions.",
+    "exampleJa": "最近の研究では、その過程は特定の条件下では包むことができる。"
+  },
+  {
+    "id": "v-standard-ngsl-1665-0355",
+    "type": "vocab",
+    "level": "standard",
+    "word": "yard",
+    "meaning": "庭",
+    "pos": "n",
+    "question": "yard",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "庭",
+    "explanation": "",
+    "definitionEn": "an outdoor area that is next to a house and is usually covered by grass",
+    "frequencyRank": 1665,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "During the investigation, the committee considered the yard before making its decision.",
+    "exampleJa": "調査中、委員会は決定を下す前に庭を検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1825-0462",
+    "type": "vocab",
+    "level": "standard",
+    "word": "yellow",
+    "meaning": "黄色",
+    "pos": "adj",
+    "question": "yellow",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "黄色",
+    "explanation": "",
+    "definitionEn": "having the color of the sun or of ripe lemons",
+    "frequencyRank": 1825,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "During the trial period, the researchers considered the yellow option before making a decision.",
+    "exampleJa": "試験期間中、研究者たちは決定を下す前に、黄色な選択肢を検討した。"
+  },
+  {
+    "id": "v-standard-ngsl-1601-0313",
+    "type": "vocab",
+    "level": "standard",
+    "word": "youth",
+    "meaning": "青年時代、若いころ",
+    "pos": "n",
+    "question": "youth",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "青年時代、若いころ",
+    "explanation": "",
+    "definitionEn": "the time of life when someone is young : the time when a young person has not yet become an adult",
+    "frequencyRank": 1601,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "Under normal conditions, demand usually changes during this youth.",
+    "exampleJa": "通常の条件では、需要は通常、この青年時代、若いころの間に変化する。"
+  },
+  {
+    "id": "v-standard-ngsl-2043-0608",
+    "type": "vocab",
+    "level": "standard",
+    "word": "zone",
+    "meaning": "地帯",
+    "pos": "n",
+    "question": "zone",
+    "prompt": "最も近い日本語の意味を選べ。",
+    "choices": [],
+    "answer": "地帯",
+    "explanation": "",
+    "definitionEn": "an area where a particular thing happens:",
+    "frequencyRank": 2043,
+    "tags": [
+      "standard",
+      "ngsl-core",
+      "input-first"
+    ],
+    "source": "NGSL-1.01_en_ja",
+    "exampleSentence": "During the interview, the committee considered the zone before making its decision.",
+    "exampleJa": "面接では、委員会は決定を下す前に地帯を検討した。"
+  }
+]
